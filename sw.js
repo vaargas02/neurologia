@@ -1,11 +1,11 @@
 /* Sube VERSION cada vez que despliegues cambios.
    Tiene que coincidir con app.versionCache en config.json (validar.py lo comprueba). */
-const VERSION = 10;
+const VERSION = 11;
 const CACHE = 'estudio-v' + VERSION;
 
 const BASICOS = [
   './', './index.html', './estilos.css', './motor.js',
-  './config.json', './contenido.json', './teoria.json',
+  './config.json', './contenido.json', './teoria.json', './imagenes.json',
   './manifest.json', './icono-192.png', './icono-512.png'
 ];
 

@@ -4,8 +4,8 @@
     "nombre": "Fascículo",
     "subtitulo": "Manual del Residente de Neurología (SEN)",
     "rutaBase": "/neurologia/",
-    "versionContenido": "2026-09-30d",
-    "versionCache": 10
+    "versionContenido": "2026-10-01",
+    "versionCache": 11
   },
   "colores": {
     "primario": "#1B2D5B",

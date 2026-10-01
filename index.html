@@ -34,6 +34,13 @@
       <p id="sin-nada" class="nota oculto">Nada pendiente. Puedes adelantar tarjetas nuevas.</p>
     </div>
 
+    <div class="cabecera-temas">
+      <h2>Temas de hoy</h2>
+      <button id="btn-temas-todos" class="enlace oculto">Activar todos</button>
+    </div>
+    <div id="temas-hoy" class="chips-temas"></div>
+    <p id="nota-temas" class="nota"></p>
+
     <h2>Aciertos por <span class="eje-etiqueta">tema</span></h2>
     <div id="mapa-aciertos" class="mapa"></div>
 
@@ -50,11 +57,13 @@
 
     <nav class="subpestanas">
       <button class="subpestana activa" data-sub="teoria">Teoría</button>
+      <button class="subpestana" data-sub="imagenes">Imágenes</button>
       <button class="subpestana" data-sub="tarjetas">Tarjetas</button>
       <button class="subpestana" data-sub="marcadas">Marcadas</button>
     </nav>
 
     <div id="sub-teoria" class="subvista"></div>
+    <div id="sub-imagenes" class="subvista oculto"></div>
     <div id="sub-tarjetas" class="subvista oculto"></div>
     <div id="sub-marcadas" class="subvista oculto"></div>
   </section>
@@ -173,6 +182,7 @@
   </div>
 
   <div id="menu-mas" class="oculto">
+    <button data-mas="estudiar">Añadir a teoría</button>
     <button data-mas="menos">Mostrar menos a menudo</button>
     <button data-mas="ocultar">Ocultar esta pregunta</button>
     <button data-mas="cerrar" class="tenue">Cancelar</button>
@@ -182,6 +192,17 @@
     <h2>Sesión terminada</h2>
     <p id="texto-resumen"></p>
     <button id="btn-cerrar-resumen" class="principal">Volver</button>
+  </div>
+</div>
+
+<div id="visor" class="oculto">
+  <div class="visor-caja">
+    <div class="visor-barra">
+      <span id="visor-titulo"></span>
+      <button id="visor-cerrar" aria-label="Cerrar">✕</button>
+    </div>
+    <div id="visor-cuerpo"></div>
+    <p id="visor-pie" class="nota"></p>
   </div>
 </div>
 

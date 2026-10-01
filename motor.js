@@ -62,7 +62,7 @@ function md(txt) {
 }
 
 /* ---------------------- datos ---------------------- */
-let CFG, PREGUNTAS = [], TEORIA = [], PORID = {};
+let CFG, PREGUNTAS = [], TEORIA = [], FIGURAS = [], PORID = {};
 let estado = null, sesion = null, vistaActual = 'hoy';
 
 const CLAVE = () => 'estudio:' + CFG.app.id + ':estado';
@@ -75,12 +75,14 @@ function estadoInicial() {
     tarjetas: {},   // id -> {int, fac, venc, reps, lapsus, vistas, aciertos, fase, menos, oculta, avisado, maxInt, marcada}
     dias: {},       // 'AAAA-MM-DD' -> {nuevas, repasos, aciertos}
     maduras: { vistas: 0, aciertos: 0 },
-    ajustes: { nuevasPorDia: null, topeRepasos: null, tema: 'auto', desactivados: [] }
+    figuras: {},    // id de esquema -> true si se ha guardado en teoría
+    ajustes: { nuevasPorDia: null, topeRepasos: null, tema: 'auto', desactivados: [] },
+    hoyTemas: { fecha: null, fuera: [] }   // selección de temas válida solo para hoy
   };
 }
 function tarjeta(id) {
   if (!estado.tarjetas[id]) {
-    estado.tarjetas[id] = { int: 0, fac: CFG.srs.facilidadInicial, venc: null, reps: 0, lapsus: 0, vistas: 0, aciertos: 0, fase: 'nueva', menos: false, oculta: false, avisado: 0, maxInt: 0, marcada: false };
+    estado.tarjetas[id] = { int: 0, fac: CFG.srs.facilidadInicial, venc: null, reps: 0, lapsus: 0, vistas: 0, aciertos: 0, fase: 'nueva', menos: false, oculta: false, avisado: 0, maxInt: 0, marcada: false, estudiar: false };
   }
   return estado.tarjetas[id];
 }
@@ -112,17 +114,38 @@ function claveTema(p) { return (p.tema || '—') + '||' + (p.subtema || '—'); 
 function desactivada(p) { return estado.ajustes.desactivados.indexOf(claveTema(p)) !== -1; }
 function activa(p) { return !tarjeta(p.id).oculta && !desactivada(p); }
 
-function vencidas() {
+/* Selección de temas del día. A diferencia de Ajustes, se reinicia cada
+   mañana: sirve para decidir qué se estudia hoy, no qué entra en la app. */
+function seleccionHoy() {
+  if (!estado.hoyTemas || estado.hoyTemas.fecha !== fecha(0)) estado.hoyTemas = { fecha: fecha(0), fuera: [] };
+  return estado.hoyTemas;
+}
+function enHoy(p) { return seleccionHoy().fuera.indexOf(grupoDe(p)) === -1; }
+function ordenarGrupos(lista) {
+  const orden = (CFG.ejeAgrupacion && CFG.ejeAgrupacion.orden) || [];
+  return lista.slice().sort((a, b) => {
+    const ia = orden.indexOf(a), ib = orden.indexOf(b);
+    if (ia !== -1 || ib !== -1) return (ia === -1 ? 999 : ia) - (ib === -1 ? 999 : ib);
+    return a.localeCompare(b, 'es');
+  });
+}
+function gruposActivos() {
+  const set = [];
+  PREGUNTAS.forEach(p => { if (activa(p) && set.indexOf(grupoDe(p)) === -1) set.push(grupoDe(p)); });
+  return ordenarGrupos(set);
+}
+
+function vencidas(todosLosTemas) {
   const hoy = fecha(0);
   return PREGUNTAS.filter(p => {
     const t = tarjeta(p.id);
-    return activa(p) && t.fase !== 'nueva' && t.venc && t.venc <= hoy;
+    return activa(p) && (todosLosTemas || enHoy(p)) && t.fase !== 'nueva' && t.venc && t.venc <= hoy;
   }).sort((a, b) => (tarjeta(a.id).venc < tarjeta(b.id).venc ? -1 : 1));
 }
 function ordenNuevas() {
   // Orden propio de cada instalación: dos personas con la misma app ven series distintas.
   const rnd = prng(estado.semilla);
-  const candidatas = PREGUNTAS.filter(p => activa(p) && tarjeta(p.id).fase === 'nueva');
+  const candidatas = PREGUNTAS.filter(p => activa(p) && enHoy(p) && tarjeta(p.id).fase === 'nueva');
   const menosPrio = candidatas.filter(p => tarjeta(p.id).menos);
   const normales = candidatas.filter(p => !tarjeta(p.id).menos);
   return barajar(normales, rnd).concat(barajar(menosPrio, prng(estado.semilla ^ 0x9E3779B9)));
@@ -304,6 +327,7 @@ function pintarHoy() {
   $('#btn-estudiar').style.opacity = (mostrables + nuevasHoy) === 0 ? .45 : 1;
   $('#sin-nada').classList.toggle('oculto', (mostrables + nuevasHoy) > 0);
 
+  pintarTemasHoy();
   pintarMapa($('#mapa-aciertos'));
   const v = vistasTotales();
   $('#m-racha').textContent = racha();
@@ -312,63 +336,258 @@ function pintarHoy() {
   $('#m-manana').textContent = PREGUNTAS.filter(p => { const t = tarjeta(p.id); return activa(p) && t.venc === man; }).length;
 }
 
+function pintarTemasHoy() {
+  const cont = $('#temas-hoy');
+  if (!cont) return;
+  const sel = seleccionHoy(), grupos = gruposActivos(), hoy = fecha(0);
+  cont.innerHTML = grupos.map(g => {
+    const dentro = sel.fuera.indexOf(g) === -1;
+    const pend = PREGUNTAS.filter(p => {
+      const t = tarjeta(p.id);
+      return activa(p) && grupoDe(p) === g && t.fase !== 'nueva' && t.venc && t.venc <= hoy;
+    }).length;
+    return `<button class="chip-tema${dentro ? ' dentro' : ''}" data-tema-hoy="${esc(g)}" aria-pressed="${dentro}">${esc(g)}${pend ? ` <b>${pend}</b>` : ''}</button>`;
+  }).join('');
+  $$('[data-tema-hoy]', cont).forEach(b => b.onclick = () => {
+    const g = b.getAttribute('data-tema-hoy'), sl = seleccionHoy(), i = sl.fuera.indexOf(g);
+    if (i === -1) sl.fuera.push(g); else sl.fuera.splice(i, 1);
+    guardar(); pintarHoy();
+  });
+  const fuera = sel.fuera.filter(g => grupos.indexOf(g) !== -1).length;
+  $('#nota-temas').textContent = fuera
+    ? `Hoy estudias ${grupos.length - fuera} de ${grupos.length} temas. Mañana vuelven todos.`
+    : 'Quita los que hoy no toquen: la sesión saldrá solo de los que queden marcados.';
+  const bt = $('#btn-temas-todos');
+  bt.classList.toggle('oculto', !fuera);
+  bt.onclick = () => { seleccionHoy().fuera = []; guardar(); pintarHoy(); };
+}
+
 /* ---------------------- vista Consulta ---------------------- */
 let subActual = 'teoria';
 function pintarConsulta() {
   const q = $('#buscador').value.trim().toLowerCase();
   if (subActual === 'teoria') pintarTeoria(q);
+  if (subActual === 'imagenes') pintarImagenes(q);
   if (subActual === 'tarjetas') pintarTarjetas(q);
   if (subActual === 'marcadas') pintarMarcadas();
 }
 function coincide(txt, q) { return !q || String(txt || '').toLowerCase().indexOf(q) !== -1; }
 
+const gruposAbiertos = {};
+let verTodoTemario = false;
+function seccionDe(p) { return p.teoria ? TEORIA.filter(s => s.id === p.teoria)[0] : null; }
+function enTeoria(s) { return PREGUNTAS.some(p => p.teoria === s.id && tarjeta(p.id).estudiar); }
+
 function pintarTeoria(q) {
   const cont = $('#sub-teoria');
-  if (!CFG.modulos.teoria || !TEORIA.length) { cont.innerHTML = '<p class="vacio">Esta app no lleva sección de teoría.</p>'; return; }
-  const secs = TEORIA.filter(s => coincide(s.titulo, q) || coincide(s.contenido, q));
-  if (!secs.length) { cont.innerHTML = '<p class="vacio">Nada encontrado.</p>'; return; }
-  cont.innerHTML = secs.map(s => {
-    const n = PREGUNTAS.filter(p => p.teoria === s.id && activa(p)).length;
-    const img = (CFG.modulos.imagenes && s.imagen) ? `<img src="${esc(s.imagen)}" alt="${esc(s.titulo)}" loading="lazy">` : '';
-    return `<details class="seccion" id="sec-${esc(s.id)}" ${q ? 'open' : ''}>
-      <summary>${esc(s.titulo)}</summary>
-      <div class="cuerpo-seccion">${md(s.contenido)}${img}
-        ${n ? `<button class="enlace" data-practicar="${esc(s.id)}">Practicar estas (${n})</button>` : ''}
+  if (!CFG.modulos.teoria) { cont.innerHTML = '<p class="vacio">Esta app no lleva sección de teoría.</p>'; return; }
+  let html = '';
+
+  // Pendientes: mandadas a teoría pero sin sección escrita todavía.
+  const pend = PREGUNTAS.filter(p => tarjeta(p.id).estudiar && !seccionDe(p));
+  if (pend.length) {
+    const gp = {};
+    pend.forEach(p => { const g = grupoDe(p); (gp[g] = gp[g] || []).push(p); });
+    html += `<details class="seccion pendientes" id="sec-pendientes" open>
+      <summary>Para desarrollar (${pend.length})</summary>
+      <div class="cuerpo-seccion">
+        <p class="nota">Tarjetas que has mandado a teoría. Copia la lista y pídeme las secciones: llegarán en la siguiente actualización del contenido.</p>
+        ${ordenarGrupos(Object.keys(gp)).map(g => `<p class="etiqueta">${esc(g)}</p>` +
+          gp[g].map(p => `<div class="pendiente"><span>${esc(p.enunciado)}</span><button data-quitar-estudiar="${esc(p.id)}">Quitar</button></div>`).join('')).join('')}
+        <button id="btn-copiar-estudiar" class="secundario">Copiar lista</button>
       </div></details>`;
-  }).join('');
+  }
+
+  const visibles = TEORIA.filter(s => verTodoTemario || enTeoria(s));
+  const secs = visibles.filter(s => coincide(s.titulo, q) || coincide(s.contenido, q));
+  const guardadas = FIGURAS.filter(f => estado.figuras[f.id]);
+  const figs = guardadas.filter(f => coincide(f.titulo, q) || coincide(f.descripcion, q));
+  if (!visibles.length && !pend.length && !guardadas.length) {
+    html += `<p class="vacio">Aquí solo hay lo que tú mandes con el botón <b>Estudiar</b>, desde una tarjeta o desde un esquema. De momento, nada.</p>`;
+  } else if ((visibles.length || guardadas.length) && !secs.length && !figs.length) {
+    html += '<p class="vacio">Nada encontrado en teoría.</p>';
+  }
+  {
+    const seccionHTML = s => {
+      const n = PREGUNTAS.filter(p => p.teoria === s.id && activa(p)).length;
+      const img = (CFG.modulos.imagenes && s.imagen) ? `<img src="${esc(s.imagen)}" alt="${esc(s.titulo)}" loading="lazy">` : '';
+      return `<details class="seccion" id="sec-${esc(s.id)}" ${q ? 'open' : ''}>
+        <summary>${esc(s.titulo)}</summary>
+        <div class="cuerpo-seccion">${md(s.contenido)}${img}
+          <div class="pie">
+            ${n ? `<button class="enlace" data-practicar="${esc(s.id)}">Repasar estas (${n})</button>` : ''}
+            ${enTeoria(s) ? `<button class="enlace" data-quitar-seccion="${esc(s.id)}">Quitar de teoría</button>` : ''}
+          </div>
+        </div></details>`;
+    };
+    const figuraSeccionHTML = f => `<details class="seccion" id="fig-${esc(f.id)}" ${q ? 'open' : ''}>
+      <summary>${esc(f.titulo)}</summary>
+      <div class="cuerpo-seccion">
+        <figure class="figura" data-ver="${esc(f.id)}">${cuerpoFigura(f)}</figure>
+        ${f.descripcion ? `<p>${esc(f.descripcion)}</p>` : ''}
+        <div class="pie"><button class="enlace" data-figura-teoria="${esc(f.id)}">Quitar de teoría</button></div>
+      </div></details>`;
+
+    const items = secs.map(x => ({ g: x.grupo || '—', html: seccionHTML(x) }))
+      .concat(figs.map(f => ({ g: f.grupo || '—', html: figuraSeccionHTML(f) })));
+    if (items.length) {
+      const gs = {};
+      items.forEach(it => { (gs[it.g] = gs[it.g] || []).push(it.html); });
+      const claves = ordenarGrupos(Object.keys(gs));
+      const unSoloGrupo = claves.length < 2;
+      html += claves.map(g => (unSoloGrupo && !verTodoTemario) ? gs[g].join('') :
+        `<details class="grupo" data-grupo="${esc(g)}" ${(q || gruposAbiertos['t:' + g]) ? 'open' : ''}>
+          <summary><span>${esc(g)}</span><span class="cuenta">${gs[g].length}</span></summary>
+          <div class="cuerpo-grupo">${gs[g].join('')}</div>
+        </details>`).join('');
+    }
+  }
+
+  const cuantasFuera = TEORIA.filter(s => !enTeoria(s)).length;
+  if (TEORIA.length && (cuantasFuera || verTodoTemario)) {
+    html += `<button id="btn-todo-temario" class="enlace">${verTodoTemario
+      ? 'Ver solo lo que he guardado' : `Ver todo el temario (${cuantasFuera} secciones más)`}</button>`;
+  }
+
+  cont.innerHTML = html;
+  engancharGrupos(cont, 't:');
+  engancharFiguras(cont);
+  const bt = $('#btn-todo-temario');
+  if (bt) bt.onclick = () => { verTodoTemario = !verTodoTemario; pintarConsulta(); };
+  $$('[data-quitar-seccion]', cont).forEach(b => b.onclick = () => {
+    const id = b.getAttribute('data-quitar-seccion');
+    PREGUNTAS.forEach(p => { if (p.teoria === id) tarjeta(p.id).estudiar = false; });
+    guardar(); pintarConsulta();
+  });
   $$('[data-practicar]', cont).forEach(b => b.onclick = () => {
     const id = b.getAttribute('data-practicar');
     iniciarSesion({ filtro: p => p.teoria === id });
   });
+  $$('[data-quitar-estudiar]', cont).forEach(b => b.onclick = () => {
+    tarjeta(b.getAttribute('data-quitar-estudiar')).estudiar = false;
+    guardar(); pintarConsulta();
+  });
+  const bc = $('#btn-copiar-estudiar');
+  if (bc) bc.onclick = () => copiar(pend.map(p =>
+    `[${p.id}] ${grupoDe(p)}${p.subtema ? ' · ' + p.subtema : ''}\n${p.enunciado}\nCorrecta: ${p.opciones[p.correcta]}\nExplicación actual: ${p.explicacion}`
+  ).join('\n\n---\n\n'), bc);
+}
+/* ---------------------- esquemas (pestaña Imágenes) ---------------------- */
+function cuerpoFigura(f) {
+  if (f.svg) return f.svg;
+  if (f.archivo) return `<img src="${esc(f.archivo)}" alt="${esc(f.titulo)}" loading="lazy">`;
+  return '';
+}
+function abrirVisor(id) {
+  const f = FIGURAS.filter(x => x.id === id)[0];
+  if (!f) return;
+  $('#visor-titulo').textContent = f.titulo;
+  $('#visor-cuerpo').innerHTML = cuerpoFigura(f);
+  $('#visor-pie').textContent = f.descripcion || '';
+  $('#visor').classList.remove('oculto');
+  document.body.style.overflow = 'hidden';
+}
+function cerrarVisor() {
+  $('#visor').classList.add('oculto');
+  $('#visor-cuerpo').innerHTML = '';
+  if (!sesion) document.body.style.overflow = '';
+}
+function engancharFiguras(cont) {
+  $$('[data-ver]', cont).forEach(el => el.onclick = () => abrirVisor(el.getAttribute('data-ver')));
+  $$('[data-figura-teoria]', cont).forEach(b => b.onclick = () => {
+    const id = b.getAttribute('data-figura-teoria');
+    if (estado.figuras[id]) delete estado.figuras[id]; else estado.figuras[id] = true;
+    guardar(); pintarConsulta();
+  });
+  $$('[data-repasar-figura]', cont).forEach(b => b.onclick = () => {
+    const id = b.getAttribute('data-repasar-figura');
+    iniciarSesion({ filtro: p => p.figura === id });
+  });
+}
+function pintarImagenes(q) {
+  const cont = $('#sub-imagenes');
+  if (!FIGURAS.length) { cont.innerHTML = '<p class="vacio">Esta app no lleva esquemas.</p>'; return; }
+  const sel = FIGURAS.filter(f => coincide(f.titulo, q) || coincide(f.descripcion, q) || coincide(f.grupo, q));
+  if (!sel.length) { cont.innerHTML = '<p class="vacio">Nada encontrado.</p>'; return; }
+  const gs = {};
+  sel.forEach(f => { const g = f.grupo || '—'; (gs[g] = gs[g] || []).push(f); });
+  const fichaFigura = f => {
+    const n = PREGUNTAS.filter(p => p.figura === f.id && activa(p)).length;
+    return `<div class="ficha figura-ficha">
+      <figure class="figura" data-ver="${esc(f.id)}">${cuerpoFigura(f)}</figure>
+      <p class="pregunta">${esc(f.titulo)}</p>
+      ${f.descripcion ? `<p class="expl">${esc(f.descripcion)}</p>` : ''}
+      <div class="pie">
+        <button data-figura-teoria="${esc(f.id)}">${estado.figuras[f.id] ? 'Quitar de teoría' : 'Estudiar'}</button>
+        ${n ? `<button data-repasar-figura="${esc(f.id)}">Repasar estas (${n})</button>` : ''}
+      </div></div>`;
+  };
+  cont.innerHTML = '<p class="nota">Solo esquemas. Toca uno para verlo a pantalla completa.</p>' +
+    ordenarGrupos(Object.keys(gs)).map(g => `<details class="grupo" data-grupo="${esc(g)}" ${(q || gruposAbiertos['i:' + g]) ? 'open' : ''}>
+      <summary><span>${esc(g)}</span><span class="cuenta">${gs[g].length}</span></summary>
+      <div class="cuerpo-grupo">${gs[g].map(fichaFigura).join('')}</div>
+    </details>`).join('');
+  engancharGrupos(cont, 'i:');
+  engancharFiguras(cont);
 }
 
-function fichaHTML(p, extra) {
+function engancharGrupos(cont, prefijo) {
+  $$('details.grupo', cont).forEach(d => d.addEventListener('toggle', () => {
+    gruposAbiertos[prefijo + d.getAttribute('data-grupo')] = d.open;
+  }));
+}
+
+function insigniasDe(t) {
+  const ins = [];
+  if (t.oculta) ins.push('oculta');
+  if (t.menos) ins.push('menos a menudo');
+  if (t.marcada) ins.push('marcada');
+  if (t.estudiar) ins.push('a teoría');
+  if (t.lapsus >= CFG.srs.leechLapsusIntervaloCorto) ins.push(t.lapsus + ' fallos');
+  return ins;
+}
+function pieFichaHTML(p, extra) {
   const t = tarjeta(p.id);
-  const insignias = [];
-  if (t.oculta) insignias.push('oculta');
-  if (t.menos) insignias.push('menos a menudo');
-  if (t.lapsus >= CFG.srs.leechLapsusIntervaloCorto) insignias.push(t.lapsus + ' fallos');
+  return `<div class="pie">
+    <button data-accion="marcar">${t.marcada ? 'Quitar de marcadas' : 'Revisar'}</button>
+    <button data-accion="estudiar">${t.estudiar ? 'Quitar de teoría' : 'Estudiar'}</button>
+    ${t.oculta ? '<button data-accion="mostrar">Reactivar</button>' : '<button data-accion="ocultar">Ocultar</button>'}
+    <button data-accion="menos">${t.menos ? 'Frecuencia normal' : 'Mostrar menos'}</button>
+    ${extra || ''}
+  </div>`;
+}
+function cuerpoFichaHTML(p, extra) {
   const img = (CFG.modulos.imagenes && p.imagen) ? `<img src="${esc(p.imagen)}" alt="" loading="lazy">` : '';
-  return `<div class="ficha" data-id="${esc(p.id)}">
-    <p class="etiqueta">${esc(grupoDe(p))}${p.subtema ? ' · ' + esc(p.subtema) : ''} ${insignias.map(i => `<span class="insignia">${esc(i)}</span>`).join(' ')}</p>
-    <p class="pregunta">${esc(p.enunciado)}</p>
-    ${img}
+  return `<div class="cuerpo-ficha">${img}
     <p class="correcta">${esc(p.opciones[p.correcta])}</p>
     <p class="expl">${esc(p.explicacion)}</p>
     ${p.fuente ? `<p class="expl"><i>${esc(p.fuente)}</i></p>` : ''}
-    <div class="pie">
-      <button data-accion="marcar">${t.marcada ? 'Quitar marca' : 'Revisar'}</button>
-      ${t.oculta ? '<button data-accion="mostrar">Reactivar</button>' : '<button data-accion="ocultar">Ocultar</button>'}
-      <button data-accion="menos">${t.menos ? 'Frecuencia normal' : 'Mostrar menos'}</button>
-      ${extra || ''}
-    </div></div>`;
+    ${pieFichaHTML(p, extra)}</div>`;
+}
+function fichaHTML(p, extra) {
+  const t = tarjeta(p.id), ins = insigniasDe(t);
+  return `<div class="ficha" data-id="${esc(p.id)}">
+    <p class="etiqueta">${esc(grupoDe(p))}${p.subtema ? ' · ' + esc(p.subtema) : ''} ${ins.map(i => `<span class="insignia">${esc(i)}</span>`).join(' ')}</p>
+    <p class="pregunta">${esc(p.enunciado)}</p>
+    ${cuerpoFichaHTML(p, extra)}</div>`;
+}
+const fichasAbiertas = {};
+function fichaPlegableHTML(p, abierta) {
+  const t = tarjeta(p.id), ins = insigniasDe(t);
+  const open = (abierta || fichasAbiertas[p.id]) ? 'open' : '';
+  return `<details class="ficha plegable" data-id="${esc(p.id)}" ${open}>
+    <summary><span class="pregunta">${esc(p.enunciado)}</span>${ins.length ? `<span class="insignias">${ins.map(i => `<span class="insignia">${esc(i)}</span>`).join(' ')}</span>` : ''}</summary>
+    ${cuerpoFichaHTML(p)}</details>`;
 }
 function engancharFichas(cont) {
   $$('.ficha', cont).forEach(f => {
     const id = f.getAttribute('data-id'), t = tarjeta(id);
-    $$('[data-accion]', f).forEach(b => b.onclick = () => {
+    if (f.tagName === 'DETAILS') f.addEventListener('toggle', () => { fichasAbiertas[id] = f.open; });
+    $$('[data-accion]', f).forEach(b => b.onclick = e => {
+      e.preventDefault();
       const a = b.getAttribute('data-accion');
       if (a === 'marcar') { t.marcada = !t.marcada; guardar(); pintarConsulta(); }
+      if (a === 'estudiar') { t.estudiar = !t.estudiar; guardar(); pintarConsulta(); }
       if (a === 'menos') { t.menos = !t.menos; guardar(); pintarConsulta(); }
       if (a === 'mostrar') { t.oculta = false; guardar(); pintarConsulta(); pintarHoy(); }
       if (a === 'ocultar') confirmar('¿Seguro que quieres ocultar esta pregunta?', () => { t.oculta = true; guardar(); pintarConsulta(); pintarHoy(); });
@@ -377,11 +596,26 @@ function engancharFichas(cont) {
 }
 function pintarTarjetas(q) {
   const cont = $('#sub-tarjetas');
-  const sel = PREGUNTAS.filter(p => coincide(p.enunciado, q) || coincide(p.explicacion, q) || coincide(p.opciones.join(' '), q) || coincide(grupoDe(p), q));
-  cont.innerHTML = sel.length
-    ? `<p class="nota">${sel.length} de ${PREGUNTAS.length} tarjetas.</p>` + sel.map(p => fichaHTML(p)).join('')
-    : '<p class="vacio">Nada encontrado.</p>';
+  const sel = PREGUNTAS.filter(p => coincide(p.enunciado, q) || coincide(p.explicacion, q) || coincide(p.opciones.join(' '), q) || coincide(grupoDe(p), q) || coincide(p.subtema, q));
+  if (!sel.length) { cont.innerHTML = '<p class="vacio">Nada encontrado.</p>'; return; }
+  const gs = {};
+  sel.forEach(p => { const g = grupoDe(p); (gs[g] = gs[g] || []).push(p); });
+  cont.innerHTML = `<p class="nota">${sel.length} de ${PREGUNTAS.length} tarjetas. Toca una pregunta para ver la respuesta.</p>` +
+    ordenarGrupos(Object.keys(gs)).map(g => {
+      const act = gs[g].filter(p => activa(p)).length;
+      return `<details class="grupo" data-grupo="${esc(g)}" ${(q || gruposAbiertos['c:' + g]) ? 'open' : ''}>
+        <summary><span>${esc(g)}</span><span class="cuenta">${gs[g].length}</span></summary>
+        <div class="cuerpo-grupo">
+          ${act ? `<button class="enlace" data-repasar-grupo="${esc(g)}">Repasar este tema (${act})</button>` : ''}
+          ${gs[g].map(p => fichaPlegableHTML(p, false)).join('')}
+        </div></details>`;
+    }).join('');
+  engancharGrupos(cont, 'c:');
   engancharFichas(cont);
+  $$('[data-repasar-grupo]', cont).forEach(b => b.onclick = () => {
+    const g = b.getAttribute('data-repasar-grupo');
+    iniciarSesion({ filtro: p => grupoDe(p) === g });
+  });
 }
 function pintarMarcadas() {
   const cont = $('#sub-marcadas');
@@ -461,7 +695,7 @@ function pintarAjustes() {
   $('#aj-tope').value = aj.tope;
   $('#aj-tema').value = estado.ajustes.tema;
 
-  const atrasadas = vencidas().length;
+  const atrasadas = vencidas(true).length;
   const bloque = $('#bloque-atrasos');
   if (atrasadas > aj.tope) {
     $('#texto-atrasos').textContent = `Tienes ${atrasadas} repasos atrasados. Repartirlos los reparte por días y evita el atracón.`;
@@ -527,7 +761,7 @@ function engancharAjustes() {
   $('#aj-tema').onchange = e => { estado.ajustes.tema = e.target.value; guardar(); aplicarTema(); };
 
   $('#btn-repartir').onclick = () => {
-    const atr = vencidas();
+    const atr = vencidas(true);
     const porDia = Math.ceil(atr.length / 7);
     atr.forEach((p, i) => { const t = tarjeta(p.id); t.venc = fecha(Math.floor(i / porDia)); });
     guardar(); pintarAjustes(); pintarHoy();
@@ -594,7 +828,8 @@ function mostrarTarjeta() {
 
   $('#contador-sesion').textContent = (sesion.i + 1) + '/' + sesion.cola.length;
   $('#progreso-relleno').style.width = (sesion.i / sesion.cola.length * 100) + '%';
-  $('#etiqueta-tarjeta').textContent = grupoDe(p) + (p.subtema ? ' · ' + p.subtema : '') + (t.fase === 'nueva' ? ' · nueva' : '');
+  $('#etiqueta-tarjeta').textContent = (sesion.dirigida ? 'Repaso libre · ' : '') + grupoDe(p) +
+    (p.subtema ? ' · ' + p.subtema : '') + (!sesion.dirigida && t.fase === 'nueva' ? ' · nueva' : '');
   $('#enunciado').textContent = p.enunciado;
 
   const img = $('#imagen-tarjeta');
@@ -610,6 +845,7 @@ function mostrarTarjeta() {
   $('#panel-normal').classList.remove('oculto');
   $('#btn-dude').classList.remove('activa', 'oculto');
   $('#btn-facil').classList.remove('activa', 'oculto');
+  if (sesion.dirigida) { $('#btn-dude').classList.add('oculto'); $('#btn-facil').classList.add('oculto'); }
   sesion.resultado = null;
   $('#cuerpo-sesion').scrollTop = 0;
 }
@@ -648,10 +884,10 @@ function responder(indice) {
   if (acierto) sesion.aciertos++;
 
   if (acierto) {
-    aplicar(p.id, 'normal');
+    if (!sesion.dirigida) aplicar(p.id, 'normal');
     sesion.resultado = 'normal';
   } else {
-    aplicar(p.id, 'fallo');
+    if (!sesion.dirigida) aplicar(p.id, 'fallo');
     sesion.resultado = 'fallo';
     // Vuelve a salir dentro de la misma sesión.
     const pos = Math.min(sesion.cola.length, sesion.i + CFG.estudio.reaparicionTrasFallo);
@@ -671,15 +907,18 @@ function responder(indice) {
   const enl = $('#enlace-teoria');
   const sec = p.teoria && TEORIA.filter(s => s.id === p.teoria)[0];
   if (sec && CFG.modulos.teoria) {
-    enl.textContent = 'Ver teoría: ' + sec.titulo;
+    enl.textContent = (enTeoria(sec) ? 'Ver teoría: ' : 'Guardar en teoría y ver: ') + sec.titulo;
     enl.classList.remove('oculto');
-    enl.onclick = () => { terminarSesion(); irA('consulta'); subPestana('teoria'); abrirSeccion(p.teoria); };
+    enl.onclick = () => {
+      t.estudiar = true; guardar();
+      terminarSesion(); irA('consulta'); subPestana('teoria'); abrirSeccion(p.teoria);
+    };
   } else enl.classList.add('oculto');
 
   $('#pie-sesion').classList.remove('oculto');
 
   // Aviso de tarjeta problemática: como mucho una vez por sesión.
-  if (!acierto && !sesion.avisoMostrado && esProblematica(t)) {
+  if (!acierto && !sesion.dirigida && !sesion.avisoMostrado && esProblematica(t)) {
     sesion.avisoMostrado = true;
     $('#texto-problematica').textContent = `Has fallado esta pregunta ${t.lapsus} veces. ¿Qué hacemos con ella?`;
     $('#panel-problematica').classList.remove('oculto');
@@ -705,7 +944,7 @@ function deshacerRespuesta() {
 function siguiente() {
   const p = PORID[sesion.cola[sesion.i]], t = tarjeta(p.id);
   // Reajuste por confianza: solo si acertó y marcó algo.
-  if (sesion.resultado === 'normal' && deshacer) {
+  if (!sesion.dirigida && sesion.resultado === 'normal' && deshacer) {
     const dude = $('#btn-dude').classList.contains('activa');
     const facil = $('#btn-facil').classList.contains('activa');
     if (dude || facil) {
@@ -725,7 +964,9 @@ function siguiente() {
 function mostrarResumen() {
   const pct = sesion.respondidas ? Math.round(sesion.aciertos / sesion.respondidas * 100) : 0;
   const man = PREGUNTAS.filter(p => { const t = tarjeta(p.id); return activa(p) && t.venc === fecha(1); }).length;
-  $('#texto-resumen').textContent = `${sesion.respondidas} respuestas, ${pct}% de aciertos. Mañana te tocan ${man} repasos.`;
+  $('#texto-resumen').textContent = sesion.dirigida
+    ? `${sesion.respondidas} respuestas, ${pct}% de aciertos. Repaso libre: no ha tocado tus repasos ni las estadísticas.`
+    : `${sesion.respondidas} respuestas, ${pct}% de aciertos. Mañana te tocan ${man} repasos.`;
   $('#resumen').classList.remove('oculto');
 }
 
@@ -760,14 +1001,59 @@ function aplicarTema() {
   const pref = estado.ajustes.tema;
   const oscuro = pref === 'oscuro' || (pref === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches);
   document.documentElement.setAttribute('data-tema', oscuro ? 'oscuro' : 'claro');
+  aplicarColores(oscuro);
   const meta = document.querySelector('meta[name="theme-color"]');
   if (meta) meta.setAttribute('content', oscuro ? '#0F1526' : CFG.colores.primario);
 }
-function aplicarColores() {
+
+/* Los colores de config.json están pensados para fondo claro. Sobre fondo
+   oscuro se recalculan subiendo la luminosidad y manteniendo el tono, para que
+   los títulos no queden casi negros. config.coloresOscuro los fija a mano. */
+function aHsl(hex) {
+  const m = String(hex || '').replace('#', '');
+  const v = m.length === 3 ? m.split('').map(c => c + c).join('') : m;
+  const r = parseInt(v.slice(0, 2), 16) / 255, g = parseInt(v.slice(2, 4), 16) / 255, b = parseInt(v.slice(4, 6), 16) / 255;
+  const mx = Math.max(r, g, b), mn = Math.min(r, g, b), l = (mx + mn) / 2;
+  let h = 0, sat = 0;
+  if (mx !== mn) {
+    const d = mx - mn;
+    sat = l > 0.5 ? d / (2 - mx - mn) : d / (mx + mn);
+    if (mx === r) h = ((g - b) / d + (g < b ? 6 : 0));
+    else if (mx === g) h = (b - r) / d + 2;
+    else h = (r - g) / d + 4;
+    h /= 6;
+  }
+  return { h, s: sat, l };
+}
+function aHex(h, s, l) {
+  const f = t => {
+    t = (t + 1) % 1;
+    const q = l < 0.5 ? l * (1 + s) : l + s - l * s, p2 = 2 * l - q;
+    let c = p2;
+    if (t < 1 / 6) c = p2 + (q - p2) * 6 * t;
+    else if (t < 1 / 2) c = q;
+    else if (t < 2 / 3) c = p2 + (q - p2) * (2 / 3 - t) * 6;
+    return Math.round(Math.min(255, Math.max(0, c * 255)));
+  };
+  const n2 = x => x.toString(16).padStart(2, '0');
+  return '#' + n2(f(h + 1 / 3)) + n2(f(h)) + n2(f(h - 1 / 3));
+}
+function conLuz(hex, l, sMin) {
+  const c = aHsl(hex);
+  return aHex(c.h, Math.max(sMin == null ? 0 : sMin, c.s), l);
+}
+function paletaOscura() {
+  const c = CFG.colores || {}, o = CFG.coloresOscuro || {};
+  return {
+    primario: o.primario || conLuz(c.primario || '#1B2D5B', 0.78, 0.55),
+    secundario: o.secundario || conLuz(c.secundario || '#BFDBFF', 0.24, 0.30),
+    acento: o.acento || conLuz(c.acento || '#0D7377', 0.62, 0.40)
+  };
+}
+function aplicarColores(oscuro) {
   const r = document.documentElement.style;
-  if (CFG.colores.primario) r.setProperty('--primario', CFG.colores.primario);
-  if (CFG.colores.secundario) r.setProperty('--secundario', CFG.colores.secundario);
-  if (CFG.colores.acento) r.setProperty('--acento', CFG.colores.acento);
+  const c = oscuro ? paletaOscura() : (CFG.colores || {});
+  ['primario', 'secundario', 'acento'].forEach(k => { if (c[k]) r.setProperty('--' + k, c[k]); });
 }
 
 /* ---------------------- arranque ---------------------- */
@@ -780,9 +1066,9 @@ async function arrancar() {
   if (CFG.modulos.teoria) {
     try { TEORIA = (await traer('./teoria.json')).secciones || []; } catch (e) { TEORIA = []; }
   }
+  try { FIGURAS = (await traer('./imagenes.json')).figuras || []; } catch (e) { FIGURAS = []; }
 
   cargar();
-  aplicarColores();
   aplicarTema();
   window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', aplicarTema);
 
@@ -791,6 +1077,7 @@ async function arrancar() {
   $('#subtitulo-app').textContent = CFG.app.subtitulo || '';
   $$('.eje-etiqueta').forEach(e => e.textContent = (CFG.ejeAgrupacion.etiqueta || 'tema').toLowerCase());
   $('#pestanas [data-vista="consulta"] span').textContent = CFG.modulos.tituloPestanaTeoria || 'Consulta';
+  if (!FIGURAS.length) $('.subpestana[data-sub="imagenes"]').classList.add('oculto');
 
   $$('.pestana').forEach(b => b.onclick = () => irA(b.getAttribute('data-vista')));
   $$('.subpestana').forEach(b => b.onclick = () => subPestana(b.getAttribute('data-sub')));
@@ -806,6 +1093,8 @@ async function arrancar() {
   $('#btn-salir').onclick = terminarSesion;
   $('#btn-cerrar-resumen').onclick = terminarSesion;
 
+  $('#visor-cerrar').onclick = cerrarVisor;
+  $('#visor').onclick = e => { if (e.target.id === 'visor') cerrarVisor(); };
   $('#btn-mas').onclick = () => $('#menu-mas').classList.remove('oculto');
   $$('#menu-mas button').forEach(b => b.onclick = () => {
     const a = b.getAttribute('data-mas');
@@ -813,6 +1102,11 @@ async function arrancar() {
     if (a === 'cerrar') return;
     const p = PORID[sesion.cola[sesion.i]], t = tarjeta(p.id);
     if (a === 'menos') { t.menos = true; guardar(); siguiente(); }
+    if (a === 'estudiar') {
+      t.estudiar = true; guardar();
+      const et = $('#etiqueta-tarjeta');
+      if (et.textContent.indexOf('a teoría') === -1) et.textContent += ' · a teoría';
+    }
     if (a === 'ocultar') confirmar('¿Seguro que quieres ocultar esta pregunta? Podrás recuperarla en Ajustes.', () => {
       t.oculta = true; guardar();
       sesion.cola = sesion.cola.filter((id, i) => i <= sesion.i || id !== p.id);

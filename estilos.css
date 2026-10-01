@@ -264,3 +264,72 @@ details.seccion[open] > summary::after { content: "－"; }
 .aviso .enlace { color: inherit; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+/* ---------- Temas del día (Hoy) ---------- */
+.cabecera-temas { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.cabecera-temas h2 { margin-bottom: 8px; }
+.chips-temas { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip-tema {
+  border: 1px solid var(--borde); background: var(--fondo); color: var(--texto-tenue);
+  border-radius: 999px; padding: 8px 14px; font-size: .86rem; line-height: 1.2;
+}
+.chip-tema.dentro { background: var(--secundario); border-color: var(--secundario); color: var(--primario); font-weight: 600; }
+.chip-tema b { font-weight: 700; margin-left: 4px; }
+[data-tema="oscuro"] .chip-tema.dentro { color: var(--texto); }
+
+/* ---------- Grupos plegables (Consulta) ---------- */
+details.grupo {
+  border: 1px solid var(--borde); border-radius: var(--radio);
+  background: var(--superficie); margin-bottom: 8px; overflow: hidden;
+}
+details.grupo > summary {
+  padding: 13px 15px; cursor: pointer; font-weight: 600; color: var(--primario);
+  list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 10px;
+}
+details.grupo > summary::-webkit-details-marker { display: none; }
+details.grupo > summary .cuenta { color: var(--texto-tenue); font-weight: 400; font-size: .82rem; }
+.cuerpo-grupo { padding: 0 12px 12px; }
+.cuerpo-grupo > .enlace { margin: 0 0 10px; display: inline-block; }
+
+details.ficha.plegable { padding: 0; }
+details.ficha.plegable > summary {
+  padding: 12px 14px; cursor: pointer; list-style: none;
+  display: flex; flex-direction: column; gap: 6px;
+}
+details.ficha.plegable > summary::-webkit-details-marker { display: none; }
+details.ficha.plegable > summary .pregunta { font-weight: 600; margin: 0; }
+details.ficha.plegable > summary .insignias { display: flex; flex-wrap: wrap; gap: 6px; }
+details.ficha.plegable .cuerpo-ficha { padding: 0 14px 12px; }
+.ficha .cuerpo-ficha .correcta { margin-top: 0; }
+
+/* ---------- Pendientes de desarrollar (Teoría) ---------- */
+.pendiente {
+  display: flex; gap: 10px; align-items: flex-start; justify-content: space-between;
+  padding: 8px 0; border-bottom: 1px solid var(--borde); font-size: .9rem;
+}
+.pendiente button { background: none; color: var(--acento); font-size: .82rem; text-decoration: underline; padding: 0; flex: none; }
+details.seccion.pendientes > summary { color: var(--acento); }
+
+.cuerpo-seccion .pie { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; margin-top: 10px; }
+#btn-todo-temario { display: inline-block; margin-top: 12px; }
+
+/* ---------- Esquemas ---------- */
+.figura { margin: 0 0 10px; background: var(--fondo); border: 1px solid var(--borde); border-radius: 10px; padding: 10px; cursor: zoom-in; }
+.figura svg, .figura img { display: block; width: 100%; height: auto; }
+.figura-ficha .pregunta { font-weight: 600; margin: 0 0 4px; }
+.cuerpo-seccion .figura { background: var(--fondo); }
+
+#visor {
+  position: fixed; inset: 0; z-index: 60; background: rgba(8, 12, 22, .82);
+  display: flex; align-items: center; justify-content: center; padding: 16px;
+  padding-top: calc(16px + env(safe-area-inset-top, 0px));
+  padding-bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+}
+.visor-caja {
+  background: var(--fondo); border-radius: var(--radio); width: 100%; max-width: 640px;
+  max-height: 100%; overflow: auto; padding: 14px;
+}
+.visor-barra { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 10px; }
+#visor-titulo { font-weight: 600; color: var(--primario); }
+#visor-cerrar { background: none; color: var(--texto-tenue); font-size: 1.1rem; padding: 4px 8px; }
+#visor-cuerpo svg, #visor-cuerpo img { display: block; width: 100%; height: auto; }
