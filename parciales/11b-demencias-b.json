@@ -1,0 +1,752 @@
+[
+ {
+  "id": "dem-015",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Cuánto aumenta el riesgo de enfermedad de Alzheimer la homocigosis para el alelo APOE ε4?",
+  "opciones": [
+   "Entre cinco y quince veces",
+   "Entre dos y tres veces",
+   "Entre veinte y treinta veces",
+   "Menos del doble"
+  ],
+  "correcta": 0,
+  "explicacion": "Un solo alelo ε4 multiplica el riesgo por dos o tres; el genotipo ε4/ε4 lo multiplica por cinco a quince. El alelo ε3 se considera neutral y el ε2, más raro, es protector.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-016",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Qué gen es la causa más frecuente de enfermedad de Alzheimer hereditaria autosómica dominante?",
+  "opciones": [
+   "PSEN1",
+   "PSEN2",
+   "APP",
+   "MAPT"
+  ],
+  "correcta": 0,
+  "explicacion": "Las formas autosómicas dominantes suponen menos del 1 % de los casos y se deben a mutaciones en PSEN1 (la más frecuente), PSEN2 y APP, con un inicio precoz entre los 30 y los 50 años. MAPT se asocia a degeneración lobar frontotemporal.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-017",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿A qué se atribuye la aparición precoz de patología Alzheimer en el síndrome de Down?",
+  "opciones": [
+   "Al efecto de dosis del gen APP, situado en el cromosoma 21",
+   "A una mayor frecuencia del alelo APOE ε4 en estos pacientes",
+   "A la hiperfosforilación primaria de tau por sobreexpresión de MAPT",
+   "A la menor reserva cognitiva asociada al trastorno del desarrollo"
+  ],
+  "correcta": 0,
+  "explicacion": "El gen APP está en el cromosoma 21 y se sobreexpresa en la trisomía, de modo que los cambios neuropatológicos aparecen antes de los 40 años en la mayoría. Los raros casos cuya trisomía no incluye APP quedarían protegidos de este efecto.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-018",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "Según la revisión reciente del estadiaje de Braak, ¿qué estructuras acumulan ovillos neurofibrilares antes que el lóbulo temporal mesial?",
+  "opciones": [
+   "Algunos núcleos subcorticales y del tronco, como el locus coeruleus",
+   "Las áreas neocorticales temporoparietales",
+   "El giro cingulado posterior y el precúneo",
+   "La corteza entorrinal y el subículo"
+  ],
+  "correcta": 0,
+  "explicacion": "El lóbulo temporal medial sigue siendo la primera área cortical afectada, pero el depósito en núcleos subcorticales y troncoencefálicos como el locus coeruleus lo precede. Esa patología troncoencefálica podría además acelerar la carga amiloide vía desregulación microglial.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-019",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Cuánto dura aproximadamente la fase preclínica de la enfermedad de Alzheimer?",
+  "opciones": [
+   "Unos 15-20 años",
+   "Unos 2-3 años",
+   "Unos 5-7 años",
+   "Unos 30-40 años"
+  ],
+  "correcta": 0,
+  "explicacion": "Durante 15-20 años se acumula patología sin síntomas cognitivos. Los síntomas aparecen cuando los sistemas neuronales ya no compensan funcionalmente la neurodegeneración.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-020",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿A qué se refiere el «gradiente temporal» del síndrome amnésico típico de la enfermedad de Alzheimer?",
+  "opciones": [
+   "A la preservación relativa de los recuerdos remotos frente al fallo de los recientes",
+   "Al empeoramiento vespertino del rendimiento mnésico",
+   "A la mejoría del recuerdo cuando se ofrecen claves semánticas",
+   "A la progresión de la amnesia desde el material verbal al visual"
+  ],
+  "correcta": 0,
+  "explicacion": "El paciente olvida eventos y fechas recientes, pierde objetos y repite preguntas, mientras los recuerdos a largo plazo se mantienen relativamente indemnes. Refleja la afectación de la corteza temporal medial y sus conexiones.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-021",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Qué proporción de los casos de enfermedad de Alzheimer de inicio antes de los 65 años tiene una presentación no amnésica?",
+  "opciones": [
+   "Un 30-40 %",
+   "Un 10 %",
+   "Un 55-65 %",
+   "Menos del 5 %"
+  ],
+  "correcta": 0,
+  "explicacion": "Entre un 30 y un 40 % de los casos de inicio precoz debutan sin que la pérdida de memoria episódica sea el síntoma predominante. En los casos de inicio por encima de los 65 años esa proporción baja a alrededor del 10 %.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-022",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Qué variante de afasia progresiva primaria se asocia más típicamente a enfermedad de Alzheimer?",
+  "opciones": [
+   "La variante logopénica, en un 85 % de los casos",
+   "La afasia progresiva no fluente, en un 85 % de los casos",
+   "La demencia semántica, en torno al 60 % de los casos",
+   "La variante temporal derecha, en torno al 70 % de los casos"
+  ],
+  "correcta": 0,
+  "explicacion": "La variante logopénica cursa con dificultad para recuperar palabras sueltas, fallo en la repetición de frases y errores fonológicos, y en el 85 % de los casos subyace una EA. También es frecuente en las formas mixtas o indiferenciadas de APP.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-023",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Qué combinación clínica define la atrofia cortical posterior?",
+  "opciones": [
+   "Déficits visuoperceptivos y visuoespaciales con rasgos de síndrome de Balint o de Gerstmann",
+   "Apraxia asimétrica con distonía, mioclonías focales y fenómeno de mano ajena",
+   "Anomia progresiva con pérdida del conocimiento semántico de las palabras",
+   "Apatía y deterioro de la memoria de trabajo con inflexibilidad cognitiva"
+  ],
+  "correcta": 0,
+  "explicacion": "La ACP asocia agnosia visual, apraxia oculomotora, dificultad para leer, discalculia, disgrafía, confusión izquierda-derecha y agnosia digital, con frecuencia en formas incompletas o mixtas. Las otras opciones describen el síndrome córtico-basal, la demencia semántica y la variante frontal.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-024",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Qué proporción de los síndromes córtico-basales se debe a enfermedad de Alzheimer?",
+  "opciones": [
+   "Aproximadamente un tercio",
+   "Menos del 5 %",
+   "Aproximadamente dos tercios",
+   "Prácticamente la totalidad"
+  ],
+  "correcta": 0,
+  "explicacion": "Un tercio de los casos de SCB corresponden a EA, sobre todo cuando se acompañan de problemas relevantes de memoria o de afasia logopénica. El resto suele deberse a degeneración corticobasal, una taupatía dentro del espectro de la DLFT.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-025",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Cómo evoluciona la frecuencia de crisis epilépticas y mioclonías a lo largo de la enfermedad de Alzheimer?",
+  "opciones": [
+   "Pasan de un 5 % en fases iniciales a un 50 % en fases avanzadas",
+   "Se mantienen en torno al 10 % durante toda la evolución",
+   "Son máximas al inicio y desaparecen en fases avanzadas",
+   "Solo aparecen en las formas autosómicas dominantes"
+  ],
+  "correcta": 0,
+  "explicacion": "Su frecuencia aumenta con la progresión, del 5 % al 50 %. Son especialmente frecuentes en la EA familiar y en el síndrome de Down, aunque no exclusivas de estas formas.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-026",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Qué patrón muestra el PET-FDG en la enfermedad de Alzheimer típica?",
+  "opciones": [
+   "Hipometabolismo biparietal bilateral y simétrico con afectación del cingulado posterior",
+   "Hipometabolismo occipital bilateral con preservación del cingulado posterior",
+   "Hipometabolismo frontal y temporal anterior asimétrico",
+   "Hipometabolismo perisilviano anterior de predominio izquierdo"
+  ],
+  "correcta": 0,
+  "explicacion": "La neuroimagen funcional refleja el fenotipo clínico: la forma típica da hipometabolismo biparietal simétrico con cingulado posterior. Las variantes atípicas desplazan ese patrón, por ejemplo hacia la encrucijada parietotemporal izquierda en la afasia logopénica o hacia áreas occipitales en la ACP.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-027",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Por qué se recomienda limitar el PET de amiloide a sujetos menores de 75 años?",
+  "opciones": [
+   "Porque por encima de esa edad hasta un 20 % de los sujetos sanos tienen un PET positivo",
+   "Porque por encima de esa edad los trazadores pierden afinidad por las placas neuríticas",
+   "Porque la radiación acumulada desaconseja la prueba en edades avanzadas",
+   "Porque a partir de esa edad el PET de tau ha demostrado ser superior"
+  ],
+  "correcta": 0,
+  "explicacion": "La tasa de positividad del PET-amiloide en individuos cognitivamente sanos aumenta con la edad, lo que resta valor diagnóstico a un resultado positivo. Su uso se reserva a menores de 75 años en fase de DCL, formas atípicas, casos no concluyentes o demencias de inicio precoz.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-028",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Qué perfil de biomarcadores en LCR es característico de la enfermedad de Alzheimer?",
+  "opciones": [
+   "Descenso de Aβ42 con elevación de tau total y tau fosforilada",
+   "Elevación de Aβ42 con descenso de tau total y tau fosforilada",
+   "Descenso aislado de tau fosforilada con Aβ42 normal",
+   "Elevación aislada de neurofilamentos de cadena ligera"
+  ],
+  "correcta": 0,
+  "explicacion": "El Aβ42 desciende al depositarse en placas (para algunos autores es más específico el cociente Aβ42/Aβ40), mientras tau total, marcador de pérdida neuronal, y tau fosforilada se elevan. La combinación supera el 85 % de validez diagnóstica, y destaca sobre todo su valor predictivo negativo.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-029",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "En el sistema A/T/(N) de los criterios NIA-AA de 2018, ¿qué define la categoría N?",
+  "opciones": [
+   "La neurodegeneración, por RM, PET-FDG o tau total en LCR",
+   "El depósito de tau, por PET-tau o tau fosforilada en LCR",
+   "La amiloidosis cerebral, por PET-amiloide o Aβ42 en LCR",
+   "La neuroinflamación, por marcadores gliales en LCR"
+  ],
+  "correcta": 0,
+  "explicacion": "A corresponde a amiloidosis (PET-amiloide, Aβ42 o ratio Aβ42/Aβ40), T a depósito de tau (PET-tau o tau fosforilada) y N a neurodegeneración (RM, PET-FDG o tau total). Clasifica al paciente con independencia de su fenotipo y estadio clínico.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-030",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿En qué fase de la enfermedad de Alzheimer se recomienda la memantina?",
+  "opciones": [
+   "En fase moderada y grave, en monoterapia o combinada con IACE",
+   "En fase leve, como alternativa de primera línea a los IACE",
+   "En la fase de deterioro cognitivo leve, para retrasar la conversión",
+   "En la fase preclínica, si los biomarcadores son positivos"
+  ],
+  "correcta": 0,
+  "explicacion": "La memantina, antagonista no competitivo de baja afinidad de los receptores NMDA, mejora cognición, funcionalidad y conducta en fases moderada y grave, y está aprobada también en combinación con IACE. Los IACE son el tratamiento de las fases leve y moderada.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-031",
+  "tema": "Demencias",
+  "subtema": "Enfermedad de Alzheimer",
+  "enunciado": "¿Qué demostró el ensayo de fase 3 de lecanemab en pacientes con enfermedad de Alzheimer inicial?",
+  "opciones": [
+   "Una reducción del declinar cognitivo del 27 % junto a una menor carga de amiloide",
+   "Una mejoría cognitiva mantenida por encima del nivel basal",
+   "Una reducción de la carga de amiloide sin efecto sobre la evolución clínica",
+   "Un beneficio limitado a los pacientes en fase de demencia moderada"
+  ],
+  "correcta": 0,
+  "explicacion": "Lecanemab, anticuerpo monoclonal contra las fibrillas solubles de β-amiloide además de las placas, redujo el declinar cognitivo un 27 % en DCL o demencia leve, y la EMA aprobó su comercialización en 2024. Aducanumab, en cambio, fue rechazado por la EMA por evidencia clínica insuficiente.",
+  "fuente": "Cap. 63. Enfermedad de Alzheimer"
+ },
+ {
+  "id": "dem-032",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué distingue el término degeneración lobar frontotemporal del término demencia frontotemporal?",
+  "opciones": [
+   "El primero es un concepto neuropatológico y el segundo, clínico",
+   "El primero designa las formas familiares y el segundo, las esporádicas",
+   "El primero se refiere a la afectación temporal y el segundo, a la frontal",
+   "El primero engloba solo las taupatías y el segundo, todas las proteinopatías"
+  ],
+  "correcta": 0,
+  "explicacion": "La DLFT describe el grupo de enfermedades neurodegenerativas con atrofia focal frontal y temporal y su diagnóstico definitivo es neuropatológico. La DFT es el paraguas clínico que reúne la variante conductual, la afasia progresiva no fluente y la demencia semántica.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-033",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué frecuencia y edad de inicio tiene la variante conductual de la demencia frontotemporal?",
+  "opciones": [
+   "Un 60-70 % de los casos de DFT, con una media de inicio a los 58 años",
+   "Un 20-30 % de los casos de DFT, con una media de inicio a los 58 años",
+   "Un 60-70 % de los casos de DFT, con una media de inicio a los 72 años",
+   "Un 20-30 % de los casos de DFT, con una media de inicio a los 72 años"
+  ],
+  "correcta": 0,
+  "explicacion": "La DFT-vc es el síndrome clínico más frecuente del espectro y suele debutar antes de los 65 años. Se caracteriza por cambios insidiosos de personalidad y conducta, con apatía, desinhibición, perseveración y alteración precoz de la cognición social.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-034",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué regiones se atrofian primero en la variante conductual de la demencia frontotemporal?",
+  "opciones": [
+   "El córtex cingulado anterior y frontoinsular",
+   "La región anteroinferior de los lóbulos temporales",
+   "El córtex perisilviano anterior del hemisferio dominante",
+   "El hipocampo y la corteza entorrinal"
+  ],
+  "correcta": 0,
+  "explicacion": "El cingulado anterior y la región frontoinsular son los componentes básicos del procesamiento social y emocional, lo que explica la clínica inicial. Después se extiende al lóbulo frontal y temporal anterior, con predominio en el hemisferio no dominante, y a estructuras subcorticales.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-035",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué caracteriza al lenguaje de la demencia semántica?",
+  "opciones": [
+   "Fluencia normal o aumentada y repetición preservada, con fallo en la denominación y la comprensión de palabras",
+   "Fluencia reducida y laboriosa con agramatismo y parafasias fonéticas",
+   "Fallo selectivo de la repetición de frases con errores fonológicos",
+   "Comprensión preservada con mutismo progresivo desde el inicio"
+  ],
+  "correcta": 0,
+  "explicacion": "La DS consiste en la pérdida progresiva del conocimiento semántico, con un lenguaje fluido y gramaticalmente correcto. La opción del agramatismo describe la APNF y la del fallo de repetición, la variante logopénica asociada a EA.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-036",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué hallazgo de neuroimagen es el más específico de la afasia progresiva no fluente?",
+  "opciones": [
+   "La atrofia asimétrica del córtex perisilviano anterior del hemisferio dominante",
+   "La atrofia anteroinferior de los lóbulos temporales",
+   "La atrofia del cingulado anterior con extensión frontoinsular",
+   "La atrofia parietal posterior de predominio derecho"
+  ],
+  "correcta": 0,
+  "explicacion": "En la APNF pueden verse atrofia global, de hemisferio izquierdo o bifrontal, pero lo más específico es la atrofia perisilviana anterior asimétrica. La atrofia temporal anteroinferior con relativa preservación del giro temporal superior corresponde a la demencia semántica.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-037",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué rasgos caracterizan la variante temporal derecha de la demencia semántica?",
+  "opciones": [
+   "Prosopagnosia, hiperreligiosidad y déficit de memoria",
+   "Apraxia del habla y apraxia bucofacial",
+   "Alucinaciones visuales y fluctuaciones atencionales",
+   "Mano ajena y mioclonías focales"
+  ],
+  "correcta": 0,
+  "explicacion": "Además de alteraciones de conducta y del lenguaje, la variante temporal derecha asocia de forma característica prosopagnosia, hiperreligiosidad y fallo mnésico, y puede añadir agnosia visual asociativa y alexia superficial.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-038",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué alteración genética es la segunda más frecuente en la degeneración lobar frontotemporal, tras las mutaciones de progranulina?",
+  "opciones": [
+   "La expansión del hexanucleótido GGGGCC en el primer intrón de C9orf72",
+   "Las mutaciones puntuales del gen MAPT",
+   "Las mutaciones del gen VCP",
+   "Las mutaciones del gen CHMP2B"
+  ],
+  "correcta": 0,
+  "explicacion": "La expansión de C9orf72 es además la mutación más frecuentemente asociada a ELA y a DFT-EMN, y se asocia a patología DLFT-TDP. Se ha relacionado con el 12 % de los casos familiares de DFT y con el 22,5 % de los de ELA.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-039",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué determinación en sangre se ha propuesto como cribado en los pacientes con sospecha de mutación en progranulina?",
+  "opciones": [
+   "Los niveles séricos de progranulina, que están muy bajos",
+   "Los niveles plasmáticos de neurofilamento de cadena ligera",
+   "Los niveles plasmáticos de tau fosforilada 217",
+   "El cociente Aβ42/Aβ40 en plasma"
+  ],
+  "correcta": 0,
+  "explicacion": "Los portadores de mutaciones en PGRN presentan concentraciones plasmáticas de progranulina muy bajas, lo que hace de esta determinación un método de cribado sensible y específico. El NfL es inespecífico y los otros marcadores orientan a EA.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-040",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué utilidad tiene el PET-FDG en el estudio de un paciente con sospecha de DFT variante conductual?",
+  "opciones": [
+   "Detecta las fenocopias, en las que el metabolismo cerebral está conservado",
+   "Confirma el subtipo molecular de la degeneración lobar subyacente",
+   "Permite prescindir de la evaluación neuropsicológica",
+   "Identifica a los portadores de mutación en C9orf72"
+  ],
+  "correcta": 0,
+  "explicacion": "El PET-FDG detecta alteraciones metabólicas frontotemporales antes que la neuroimagen estructural, y un metabolismo conservado en un paciente con clínica conductual compatible orienta a fenocopia y no a degeneración frontotemporal. El subtipo molecular exige estudio neuropatológico.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-041",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué recomienda el manual sobre el uso de inhibidores de la acetilcolinesterasa y memantina en la demencia frontotemporal?",
+  "opciones": [
+   "No recomienda ninguno de los dos como norma general",
+   "Recomienda los IACE en fase leve y la memantina en fase avanzada",
+   "Recomienda la memantina y desaconseja los IACE",
+   "Recomienda la combinación de ambos cuando predomina la apatía"
+  ],
+  "correcta": 0,
+  "explicacion": "El tratamiento de la DFT es sintomático: ISRS y trazodona para irritabilidad, agitación, depresión, trastorno alimentario y desinhibición, y antipsicóticos atípicos como quetiapina u olanzapina limitados al control de la agresividad.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-042",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "Según los criterios del DLB Consortium de 2017, ¿qué se necesita para el diagnóstico de demencia con cuerpos de Lewy probable?",
+  "opciones": [
+   "Dos o más características clínicas centrales, o una central y al menos un biomarcador indicativo",
+   "Una característica clínica central, o un biomarcador indicativo aislado",
+   "Dos o más características clínicas centrales junto a un biomarcador indicativo",
+   "Un biomarcador indicativo y otro de soporte, con independencia de la clínica"
+  ],
+  "correcta": 0,
+  "explicacion": "Para la forma posible basta una característica central o un biomarcador indicativo. En ambos casos es requisito indispensable que el paciente haya alcanzado el estadio de demencia.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-043",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Cuáles son las cuatro características clínicas centrales de la demencia con cuerpos de Lewy?",
+  "opciones": [
+   "Fluctuaciones cognitivas, alucinaciones visuales recurrentes, TCSREM y parkinsonismo espontáneo",
+   "Fluctuaciones cognitivas, delirios, hiposmia y disautonomía grave",
+   "Alucinaciones visuales, hipersensibilidad a neurolépticos, caídas de repetición y síncopes",
+   "Parkinsonismo, apatía, depresión y ansiedad"
+  ],
+  "correcta": 0,
+  "explicacion": "Las fluctuaciones, las alucinaciones visuales y el TCSREM suelen aparecer en fases precoces, y el parkinsonismo espontáneo más tarde. La hiposmia, los delirios, la hipersensibilidad a neurolépticos, las caídas y la disautonomía grave son características de soporte, no centrales.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-044",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué representa el signo de la isla cingulada en el PET-FDG?",
+  "opciones": [
+   "La preservación relativa del metabolismo del cíngulo posterior, muy específica de DLB",
+   "El hipometabolismo aislado del cíngulo posterior, típico de la EA",
+   "La captación aumentada del cíngulo anterior en la DFT-vc",
+   "La asimetría metabólica del cíngulo en el síndrome córtico-basal"
+  ],
+  "correcta": 0,
+  "explicacion": "En la DLB el hipometabolismo predomina en áreas parietotemporales posteriores y occipitales, pero el cíngulo posterior queda relativamente respetado. Este signo se correlaciona con la presencia de alucinaciones visuales y con menos ovillos neurofibrilares post mortem.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-045",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué tasa de fenoconversión a sinucleinopatía tiene el trastorno de conducta del sueño REM a los 12 años de seguimiento?",
+  "opciones": [
+   "Un 73,5 %",
+   "Un 33 %",
+   "Un 50 %",
+   "Un 25 %"
+  ],
+  "correcta": 0,
+  "explicacion": "El TCSREM es el marcador prodrómico más importante de las sinucleinopatías, y el riesgo aumenta si coexisten síntomas motores sutiles, hiposmia, deterioro cognitivo leve o clínica disautonómica. El 33 % a los 4 años corresponde al fallo autonómico puro.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-046",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué significa un SPECT con iofluopano normal en un paciente con sospecha de demencia con cuerpos de Lewy?",
+  "opciones": [
+   "No descarta el diagnóstico, ya que ocurre en el 25-50 % de los casos con predominio cortical",
+   "Descarta el diagnóstico y obliga a buscar otra etiología",
+   "Indica que se trata de una demencia asociada a enfermedad de Parkinson",
+   "Solo es interpretable si se acompaña de una gammagrafía MIBG normal"
+  ],
+  "correcta": 0,
+  "explicacion": "En los pacientes con predominio de disfunción cortical y degeneración nigroestriada mínima o ausente la prueba puede ser normal. Además, cuando es patológica no permite distinguir la DLB de la enfermedad de Parkinson ni de otros parkinsonismos atípicos.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-047",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Cómo se comporta típicamente la memoria en las fases iniciales de la demencia con cuerpos de Lewy?",
+  "opciones": [
+   "Está relativamente conservada y, si falla, mejora con el recuerdo asistido",
+   "Está gravemente afectada y no mejora con claves ni reconocimiento",
+   "Muestra un gradiente temporal inverso, con pérdida de recuerdos remotos",
+   "Se afecta antes que la atención y las funciones visuoespaciales"
+  ],
+  "correcta": 0,
+  "explicacion": "Lo precoz es la alteración atencional, ejecutiva y visuoespacial. Cuando hay fallo mnésico, la mejoría con recuerdo asistido apunta a un problema de recuperación de la información y no a un patrón hipocampal como el de la EA.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-048",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué riesgo añade el uso de neurolépticos en los pacientes con demencia con cuerpos de Lewy?",
+  "opciones": [
+   "Síndrome confusional, inestabilidad autonómica, empeoramiento extrapiramidal y caídas",
+   "Agranulocitosis dosis-dependiente ya con los primeros comprimidos",
+   "Crisis epilépticas de aparición tardía tras semanas de tratamiento",
+   "Empeoramiento selectivo del trastorno de conducta del sueño REM"
+  ],
+  "correcta": 0,
+  "explicacion": "A la mortalidad aumentada de los antipsicóticos en el anciano con deterioro cognitivo se suma la hipersensibilidad propia de la DLB, más probable en los primeros días. Se reservan para clínica grave y refractaria, prefiriendo atípicos como la quetiapina y monitorizando estrechamente.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-049",
+  "tema": "Demencias",
+  "subtema": "DFT y cuerpos de Lewy",
+  "enunciado": "¿Qué fármaco para el trastorno de conducta del sueño REM cuenta con ensayos clínicos aleatorizados que respaldan su eficacia?",
+  "opciones": [
+   "Melatonina",
+   "Clonazepam",
+   "Memantina",
+   "Quetiapina"
+  ],
+  "correcta": 0,
+  "explicacion": "Se han empleado clonazepam, memantina y melatonina, pero solo la melatonina dispone de ensayos aleatorizados que demuestren eficacia, con buen perfil de tolerabilidad. El clonazepam exige precaución por el empeoramiento cognitivo y el mayor riesgo de caídas.",
+  "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+ },
+ {
+  "id": "dem-050",
+  "tema": "Demencias",
+  "subtema": "Deterioro cognitivo vascular",
+  "enunciado": "¿Qué diferencia la progresión del deterioro cognitivo vascular de la de la enfermedad de Alzheimer?",
+  "opciones": [
+   "El paciente puede pasar de cognición normal a demencia sin fase intermedia de deterioro cognitivo leve",
+   "La fase de deterioro cognitivo leve es siempre más prolongada",
+   "El deterioro cognitivo subjetivo no existe como categoría",
+   "La repercusión funcional se establece antes que la alteración neuropsicológica"
+  ],
+  "correcta": 0,
+  "explicacion": "La clasificación clínica en deterioro subjetivo, deterioro cognitivo leve vascular y demencia vascular no implica un continuum: un evento cerebrovascular puede llevar directamente a la demencia. Además la frontera entre categorías depende de las actividades cotidianas de cada sujeto.",
+  "fuente": "Cap. 65. Deterioro cognitivo vascular"
+ },
+ {
+  "id": "dem-051",
+  "tema": "Demencias",
+  "subtema": "Deterioro cognitivo vascular",
+  "enunciado": "¿Qué dominios cognitivos se afectan de forma predominante en el deterioro cognitivo vascular?",
+  "opciones": [
+   "La atención, la velocidad de procesamiento y la función ejecutiva",
+   "La memoria episódica y la orientación espacial",
+   "El lenguaje y la memoria semántica",
+   "Las praxias y las funciones visuoperceptivas"
+  ],
+  "correcta": 0,
+  "explicacion": "La afectación suele ser multidominio, pero predominan la atención, la velocidad de procesamiento y las funciones ejecutivas, que dependen de redes ampliamente interconectadas. La lesión de regiones estratégicas de esas redes aumenta la probabilidad y la intensidad del deterioro.",
+  "fuente": "Cap. 65. Deterioro cognitivo vascular"
+ },
+ {
+  "id": "dem-052",
+  "tema": "Demencias",
+  "subtema": "Deterioro cognitivo vascular",
+  "enunciado": "¿Qué porcentaje de las demencias representa la demencia vascular en la mayoría de estudios epidemiológicos?",
+  "opciones": [
+   "Un 15-30 %, como segunda causa tras la enfermedad de Alzheimer",
+   "Un 5-10 %, como tercera causa tras la EA y la DLB",
+   "Un 50-70 %, como primera causa en mayores de 80 años",
+   "Un 35-45 %, empatada con la enfermedad de Alzheimer"
+  ],
+  "correcta": 0,
+  "explicacion": "Si además se cuentan las formas en que la patología vascular coexiste o contribuye a otras enfermedades neurodegenerativas, la cifra puede alcanzar el 50-70 % de todas las demencias.",
+  "fuente": "Cap. 65. Deterioro cognitivo vascular"
+ },
+ {
+  "id": "dem-053",
+  "tema": "Demencias",
+  "subtema": "Deterioro cognitivo vascular",
+  "enunciado": "¿Qué incidencia de deterioro cognitivo se observa tras un AIT o un ictus minor con NIHSS menor de 3?",
+  "opciones": [
+   "Hasta un 10 %",
+   "Prácticamente nula",
+   "En torno al 40 %",
+   "Por encima del 60 %"
+  ],
+  "correcta": 0,
+  "explicacion": "Aunque el riesgo aumenta con la gravedad del ictus, los eventos leves también dejan secuelas cognitivas: hasta un 52 % de los pacientes con Rankin 0-1 al alta tienen algún dominio alterado si se evalúan sistemáticamente. Conviene explorarlos aun con buena recuperación motora.",
+  "fuente": "Cap. 65. Deterioro cognitivo vascular"
+ },
+ {
+  "id": "dem-054",
+  "tema": "Demencias",
+  "subtema": "Deterioro cognitivo vascular",
+  "enunciado": "Según los criterios de consenso de 2017, ¿cuándo se habla de deterioro cognitivo vascular «probable» en lugar de «posible»?",
+  "opciones": [
+   "Cuando solo hay TC o el paciente tiene afasia, pero consta cognición normal previa",
+   "Cuando no se dispone de ninguna prueba de imagen y la sospecha es clínica",
+   "Cuando la RM muestra lesiones pero no hay evaluación neuropsicológica",
+   "Cuando coexiste patología de Alzheimer demostrada por biomarcadores"
+  ],
+  "correcta": 0,
+  "explicacion": "El deterioro cognitivo vascular posible es aquel en que no existe prueba de imagen disponible y la sospecha es clínica. La RM cerebral se considera el gold standard de imagen para el diagnóstico.",
+  "fuente": "Cap. 65. Deterioro cognitivo vascular"
+ },
+ {
+  "id": "dem-055",
+  "tema": "Demencias",
+  "subtema": "Deterioro cognitivo vascular",
+  "enunciado": "¿Qué recoge el acrónimo VITAMIN en el estudio de un paciente con deterioro cognitivo?",
+  "opciones": [
+   "Las causas secundarias potencialmente tratables que hay que descartar",
+   "Los dominios cognitivos que debe cubrir la exploración neuropsicológica",
+   "Los factores de riesgo vascular modificables sobre los que actuar",
+   "Las determinaciones vitamínicas obligadas en el análisis de cribado"
+  ],
+  "correcta": 0,
+  "explicacion": "Vascular, infecciosa, tóxicos, autoinmune, metabólico-carencial, iatrogénica, neoplasias y otras. Se descartan con la imagen (preferiblemente RM) y una analítica con hemograma, coagulación, bioquímica, hormonas tiroideas, vitamina B12, ácido fólico y serologías de sífilis y VIH.",
+  "fuente": "Cap. 65. Deterioro cognitivo vascular"
+ },
+ {
+  "id": "dem-056",
+  "tema": "Demencias",
+  "subtema": "Deterioro cognitivo vascular",
+  "enunciado": "¿Por qué el deterioro cognitivo vascular plantea diagnóstico diferencial con la hidrocefalia crónica del adulto?",
+  "opciones": [
+   "Porque asocia trastorno de la marcha, incontinencia y aumento ventricular por pérdida de volumen cerebral",
+   "Porque ambos cuadros responden a la extracción de LCR",
+   "Porque ambos cursan con un patrón amnésico de perfil hipocampal",
+   "Porque comparten el hallazgo de captación leptomeníngea en la RM"
+  ],
+  "correcta": 0,
+  "explicacion": "Las lesiones frontales y subcorticales producen parkinsonismo o trastorno de la marcha y afectación esfinteriana, y la atrofia genera una «hidrocefalia ex vacuo». La apatía es especialmente frecuente cuando predomina el daño de pequeño vaso.",
+  "fuente": "Cap. 65. Deterioro cognitivo vascular"
+ },
+ {
+  "id": "dem-057",
+  "tema": "Demencias",
+  "subtema": "Demencias rápidamente progresivas",
+  "enunciado": "¿Qué proporción de los casos de demencia rápidamente progresiva pueden representar las enfermedades por priones?",
+  "opciones": [
+   "Entre un 10 % y un 30 %",
+   "Menos del 1 %",
+   "Entre un 50 % y un 60 %",
+   "Más del 70 %"
+  ],
+  "correcta": 0,
+  "explicacion": "Los priones son una causa muy infrecuente de demencia en conjunto, pero adquieren mucho peso en el contexto de una DRP. La ECJ esporádica es su forma más frecuente, con una incidencia de 1-2 casos por millón de habitantes y año.",
+  "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+ },
+ {
+  "id": "dem-058",
+  "tema": "Demencias",
+  "subtema": "Demencias rápidamente progresivas",
+  "enunciado": "¿Qué aporta la técnica RT-QuIC en el estudio del LCR de una demencia rápidamente progresiva?",
+  "opciones": [
+   "Detecta cantidades ínfimas de proteína priónica patológica reproduciendo su conversión en tiempo real",
+   "Cuantifica la proteína tau total como marcador indirecto de pérdida neuronal",
+   "Identifica anticuerpos onconeuronales de superficie con mayor sensibilidad",
+   "Mide la carga de beta-amiloide 42 en casos de curso atípico"
+  ],
+  "correcta": 0,
+  "explicacion": "La proteína 14-3-3 en LCR es muy específica de ECJ esporádica en este contexto, con sensibilidad superior al 80-85 %, y suele acompañarse de un incremento marcado de tau total. La RT-QuIC mejora la sensibilidad de la detección y debería emplearse siempre que esté disponible.",
+  "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+ },
+ {
+  "id": "dem-059",
+  "tema": "Demencias",
+  "subtema": "Demencias rápidamente progresivas",
+  "enunciado": "¿Qué hallazgo electroencefalográfico apoya el diagnóstico de enfermedad de Creutzfeldt-Jakob esporádica?",
+  "opciones": [
+   "La actividad periódica de complejos de ondas agudas y lentas",
+   "Las ondas trifásicas de predominio frontal",
+   "Las ondas lentas posteriores con fluctuaciones pre-alfa o theta",
+   "La actividad delta rítmica intermitente temporal"
+  ],
+  "correcta": 0,
+  "explicacion": "No es habitual en fases tempranas, que es justo cuando hay más dudas diagnósticas. El EEG sirve además para descartar un estatus epiléptico no convulsivo; las ondas trifásicas orientan a encefalopatía hepática y las lentas posteriores a DLB.",
+  "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+ },
+ {
+  "id": "dem-060",
+  "tema": "Demencias",
+  "subtema": "Demencias rápidamente progresivas",
+  "enunciado": "Ante una demencia rápidamente progresiva de inicio antes de los 50 años, ¿hacia dónde debe orientarse el estudio?",
+  "opciones": [
+   "Hacia causas inflamatorias, infecciosas, neoplásicas o genéticas",
+   "Hacia causas neurodegenerativas y vasculares",
+   "Hacia causas psiquiátricas primarias",
+   "Hacia enfermedades por priones de forma preferente"
+  ],
+  "correcta": 0,
+  "explicacion": "La edad de inicio orienta la búsqueda: los pacientes de más de 70 años tienen con más frecuencia causas neurodegenerativas o vasculares. En cualquier caso, la prioridad es descartar primero lo potencialmente reversible y lo de instauración más rápida.",
+  "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+ },
+ {
+  "id": "dem-061",
+  "tema": "Demencias",
+  "subtema": "Demencias rápidamente progresivas",
+  "enunciado": "¿Qué peculiaridad presenta la encefalitis asociada a anticuerpos anti-IGLON5?",
+  "opciones": [
+   "Asocia trastornos del sueño no REM y depósito cerebral de tau fosforilada",
+   "Se acompaña de disritmia oculomasticatoria y diarrea persistente",
+   "Cursa con pupilas mióticas e irregulares con disociación luz-cerca",
+   "Responde de forma característica a corticoides a dosis elevadas"
+  ],
+  "correcta": 0,
+  "explicacion": "El depósito de tau fosforilada establece un puente entre los fenómenos inmunomediados y los neurodegenerativos. Las otras opciones describen la enfermedad de Whipple, la neurosífilis y la encefalopatía respondedora a esteroides asociada a tiroiditis autoinmune.",
+  "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+ },
+ {
+  "id": "dem-062",
+  "tema": "Demencias",
+  "subtema": "Demencias rápidamente progresivas",
+  "enunciado": "Ante un deterioro cognitivo rápidamente progresivo con pérdida de peso, diarrea persistente y trastornos oculomotores, ¿qué entidad hay que considerar?",
+  "opciones": [
+   "La enfermedad de Whipple",
+   "La encefalopatía de Wernicke-Korsakov",
+   "La panencefalitis esclerosante subaguda",
+   "La neurosífilis tardía"
+  ],
+  "correcta": 0,
+  "explicacion": "La infección por Tropheryma whipplei asocia malabsorción, artralgias y miocardiopatía, y es característica la disritmia oculomasticatoria. El estudio gastrointestinal con biopsia duodenal y PCR para el germen orienta el diagnóstico; el anti-DPPX es la otra causa a considerar con diarrea.",
+  "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+ },
+ {
+  "id": "dem-063",
+  "tema": "Demencias",
+  "subtema": "Demencias rápidamente progresivas",
+  "enunciado": "¿Qué define la pupila de Argyll-Robertson, sugestiva de neurosífilis?",
+  "opciones": [
+   "La abolición del reflejo fotomotor con conservación del de acomodación",
+   "La abolición del reflejo de acomodación con fotomotor conservado",
+   "La midriasis arreactiva bilateral con ptosis asociada",
+   "La anisocoria que aumenta con la luz por déficit simpático"
+  ],
+  "correcta": 0,
+  "explicacion": "Es la llamada disociación «luz-cerca», con pupilas habitualmente mióticas e irregulares. Aunque característica de la neurosífilis, también se describe en lesiones mesencefálicas y en diabéticos.",
+  "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+ },
+ {
+  "id": "dem-064",
+  "tema": "Demencias",
+  "subtema": "Demencias rápidamente progresivas",
+  "enunciado": "Ante la sospecha firme de encefalitis inmunomediada con anticuerpos negativos, ¿cuál es la conducta razonable?",
+  "opciones": [
+   "Mantener el tratamiento inmunosupresor empírico y buscar una neoplasia oculta",
+   "Retirar el tratamiento inmunosupresor y reevaluar en unos meses",
+   "Sustituir la inmunosupresión por corticoides a dosis bajas mantenidas",
+   "Indicar directamente una biopsia cerebral para confirmar el diagnóstico"
+  ],
+  "correcta": 0,
+  "explicacion": "Hasta un 7 % de los cuadros de encefalitis límbica son seronegativos, y la neoplasia oculta aparece hasta en un 50 % de los casos. La seronegatividad no obliga a retirar el tratamiento si la sospecha clínica es alta, y conviene repetir los anticuerpos en el tiempo.",
+  "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+ }
+]

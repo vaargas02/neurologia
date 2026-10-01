@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1B2D5B">
+<title>App de estudio</title>
+<link rel="manifest" href="./manifest.json">
+<link rel="stylesheet" href="./estilos.css">
+<link rel="apple-touch-icon" href="./icono-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+</head>
+<body>
+
+<div id="aviso-version" class="aviso oculto">
+  <span>Hay una versión nueva.</span>
+  <button id="btn-actualizar" class="enlace">Actualizar</button>
+</div>
+
+<header id="cabecera">
+  <h1 id="titulo-app">…</h1>
+  <p id="subtitulo-app"></p>
+</header>
+
+<main>
+  <!-- ============ HOY ============ -->
+  <section id="vista-hoy" class="vista">
+    <div class="tarjeton">
+      <p class="dato-grande"><span id="n-pendientes">0</span></p>
+      <p class="dato-etiqueta">repasos pendientes hoy</p>
+      <p id="aviso-tope" class="nota oculto"></p>
+      <button id="btn-estudiar" class="principal">Estudiar</button>
+      <button id="btn-nuevas" class="secundario">Estudiar <span id="n-nuevas">10</span> nuevas</button>
+      <p id="sin-nada" class="nota oculto">Nada pendiente. Puedes adelantar tarjetas nuevas.</p>
+    </div>
+
+    <h2>Aciertos por <span class="eje-etiqueta">tema</span></h2>
+    <div id="mapa-aciertos" class="mapa"></div>
+
+    <div class="fila-metricas">
+      <div class="metrica"><b id="m-racha">0</b><span>días seguidos</span></div>
+      <div class="metrica"><b id="m-vistas">0/0</b><span>tarjetas vistas</span></div>
+      <div class="metrica"><b id="m-manana">0</b><span>repasos mañana</span></div>
+    </div>
+  </section>
+
+  <!-- ============ CONSULTA ============ -->
+  <section id="vista-consulta" class="vista oculto">
+    <input id="buscador" type="search" placeholder="Buscar en teoría y tarjetas…" autocomplete="off">
+
+    <nav class="subpestanas">
+      <button class="subpestana activa" data-sub="teoria">Teoría</button>
+      <button class="subpestana" data-sub="tarjetas">Tarjetas</button>
+      <button class="subpestana" data-sub="marcadas">Marcadas</button>
+    </nav>
+
+    <div id="sub-teoria" class="subvista"></div>
+    <div id="sub-tarjetas" class="subvista oculto"></div>
+    <div id="sub-marcadas" class="subvista oculto"></div>
+  </section>
+
+  <!-- ============ PROGRESO ============ -->
+  <section id="vista-progreso" class="vista oculto">
+    <div class="fila-metricas">
+      <div class="metrica"><b id="p-racha">0</b><span>días seguidos</span></div>
+      <div class="metrica"><b id="p-mejor">0</b><span>mejor racha</span></div>
+      <div class="metrica"><b id="p-hoy">0</b><span>respondidas hoy</span></div>
+    </div>
+    <div class="fila-metricas">
+      <div class="metrica"><b id="p-vistas">0/0</b><span>tarjetas vistas</span></div>
+      <div class="metrica"><b id="p-maduras">0</b><span>consolidadas</span></div>
+      <div class="metrica"><b id="p-retencion">—</b><span>retención</span></div>
+    </div>
+    <p class="nota">Retención: aciertos en tarjetas consolidadas (intervalo mayor de <span id="p-umbral">21</span> días). Es la cifra que dice si el estudio está cuajando.</p>
+
+    <h2>Carga de los próximos 7 días</h2>
+    <div id="prevision" class="prevision"></div>
+
+    <h2>Aciertos por <span class="eje-etiqueta">tema</span></h2>
+    <div id="mapa-aciertos-2" class="mapa"></div>
+
+    <h2>Estado de las tarjetas</h2>
+    <div id="reparto" class="reparto"></div>
+
+    <p id="p-problematicas" class="nota"></p>
+  </section>
+
+  <!-- ============ AJUSTES ============ -->
+  <section id="vista-ajustes" class="vista oculto">
+    <h2>Sesiones</h2>
+    <label class="ajuste">Tarjetas nuevas al día
+      <input id="aj-nuevas" type="number" min="0" max="100" step="1">
+    </label>
+    <label class="ajuste">Tope de repasos al día
+      <input id="aj-tope" type="number" min="5" max="500" step="5">
+    </label>
+    <label class="ajuste">Apariencia
+      <select id="aj-tema">
+        <option value="auto">Automática</option>
+        <option value="claro">Clara</option>
+        <option value="oscuro">Oscura</option>
+      </select>
+    </label>
+    <div id="bloque-atrasos" class="bloque oculto">
+      <p class="nota" id="texto-atrasos"></p>
+      <button id="btn-repartir" class="secundario">Repartir atrasos en 7 días</button>
+    </div>
+
+    <h2>Temas</h2>
+    <p class="nota">Desactiva lo que no te interese. El progreso se conserva por si lo reactivas.</p>
+    <div id="lista-temas"></div>
+
+    <h2>Preguntas ocultas (<span id="n-ocultas">0</span>)</h2>
+    <div id="lista-ocultas"></div>
+
+    <h2>Con menos frecuencia (<span id="n-menos">0</span>)</h2>
+    <div id="lista-menos"></div>
+
+    <h2>Copia de seguridad</h2>
+    <p class="nota">El progreso vive solo en este dispositivo. Si borras los datos del navegador, se pierde.</p>
+    <button id="btn-exportar" class="secundario">Exportar progreso</button>
+    <button id="btn-importar" class="secundario">Importar progreso</button>
+    <input id="fichero-importar" type="file" accept="application/json" hidden>
+    <button id="btn-reiniciar" class="peligro">Borrar todo el progreso</button>
+    <p class="nota" id="pie-version"></p>
+  </section>
+</main>
+
+<nav id="pestanas">
+  <button class="pestana activa" data-vista="hoy"><span>Hoy</span></button>
+  <button class="pestana" data-vista="consulta"><span>Consulta</span></button>
+  <button class="pestana" data-vista="progreso"><span>Progreso</span></button>
+  <button class="pestana" data-vista="ajustes"><span>Ajustes</span></button>
+</nav>
+
+<!-- ============ SESIÓN ============ -->
+<div id="sesion" class="oculto">
+  <div id="barra-sesion">
+    <button id="btn-salir" aria-label="Salir de la sesión">✕</button>
+    <div class="progreso-sesion"><div id="progreso-relleno"></div></div>
+    <span id="contador-sesion">0/0</span>
+  </div>
+
+  <div id="cuerpo-sesion">
+    <p id="etiqueta-tarjeta" class="etiqueta"></p>
+    <p id="enunciado"></p>
+    <img id="imagen-tarjeta" class="oculto" alt="">
+    <button id="btn-opciones" class="principal">Mostrar opciones</button>
+    <div id="opciones"></div>
+
+    <div id="feedback" class="oculto">
+      <div id="explicacion"></div>
+      <a id="enlace-teoria" class="enlace oculto">Ver teoría relacionada</a>
+      <button id="btn-deshacer" class="enlace-mini oculto">¿Has pulsado sin querer? Deshacer</button>
+    </div>
+  </div>
+
+  <div id="pie-sesion" class="oculto">
+    <div id="panel-problematica" class="oculto">
+      <p id="texto-problematica"></p>
+      <button data-leech="menos" class="secundario">Mostrar menos</button>
+      <button data-leech="ocultar" class="secundario">Ocultar</button>
+      <button data-leech="seguir" class="secundario">Sigo intentándolo</button>
+    </div>
+    <div id="panel-normal">
+      <div class="fila-confianza">
+        <button id="btn-dude" class="confianza">Dudé</button>
+        <button id="btn-facil" class="confianza">Muy fácil</button>
+        <button id="btn-mas" class="mas" aria-label="Más opciones">⋯</button>
+      </div>
+      <button id="btn-siguiente" class="principal ancho">Siguiente</button>
+    </div>
+  </div>
+
+  <div id="menu-mas" class="oculto">
+    <button data-mas="menos">Mostrar menos a menudo</button>
+    <button data-mas="ocultar">Ocultar esta pregunta</button>
+    <button data-mas="cerrar" class="tenue">Cancelar</button>
+  </div>
+
+  <div id="resumen" class="oculto">
+    <h2>Sesión terminada</h2>
+    <p id="texto-resumen"></p>
+    <button id="btn-cerrar-resumen" class="principal">Volver</button>
+  </div>
+</div>
+
+<div id="dialogo" class="oculto">
+  <div class="caja">
+    <p id="dialogo-texto"></p>
+    <div class="fila">
+      <button id="dialogo-no" class="secundario">No</button>
+      <button id="dialogo-si" class="peligro">Sí</button>
+    </div>
+  </div>
+</div>
+
+<script src="./motor.js"></script>
+</body>
+</html>

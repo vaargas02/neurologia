@@ -1,0 +1,339 @@
+[
+  {
+    "id": "sis-016",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades sistémicas y autoinmunes",
+    "enunciado": "¿Qué pauta de corticoides recomienda el manual en una arteritis de células gigantes sin pérdida de agudeza visual?",
+    "opciones": [
+      "Prednisona 60-80 mg al día",
+      "Metilprednisolona 500 mg asociada a ácido acetilsalicílico",
+      "Prednisona 15-20 mg al día en pauta descendente rápida",
+      "Pulsos de metilprednisolona de 1 g durante cinco días"
+    ],
+    "correcta": 0,
+    "explicacion": "Mientras la visión esté conservada bastan 60-80 mg de prednisona. La metilprednisolona 500 mg con ácido acetilsalicílico se reserva para el caso contrario, cuando ya hay disminución de agudeza visual.",
+    "fuente": "Cap. 35. Manifestaciones neurológicas de las enfermedades sistémicas"
+  },
+  {
+    "id": "sis-017",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades sistémicas y autoinmunes",
+    "enunciado": "¿Qué combinación bioquímica establece el diagnóstico de enfermedad de Wilson?",
+    "opciones": [
+      "Ceruloplasmina baja, cobre sérico bajo y cupruria superior a 100 mcg/24 h",
+      "Ceruloplasmina alta, cobre sérico alto y cupruria superior a 100 mcg/24 h",
+      "Ceruloplasmina baja, cobre sérico alto y cupruria inferior a 40 mcg/24 h",
+      "Ceruloplasmina normal, cobre sérico bajo y cupruria inferior a 40 mcg/24 h"
+    ],
+    "correcta": 0,
+    "explicacion": "El defecto está en la secreción lisosomal de cobre a la bilis, así que el cobre deja de eliminarse por las heces y pasa a la orina. Los puntos de corte del manual son ceruloplasmina <20 mg/dl, cobre en sangre <80 mg/ml y cupruria >100 mcg/24 h.",
+    "teoria": "cobre-b12-mielopatias",
+    "fuente": "Cap. 35. Manifestaciones neurológicas de las enfermedades sistémicas"
+  },
+  {
+    "id": "sis-018",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades sistémicas y autoinmunes",
+    "enunciado": "En la neurosarcoidosis, ¿qué par craneal se afecta con más frecuencia?",
+    "opciones": [
+      "El VII",
+      "El II",
+      "El VIII",
+      "El III"
+    ],
+    "correcta": 0,
+    "explicacion": "El facial aparece en la mitad de los casos con afectación de pares craneales. También puede lesionarse el óptico, uni o bilateral, y el VIII generalmente en su porción auditiva; el LCR suele mostrar hipoglucorraquia con pleocitosis linfocitaria.",
+    "fuente": "Cap. 35. Manifestaciones neurológicas de las enfermedades sistémicas"
+  },
+  {
+    "id": "sis-019",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades sistémicas y autoinmunes",
+    "enunciado": "¿Qué describe el fenómeno de coasting en la neuropatía por quimioterapia?",
+    "opciones": [
+      "El empeoramiento de la neuropatía tras retirar el fármaco",
+      "La aparición de los síntomas solo durante la infusión del fármaco",
+      "La resolución completa de la neuropatía al suspender el tratamiento",
+      "La progresión de los síntomas desde la raíz hacia la parte distal"
+    ],
+    "correcta": 0,
+    "explicacion": "Es propio de los platinos y resulta contraintuitivo: la clínica puede seguir empeorando después de suspender el tratamiento. La evolución global es favorable tras la retirada, aunque la recuperación queda incompleta hasta en el 15-20% de los pacientes.",
+    "fuente": "Cap. 35. Manifestaciones neurológicas de las enfermedades sistémicas"
+  },
+  {
+    "id": "sis-020",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades sistémicas y autoinmunes",
+    "enunciado": "¿Qué característica tiene típicamente el dolor de la compresión medular metastásica?",
+    "opciones": [
+      "Es dorsal y empeora con el decúbito",
+      "Es lumbar y cede por completo al tumbarse",
+      "Es cervical y aparece solo con la bipedestación prolongada",
+      "Es abdominal y mejora con la flexión del tronco"
+    ],
+    "correcta": 0,
+    "explicacion": "Ocurre en el 3-5% de los pacientes con cáncer y afecta sobre todo a segmentos torácicos. Al reconocerla debe indicarse RM urgente y dexametasona en bolo de 10-16 mg seguida de 12-16 mg al día.",
+    "fuente": "Cap. 35. Manifestaciones neurológicas de las enfermedades sistémicas"
+  },
+  {
+    "id": "sis-021",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatía hipóxico-isquémica",
+    "enunciado": "¿Qué estructuras son más vulnerables al cese del flujo sanguíneo cerebral?",
+    "opciones": [
+      "Los ganglios basales, el sector CA1 del hipocampo, las células de Purkinje y el neocórtex",
+      "La sustancia blanca periventricular, el cuerpo calloso y la cápsula interna",
+      "El bulbo raquídeo, la protuberancia y los pedúnculos cerebelosos",
+      "El hipotálamo, la hipófisis y los cuerpos mamilares"
+    ],
+    "correcta": 0,
+    "explicacion": "Dentro de los ganglios basales destacan el caudado y el putamen. La sensibilidad del lóbulo temporal medial explica que, entre los pacientes que recuperan buen nivel de consciencia, la memoria sea el dominio que peor queda a largo plazo.",
+    "teoria": "pronostico-pcr",
+    "fuente": "Cap. 36. Encefalopatía hipóxico-isquémica"
+  },
+  {
+    "id": "sis-022",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatía hipóxico-isquémica",
+    "enunciado": "¿Cuándo ofrece mayor rendimiento pronóstico la enolasa neuronal específica tras una parada cardiorrespiratoria?",
+    "opciones": [
+      "A las 48-72 horas",
+      "En las primeras 6 horas",
+      "A los 7 días",
+      "Al mes del evento"
+    ],
+    "correcta": 0,
+    "explicacion": "En los pacientes con mala evolución la NSE asciende de forma progresiva hasta un pico a las 48-96 horas, mientras que desciende tras las primeras 24 horas si la evolución es favorable. No hay evidencia sobre su utilidad pasadas las 72 horas.",
+    "teoria": "pronostico-pcr",
+    "fuente": "Cap. 36. Encefalopatía hipóxico-isquémica"
+  },
+  {
+    "id": "sis-023",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatía hipóxico-isquémica",
+    "enunciado": "¿Qué ventaja tienen los potenciales evocados somatosensoriales sobre el EEG en la valoración pronóstica tras una parada cardiorrespiratoria?",
+    "opciones": [
+      "No se alteran con propofol ni midazolam",
+      "Permiten emitir el pronóstico en las primeras 6 horas",
+      "Su alteración es compatible con una evolución favorable",
+      "Evalúan de forma directa la corteza motora"
+    ],
+    "correcta": 0,
+    "explicacion": "Sí pueden alterarse en el coma barbitúrico, y su calidad se ve limitada por el artefacto muscular, que se controla con bloqueantes neuromusculares. La ausencia bilateral de la onda N20 indica mal pronóstico con elevada especificidad.",
+    "teoria": "pronostico-pcr",
+    "fuente": "Cap. 36. Encefalopatía hipóxico-isquémica"
+  },
+  {
+    "id": "sis-024",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatía hipóxico-isquémica",
+    "enunciado": "¿Qué tratamiento ha demostrado mejorar el pronóstico de la encefalopatía postanóxica?",
+    "opciones": [
+      "El control de la temperatura corporal",
+      "Los barbitúricos para reducir el metabolismo neuronal",
+      "La eritropoyetina por su efecto antiinflamatorio",
+      "El bicarbonato sódico para prevenir la acidosis metabólica"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el único con efecto neuroprotector demostrado, tanto con hipotermia leve-moderada como manteniendo la normotermia, y el periodo de hipotermia suele durar unas 24 horas. El resto de estrategias ensayadas no ha mostrado eficacia clínica.",
+    "teoria": "pronostico-pcr",
+    "fuente": "Cap. 36. Encefalopatía hipóxico-isquémica"
+  },
+  {
+    "id": "sis-025",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatías tóxicas y metabólicas",
+    "enunciado": "¿Qué hallazgo neurooftalmológico orienta a una encefalopatía tóxico-metabólica frente a una lesión estructural?",
+    "opciones": [
+      "La conservación del reflejo pupilar incluso en coma profundo",
+      "La desviación conjugada de la mirada hacia abajo",
+      "La midriasis arreactiva bilateral",
+      "La abolición de las respuestas vestibulares"
+    ],
+    "correcta": 0,
+    "explicacion": "El reflejo pupilar y las respuestas vestibulares se mantienen salvo en la hipoxia grave, la intoxicación por atropina o escopolamina y el coma barbitúrico profundo. La desviación conjugada de la mirada hacia abajo aparece en ambos escenarios, así que aislada no sirve para diferenciarlos.",
+    "fuente": "Cap. 37. Encefalopatías tóxicas y metabólicas"
+  },
+  {
+    "id": "sis-026",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatías tóxicas y metabólicas",
+    "enunciado": "Tras tratar los factores precipitantes de una encefalopatía hepática, ¿cuál es el siguiente escalón terapéutico?",
+    "opciones": [
+      "Lactulosa ajustada hasta conseguir 2-3 deposiciones blandas al día",
+      "Rifaximina 400 mg tres veces al día desde el inicio",
+      "Restricción proteica estricta durante al menos dos semanas",
+      "L-ornitina L-aspartato por vía intravenosa"
+    ],
+    "correcta": 0,
+    "explicacion": "La lactulosa o el lactitol disminuyen la absorción de amonio desde el tracto gastrointestinal y se dosifican por el número de deposiciones; si no hay tolerancia oral pueden darse en enema. La rifaximina se añade si a las 48 horas no mejora el estado mental, y la LOLA queda para casos refractarios.",
+    "fuente": "Cap. 37. Encefalopatías tóxicas y metabólicas"
+  },
+  {
+    "id": "sis-027",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatías tóxicas y metabólicas",
+    "enunciado": "¿Qué mecanismo explica el síndrome de desequilibrio por diálisis?",
+    "opciones": [
+      "Un gradiente osmótico entre la urea cerebral y la plasmática que provoca edema",
+      "El acúmulo cerebral de aluminio procedente del agua de diálisis",
+      "Un descenso brusco del sodio plasmático durante la sesión",
+      "La hipoperfusión cerebral secundaria a la hipotensión de la sesión"
+    ],
+    "correcta": 0,
+    "explicacion": "Al bajar rápido la urea en plasma, el agua entra al cerebro y aparecen cefalea, inquietud, calambres, confusión, crisis o coma. Se trata acortando la diálisis a 2-3 horas y reduciendo su eficacia; el acúmulo de aluminio corresponde a la encefalopatía de diálisis, cuyo tratamiento es la deferoxamina.",
+    "fuente": "Cap. 37. Encefalopatías tóxicas y metabólicas"
+  },
+  {
+    "id": "sis-028",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatías tóxicas y metabólicas",
+    "enunciado": "¿Por qué se limita la velocidad de corrección de la hiponatremia?",
+    "opciones": [
+      "Para prevenir una mielinólisis central o extrapontina",
+      "Para prevenir una encefalopatía de Wernicke",
+      "Para prevenir una hemorragia subaracnoidea",
+      "Para prevenir un síndrome de secreción inadecuada de ADH"
+    ],
+    "correcta": 0,
+    "explicacion": "La corrección no debe superar los 6-8 mmol en 24 horas. En la clínica grave se busca subir 4-6 mmol/l en las primeras 4-6 horas y se suspende al ceder los síntomas o al alcanzar un sodio de 120-125 mmol/l.",
+    "fuente": "Cap. 37. Encefalopatías tóxicas y metabólicas"
+  },
+  {
+    "id": "sis-029",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatías tóxicas y metabólicas",
+    "enunciado": "¿En qué consiste el signo de Trousseau?",
+    "opciones": [
+      "Espasmo del carpo al inflar un esfigmomanómetro por encima de la presión sistólica",
+      "Contracción de la musculatura facial al percutir el nervio facial",
+      "Flexión involuntaria del pie al percutir el tendón de Aquiles",
+      "Parestesias periorales que aparecen al hiperventilar"
+    ],
+    "correcta": 0,
+    "explicacion": "Se mantiene el manguito inflado unos tres minutos y forma parte de la tetania hipocalcémica, junto al signo de Chvostek, que es la contracción facial ipsilateral al golpear el nervio facial delante del conducto auditivo externo. Las crisis epilépticas pueden ser la única manifestación de hipocalcemia.",
+    "fuente": "Cap. 37. Encefalopatías tóxicas y metabólicas"
+  },
+  {
+    "id": "sis-030",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades carenciales",
+    "enunciado": "Ante la sospecha de déficit de vitamina B12 con niveles séricos normales, ¿qué determinaciones lo confirman?",
+    "opciones": [
+      "Homocisteína y ácido metilmalónico",
+      "Ceruloplasmina y cobre en orina",
+      "Ácido fólico y ferritina",
+      "Anticuerpos antitransglutaminasa e IgA"
+    ],
+    "correcta": 0,
+    "explicacion": "Los niveles de cobalamina pueden falsearse por cambios en las proteínas transportadoras, y ante un déficit real ambos metabolitos están anormalmente elevados. En el déficit de folato sube la homocisteína pero no el metilmalónico.",
+    "teoria": "cobre-b12-mielopatias",
+    "fuente": "Cap. 38. Enfermedades carenciales del sistema nervioso"
+  },
+  {
+    "id": "sis-031",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades carenciales",
+    "enunciado": "¿Cuántos criterios de Caine hacen falta para sospechar una encefalopatía de Wernicke e iniciar tratamiento?",
+    "opciones": [
+      "Dos de cuatro",
+      "Tres de cuatro",
+      "Los cuatro",
+      "Uno de cuatro"
+    ],
+    "correcta": 0,
+    "explicacion": "Los ítems son causas potenciales de déficit tiamínico, anomalías oculomotoras, ataxia de la marcha y confusión. Son criterios muy sensibles y poco específicos, pensados para comenzar la tiamina cuanto antes; la tríada clásica completa solo la presenta el 10% de los pacientes.",
+    "fuente": "Cap. 38. Enfermedades carenciales del sistema nervioso"
+  },
+  {
+    "id": "sis-032",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades carenciales",
+    "enunciado": "El cobre y la ceruloplasmina séricos están bajos tanto en el déficit de cobre como en la enfermedad de Wilson. ¿Qué determinación los diferencia?",
+    "opciones": [
+      "El cobre en orina de 24 horas",
+      "La ceruloplasmina sérica",
+      "El cobre sérico total",
+      "Los niveles de zinc en sangre"
+    ],
+    "correcta": 0,
+    "explicacion": "La cupruria es baja en el déficit y está elevada en el Wilson, donde el cobre deja de eliminarse por la bilis. Ante un déficit conviene pedir también reactantes de fase aguda, que pueden normalizar falsamente ambos parámetros, y niveles de zinc, cuyo exceso favorece la malabsorción de cobre.",
+    "teoria": "cobre-b12-mielopatias",
+    "fuente": "Cap. 38. Enfermedades carenciales del sistema nervioso"
+  },
+  {
+    "id": "sis-033",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades carenciales",
+    "enunciado": "¿Qué estructura se desmieliniza de forma selectiva en el síndrome de Marchiafava-Bignami?",
+    "opciones": [
+      "El cuerpo calloso",
+      "La protuberancia",
+      "Los cuerpos mamilares",
+      "Los pedúnculos cerebelosos medios"
+    ],
+    "correcta": 0,
+    "explicacion": "Se da en alcohólicos crónicos y cursa con deterioro cognitivo y síntomas de desconexión interhemisférica, como la apraxia del miembro no dominante. El tratamiento es de soporte, con cese del alcohol y reposición nutricional multivitamínica.",
+    "fuente": "Cap. 38. Enfermedades carenciales del sistema nervioso"
+  },
+  {
+    "id": "sis-034",
+    "tema": "Pat. sistémica",
+    "subtema": "Neurología y embarazo",
+    "enunciado": "¿Qué proporción de los ictus maternos es hemorrágica?",
+    "opciones": [
+      "Aproximadamente la mitad",
+      "Alrededor del 13%",
+      "Menos del 5%",
+      "Cerca del 90%"
+    ],
+    "correcta": 0,
+    "explicacion": "Contrasta con la población general, donde el 87% de los ictus son isquémicos. El momento de mayor riesgo va desde el tercer trimestre hasta el posparto inmediato, y el mecanismo orienta al momento: las hemorragias por rotura de lesiones vasculares suelen darse durante el embarazo y los ictus isquémicos en el posparto.",
+    "fuente": "Cap. 39. Complicaciones neurológicas en la mujer embarazada"
+  },
+  {
+    "id": "sis-035",
+    "tema": "Pat. sistémica",
+    "subtema": "Neurología y embarazo",
+    "enunciado": "¿Cuál es el umbral de radiación ionizante con potencial teratogénico para el feto?",
+    "opciones": [
+      "50 mGy",
+      "0,01 mGy",
+      "5 mGy",
+      "500 mGy"
+    ],
+    "correcta": 0,
+    "explicacion": "Una TC craneal sin contraste expone al feto a 0,001-0,01 mGy, muy por debajo de esa cifra, así que es aceptable en cualquier trimestre: el riesgo de no llegar al diagnóstico pesa más que el riesgo teórico de la radiación. Lo mismo vale para el contraste yodado de la angio-TC.",
+    "fuente": "Cap. 39. Complicaciones neurológicas en la mujer embarazada"
+  },
+  {
+    "id": "sis-036",
+    "tema": "Pat. sistémica",
+    "subtema": "Neurología y embarazo",
+    "enunciado": "¿Qué rasgo distingue la cefalea pospunción dural de una migraña?",
+    "opciones": [
+      "Su componente ortostático",
+      "La fotofobia que la acompaña",
+      "Las náuseas asociadas",
+      "Su localización occipital"
+    ],
+    "correcta": 0,
+    "explicacion": "Empeora con la bipedestación y la sedestación; la fotofobia, las náuseas, la diplopía o la hiperacusia pueden acompañarla pero no la diferencian. Si no cede con medidas conservadoras se recurre al parche de sangre autóloga epidural, con éxito del 70-94% si se hace pasadas al menos 24 horas.",
+    "fuente": "Cap. 39. Complicaciones neurológicas en la mujer embarazada"
+  },
+  {
+    "id": "sis-037",
+    "tema": "Pat. sistémica",
+    "subtema": "Neurología y embarazo",
+    "enunciado": "¿Qué complicación convierte la apoplejía hipofisaria en una emergencia neuroendocrina?",
+    "opciones": [
+      "La insuficiencia suprarrenal aguda",
+      "La diabetes insípida central",
+      "El hipotiroidismo grave",
+      "La hiperprolactinemia sintomática"
+    ],
+    "correcta": 0,
+    "explicacion": "Está presente en dos tercios de los pacientes y contribuye de forma importante a la mortalidad, así que la reposición de corticoides es prioritaria. El síntoma más común es una cefalea explosiva retroorbitaria, con frecuencia acompañada de meningismo.",
+    "fuente": "Cap. 39. Complicaciones neurológicas en la mujer embarazada"
+  }
+]

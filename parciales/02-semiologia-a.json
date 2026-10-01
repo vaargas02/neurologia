@@ -1,0 +1,525 @@
+[
+  {
+    "id": "sem-001",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué variante anatómica explica que un infarto talámico paramediano bilateral se manifieste como pérdidas fluctuantes del nivel de consciencia?",
+    "opciones": [
+      "Arteria de Percheron, tálamo-perforante única que nace de la cerebral posterior",
+      "Origen común de ambas arterias cerebrales anteriores",
+      "Arteria trigeminal persistente con relleno de la basilar",
+      "Arteria cerebelosa posteroinferior con origen extradural"
+    ],
+    "correcta": 0,
+    "explicacion": "En la arteria de Percheron una única tálamo-perforante surge de la cerebral posterior e irriga ambos tálamos, de modo que su oclusión produce infarto paramediano bilateral con alteración fluctuante de la consciencia.",
+    "fuente": "Cap. 7. Síncope, caídas y drop attacks",
+    "teoria": "sindromes-tronco"
+  },
+  {
+    "id": "sem-002",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "La isquemia transitoria bilateral de la corteza parasagital que controla las piernas puede producir drop attacks. ¿Qué variante anatómica lo favorece y en qué porcentaje de la población está presente?",
+    "opciones": [
+      "Origen común de ambas cerebrales anteriores, en el 20 %",
+      "Arteria de Percheron, en el 20 %",
+      "Ausencia de comunicante posterior, en el 40 %",
+      "Persistencia de la arteria hipoglosa, en el 5 %"
+    ],
+    "correcta": 0,
+    "explicacion": "Cuando ambas cerebrales anteriores tienen un mismo origen (presente en el 20 % de la población), su oclusión —habitualmente cardioembólica— puede provocar isquemia bilateral de las áreas premotora y motora parasagitales.",
+    "fuente": "Cap. 7. Síncope, caídas y drop attacks",
+    "teoria": "sindromes-tronco"
+  },
+  {
+    "id": "sem-003",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué criterios permiten definir un drop attack como funcional?",
+    "opciones": [
+      "Incongruencia e inconsistencia, con semiología cambiante y signos positivos funcionales",
+      "Ausencia de pródromos y frecuencia regular de los episodios",
+      "Relación con el ejercicio físico y el reposo posterior, con historia familiar",
+      "Pérdida de consciencia breve con recuperación espontánea completa"
+    ],
+    "correcta": 0,
+    "explicacion": "El diagnóstico funcional se hace en positivo: incongruencia e inconsistencia, semiología cambiante, síntomas disociativos prodrómicos y signos positivos en la exploración. Aun así se precisa un estudio básico para descartar exacerbaciones funcionales de procesos orgánicos.",
+    "fuente": "Cap. 7. Síncope, caídas y drop attacks"
+  },
+  {
+    "id": "sem-004",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué rasgo define temporalmente al delirium?",
+    "opciones": [
+      "Instauración en horas o días con fluctuaciones características",
+      "Instauración en semanas con deterioro progresivo y estable",
+      "Inicio brusco y resolución completa en menos de una hora",
+      "Curso continuo sin variaciones a lo largo del día"
+    ],
+    "correcta": 0,
+    "explicacion": "El delirium se desarrolla en un plazo breve (horas-días) y fluctúa a lo largo del día, afectando sobre todo a la atención y la alerta, junto a desregulación del ritmo vigilia-sueño.",
+    "fuente": "Cap. 8. Delirium. Síndrome confusional"
+  },
+  {
+    "id": "sem-005",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Por qué los criterios de la ICD-10 detectan menos casos de delirium que los del DSM?",
+    "opciones": [
+      "Exigen afectación multidominio, incluidas emoción y ciclo sueño-vigilia",
+      "Requieren confirmación con electroencefalograma",
+      "Solo se aplican a pacientes mayores de 80 años",
+      "Excluyen los casos con factor precipitante identificado"
+    ],
+    "correcta": 0,
+    "explicacion": "La ICD-10 es más restrictiva porque exige afectación de varios dominios (atención, cognición, consciencia, emoción y ciclo sueño-vigilia). En un estudio en ancianos hospitalizados la incidencia fue del 24,9 % con DSM-IV frente al 10,1 % con ICD-10.",
+    "fuente": "Cap. 8. Delirium. Síndrome confusional"
+  },
+  {
+    "id": "sem-006",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué proporción de los casos de delirium se considera prevenible?",
+    "opciones": [
+      "Un 30-40 %",
+      "Un 5-10 %",
+      "Un 60-70 %",
+      "Prácticamente el 100 %"
+    ],
+    "correcta": 0,
+    "explicacion": "El manual considera prevenible el 30-40 % de los casos, lo que justifica actuar sobre factores de riesgo como la deshidratación o la inmovilización y corregir precozmente el precipitante agudo.",
+    "fuente": "Cap. 8. Delirium. Síndrome confusional"
+  },
+  {
+    "id": "sem-007",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué relación se ha descrito entre delirium y demencia?",
+    "opciones": [
+      "Haber sufrido delirium multiplica por 8 la incidencia de demencia a largo plazo",
+      "El delirium protege frente al deterioro cognitivo posterior",
+      "La relación desaparece al ajustar por la edad del paciente",
+      "Solo se ha descrito asociación en la demencia vascular"
+    ],
+    "correcta": 0,
+    "explicacion": "Varios estudios prospectivos y un metaanálisis encuentran una incidencia de demencia 8 veces mayor tras un delirium; además acelera el deterioro, con una pérdida adicional de 1 punto de MMSE al año.",
+    "fuente": "Cap. 8. Delirium. Síndrome confusional"
+  },
+  {
+    "id": "sem-008",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Dónde se origina el sistema reticular activador ascendente?",
+    "opciones": [
+      "En una red neuronal de la protuberancia dorsal y el mesencéfalo",
+      "En los núcleos intralaminares del tálamo",
+      "En la formación reticular bulbar ventral",
+      "En la corteza cingular anterior bilateral"
+    ],
+    "correcta": 0,
+    "explicacion": "El SRAA nace en la protuberancia dorsal y el mesencéfalo; sus proyecciones atraviesan el tálamo y alcanzan el córtex bilateral, que integra los estímulos y genera la respuesta.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma",
+    "teoria": "coma-localizacion"
+  },
+  {
+    "id": "sem-009",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "En un paciente en coma se observa una «mirada en ping-pong»: movimientos horizontales conjugados, lentos y rítmicos. ¿Qué sugiere?",
+    "opciones": [
+      "Causa tóxico-metabólica o lesión hemisférica bilateral, con III par intacto",
+      "Lesión nuclear del VI par en la protuberancia",
+      "Lesión mesencefálica pretectal",
+      "Compresión del uncus temporal"
+    ],
+    "correcta": 0,
+    "explicacion": "La mirada en ping-pong es conjugada y requiere que el núcleo del III par y sus conexiones estén intactos; es característica de causas tóxico-metabólicas o de lesiones hemisféricas bilaterales. Las desviaciones no conjugadas apuntan a lesión nuclear o infranuclear.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma",
+    "teoria": "coma-localizacion"
+  },
+  {
+    "id": "sem-010",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué patrón pupilar corresponde a una lesión protuberancial en el paciente en coma?",
+    "opciones": [
+      "Miosis puntiforme",
+      "Midriasis media arreactiva bilateral",
+      "Midriasis unilateral arreactiva",
+      "Anisocoria que aumenta en la oscuridad"
+    ],
+    "correcta": 0,
+    "explicacion": "La miosis puntiforme localiza en protuberancia; la midriasis media arreactiva es propia de lesiones mesencefálicas, más evidente en las pretectales, y la midriasis unilateral sugiere herniación uncal.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma",
+    "teoria": "coma-localizacion"
+  },
+  {
+    "id": "sem-011",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué utilidad añade la respuesta pupilar para diferenciar el origen del coma?",
+    "opciones": [
+      "Suele conservarse intacta en las causas tóxico-metabólicas",
+      "Se abole precozmente en las causas tóxico-metabólicas",
+      "Es normal en todas las lesiones estructurales infratentoriales",
+      "Solo tiene valor si se explora el reflejo cilioespinal"
+    ],
+    "correcta": 0,
+    "explicacion": "En las encefalopatías tóxico-metabólicas la respuesta pupilar se mantiene, lo que ayuda a separarlas de las causas estructurales. Hay que descartar antes midriáticos, atropina, dopamina o cirugía ocular previa.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma",
+    "teoria": "coma-localizacion"
+  },
+  {
+    "id": "sem-012",
+    "tema": "Semiología",
+    "subtema": "Muerte encefálica y trastornos de la consciencia",
+    "enunciado": "¿Qué prueba se considera el patrón oro para el diagnóstico instrumental de muerte encefálica?",
+    "opciones": [
+      "La angiografía cerebral de los cuatro vasos",
+      "El Doppler transcraneal",
+      "El electroencefalograma de 8 canales",
+      "Los potenciales evocados somatosensoriales"
+    ],
+    "correcta": 0,
+    "explicacion": "La angiografía cerebral, con inyección desde ambas carótidas comunes y vertebrales y presión arterial media ≥80 mmHg, es el gold standard. Sus inconvenientes son el traslado del paciente y la nefrotoxicidad del contraste en el potencial donante.",
+    "fuente": "Cap. 10. Muerte cerebral. Estado vegetativo y de mínima consciencia",
+    "teoria": "muerte-encefalica"
+  },
+  {
+    "id": "sem-013",
+    "tema": "Semiología",
+    "subtema": "Muerte encefálica y trastornos de la consciencia",
+    "enunciado": "¿Cuánto tiempo debe mantenerse la insonación de cada arteria en el Doppler transcraneal para el diagnóstico de muerte encefálica?",
+    "opciones": [
+      "Al menos 30 segundos en ambas cerebrales medias y vertebrales o basilar",
+      "Al menos 5 minutos en ambas cerebrales medias",
+      "Al menos 30 minutos en cualquier arteria accesible",
+      "El tiempo necesario para registrar tres ciclos cardíacos"
+    ],
+    "correcta": 0,
+    "explicacion": "Se insonan durante un mínimo de 30 segundos ambas cerebrales medias y ambas vertebrales o la basilar. Al subir la PIC disminuye el flujo diastólico y aumenta la pulsatilidad, hasta los patrones reverberante y de espículas sistólicas.",
+    "fuente": "Cap. 10. Muerte cerebral. Estado vegetativo y de mínima consciencia",
+    "teoria": "muerte-encefalica"
+  },
+  {
+    "id": "sem-014",
+    "tema": "Semiología",
+    "subtema": "Muerte encefálica y trastornos de la consciencia",
+    "enunciado": "¿Qué periodo de observación exige el diagnóstico clínico de muerte encefálica en un adulto con encefalopatía anóxica?",
+    "opciones": [
+      "24 horas",
+      "6 horas",
+      "12 horas",
+      "48 horas"
+    ],
+    "correcta": 0,
+    "explicacion": "La exploración debe repetirse tras 6 horas en las lesiones destructivas primarias y tras 24 horas en la encefalopatía anóxica. El periodo puede alargarse si se sospechan depresores del SNC o acortarse con pruebas instrumentales.",
+    "fuente": "Cap. 10. Muerte cerebral. Estado vegetativo y de mínima consciencia",
+    "teoria": "muerte-encefalica"
+  },
+  {
+    "id": "sem-015",
+    "tema": "Semiología",
+    "subtema": "Muerte encefálica y trastornos de la consciencia",
+    "enunciado": "Durante la exploración de una posible muerte encefálica el paciente flexiona las caderas y llega a incorporarse con los brazos extendidos. ¿Cómo debe interpretarse?",
+    "opciones": [
+      "Signo de Lázaro, reflejo de liberación medular que no invalida el diagnóstico",
+      "Postura de decorticación, que obliga a descartar el diagnóstico",
+      "Respuesta cortical al dolor, incompatible con el diagnóstico",
+      "Crisis tónica, que obliga a repetir el electroencefalograma"
+    ],
+    "correcta": 0,
+    "explicacion": "El signo de Lázaro es un movimiento reflejo de liberación medular; suele desaparecer en 24-72 horas y no invalida el diagnóstico clínico, a diferencia de las posturas de decorticación o descerebración.",
+    "fuente": "Cap. 10. Muerte cerebral. Estado vegetativo y de mínima consciencia",
+    "teoria": "muerte-encefalica"
+  },
+  {
+    "id": "sem-016",
+    "tema": "Semiología",
+    "subtema": "Muerte encefálica y trastornos de la consciencia",
+    "enunciado": "¿Qué valor de PaCO2 confirma un test de apnea positivo para muerte encefálica?",
+    "opciones": [
+      "PaCO2 >60 mmHg o un incremento de 20 mmHg sobre la basal, sin movimientos respiratorios",
+      "PaCO2 >45 mmHg mantenida durante 10 minutos",
+      "Descenso de la saturación por debajo del 88 %",
+      "PaCO2 >80 mmHg con pH menor de 7,20"
+    ],
+    "correcta": 0,
+    "explicacion": "Tras preoxigenar, se desconecta el respirador manteniendo oxígeno a 6 l/min; el test es positivo si con PaCO2 >60 mmHg o un incremento de 20 mmHg no hay ninguna excursión respiratoria. Si la saturación baja del 88-90 % la prueba se interrumpe.",
+    "fuente": "Cap. 10. Muerte cerebral. Estado vegetativo y de mínima consciencia",
+    "teoria": "muerte-encefalica"
+  },
+  {
+    "id": "sem-017",
+    "tema": "Semiología",
+    "subtema": "Muerte encefálica y trastornos de la consciencia",
+    "enunciado": "¿En qué situación es menos fiable la ecografía para confirmar la ausencia de flujo cerebral?",
+    "opciones": [
+      "Cuando el cráneo no está herméticamente cerrado, como en craniectomías o drenaje ventricular",
+      "Cuando el paciente recibe fármacos depresores del SNC",
+      "Cuando existe hipotermia moderada",
+      "Cuando hay trastornos metabólicos asociados"
+    ],
+    "correcta": 0,
+    "explicacion": "Las pruebas de flujo no se alteran por los depresores del SNC —por eso se prefieren cuando no hay lesión destructiva evidente—, pero pierden fiabilidad si el cráneo no es hermético: craniectomías, TCE graves, drenaje ventricular externo o fontanela abierta.",
+    "fuente": "Cap. 10. Muerte cerebral. Estado vegetativo y de mínima consciencia",
+    "teoria": "muerte-encefalica"
+  },
+  {
+    "id": "sem-018",
+    "tema": "Semiología",
+    "subtema": "Muerte encefálica y trastornos de la consciencia",
+    "enunciado": "¿Qué condiciones técnicas exige el EEG para documentar el silencio eléctrico cerebral?",
+    "opciones": [
+      "Ocho electrodos, registro mínimo de 30 minutos y sensibilidad de 2 μV",
+      "Dieciséis electrodos, registro de 10 minutos y sensibilidad de 10 μV",
+      "Ocho electrodos, registro de 5 minutos y filtros de paso bajo a 70 Hz",
+      "Montaje estándar 10-20 completo durante 60 minutos"
+    ],
+    "correcta": 0,
+    "explicacion": "Se colocan 8 electrodos separados más de 10 cm, con registro de al menos 30 minutos y la máxima sensibilidad posible (2 μV), libre de artefactos. El EEG no sirve como confirmatorio si hay fármacos depresores, hipotermia o trastornos metabólicos.",
+    "fuente": "Cap. 10. Muerte cerebral. Estado vegetativo y de mínima consciencia",
+    "teoria": "muerte-encefalica"
+  },
+  {
+    "id": "sem-019",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Qué antipsicótico recomienda el manual en la demencia con cuerpos de Lewy?",
+    "opciones": [
+      "Quetiapina",
+      "Risperidona",
+      "Aripiprazol",
+      "Haloperidol"
+    ],
+    "correcta": 0,
+    "explicacion": "Risperidona y aripiprazol son los más eficaces frente a agitación y psicosis en demencia, pero la quetiapina produce menos síntomas extrapiramidales y es la recomendada en la demencia con cuerpos de Lewy.",
+    "fuente": "Cap. 11. Manifestaciones psiquiátricas de las enfermedades neurológicas"
+  },
+  {
+    "id": "sem-020",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Con qué frecuencia aparece la apatía en la enfermedad de Parkinson sin demencia?",
+    "opciones": [
+      "En un 20-40 % de los pacientes",
+      "En menos del 5 %",
+      "En un 60-80 %",
+      "En prácticamente todos los pacientes"
+    ],
+    "correcta": 0,
+    "explicacion": "La apatía afecta al 20-40 % de los pacientes con Parkinson sin demencia y hasta al 60 % de los que tienen demencia. Antes de tratarla hay que descartar que sea secundaria a una reducción de levodopa o de agonistas dopaminérgicos.",
+    "fuente": "Cap. 11. Manifestaciones psiquiátricas de las enfermedades neurológicas"
+  },
+  {
+    "id": "sem-021",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Cómo define el manual la apraxia?",
+    "opciones": [
+      "Trastorno adquirido de los movimientos aprendidos y secuenciales no explicable por déficit elemental",
+      "Incapacidad para reconocer objetos pese a una percepción sensorial intacta",
+      "Pérdida de fuerza selectiva para los movimientos finos de la mano",
+      "Alteración de la planificación del lenguaje con agramatismo asociado"
+    ],
+    "correcta": 0,
+    "explicacion": "La apraxia es un trastorno adquirido de los movimientos aprendidos, hábiles y secuenciales que no se explica por alteración de fuerza, coordinación, sensibilidad, comprensión o atención. Lo que se describe en la segunda opción es la agnosia.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias"
+  },
+  {
+    "id": "sem-022",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Qué sistema sustenta el «cómo moverse» y su disfunción da lugar a las apraxias?",
+    "opciones": [
+      "El sistema práxico",
+      "El sistema intencional",
+      "El sistema límbico",
+      "El sistema propioceptivo"
+    ],
+    "correcta": 0,
+    "explicacion": "Para interactuar con el entorno se necesitan un sistema intencional, que sustenta el «cuándo moverse», y un sistema práxico, que sustenta el «cómo moverse»; la disfunción de este último genera los cuadros apráxicos.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias"
+  },
+  {
+    "id": "sem-023",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "¿Qué haz de las radiaciones ópticas atraviesa el lóbulo temporal?",
+    "opciones": [
+      "El inferior, que termina en el labio inferior de la cisura calcarina",
+      "El superior, que termina en el labio superior de la cisura calcarina",
+      "El que transporta la información de la retina superior",
+      "El que se proyecta al núcleo pretectal"
+    ],
+    "correcta": 0,
+    "explicacion": "Las radiaciones de Gratiolet constan de un haz superior, que atraviesa el parietal hasta el labio superior de la calcarina llevando información de la retina superior, y un haz inferior, que atraviesa el temporal hasta el labio inferior.",
+    "fuente": "Cap. 13. Alteraciones de la vía visual"
+  },
+  {
+    "id": "sem-024",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "Un paciente presenta hemianopsia homónima y un defecto pupilar aferente relativo contralateral. ¿Dónde se localiza la lesión?",
+    "opciones": [
+      "En la cintilla o tracto óptico",
+      "En la corteza occipital",
+      "En el quiasma óptico",
+      "En las radiaciones ópticas parietales"
+    ],
+    "correcta": 0,
+    "explicacion": "Las lesiones retroquiasmáticas dan defectos homónimos, pero la asociación de hemianopsia homónima con DPAR contralateral orienta específicamente al tracto óptico. Las lesiones occipitales no producen DPAR.",
+    "fuente": "Cap. 13. Alteraciones de la vía visual"
+  },
+  {
+    "id": "sem-025",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "¿Qué núcleo recibe las fibras retinianas que median el reflejo fotomotor antes de llegar al Edinger-Westphal?",
+    "opciones": [
+      "El núcleo pretectal",
+      "El núcleo supraquiasmático",
+      "El colículo inferior",
+      "El cuerpo geniculado medial"
+    ],
+    "correcta": 0,
+    "explicacion": "Las fibras que no llegan al geniculado lateral se dirigen a colículos superiores, núcleo pretectal y núcleo supraquiasmático; las del pretectal viajan al Edinger-Westphal para el reflejo fotomotor, y las supraquiasmáticas regulan el ciclo circadiano.",
+    "fuente": "Cap. 13. Alteraciones de la vía visual"
+  },
+  {
+    "id": "sem-026",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "En un paciente con diplopía binocular, ¿qué orientación aporta que empeore en la visión lejana?",
+    "opciones": [
+      "Sugiere paresia del recto externo, con peor divergencia",
+      "Sugiere paresia del recto interno, con peor convergencia",
+      "Sugiere paresia del oblicuo superior",
+      "Sugiere un origen monocular refractivo"
+    ],
+    "correcta": 0,
+    "explicacion": "La diplopía empeora de lejos cuando se paraliza el recto externo, porque se afecta la divergencia, y de cerca cuando se afecta el recto interno, por la convergencia. La imagen falsa es siempre la más periférica.",
+    "fuente": "Cap. 15. Movimientos oculares y alteraciones pupilares"
+  },
+  {
+    "id": "sem-027",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "¿Qué explica la respuesta tónica de la pupila de Adie tras la contracción?",
+    "opciones": [
+      "La reinervación aberrante desde fibras destinadas al cuerpo ciliar tras dañarse el ganglio ciliar",
+      "La denervación simpática del músculo dilatador del iris",
+      "La lesión directa del núcleo de Edinger-Westphal",
+      "La compresión del III par en su trayecto subaracnoideo"
+    ],
+    "correcta": 0,
+    "explicacion": "Tras el daño del ganglio ciliar se produce una reinervación anómala: parte de las fibras destinadas al cuerpo ciliar —30 veces más numerosas que las del iris— se redirigen a este, lo que explica la contracción tónica. Es una lesión parasimpática, no simpática.",
+    "fuente": "Cap. 15. Movimientos oculares y alteraciones pupilares"
+  },
+  {
+    "id": "sem-028",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "¿Hasta dónde se extiende el núcleo espinal del trigémino?",
+    "opciones": [
+      "Desde la protuberancia, a lo largo del bulbo, hasta el segundo segmento cervical",
+      "Solo por la protuberancia, medial al núcleo motor",
+      "Desde el mesencéfalo hasta la unión bulbomedular",
+      "A lo largo de toda la médula cervical hasta C7"
+    ],
+    "correcta": 0,
+    "explicacion": "El trigémino, el nervio craneal más largo, tiene cuatro núcleos: sensitivo principal en la protuberancia posterior, espinal que baja por el bulbo hasta C2, mesencefálico y motor. Además, la sensibilidad del ángulo mandibular no depende del trigémino.",
+    "fuente": "Cap. 16. Trastornos de otros pares craneales"
+  },
+  {
+    "id": "sem-029",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "¿Cuál es la causa habitual del espasmo hemifacial?",
+    "opciones": [
+      "Compresión por un asa vascular en la zona de salida de la raíz del facial",
+      "Desmielinización del núcleo facial en la protuberancia",
+      "Reinervación aberrante tras una parálisis de Bell",
+      "Infiltración tumoral del agujero yugular"
+    ],
+    "correcta": 0,
+    "explicacion": "El espasmo hemifacial consiste en contracciones involuntarias clónicas o tónicas de la musculatura facial y suele deberse a la compresión del nervio por un asa vascular en la zona de salida de la raíz, con otras etiologías menos frecuentes.",
+    "fuente": "Cap. 16. Trastornos de otros pares craneales"
+  },
+  {
+    "id": "sem-030",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "¿Cuál es la manifestación neurológica más frecuente de la neurosarcoidosis según el manual?",
+    "opciones": [
+      "La parálisis facial periférica",
+      "La meningitis aséptica crónica",
+      "La neuropatía óptica",
+      "La mielitis longitudinal extensa"
+    ],
+    "correcta": 0,
+    "explicacion": "Una parálisis facial periférica puede ser el primer signo de un proceso en evolución como carcinomatosis meníngea, síndrome de Guillain-Barré o neurosarcoidosis, siendo en esta última su manifestación neurológica más frecuente.",
+    "fuente": "Cap. 16. Trastornos de otros pares craneales"
+  },
+  {
+    "id": "sem-031",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "En una lesión unilateral del nervio vago, ¿cómo se comporta la disfagia?",
+    "opciones": [
+      "Es más evidente para líquidos que para sólidos",
+      "Es más evidente para sólidos que para líquidos",
+      "Afecta por igual a sólidos y líquidos desde el inicio",
+      "No aparece salvo que la lesión sea bilateral"
+    ],
+    "correcta": 0,
+    "explicacion": "La lesión vagal unilateral causa disfagia —más marcada para líquidos— y disfonía, que puede pasar inadvertida por compensación de la cuerda contralateral y hacerse evidente con la fatiga, con posible voz bitonal.",
+    "fuente": "Cap. 16. Trastornos de otros pares craneales"
+  },
+  {
+    "id": "sem-032",
+    "tema": "Semiología",
+    "subtema": "Mareo y vértigo",
+    "enunciado": "¿Qué estructura evalúan los potenciales miogénicos vestibulares cervicales (cVEMP)?",
+    "opciones": [
+      "El sáculo, a través de la vía vestíbulo-cervical",
+      "El utrículo, a través de la vía vestíbulo-ocular",
+      "El canal semicircular horizontal",
+      "La cóclea y la vía auditiva central"
+    ],
+    "correcta": 0,
+    "explicacion": "Los cVEMP registran en el esternocleidomastoideo ipsilateral e informan del sáculo por la vía vestíbulo-cervical; los oVEMP, con electrodos perioculares que recogen del oblicuo inferior contralateral, informan del utrículo.",
+    "fuente": "Cap. 17. Mareo y vértigo"
+  },
+  {
+    "id": "sem-033",
+    "tema": "Semiología",
+    "subtema": "Mareo y vértigo",
+    "enunciado": "¿Qué proporción de pacientes con enfermedad de Ménière presenta afectación bilateral?",
+    "opciones": [
+      "Un 30-40 %",
+      "Menos del 5 %",
+      "Alrededor del 60 %",
+      "Prácticamente todos con el tiempo"
+    ],
+    "correcta": 0,
+    "explicacion": "La Ménière cursa con crisis recurrentes de vértigo, hipoacusia, acúfenos y plenitud ótica por aumento de presión de endolinfa; es unilateral en la mayoría, pero un 30-40 % de los pacientes la presenta de forma bilateral.",
+    "fuente": "Cap. 17. Mareo y vértigo"
+  },
+  {
+    "id": "sem-034",
+    "tema": "Semiología",
+    "subtema": "Mareo y vértigo",
+    "enunciado": "¿Qué prueba mide la contribución relativa de cada aferencia sensorial al mantenimiento del equilibrio?",
+    "opciones": [
+      "La posturografía dinámica computarizada",
+      "La videonistagmografía con estimulación calórica",
+      "Los potenciales miogénicos vestibulares oculares",
+      "El test de impulso cefálico con vídeo"
+    ],
+    "correcta": 0,
+    "explicacion": "La posturografía dinámica registra el desplazamiento de las presiones corporales sobre plataformas modificables, lo que permite evaluar cuánto aporta cada aferencia sensorial al equilibrio. La videonistagmografía registra el nistagmo, no el equilibrio postural.",
+    "fuente": "Cap. 17. Mareo y vértigo"
+  }
+]

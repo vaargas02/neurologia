@@ -1,0 +1,775 @@
+[
+ {
+  "id": "epi-018",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "Según la definición clínica operativa de la ILAE, ¿cuándo puede diagnosticarse epilepsia tras una única crisis no provocada?",
+  "opciones": [
+   "Cuando el riesgo de nuevas crisis en 10 años es de al menos el 60 %",
+   "Cuando el riesgo de nuevas crisis en 10 años supera el 20 %",
+   "Cuando el EEG muestra enlentecimiento focal, sea cual sea el riesgo",
+   "Nunca: siempre se exigen dos crisis separadas por más de 24 horas"
+  ],
+  "correcta": 0,
+  "explicacion": "Basta una crisis no provocada si la probabilidad de recurrencia a 10 años es similar a la que hay tras dos crisis, es decir al menos del 60 %. Elevan ese riesgo los antecedentes sintomáticos remotos, la focalidad exploratoria, las crisis durante el sueño, las anomalías epileptiformes y las lesiones epileptógenas en la imagen.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-019",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Qué gen está implicado en la epilepsia autolimitada neonatal familiar?",
+  "opciones": [
+   "KCNQ2",
+   "PRRT2",
+   "SCN1A",
+   "STXBP1"
+  ],
+  "correcta": 0,
+  "explicacion": "Se debe a mutaciones en KCNQ2, y más raramente en KCNQ3, con herencia autosómica dominante. Las crisis empiezan entre los 2 y los 7 días de vida, son focales tónicas, clónicas o secuenciales, y remiten antes de los 4-6 meses con desarrollo psicomotor normal.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-020",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Qué gen es el más frecuentemente implicado en la epilepsia autolimitada infantil (familiar)?",
+  "opciones": [
+   "PRRT2, que se relaciona con la discinesia paroxística cinesigénica",
+   "KCNT1, que se relaciona con las crisis focales migratorias",
+   "SLC2A1, que se relaciona con el déficit de GLUT1",
+   "GRIN2A, que se relaciona con la punta-onda continua del sueño"
+  ],
+  "correcta": 0,
+  "explicacion": "PRRT2 es el gen más habitual y explica el posible desarrollo posterior de una discinesia paroxística cinesigénica en el mismo paciente o en la familia. El inicio se sitúa entre los 3 y los 20 meses, con pico a los 6 meses, y las crisis suelen remitir en el primer año.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-021",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿En qué porcentaje de pacientes con síndrome de Dravet se identifican variantes patogénicas en SCN1A?",
+  "opciones": [
+   "80-85 %",
+   "Alrededor del 40 %",
+   "Alrededor del 25 %",
+   "Menos del 10 %"
+  ],
+  "correcta": 0,
+  "explicacion": "El SCN1A está alterado en el 80-85 % de los casos, la mayoría de novo. Otros genes descritos son GABRG2, GABRA1, STXBP1 y variantes recesivas raras de SCN1B.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-022",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "En el síndrome de Dravet, ¿qué hallazgo genético tiene especial trascendencia para el consejo reproductivo?",
+  "opciones": [
+   "Hasta el 10 % de las variantes aparentemente de novo corresponden a un progenitor mosaico",
+   "La herencia es autosómica recesiva en la mayoría de las familias",
+   "La transmisión se produce siempre por vía materna",
+   "La variante se detecta solo secuenciando tejido cerebral"
+  ],
+  "correcta": 0,
+  "explicacion": "Aunque la mayoría de variantes SCN1A son de novo, en torno al 10 % de ellas proceden de un progenitor con mosaicismo, lo que cambia por completo el riesgo de recurrencia estimado para futuros embarazos. El Dravet también puede aparecer dentro de una familia con epilepsia genética con crisis febriles plus.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-023",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Qué patrón de EEG define al síndrome de espasmos epilépticos infantiles?",
+  "opciones": [
+   "Hipsarritmia",
+   "Brote-supresión",
+   "Punta-onda lenta generalizada a 2 Hz",
+   "Punta-onda generalizada a 3 Hz"
+  ],
+  "correcta": 0,
+  "explicacion": "La hipsarritmia consiste en una actividad de fondo desorganizada con ondas lentas arrítmicas de alto voltaje entremezcladas con puntas multifocales y polipuntas. Los espasmos, obligatorios para el diagnóstico, ocurren típicamente en salvas al despertar.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-024",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Qué tipo de crisis es obligatorio para el diagnóstico de síndrome de Lennox-Gastaut?",
+  "opciones": [
+   "Las crisis tónicas",
+   "Las ausencias atípicas",
+   "Las crisis mioclónicas",
+   "Los espasmos epilépticos"
+  ],
+  "correcta": 0,
+  "explicacion": "Las crisis tónicas son imprescindibles y predominan durante el sueño; en bipedestación provocan caídas. Empeoran con fármacos sedantes como las benzodiacepinas, algo a tener en cuenta al tratar a estos pacientes.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-025",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Qué semiología caracteriza a la epilepsia autolimitada con puntas centrotemporales?",
+  "opciones": [
+   "Parestesias linguolabiales, clonías hemifaciales, anartria y sialorrea",
+   "Círculos de colores seguidos de cefalea y vómitos",
+   "Mioclonías palpebrales con supraversión ocular",
+   "Crisis hipermotoras breves que emergen del sueño"
+  ],
+  "correcta": 0,
+  "explicacion": "Son crisis focales sensitivas en lengua, labios y mejilla, con clonías o contracción tónica hemifacial, disartria o anartria y sialorrea, en vigilia o en sueño. Es la epilepsia focal autolimitada más frecuente, debuta a los 4-10 años y remite en la adolescencia.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-026",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Cuál es la causa más frecuente de estado epiléptico no convulsivo afebril en la infancia?",
+  "opciones": [
+   "La epilepsia autolimitada con crisis autonómicas (síndrome de Panayiotopoulos)",
+   "La epilepsia de ausencias infantil",
+   "La epilepsia occipital visual de la infancia (síndrome de Gastaut)",
+   "El síndrome de Lennox-Gastaut"
+  ],
+  "correcta": 0,
+  "explicacion": "El síndrome de Panayiotopoulos debuta a los 3-6 años con crisis autonómicas poco frecuentes, a veces únicas, de duración prolongada y que emergen del sueño en el 70 % de los casos. Esa duración prolongada explica que sea la primera causa de estado no convulsivo afebril infantil.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-027",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "Ante una epilepsia de ausencias que debuta antes de los 4 años, ¿qué entidad obliga a descartar el manual?",
+  "opciones": [
+   "El déficit del transportador de glucosa GLUT1 (SLC2A1)",
+   "El síndrome de Dravet (SCN1A)",
+   "La epilepsia con mioclonías palpebrales",
+   "La encefalopatía asociada a PCDH19"
+  ],
+  "correcta": 0,
+  "explicacion": "El debut por debajo de los 4 años obliga a descartar un déficit de GLUT1 por mutaciones en SLC2A1, que cursa con hipoglucorraquia y responde a dieta cetogénica. La epilepsia de ausencias infantil típica debuta a los 4-10 años y remite en la adolescencia en el 60 % de los casos.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos",
+  "teoria": "egi-sindromes"
+ },
+ {
+  "id": "epi-028",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿En qué momento del día aparecen característicamente las mioclonías de la epilepsia mioclónica juvenil?",
+  "opciones": [
+   "En la primera hora tras despertar",
+   "En la transición vigilia-sueño, al acostarse",
+   "A media tarde, tras el esfuerzo físico",
+   "Durante el sueño profundo de la madrugada"
+  ],
+  "correcta": 0,
+  "explicacion": "Las mioclonías son obligatorias para el diagnóstico y se concentran en la primera hora tras el despertar, con predominio en extremidades superiores. La privación de sueño, el estrés y el alcohol son los desencadenantes habituales, y más del 90 % asocia crisis tónico-clónicas generalizadas.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos",
+  "teoria": "egi-sindromes"
+ },
+ {
+  "id": "epi-029",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Qué desencadena las crisis en la epilepsia con mioclonías palpebrales (síndrome de Jeavons)?",
+  "opciones": [
+   "El cierre palpebral y la estimulación luminosa intermitente",
+   "La hiperventilación mantenida y el ejercicio",
+   "El sobresalto auditivo y el tacto brusco",
+   "La lectura prolongada y el cálculo mental"
+  ],
+  "correcta": 0,
+  "explicacion": "Las mioclonías palpebrales, con o sin ausencias, se inducen por el cierre palpebral y la fotoestimulación, y el EEG muestra polipunta-onda generalizada irregular a 3-6 Hz. Son mayoritariamente farmacorresistentes, aunque las tónico-clónicas suelen controlarse.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-030",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "En la epilepsia del lóbulo temporal mesial con esclerosis hipocampal del hemisferio dominante, ¿qué déficit cognitivo cabe esperar?",
+  "opciones": [
+   "Déficit de memoria verbal",
+   "Déficit de memoria visual",
+   "Déficit de planificación y flexibilidad",
+   "Déficit visuoespacial constructivo"
+  ],
+  "correcta": 0,
+  "explicacion": "La afectación del hemisferio dominante compromete la memoria verbal, mientras que la del no dominante afecta a la memoria visual. Es un síndrome habitualmente farmacorresistente y una de las indicaciones quirúrgicas más frecuentes, con antecedente común de crisis febriles prolongadas.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-031",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Cuál es el único tratamiento capaz de detener el curso del síndrome de Rasmussen?",
+  "opciones": [
+   "La hemisferotomía o hemisferectomía",
+   "La inmunoterapia mantenida",
+   "La estimulación del nervio vago",
+   "La politerapia con bloqueantes de canales de sodio"
+  ],
+  "correcta": 0,
+  "explicacion": "La desconexión hemisférica es el único tratamiento definitivo tanto para las crisis como para frenar la enfermedad. La inmunoterapia queda como elección cuando se desestima la cirugía, asumiendo que no detiene la atrofia progresiva.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-032",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Qué prueba permite confirmar la enfermedad de Lafora sin recurrir al estudio genético?",
+  "opciones": [
+   "La biopsia de piel, que muestra inclusiones PAS positivas en las glándulas sudoríparas",
+   "La biopsia muscular, que muestra fibras rojas rasgadas",
+   "El fondo de ojo, que muestra una mancha rojo cereza",
+   "La actividad de neuraminidasa en fibroblastos"
+  ],
+  "correcta": 0,
+  "explicacion": "Los cuerpos de Lafora son inclusiones PAS positivas en las células de los conductos excretores de las glándulas sudoríparas. Las fibras rojas rasgadas corresponden al MERRF, la mancha rojo cereza y el déficit de neuraminidasa a la sialidosis.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-033",
+  "tema": "Epilepsia",
+  "subtema": "Síndromes epilépticos",
+  "enunciado": "¿Qué antecedente se exige como criterio obligatorio para el diagnóstico de FIRES?",
+  "opciones": [
+   "Una infección febril inespecífica entre 24 horas y 2 semanas antes del inicio de las crisis",
+   "Una crisis febril prolongada en los primeros 2 años de vida",
+   "Un traumatismo craneal en las 48 horas previas",
+   "Una vacunación en la semana previa al inicio"
+  ],
+  "correcta": 0,
+  "explicacion": "El FIRES es una causa de estado epiléptico refractario de nuevo inicio en niños y adolescentes previamente sanos, precedida de una infección febril respiratoria o gastrointestinal inespecífica en ese intervalo. El desarrollo previo alterado o los antecedentes de epilepsia son criterios de exclusión.",
+  "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+ },
+ {
+  "id": "epi-034",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Qué proporción de pacientes etiquetados de epilepsia farmacorresistente en centros especializados no tiene realmente epilepsia?",
+  "opciones": [
+   "Un 25-30 %",
+   "Un 5-10 %",
+   "Menos del 2 %",
+   "Más del 50 %"
+  ],
+  "correcta": 0,
+  "explicacion": "Hasta una cuarta o tercera parte de estos pacientes no tiene epilepsia, y el error diagnóstico más frecuente se da en las crisis funcionales. La sobreinterpretación del EEG es una de las principales causas de este error y de la iatrogenia derivada.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+ },
+ {
+  "id": "epi-035",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Qué caracteriza al ritmo alfa en el EEG del adulto sano?",
+  "opciones": [
+   "8-13 Hz de predominio occipital, que se atenúa al abrir los ojos",
+   "4-8 Hz de predominio temporal, que aumenta al abrir los ojos",
+   "13-30 Hz de predominio frontal, que aumenta con las benzodiacepinas",
+   "1-3 Hz difuso, fisiológico solo en el sueño profundo"
+  ],
+  "correcta": 0,
+  "explicacion": "El ritmo alfa es la frecuencia dominante en vigilia, de morfología sinusoidal y máximo occipital, más evidente con los ojos cerrados. Este ritmo occipital es el punto de partida para analizar la actividad de fondo; la banda beta es la frontocentral que aumenta con benzodiacepinas.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia",
+  "teoria": "eeg-lectura"
+ },
+ {
+  "id": "epi-036",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Qué son los brotes rítmicos de theta temporal durante la somnolencia (RMTD) y los wicket spikes?",
+  "opciones": [
+   "Variantes de la normalidad que no implican epilepsia",
+   "Anomalías epileptiformes interictales de origen temporal",
+   "Patrones ictales de crisis temporales sutiles",
+   "Artefactos por actividad muscular masticatoria"
+  ],
+  "correcta": 0,
+  "explicacion": "Son patrones de apariencia rítmica o epileptiforme que forman parte del ritmo basal de personas sanas sin crisis, junto con la variante ctenoide de 14-6 Hz. Reconocerlos evita sobreinterpretar el EEG y etiquetar de epilepsia a quien no la tiene.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia",
+  "teoria": "eeg-lectura"
+ },
+ {
+  "id": "epi-037",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Cómo cambia la sensibilidad del EEG para detectar actividad epileptiforme interictal al prolongar el registro?",
+  "opciones": [
+   "Del 32-59 % en registros de menos de una hora al 80-90 % con video-EEG de 12-24 horas",
+   "Del 80 % en registros cortos al 95 % con video-EEG prolongado",
+   "Se mantiene estable en torno al 60 %, porque depende del síndrome y no de la duración",
+   "Del 20 % en registros cortos al 50 % con video-EEG prolongado"
+  ],
+  "correcta": 0,
+  "explicacion": "Un registro de menos de una hora es poco sensible, y aún menos en las epilepsias focales del adulto, donde baja del 20 %. Repetir registros de rutina y prolongar la monitorización sube la sensibilidad al 80-90 %, aunque el EEG sigue siendo repetidamente negativo en el 10-15 % de los pacientes con epilepsia.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia",
+  "teoria": "eeg-lectura"
+ },
+ {
+  "id": "epi-038",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Con qué frecuencia aparece actividad epileptiforme interictal en EEG de rutina de adultos sanos sin enfermedad neurológica?",
+  "opciones": [
+   "En el 0,5-2,6 %",
+   "En el 8-10 %",
+   "En prácticamente ningún caso",
+   "En el 15-20 %"
+  ],
+  "correcta": 0,
+  "explicacion": "En adultos sanos aparece en el 0,5-2,6 % de los registros y en niños sanos en el 2,2-3,5 %. Por eso un hallazgo epileptiforme aislado nunca diagnostica por sí solo: hay que situarlo siempre en el contexto clínico.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+ },
+ {
+  "id": "epi-039",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Qué duración mínima debe tener un patrón ictal en el EEG para considerarlo como tal?",
+  "opciones": [
+   "3 segundos",
+   "1 segundo",
+   "10 segundos",
+   "30 segundos"
+  ],
+  "correcta": 0,
+  "explicacion": "Los patrones ictales descritos (actividad rítmica, actividad rápida paroxística, supresión, actividad arrítmica y patrón oculto) requieren al menos 3 segundos. Las crisis electrográficas se reconocen además por su inicio y fin abruptos, su evolución en frecuencia y distribución, y el enlentecimiento postictal.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia",
+  "teoria": "eeg-lectura"
+ },
+ {
+  "id": "epi-040",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Con qué situaciones clínicas se correlacionan las ondas trifásicas en el EEG?",
+  "opciones": [
+   "Encefalopatía metabólica por fallo hepático o renal, anoxia y enfermedad de Creutzfeldt-Jakob",
+   "Sedación con benzodiacepinas y abstinencia alcohólica",
+   "Lesiones de tronco y coma farmacológico",
+   "Hipertensión intracraneal y lesiones profundas de línea media"
+  ],
+  "correcta": 0,
+  "explicacion": "Las ondas trifásicas apuntan a encefalopatía metabólica (fallo hepático, renal, hiponatremia), anoxia, sepsis y enfermedades neurodegenerativas incluida la Creutzfeldt-Jakob. La actividad beta difusa corresponde a fármacos o abstinencia, el coma alfa a lesiones de tronco y la actividad delta rítmica intermitente a lesiones de línea media.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia",
+  "teoria": "eeg-lectura"
+ },
+ {
+  "id": "epi-041",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Qué secuencias son obligatorias en el protocolo HARNESS de RM en epilepsia?",
+  "opciones": [
+   "T1 3D milimétrica, FLAIR 3D y T2 coronal perpendicular al eje largo del hipocampo",
+   "T1 3D milimétrica, difusión y perfusión",
+   "T1 con gadolinio, susceptibilidad magnética y FLAIR 3D",
+   "T2 axial de 5 mm, FLAIR axial y difusión"
+  ],
+  "correcta": 0,
+  "explicacion": "Las tres secuencias obligatorias son la T1 3D de alta resolución isotrópica, la FLAIR 3D y la T2 coronal de alta resolución en plano perpendicular al hipocampo. El contraste con gadolinio y la susceptibilidad magnética son opcionales, reservados a sospecha de tumor, infección, malformación vascular o calcificaciones.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+ },
+ {
+  "id": "epi-042",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Qué signo radiológico orienta hacia una displasia cortical focal tipo II?",
+  "opciones": [
+   "El signo del transmantle o «del hoyuelo»",
+   "El aspecto en burbuja de la lesión",
+   "El anillo de hemosiderina periférico",
+   "La pérdida de las estructuras internas del hipocampo"
+  ],
+  "correcta": 0,
+  "explicacion": "La DCF tipo II asocia engrosamiento cortical, hiperintensidad en T2/FLAIR, pérdida de diferenciación gris-blanca y el signo del transmantle. El aspecto en burbuja es propio del DNET, el anillo de hemosiderina de los cavernomas y la pérdida de estructuras internas de la esclerosis hipocampal.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+ },
+ {
+  "id": "epi-043",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Cuál es la principal limitación práctica del SPECT ictal en la evaluación prequirúrgica?",
+  "opciones": [
+   "El trazador debe inyectarse antes de que pasen 30 segundos desde el inicio de la crisis",
+   "Solo puede realizarse en equipos de 3 Tesla",
+   "Requiere suspender toda la medicación anticrisis una semana antes",
+   "No permite comparar la fase ictal con la interictal"
+  ],
+  "correcta": 0,
+  "explicacion": "La ventana de inyección es muy estrecha, lo que exige personal entrenado e ingresos prolongados. El SPECT de sustracción ictal compara imágenes ictales e interictales y las superpone sobre la RM del paciente para delimitar mejor el área epileptógena.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+ },
+ {
+  "id": "epi-044",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Cuál es la principal aplicación de la RM funcional en la evaluación prequirúrgica de la epilepsia?",
+  "opciones": [
+   "Lateralizar el lenguaje en pacientes con focos temporales o extratemporales",
+   "Detectar displasias corticales no visibles en la RM estructural",
+   "Medir el metabolismo de la zona epileptógena en fase interictal",
+   "Registrar la propagación de la descarga durante la crisis"
+  ],
+  "correcta": 0,
+  "explicacion": "La fMRI identifica actividad cerebral ligada a tareas y su uso principal es lateralizar el lenguaje, además de localizar áreas elocuentes motoras o visuales. El metabolismo interictal lo evalúa el PET, y la perfusión durante la crisis el SPECT ictal.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+ },
+ {
+  "id": "epi-045",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Qué hallazgos en RM definen la esclerosis de hipocampo?",
+  "opciones": [
+   "Atrofia hipocampal con aumento de señal en T2/FLAIR y pérdida de estructuras internas",
+   "Engrosamiento hipocampal con realce homogéneo tras contraste",
+   "Hipointensidad en eco de gradiente con anillo periférico",
+   "Hiperintensidad insular con atrofia del caudado ipsilateral"
+  ],
+  "correcta": 0,
+  "explicacion": "Se acompaña además de asimetría de los cuernos ventriculares, atrofia de la porción anterior del lóbulo temporal y del fórnix y cuerpos mamilares ipsilaterales. La afectación insular con atrofia del caudado corresponde al síndrome de Rasmussen.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+ },
+ {
+  "id": "epi-046",
+  "tema": "Epilepsia",
+  "subtema": "Diagnóstico en epilepsia",
+  "enunciado": "¿Qué penetrancia se atribuye a las epilepsias focales familiares autosómicas dominantes frente a las formas esporádicas?",
+  "opciones": [
+   "30-40 % frente al 3 % de las esporádicas",
+   "10-15 % frente al 1 % de las esporádicas",
+   "80-90 % frente al 20 % de las esporádicas",
+   "Igual en ambas, en torno al 50 %"
+  ],
+  "correcta": 0,
+  "explicacion": "Esta diferencia es la base del consejo genético en estas familias. En epilepsias focales refractarias el estudio genético resulta positivo en el 10-15 % de los casos y puede aportar información pronóstica, terapéutica e incluso guiar la evaluación prequirúrgica.",
+  "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+ },
+ {
+  "id": "epi-047",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Qué fármaco se considera el más útil para el control de las epilepsias generalizadas idiopáticas?",
+  "opciones": [
+   "Ácido valproico",
+   "Carbamacepina",
+   "Lacosamida",
+   "Gabapentina"
+  ],
+  "correcta": 0,
+  "explicacion": "El valproico es de amplio espectro y el más eficaz en este grupo, aunque debe evitarse en lo posible en mujeres en edad fértil por su teratogenia y está contraindicado en las alteraciones del ciclo de la urea. Carbamacepina, lacosamida y gabapentina se limitan a crisis focales.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia",
+  "teoria": "fac-perfiles"
+ },
+ {
+  "id": "epi-048",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Cuál es el espectro de acción de la etosuximida?",
+  "opciones": [
+   "Solo las crisis de ausencia, sin eficacia en tónico-clónicas ni focales",
+   "Las ausencias y las crisis tónico-clónicas generalizadas",
+   "Las crisis focales con y sin alteración de conciencia",
+   "Amplio espectro, similar al del valproico"
+  ],
+  "correcta": 0,
+  "explicacion": "Actúa bloqueando canales de calcio y su indicación se restringe a las ausencias. Por eso, en un paciente con ausencias que además presenta tónico-clónicas, no basta como monoterapia.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia",
+  "teoria": "fac-perfiles"
+ },
+ {
+  "id": "epi-049",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Qué grupo de fármacos anticrisis está contraindicado tanto en las ausencias como en las mioclonías?",
+  "opciones": [
+   "Carbamacepina, oxcarbacepina, fenitoína, gabapentina, pregabalina y vigabatrina",
+   "Levetiracetam, topiramato y zonisamida",
+   "Valproico, lamotrigina y clobazam",
+   "Perampanel, brivaracetam y cenobamato"
+  ],
+  "correcta": 0,
+  "explicacion": "Los bloqueantes de canales de sodio y los fármacos gabaérgicos de este grupo empeoran ausencias y mioclonías, y ese empeoramiento paradójico puede ser la pista de que el síndrome estaba mal clasificado. La lamotrigina, aun siendo de amplio espectro, también puede agravar las mioclonías.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia",
+  "teoria": "fac-perfiles"
+ },
+ {
+  "id": "epi-050",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Qué efectos adversos idiosincráticos son propios del topiramato?",
+  "opciones": [
+   "Miopía aguda con glaucoma, nefrolitiasis y oligohidrosis con hipertermia",
+   "Hipertrofia gingival, hirsutismo y pseudolinfoma",
+   "Ovario poliquístico, pancreatitis y hepatopatía",
+   "Bloqueo auriculoventricular y prolongación del PR"
+  ],
+  "correcta": 0,
+  "explicacion": "La inhibición de la anhidrasa carbónica explica la nefrolitiasis y la oligohidrosis, y obliga a precaución en pacientes con litiasis previa. La hipertrofia gingival y el hirsutismo corresponden a la fenitoína, el ovario poliquístico al valproico y el bloqueo AV a lacosamida o eslicarbacepina.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia",
+  "teoria": "fac-perfiles"
+ },
+ {
+  "id": "epi-051",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Qué característica farmacocinética explica que el levetiracetam sea uno de los fármacos más utilizados?",
+  "opciones": [
+   "Se metaboliza menos del 9 % y se elimina como fármaco activo por vía renal, sin interacciones relevantes",
+   "Tiene metabolismo hepático rápido que evita acumulación",
+   "Es un inductor enzimático potente que acelera la eliminación de otros fármacos",
+   "Su alta unión a proteínas mantiene niveles estables en hipoalbuminemia"
+  ],
+  "correcta": 0,
+  "explicacion": "La ausencia de interacciones, unida a su eficacia en crisis focales y generalizadas, lo convierte en un fármaco muy manejable. A cambio, exige mucha precaución en pacientes con comorbilidad psiquiátrica por la ansiedad, irritabilidad y depresión dosis dependientes.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia",
+  "teoria": "fac-perfiles"
+ },
+ {
+  "id": "epi-052",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Qué comorbilidad cardiaca contraindica el uso de lacosamida?",
+  "opciones": [
+   "El bloqueo auriculoventricular de segundo o tercer grado",
+   "La fibrilación auricular permanente",
+   "La insuficiencia cardiaca con fracción de eyección reducida",
+   "El síndrome del QT corto familiar"
+  ],
+  "correcta": 0,
+  "explicacion": "La lacosamida puede prolongar el PR y provocar bloqueo AV, por lo que está contraindicada en bloqueos de segundo y tercer grado; la eslicarbacepina comparte esa precaución. El síndrome del QT corto familiar es la contraindicación específica del cenobamato.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia",
+  "teoria": "fac-perfiles"
+ },
+ {
+  "id": "epi-053",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "En un paciente con crisis frecuentes y convulsivas, ¿qué fármacos permiten alcanzar antes la dosis mínima eficaz?",
+  "opciones": [
+   "Brivaracetam, eslicarbacepina y perampanel",
+   "Topiramato, zonisamida y cenobamato",
+   "Fenobarbital, primidona y clonazepam",
+   "Lamotrigina, etosuximida y gabapentina"
+  ],
+  "correcta": 0,
+  "explicacion": "Estos tres son los de titulación más rápida, mientras que topiramato, zonisamida y cenobamato son los más lentos. En caso de estado o crisis agrupadas conviene además elegir fármacos con formulación intravenosa.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia",
+  "teoria": "fac-perfiles"
+ },
+ {
+  "id": "epi-054",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Cuál es el mecanismo de acción del perampanel?",
+  "opciones": [
+   "Antagonista del receptor AMPA",
+   "Ligando de la proteína SV2A",
+   "Bloqueante de canales de calcio",
+   "Agonista del receptor GABA"
+  ],
+  "correcta": 0,
+  "explicacion": "Es el único antagonista AMPA del grupo, indicado como terapia adyuvante en crisis focales y generalizadas y con efectos neuropsiquiátricos como principal limitación. Levetiracetam y brivaracetam actúan sobre SV2A, y la etosuximida sobre canales de calcio.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia",
+  "teoria": "fac-perfiles"
+ },
+ {
+  "id": "epi-055",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Cómo define la ILAE la epilepsia farmacorresistente?",
+  "opciones": [
+   "Falta de control de crisis tras dos fármacos adecuados, bien tolerados y correctamente tomados",
+   "Falta de control de crisis tras tres fármacos en monoterapia o combinados",
+   "Persistencia de crisis durante más de cinco años pese al tratamiento",
+   "Necesidad de politerapia con al menos dos fármacos para estar libre de crisis"
+  ],
+  "correcta": 0,
+  "explicacion": "La definición operacional de 2010 exige que ambos fármacos sean adecuados para el tipo de epilepsia, bien tolerados y bien cumplidos. Confirmado el diagnóstico, el paciente debe remitirse pronto a una unidad médico-quirúrgica: el retraso medio hasta la cirugía sigue siendo de 15-20 años.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia"
+ },
+ {
+  "id": "epi-056",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Qué tasa de libertad de crisis se consigue con la amigdalohipocampectomía en la epilepsia temporal con esclerosis de hipocampo?",
+  "opciones": [
+   "Del 70-80 %",
+   "Del 30-40 %",
+   "Del 90-95 %",
+   "Del 50 %"
+  ],
+  "correcta": 0,
+  "explicacion": "Es el síndrome quirúrgicamente tratable por excelencia, con riesgo bajo de complicaciones graves (igual o menor del 1 %) y como principal riesgo los déficits cognitivos postquirúrgicos. La lesionectomía en epilepsias neocorticales da resultados más variables, entre el 30 y el 90 % según la lesión y su localización.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia"
+ },
+ {
+  "id": "epi-057",
+  "tema": "Epilepsia",
+  "subtema": "Tratamiento de la epilepsia",
+  "enunciado": "¿Cuál es la indicación principal de la callosotomía?",
+  "opciones": [
+   "Las crisis con caída (drop attacks)",
+   "Las crisis focales de origen insular",
+   "El estado epiléptico focal refractario",
+   "Las ausencias farmacorresistentes"
+  ],
+  "correcta": 0,
+  "explicacion": "Seccionar los dos tercios anteriores del cuerpo calloso impide la sincronía y la propagación rápida entre hemisferios, y es una técnica paliativa indicada en las crisis con caída de determinados síndromes. Puede aparecer después un síndrome de desconexión, habitualmente transitorio.",
+  "fuente": "Cap. 69. Tratamiento de la epilepsia"
+ },
+ {
+  "id": "epi-058",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "¿Qué tiempos T1 y T2 se aplican al estado epiléptico generalizado convulsivo?",
+  "opciones": [
+   "T1 de 5 minutos y T2 de 30 minutos",
+   "T1 de 10 minutos y T2 de 60 minutos",
+   "T1 de 15 minutos y T2 no definido",
+   "T1 de 30 minutos y T2 de 60 minutos"
+  ],
+  "correcta": 0,
+  "explicacion": "T1 marca el momento a partir del cual hablamos de estado y T2 aquel en que aparece daño neuronal potencialmente irreversible. En el estado focal los tiempos son de 10 y 60 minutos, y en el de ausencias T1 son 15 minutos con T2 no definido.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+  "teoria": "estado-epileptico"
+ },
+ {
+  "id": "epi-059",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "¿Qué son las crisis en acúmulos y por qué se manejan como un estado epiléptico?",
+  "opciones": [
+   "Crisis repetidas con recuperación entre ellas que en algunos pacientes son el inicio de un estado («pre-EE»)",
+   "Crisis prolongadas sin recuperación de la situación basal entre una y otra",
+   "Crisis eléctricas sin traducción clínica detectadas en la monitorización",
+   "Crisis desencadenadas por la retirada brusca de la medicación en la unidad de epilepsia"
+  ],
+  "correcta": 0,
+  "explicacion": "Las definiciones más aceptadas hablan de 3 o más crisis en 24 horas, 2 o más en 6 horas, o 2 o más en 24 horas, siempre con recuperación entre ellas y sin que ninguna dure lo suficiente para ser un estado. Suponen casi el 20 % de las crisis atendidas en urgencias y requieren atención inmediata.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+  "teoria": "estado-epileptico"
+ },
+ {
+  "id": "epi-060",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "¿Cuál es el factor pronóstico más importante en el estado epiléptico y cuál el único modificable?",
+  "opciones": [
+   "El más importante es la etiología y el único modificable es la duración",
+   "El más importante es la edad y el único modificable es la etiología",
+   "El más importante es la duración y el único modificable es la edad",
+   "El más importante es el tipo semiológico y el único modificable es la etiología"
+  ],
+  "correcta": 0,
+  "explicacion": "La etiología pesa más que ningún otro factor, pero no se puede cambiar; la edad tampoco. Que la duración sea lo único sobre lo que actuamos es lo que justifica el axioma «tiempo es cerebro» y el acortamiento de los tiempos diagnósticos.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+  "teoria": "estado-epileptico"
+ },
+ {
+  "id": "epi-061",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "¿Qué cambio celular explica que las benzodiacepinas pierdan eficacia conforme se prolonga el estado epiléptico?",
+  "opciones": [
+   "La internalización de los receptores GABA",
+   "La saturación de los canales de sodio neuronales",
+   "El agotamiento de las reservas presinápticas de glutamato",
+   "La desaparición de los receptores AMPA postsinápticos"
+  ],
+  "correcta": 0,
+  "explicacion": "El fallo de los mecanismos inhibitorios mediados por GABA, con cambios en la estructura de sus receptores, hace que las benzodiacepinas sean cada vez menos eficaces. A ello se suma el aumento de glicoproteína P, que dificulta la llegada de cualquier fármaco anticrisis al sistema nervioso.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+  "teoria": "estado-epileptico"
+ },
+ {
+  "id": "epi-062",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "¿Qué proporción de estados epilépticos evoluciona a refractario y a superrefractario?",
+  "opciones": [
+   "El 14-46 % a refractario y el 2-20 % a superrefractario",
+   "El 5-10 % a refractario y el 1-2 % a superrefractario",
+   "El 60-70 % a refractario y el 30 % a superrefractario",
+   "El 25 % a refractario y el mismo 25 % a superrefractario"
+  ],
+  "correcta": 0,
+  "explicacion": "Un estudio finlandés cifra la incidencia del superrefractario en 0,7/100 000 con una mortalidad del 36 %, y describe que un 20 % de los refractarios progresa a superrefractario. La mortalidad intrahospitalaria global del estado se sitúa entre el 10 y el 37 %.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis"
+ },
+ {
+  "id": "epi-063",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "¿Cómo se define una crisis eléctrica en la monitorización video-EEG urgente?",
+  "opciones": [
+   "Actividad rítmica evolutiva de al menos 10 segundos de duración",
+   "Cualquier descarga epileptiforme repetida durante más de 3 segundos",
+   "Actividad periódica mantenida durante más de 30 minutos",
+   "Enlentecimiento focal mantenido con reactividad conservada"
+  ],
+  "correcta": 0,
+  "explicacion": "Detectar estas crisis eléctricas importa porque, si se perpetúan, evolucionan a un estado. El diagnóstico de estado no convulsivo o focal se apoya en crisis eléctricas o clínicas sutiles de más de 10 minutos, crisis recurrentes sin recuperación basal, o patrones periódicos de más de 30 minutos según los criterios de Salzburgo.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+  "teoria": "estado-epileptico"
+ },
+ {
+  "id": "epi-064",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "¿Qué evidencia respalda el uso de benzodiacepinas como primera línea en el estado epiléptico?",
+  "opciones": [
+   "Son los únicos fármacos anticrisis con recomendación IA como tratamiento inicial",
+   "Son los únicos que han demostrado reducir la mortalidad a largo plazo",
+   "Son los únicos que pueden administrarse por vía intravenosa en los primeros minutos",
+   "Son los únicos que no requieren monitorización EEG posterior"
+  ],
+  "correcta": 0,
+  "explicacion": "Su uso en los primeros 5 minutos se asocia a mejor control de las crisis y menor morbimortalidad. Cada minuto de retraso añade un 5 % de riesgo acumulado de que las crisis se prolonguen más de 60 minutos, y aun así siguen infrautilizándose tanto por las familias como por los equipos extrahospitalarios.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+  "teoria": "estado-epileptico"
+ },
+ {
+  "id": "epi-065",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "Si se dispone de acceso venoso, ¿cuál es la benzodiacepina intravenosa de elección en nuestro medio y por qué?",
+  "opciones": [
+   "El diazepam, por su nivel de evidencia 1A y porque no disponemos de lorazepam intravenoso",
+   "El midazolam, por su mayor duración de acción tras una sola dosis",
+   "El clonazepam, por su inicio de acción más rápido",
+   "El lorazepam, por su acción prolongada tras una única inyección"
+  ],
+  "correcta": 0,
+  "explicacion": "Diazepam y lorazepam tienen eficacia similar, pero al no disponer de lorazepam intravenoso el diazepam es la opción: inicio en 1-3 minutos y efecto de 10-30 minutos. El clonazepam intravenoso tarda más en actuar (3-10 minutos) pero dura hasta 12 horas, lo que lo hace útil en crisis en acúmulos y como mantenimiento.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+  "teoria": "estado-epileptico"
+ },
+ {
+  "id": "epi-066",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "¿Qué demostró el ensayo ESETT al comparar fosfenitoína, valproico y levetiracetam en segunda línea?",
+  "opciones": [
+   "Una eficacia similar de los tres, de modo que la elección depende del perfil de seguridad y del paciente",
+   "La superioridad clara del levetiracetam sobre los otros dos",
+   "La superioridad de la fosfenitoína, que pasó a ser el estándar",
+   "Que los tres eran ineficaces salvo asociados a una benzodiacepina previa"
+  ],
+  "correcta": 0,
+  "explicacion": "Ninguno de los fármacos intravenosos de segunda línea ha demostrado superioridad clara, y el ESETT lo confirmó para estos tres. La fenitoína sigue siendo el clásico con recomendación FDA, pero su perfil de seguridad y su posología compleja limitan su elección frente a levetiracetam o lacosamida.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis"
+ },
+ {
+  "id": "epi-067",
+  "tema": "Epilepsia",
+  "subtema": "Estado epiléptico",
+  "enunciado": "En un paciente con estado epiléptico refractario e inestabilidad hemodinámica, ¿qué estrategia de tercera línea se prefiere?",
+  "opciones": [
+   "El coma no barbitúrico con midazolam",
+   "El coma barbitúrico con tiopental",
+   "El coma barbitúrico con pentobarbital",
+   "La perfusión de propofol a dosis altas"
+  ],
+  "correcta": 0,
+  "explicacion": "El midazolam se prefiere por su mayor seguridad, rapidez de acción y por disponer de antídoto. El propofol es alternativa a dosis bajas, no exento del síndrome de infusión, y el coma barbitúrico queda como rescate del no barbitúrico.",
+  "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+  "teoria": "estado-epileptico"
+ }
+]

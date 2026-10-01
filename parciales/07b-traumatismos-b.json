@@ -1,0 +1,169 @@
+[
+  {
+    "id": "tra-012",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "¿Qué comportamiento radiológico distingue al hematoma epidural del subdural agudo?",
+    "opciones": [
+      "Cruza las inserciones de la duramadre pero no las suturas",
+      "Cruza las suturas pero no las inserciones durales",
+      "Es hiperdenso de forma homogénea en todos los casos",
+      "Nunca produce desplazamiento de la línea media"
+    ],
+    "correcta": 0,
+    "explicacion": "El epidural adopta forma de lente biconvexa y se detiene en las suturas; el subdural agudo tiene forma de media luna, cruza las suturas y respeta las inserciones durales. Hasta el 40 % de los subdurales son de densidad mixta según el tiempo de evolución.",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-013",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "¿Con qué frecuencia aparece el clásico intervalo lúcido en el hematoma epidural?",
+    "opciones": [
+      "En un tercio de los casos",
+      "En prácticamente todos los casos",
+      "En dos tercios de los casos",
+      "En menos del 5 % de los casos"
+    ],
+    "correcta": 0,
+    "explicacion": "Aunque es la presentación típica, solo se da en un tercio de los pacientes: casi la mitad consulta inicialmente por náuseas, vómitos, cefalea o ligera desorientación. La mayoría acaba desarrollando disminución del nivel de conciencia y signos localizadores como hemiparesia o dilatación pupilar.",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-014",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "¿A partir de qué volumen se indica evacuar un hematoma epidural con independencia del Glasgow?",
+    "opciones": [
+      "30 cm³",
+      "10 cm³",
+      "50 cm³",
+      "20 cm³"
+    ],
+    "correcta": 0,
+    "explicacion": "Un epidural de más de 30 cm³ es quirúrgico sea cual sea el nivel de conciencia. Como referencia, el umbral de las contusiones son 50 cm³ y el de las lesiones de fosa posterior 20 cm³ con desplazamiento o compresión cisternal.",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-015",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "¿En qué situación han demostrado beneficio sobre la mortalidad los ensayos de craniectomía descompresiva en el TCE grave?",
+    "opciones": [
+      "Con PIC mayor de 25 mmHg durante al menos 1 hora pese al tratamiento escalonado completo",
+      "Con PIC mayor de 20 mmHg mantenida durante 10 minutos",
+      "En todo TCE grave con desplazamiento de línea media",
+      "Como primera medida antes de iniciar la terapia osmótica"
+    ],
+    "correcta": 0,
+    "explicacion": "El beneficio aparece cuando ya han fracasado sedoanalgesia, relajación, terapia osmolar, hipotermia, hiperventilación y drenaje de LCR; con umbrales o duraciones menores no se ha demostrado. La menor mortalidad se acompaña de más supervivientes con dependencia parcial o total, por lo que la indicación debe consensuarse con la familia.",
+    "teoria": "htic-manejo",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-016",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "¿Qué hallazgo neuropatológico se considera patognomónico de la encefalopatía traumática crónica?",
+    "opciones": [
+      "Los agregados tau neuronales perivasculares en la profundidad de los surcos",
+      "Las placas de amiloide en la corteza frontal y temporal",
+      "La gliosis subpial difusa con pérdida neuronal en CA1",
+      "Los cuerpos de inclusión de TDP-43 en la amígdala"
+    ],
+    "correcta": 0,
+    "explicacion": "Los agregados rodean pequeños vasos, se sitúan en las capas profundas de la corteza y afectan a la capa II, mientras que el Alzheimer afecta a las capas III y V y al subículo y CA1; la ETC afecta a CA2. La gravedad se clasifica como alta o baja según se afecten 4 o más localizaciones o menos de 5.",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-017",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo medular",
+    "enunciado": "En el síndrome centromedular traumático, ¿qué actitud quirúrgica está indicada si no hay inestabilidad ni compresión?",
+    "opciones": [
+      "Demorar la descompresión al menos 2-3 semanas",
+      "Descomprimir en las primeras 24 horas",
+      "Descomprimir de forma emergente en las primeras 8 horas",
+      "Estabilizar con artrodesis precoz en los primeros 3-4 días"
+    ],
+    "correcta": 0,
+    "explicacion": "La descompresión precoz ha demostrado empeorar el pronóstico en este síndrome por el edema medular que desarrolla. Es el síndrome incompleto más frecuente, típico de una hiperextensión sobre una estenosis cervical previa, y el 90 % de los pacientes deambula a los 5 días.",
+    "fuente": "Cap. 46. Traumatismo de la médula espinal"
+  },
+  {
+    "id": "tra-018",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo medular",
+    "enunciado": "¿Qué síndrome medular incompleto tiene el mejor pronóstico funcional?",
+    "opciones": [
+      "El síndrome de Brown-Séquard",
+      "El síndrome centromedular",
+      "El síndrome cordonal anterior",
+      "El síndrome cordonal posterior"
+    ],
+    "correcta": 0,
+    "explicacion": "Aunque es el más raro, con solo un 2-4 % de las lesiones medulares traumáticas y típico de heridas penetrantes, el 90 % de los pacientes alcanza deambulación independiente. El cordonal anterior es el de peor pronóstico, con una recuperación funcional estimada del 10-20 %.",
+    "fuente": "Cap. 46. Traumatismo de la médula espinal"
+  },
+  {
+    "id": "tra-019",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo medular",
+    "enunciado": "¿Qué evalúan los criterios NEXUS en un politraumatizado?",
+    "opciones": [
+      "La necesidad de inmovilización cervical y de radiografía de columna",
+      "La indicación de angio-TC por sospecha de disección arterial",
+      "La gravedad de la lesión medular y el pronóstico ambulatorio",
+      "La indicación de metilprednisolona en las primeras 8 horas"
+    ],
+    "correcta": 0,
+    "explicacion": "Son cinco ítems: déficit neurológico, dolor en línea media cervical, alteración del nivel de conciencia, intoxicación y lesiones a distancia que distraigan. En su ausencia no hace falta inmovilizar ni radiografiar, con una sensibilidad validada del 95-100 %. Los criterios de Denver son los que guían la angio-TC.",
+    "fuente": "Cap. 46. Traumatismo de la médula espinal"
+  },
+  {
+    "id": "tra-020",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo medular",
+    "enunciado": "¿Cuál es la única situación en la que la cirugía del trauma medular agudo es emergente?",
+    "opciones": [
+      "La lesión medular incompleta evolutiva",
+      "La lesión medular completa",
+      "La lesión medular incompleta no evolutiva",
+      "Cualquier lesión con fractura vertebral asociada"
+    ],
+    "correcta": 0,
+    "explicacion": "Solo cuando el déficit progresa se opera lo antes posible, para frenar esa progresión. En la lesión completa no hay evidencia de que la cirugía urgente mejore el pronóstico y se recomienda intervenir en la primera semana; en la incompleta estable la cirugía es preferente, en los primeros 3-4 días.",
+    "fuente": "Cap. 46. Traumatismo de la médula espinal"
+  },
+  {
+    "id": "tra-021",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo de nervio periférico",
+    "enunciado": "Según la clasificación de Sunderland, ¿a partir de qué grado no hay recuperación sin intervención quirúrgica?",
+    "opciones": [
+      "A partir del tipo 4, con lesión del perineuro",
+      "A partir del tipo 2, con integridad del endoneuro",
+      "A partir del tipo 3, con lesión del endoneuro",
+      "Solo en el tipo 5, con lesión del epineuro"
+    ],
+    "correcta": 0,
+    "explicacion": "En los tipos 1, 2 y algunos tipo 3 el nervio regenera solo, con mejor resultado que la reparación quirúrgica, por lo que si se demuestra continuidad se espera varios meses. Los tipos 4 y 5 corresponden a axonotmesis moderada y grave y requieren cirugía.",
+    "teoria": "emg-patrones",
+    "fuente": "Cap. 47. Traumatismo del nervio periférico"
+  },
+  {
+    "id": "tra-022",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo de nervio periférico",
+    "enunciado": "¿A qué ritmo crece y regenera un nervio periférico tras una lesión traumática?",
+    "opciones": [
+      "1 mm al día",
+      "0,1 mm al día",
+      "3 mm al día",
+      "1 cm al día"
+    ],
+    "correcta": 0,
+    "explicacion": "Ese ritmo explica que en trayectos largos la musculatura distal quede denervada durante mucho tiempo, y condiciona los plazos de revisión quirúrgica. El injerto nervioso vascularizado, reservado a brechas mayores de 6 cm, acelera el crecimiento hasta 3 mm al día.",
+    "fuente": "Cap. 47. Traumatismo del nervio periférico"
+  }
+]

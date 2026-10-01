@@ -1,0 +1,202 @@
+[
+  {
+    "id": "dem-001",
+    "tema": "Demencias",
+    "subtema": "Enfermedad de Alzheimer",
+    "enunciado": "¿Cómo se entiende actualmente la enfermedad de Alzheimer?",
+    "opciones": [
+      "Como una entidad clínico-biológica con cambios de amiloide, tau y neurodegeneración a lo largo de décadas",
+      "Como un síndrome puramente clínico definido por la pérdida de memoria",
+      "Como una taupatía sin relación con el depósito de amiloide",
+      "Como una consecuencia inevitable del envejecimiento cerebral"
+    ],
+    "correcta": 0,
+    "explicacion": "La EA se concibe como entidad clínico-biológica: cambios biológicos específicos (amiloide, tau, neurodegeneración) que se acumulan durante décadas y se manifiestan en un continuum clínico que empieza en una etapa preclínica sin síntomas.",
+    "fuente": "Cap. 63. Enfermedad de Alzheimer"
+  },
+  {
+    "id": "dem-002",
+    "tema": "Demencias",
+    "subtema": "Enfermedad de Alzheimer",
+    "enunciado": "¿Qué explica que la etapa preclínica de la enfermedad de Alzheimer sea asintomática pese a existir patología?",
+    "opciones": [
+      "Los sistemas neuronales compensan funcionalmente la neurodegeneración hasta cierto punto",
+      "El depósito de amiloide no afecta a las sinapsis en esa fase",
+      "La patología se limita al tronco encefálico al principio",
+      "Los biomarcadores se positivizan solo tras los síntomas"
+    ],
+    "correcta": 0,
+    "explicacion": "Durante la fase preclínica se acumula la patología característica sin clínica; los síntomas aparecen cuando los sistemas neuronales ya no consiguen compensar funcionalmente la neurodegeneración.",
+    "fuente": "Cap. 63. Enfermedad de Alzheimer"
+  },
+  {
+    "id": "dem-003",
+    "tema": "Demencias",
+    "subtema": "Enfermedad de Alzheimer",
+    "enunciado": "¿Qué ventaja diagnóstica aporta la proteína tau fosforilada frente a otros biomarcadores?",
+    "opciones": [
+      "Su elevación es específica de la EA y no aparece en otras taupatías",
+      "Se eleva en todas las enfermedades neurodegenerativas por igual",
+      "Permite medir directamente la carga de alfa-sinucleína",
+      "Solo se positiviza en la fase de demencia establecida"
+    ],
+    "correcta": 0,
+    "explicacion": "Los niveles elevados de tau fosforilada parecen específicos de la enfermedad de Alzheimer, ya que no se encuentran elevados en otras taupatías, lo que la hace útil en el diagnóstico diferencial entre demencias.",
+    "fuente": "Cap. 63. Enfermedad de Alzheimer"
+  },
+  {
+    "id": "dem-004",
+    "tema": "Demencias",
+    "subtema": "Enfermedad de Alzheimer",
+    "enunciado": "¿Qué organismo desarrolló en 2011 los criterios diagnósticos de EA para las fases de deterioro cognitivo leve y de demencia?",
+    "opciones": ["La NIA-AA", "La Movement Disorder Society", "El grupo DSM-5", "La International Working Group of ICHD"],
+    "correcta": 0,
+    "explicacion": "La National Institute on Aging-Alzheimer's Association publicó en 2011 criterios clínicos para DCL y demencia, a los que se añaden criterios de biomarcadores para establecer que se deben a la enfermedad de Alzheimer.",
+    "fuente": "Cap. 63. Enfermedad de Alzheimer"
+  },
+  {
+    "id": "dem-005",
+    "tema": "Demencias",
+    "subtema": "DFT y cuerpos de Lewy",
+    "enunciado": "¿Qué datos orientan a demencia frontotemporal variante conductual frente a enfermedad de Alzheimer?",
+    "opciones": [
+      "Alteraciones conductuales tempranas con degradación de la fachada social y pérdida de insight",
+      "Desorientación topográfica precoz con amnesia episódica marcada",
+      "Alucinaciones visuales estructuradas y fluctuaciones",
+      "Apraxia constructiva aislada de inicio insidioso"
+    ],
+    "correcta": 0,
+    "explicacion": "En la DFT variante conductual destacan los cambios de conducta precoces, la degradación de la fachada social y la pérdida de insight, mientras que la memoria episódica y topográfica está menos afectada o no es el dominio más comprometido.",
+    "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+  },
+  {
+    "id": "dem-006",
+    "tema": "Demencias",
+    "subtema": "DFT y cuerpos de Lewy",
+    "enunciado": "¿En qué pacientes puede dar falsos positivos la gammagrafía cardíaca con MIBG?",
+    "opciones": [
+      "En diabéticos y en pacientes con enfermedad cardíaca",
+      "En pacientes con insuficiencia renal crónica",
+      "En pacientes tratados con levodopa",
+      "En pacientes con temblor esencial de larga evolución"
+    ],
+    "correcta": 0,
+    "explicacion": "Hay que contar con falsos positivos en diabéticos o cardiópatas. La MIBG también ayuda a separar DLB y enfermedad de Parkinson de la atrofia multisistémica, en la que la afectación disautonómica es central preganglionar.",
+    "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+  },
+  {
+    "id": "dem-007",
+    "tema": "Demencias",
+    "subtema": "DFT y cuerpos de Lewy",
+    "enunciado": "¿Qué proporción de pacientes con demencia con cuerpos de Lewy tiene un PET-amiloide anormal?",
+    "opciones": ["Un 50-70 %", "Menos del 10 %", "Alrededor del 25 %", "Prácticamente el 100 %"],
+    "correcta": 0,
+    "explicacion": "Entre el 50 y el 70 % de los pacientes con DLB muestra captación anormal en el PET-amiloide; se postula que la mayor carga amiloide cortical explique la diferencia temporal entre demencia y parkinsonismo respecto a la demencia asociada a Parkinson.",
+    "fuente": "Cap. 64. Demencia frontotemporal y demencia con cuerpos de Lewy"
+  },
+  {
+    "id": "dem-008",
+    "tema": "Demencias",
+    "subtema": "Deterioro cognitivo vascular",
+    "enunciado": "¿Qué concepto introdujo Binswanger a finales del siglo XIX?",
+    "opciones": [
+      "La demencia arteriosclerótica",
+      "La demencia post-apoplejía",
+      "El deterioro cognitivo vascular leve",
+      "La enfermedad de pequeño vaso amiloidea"
+    ],
+    "correcta": 0,
+    "explicacion": "El concepto de demencia arteriosclerótica de Binswanger predominó desde finales del XIX, dentro de una línea que arranca con las descripciones de demencia post-apoplejía de Thomas Willis en el siglo XVII.",
+    "fuente": "Cap. 65. Deterioro cognitivo vascular"
+  },
+  {
+    "id": "dem-009",
+    "tema": "Demencias",
+    "subtema": "Deterioro cognitivo vascular",
+    "enunciado": "Además de la isquemia, ¿qué mecanismos del daño de pequeño vaso contribuyen al deterioro cognitivo vascular?",
+    "opciones": [
+      "Disfunción endotelial, edema intersticial, neuroinflamación y alteración en la reparación de la mielina",
+      "Depósito exclusivo de alfa-sinucleína perivascular",
+      "Pérdida selectiva de neuronas colinérgicas del núcleo basal",
+      "Atrofia hipocampal por excitotoxicidad glutamatérgica"
+    ],
+    "correcta": 0,
+    "explicacion": "El daño de la pared de los pequeños vasos pone en marcha disfunción endotelial, edema intersticial, neuroinflamación y alteraciones en la reparación de la mielina, más allá de la propia isquemia.",
+    "fuente": "Cap. 65. Deterioro cognitivo vascular"
+  },
+  {
+    "id": "dem-010",
+    "tema": "Demencias",
+    "subtema": "Deterioro cognitivo vascular",
+    "enunciado": "¿Sobre qué se basan las recomendaciones de prevención del deterioro cognitivo de The Lancet Commission de 2020?",
+    "opciones": [
+      "Sobre la actuación en los factores de riesgo, con medidas poblacionales e individuales",
+      "Sobre el cribado poblacional con biomarcadores en sangre",
+      "Sobre el tratamiento precoz con anticolinesterásicos",
+      "Sobre la anticoagulación universal en mayores de 70 años"
+    ],
+    "correcta": 0,
+    "explicacion": "Las recomendaciones actúan sobre factores de riesgo conocidos en dos niveles: población general —políticas de actividad física, social y cognitiva, control de la pérdida auditiva, reducción del traumatismo craneal— e individuo.",
+    "fuente": "Cap. 65. Deterioro cognitivo vascular"
+  },
+  {
+    "id": "dem-011",
+    "tema": "Demencias",
+    "subtema": "Demencias rápidamente progresivas",
+    "enunciado": "¿Qué define a una demencia rápidamente progresiva?",
+    "opciones": [
+      "Un trastorno cognitivo que pasa de los primeros síntomas a demencia franca en pocos meses",
+      "Un deterioro cognitivo que progresa en menos de cinco años",
+      "Toda demencia que debuta antes de los 65 años",
+      "Una demencia con fluctuaciones marcadas a lo largo del día"
+    ],
+    "correcta": 0,
+    "explicacion": "La DRP engloba cuadros heterogéneos que en pocos meses llevan desde los primeros síntomas a una demencia establecida. Su definición temporal no está del todo consensuada en la literatura.",
+    "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+  },
+  {
+    "id": "dem-012",
+    "tema": "Demencias",
+    "subtema": "Demencias rápidamente progresivas",
+    "enunciado": "¿Qué cuadro combina cefalea, focalidad, trastorno cognitivo y crisis por una reacción autoinmune frente al amiloide vascular?",
+    "opciones": [
+      "La angiopatía amiloide inflamatoria",
+      "La vasculitis primaria del SNC",
+      "La encefalopatía hipertensiva",
+      "La encefalitis por anticuerpos intracelulares"
+    ],
+    "correcta": 0,
+    "explicacion": "En la inflamación asociada a angiopatía amiloide se produce una reacción autoinmune frente al amiloide depositado en los vasos; cursa con cefalea, signos focales, deterioro cognitivo, crisis y a veces encefalopatía, y puede simular una prionopatía.",
+    "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+  },
+  {
+    "id": "dem-013",
+    "tema": "Demencias",
+    "subtema": "Demencias rápidamente progresivas",
+    "enunciado": "¿Qué prueba de imagen es de elección en el estudio de una demencia rápidamente progresiva?",
+    "opciones": [
+      "La RM con contraste",
+      "La TC craneal sin contraste",
+      "El PET-FDG cerebral",
+      "La gammagrafía con MIBG"
+    ],
+    "correcta": 0,
+    "explicacion": "La TC sirve inicialmente para descartar sangrado o hidrocefalia, pero la RM con contraste es la prueba de elección: identifica lesiones isquémicas o hemorrágicas, infiltración neoplásica, depósitos de metales y lesiones inflamatorias.",
+    "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+  },
+  {
+    "id": "dem-014",
+    "tema": "Demencias",
+    "subtema": "Demencias rápidamente progresivas",
+    "enunciado": "¿Qué patrón de RM es característico de las encefalitis inmunomediadas dentro del estudio de una demencia rápidamente progresiva?",
+    "opciones": [
+      "Aumento de señal en las regiones mediales de ambos lóbulos temporales, aunque puede ser normal",
+      "Aumento de señal cortical y en ganglios basales en FLAIR y DWI",
+      "Hiperintensidades periventriculares confluentes simétricas",
+      "Realce leptomeníngeo difuso con hidrocefalia"
+    ],
+    "correcta": 0,
+    "explicacion": "En las encefalitis inmunomediadas es característico el aumento de señal temporal medial bilateral, con gran variabilidad e incluso neuroimagen normal. El patrón cortical y de ganglios basales en FLAIR y DWI corresponde a la Creutzfeldt-Jakob esporádica.",
+    "fuente": "Cap. 66. Otras causas no neurodegenerativas de deterioro cognitivo"
+  }
+]

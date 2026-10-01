@@ -1,0 +1,61 @@
+{
+  "app": {
+    "id": "neurologia",
+    "nombre": "Fascículo",
+    "subtitulo": "Manual del Residente de Neurología (SEN)",
+    "rutaBase": "/neurologia/",
+    "versionContenido": "2026-09-30d",
+    "versionCache": 10
+  },
+  "colores": {
+    "primario": "#1B2D5B",
+    "secundario": "#BFDBFF",
+    "acento": "#0D7377"
+  },
+  "ejeAgrupacion": {
+    "clave": "tema",
+    "etiqueta": "Bloque",
+    "orden": [
+      "Introducción",
+      "Semiología",
+      "EECC",
+      "Pat. sistémica",
+      "Infecciones SNC",
+      "Traumatismos",
+      "Vascular",
+      "Tumores",
+      "Cefalea y dolor",
+      "Demencias",
+      "Epilepsia",
+      "Desmielinizantes",
+      "Movimiento",
+      "Neuromuscular",
+      "Temas transversales",
+      "Otros"
+    ]
+  },
+  "estudio": {
+    "nuevasPorDia": 10,
+    "topeRepasosDia": 50,
+    "ordenOpcionesAleatorio": true,
+    "reaparicionTrasFallo": 25
+  },
+  "srs": {
+    "facilidadInicial": 2.8,
+    "facilidadMinima": 1.6,
+    "multiplicadorDude": 1.5,
+    "multiplicadorFacil": 1.4,
+    "penalizacionFallo": -0.1,
+    "penalizacionDude": -0.1,
+    "bonusFacil": 0.15,
+    "factorMostrarMenos": 3,
+    "umbralMaduroDias": 21,
+    "leechLapsus": 6,
+    "leechLapsusIntervaloCorto": 4
+  },
+  "modulos": {
+    "imagenes": false,
+    "teoria": true,
+    "tituloPestanaTeoria": "Consulta"
+  }
+}

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "tvs-015",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "¿Qué se observa en la maniobra de Hoover cuando la pérdida de fuerza es funcional?",
+    "opciones": [
+      "Al elevar la pierna parética, la sana no hace fuerza en extensión contra la mano del explorador",
+      "Al soltar el brazo sobre el rostro, este se desvía y evita el golpe",
+      "Al percutir el tendón rotuliano aparece un clonus inagotable",
+      "Al elevar la pierna sana el paciente refiere dolor lumbar intenso"
+    ],
+    "correcta": 0,
+    "explicacion": "En condiciones normales, para elevar una pierna se empuja en extensión con el talón contralateral, y en la debilidad funcional esa sinergia automática falta o se sustituye por una flexión. La falsa hipotonía del brazo que evita el golpe en la cara es un signo distinto, útil en el bajo nivel de consciencia funcional.",
+    "fuente": "Cap. 87. Patología funcional en neurología"
+  },
+  {
+    "id": "tvs-016",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "¿Qué dato semiológico es característico de las crisis funcionales?",
+    "opciones": [
+      "El paciente permanece con los ojos fuertemente cerrados",
+      "La mordedura afecta a los bordes laterales de la lengua",
+      "Los episodios son muy breves y siguen de una fase confusional",
+      "El EEG durante el episodio muestra actividad punta-onda"
+    ],
+    "correcta": 0,
+    "explicacion": "Los movimientos bruscos espasmódicos se prolongan durante muchos minutos y después puede no haber fase confusional; cuando hay mordedura suele limitarse a la punta de la lengua. El EEG o el vídeo-EEG durante los episodios es normal, y hasta un 20-40% de estos pacientes asocia además crisis epilépticas.",
+    "fuente": "Cap. 87. Patología funcional en neurología"
+  },
+  {
+    "id": "tvs-017",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "¿Qué diferencia la pseudoptosis funcional de una ptosis de otra etiología?",
+    "opciones": [
+      "El paciente contrae el orbicular y desciende la ceja",
+      "El paciente contrae el frontal y eleva la ceja",
+      "La caída del párpado empeora con la mirada sostenida hacia arriba",
+      "Se acompaña de midriasis ipsilateral"
+    ],
+    "correcta": 0,
+    "explicacion": "En la ptosis habitual el paciente compensa contrayendo el frontal y subiendo la ceja; en la funcional ocurre justo lo contrario. Otros signos neurooftalmológicos funcionales son el espasmo de visión cercana y la visión en cañón de escopeta, cuyo campo no aumenta al alejar el estímulo.",
+    "fuente": "Cap. 87. Patología funcional en neurología"
+  },
+  {
+    "id": "tvs-018",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "¿Qué ventaja tiene el MoCA sobre el MMSE?",
+    "opciones": [
+      "Detecta también el deterioro cognitivo leve",
+      "No necesita ajuste por edad ni escolaridad",
+      "Puede aplicarse a personas iletradas",
+      "Explora de forma monográfica la memoria episódica"
+    ],
+    "correcta": 0,
+    "explicacion": "El MMSE es útil en déficits moderados a graves pero resulta inadecuado para el DCL, y además se ve muy influido por el nivel cultural. El MoCA incorpora pruebas de función ejecutiva, visoespacial y memoria de trabajo, junto a tareas de recuperación de memoria más complejas.",
+    "fuente": "Cap. 92. Neuropsicología clínica"
+  },
+  {
+    "id": "tvs-019",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "¿Qué test de cribado cognitivo está diseñado para minimizar el sesgo educativo y sociocultural?",
+    "opciones": [
+      "El RUDAS",
+      "El MMSE",
+      "El Memory Impairment Screen",
+      "El test del reloj"
+    ],
+    "correcta": 0,
+    "explicacion": "Explora memoria reciente, orientación corporal, praxias motoras y visoconstructivas, juicio y lenguaje, y resulta tan sensible como el MMSE con mayor especificidad. El Fototest persigue el mismo objetivo usando fotografías de objetos reales en lugar de palabras, mientras que el MIS no puede aplicarse a personas iletradas.",
+    "fuente": "Cap. 92. Neuropsicología clínica"
+  },
+  {
+    "id": "tvs-020",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "Pausar una receta para responder un correo y volver luego a cocinar pone en juego sobre todo...",
+    "opciones": [
+      "la atención alternante",
+      "la atención dividida",
+      "la atención sostenida",
+      "la atención selectiva"
+    ],
+    "correcta": 0,
+    "explicacion": "La alternante consiste en cambiar el foco entre dos o más tareas distintas y requiere además memoria de trabajo y flexibilidad cognitiva. La dividida sería atender a las dos a la vez, como hacer la compra mientras se habla por teléfono, y una de ellas suele ser más automática.",
+    "fuente": "Cap. 92. Neuropsicología clínica"
+  },
+  {
+    "id": "tvs-021",
+    "tema": "Temas transversales",
+    "subtema": "Neurointensivos y neurofisiología",
+    "enunciado": "¿Entre qué cifras de presión de perfusión cerebral son efectivos los mecanismos de autorregulación?",
+    "opciones": [
+      "60-100 mmHg",
+      "30-60 mmHg",
+      "100-140 mmHg",
+      "20-40 mmHg"
+    ],
+    "correcta": 0,
+    "explicacion": "La PPC es la diferencia entre la presión arterial media y la PIC, y dentro de ese rango el flujo sanguíneo cerebral se mantiene constante a base de cambios en la resistencia vascular. Si una lesión rompe ese mecanismo, el flujo pasa a depender linealmente de la PPC, lo que condiciona todo el manejo del neurocrítico.",
+    "teoria": "htic-manejo",
+    "fuente": "Cap. 88. Neurointensivos"
+  },
+  {
+    "id": "tvs-022",
+    "tema": "Temas transversales",
+    "subtema": "Neurointensivos y neurofisiología",
+    "enunciado": "¿A partir de qué cifra de PIC recomiendan las guías de la Brain Trauma Foundation iniciar medidas dirigidas?",
+    "opciones": [
+      "22 mmHg mantenidos 5-10 minutos",
+      "15 mmHg mantenidos 30 minutos",
+      "30 mmHg en una medición aislada",
+      "40 mmHg mantenidos una hora"
+    ],
+    "correcta": 0,
+    "explicacion": "El umbral no está claramente definido, pero ese es el valor que fijan las guías. Disponer de algoritmos protocolizados, desarrollados y revisados por equipos multidisciplinares, mejora la consistencia de los cuidados y el resultado clínico.",
+    "teoria": "htic-manejo",
+    "fuente": "Cap. 88. Neurointensivos"
+  },
+  {
+    "id": "tvs-023",
+    "tema": "Temas transversales",
+    "subtema": "Neurointensivos y neurofisiología",
+    "enunciado": "¿Con qué situaciones se asocia el edema cerebral citotóxico?",
+    "opciones": [
+      "El ictus y la encefalopatía hipóxico-isquémica",
+      "El tumor cerebral y el absceso",
+      "La leucoencefalopatía posterior reversible",
+      "La hidrocefalia obstructiva"
+    ],
+    "correcta": 0,
+    "explicacion": "Nace de la alteración del metabolismo celular, que altera los gradientes iónicos y desplaza agua al tejido; también aparece en el traumatismo craneoencefálico y el fallo hepático agudo. El vasogénico depende de la disfunción de la barrera hematoencefálica y es el del tumor, el absceso y el PRES.",
+    "teoria": "htic-manejo",
+    "fuente": "Cap. 88. Neurointensivos"
+  },
+  {
+    "id": "tvs-024",
+    "tema": "Temas transversales",
+    "subtema": "Neurointensivos y neurofisiología",
+    "enunciado": "¿Por qué debe retirarse de forma gradual la hiperventilación empleada para bajar la PIC?",
+    "opciones": [
+      "Porque su interrupción brusca produce una elevación rebote de la PIC",
+      "Porque puede dejar una alcalosis metabólica persistente",
+      "Porque induce vasodilatación sistémica con hipotensión",
+      "Porque genera hipoxemia por atelectasias"
+    ],
+    "correcta": 0,
+    "explicacion": "Baja la PIC mediante vasoconstricción cerebral, con objetivo de CO2 entre 25 y 35 mmHg, y es una medida de emergencia limitada en el tiempo. La recomendación de rango no se aplica igual al paciente con EPOC retenedor de carbónico.",
+    "teoria": "htic-manejo",
+    "fuente": "Cap. 88. Neurointensivos"
+  },
+  {
+    "id": "tvs-025",
+    "tema": "Temas transversales",
+    "subtema": "Neurointensivos y neurofisiología",
+    "enunciado": "¿Qué limitación tiene el propofol como sedante en la neuro-UCI?",
+    "opciones": [
+      "Carece de propiedades analgésicas",
+      "Aumenta la presión intracraneal",
+      "Tiene una vida media larga con riesgo de acumulación",
+      "Está contraindicado en el estatus epiléptico"
+    ],
+    "correcta": 0,
+    "explicacion": "Es de primera elección por su farmacocinética, su efecto antiepiléptico y su reducción de la PIC, pero no alivia el dolor: ante agitación pese a una sedación aparentemente correcta hay que descartar dolor no tratado. Obliga además a vigilar CK, triglicéridos, lactato, amilasa y lipasa por el riesgo de síndrome de propofol.",
+    "fuente": "Cap. 88. Neurointensivos"
+  },
+  {
+    "id": "tvs-026",
+    "tema": "Temas transversales",
+    "subtema": "Neurointensivos y neurofisiología",
+    "enunciado": "¿Qué describe la inhibición por prepulso?",
+    "opciones": [
+      "Un estímulo débil previo inhibe el reflejo de parpadeo o el sobresalto ante el estímulo siguiente",
+      "Un estímulo intenso previo potencia la respuesta motora al estímulo siguiente",
+      "La supresión del reflejo de parpadeo durante el sueño profundo",
+      "La desaparición del reflejo de estiramiento tras una lesión medular"
+    ],
+    "correcta": 0,
+    "explicacion": "El prepulso es tan poco intenso que por sí solo no induce ninguna respuesta, y refleja el control atencional sobre los impulsos aferentes: sirve para estudiar el procesamiento preconsciente de los estímulos. Un fenómeno relacionado es el gating, el bloqueo de las aferencias generadas por el propio movimiento, cuya ausencia es relevante en los trastornos funcionales del movimiento.",
+    "fuente": "Cap. 89. Neurofisiología clínica"
+  },
+  {
+    "id": "tvs-027",
+    "tema": "Temas transversales",
+    "subtema": "Neuropediatría",
+    "enunciado": "¿Qué define a una crisis febril como compleja?",
+    "opciones": [
+      "Su inicio focal, su duración mayor de 15 minutos o su recurrencia en 24 horas",
+      "Su aparición dentro de las primeras 24 horas de fiebre",
+      "Su presentación generalizada y aislada en un niño de dos años",
+      "La existencia de antecedentes familiares de primer grado"
+    ],
+    "correcta": 0,
+    "explicacion": "Las simples son generalizadas, aisladas, de menos de 15 minutos, aparecen entre los 6 meses y los 4 años y dejan una exploración postictal normal. Las complejas suponen el 30-40% del total y pueden dejar una parálisis de Todd.",
+    "fuente": "Cap. 90. Neuropediatría"
+  },
+  {
+    "id": "tvs-028",
+    "tema": "Temas transversales",
+    "subtema": "Neuropediatría",
+    "enunciado": "¿Por qué las crisis epilépticas del periodo neonatal son siempre focales?",
+    "opciones": [
+      "Por la inmadurez cerebral del recién nacido",
+      "Porque casi todas se deben a un ictus perinatal",
+      "Porque la mielinización del cuerpo calloso ya está completa",
+      "Porque el EEG neonatal no detecta descargas generalizadas"
+    ],
+    "correcta": 0,
+    "explicacion": "Pueden tener presentación motora, no motora o secuencial, y la causa más frecuente con diferencia es la encefalopatía hipóxico-isquémica, con un 50-60% de los casos. El uso de fármacos anticrisis puede provocar un desacoplamiento, de modo que las crisis electro-clínicas pasan a ser solo electrográficas.",
+    "fuente": "Cap. 90. Neuropediatría"
+  },
+  {
+    "id": "tvs-029",
+    "tema": "Temas transversales",
+    "subtema": "Neuropediatría",
+    "enunciado": "¿Qué grupo farmacológico debe evitarse en el síndrome de Dravet?",
+    "opciones": [
+      "Los bloqueantes de los canales de sodio",
+      "Las benzodiacepinas",
+      "El ácido valproico",
+      "El estiripentol"
+    ],
+    "correcta": 0,
+    "explicacion": "Debuta hacia los 5-6 meses con crisis febriles atípicas de inicio focal y tendencia al estatus, con retraso psicomotor, y su origen genético típico es una mutación de SCN1A. El tratamiento se apoya en ácido valproico, benzodiacepinas, cannabidiol y estiripentol.",
+    "fuente": "Cap. 90. Neuropediatría"
+  },
+  {
+    "id": "tvs-030",
+    "tema": "Temas transversales",
+    "subtema": "Neuropediatría",
+    "enunciado": "¿Qué distingue a los tics de las estereotipias en la infancia?",
+    "opciones": [
+      "Los tics se preceden de una urgencia premonitoria",
+      "Los tics son rítmicos y las estereotipias arrítmicas",
+      "Las estereotipias duran más de un minuto y los tics varios segundos",
+      "Las estereotipias aparecen solo en el trastorno del espectro autista"
+    ],
+    "correcta": 0,
+    "explicacion": "La urgencia premonitoria la saben describir los mayores de 9 años. Las estereotipias son rítmicas y sin propósito, aparecen antes de los 3 años, duran más que los tics y ceden con la distracción o el contacto físico; un 3-9% de los niños de 5 a 8 años tiene estereotipias primarias.",
+    "fuente": "Cap. 90. Neuropediatría"
+  },
+  {
+    "id": "tvs-031",
+    "tema": "Temas transversales",
+    "subtema": "Neuropediatría",
+    "enunciado": "¿Cuál es la causa más frecuente de ictus isquémico en un niño previamente sano?",
+    "opciones": [
+      "La arteriopatía focal inflamatoria",
+      "La disección arterial extracraneal",
+      "La cardiopatía congénita no corregida",
+      "La drepanocitosis"
+    ],
+    "correcta": 0,
+    "explicacion": "Consiste en una estenosis focal y unilateral de una gran arteria de la circulación anterior, con frecuencia la cerebral media, de origen presumiblemente infeccioso. La varicela es la causa más habitual y puede haber ocurrido hasta 12 meses antes del evento.",
+    "fuente": "Cap. 90. Neuropediatría"
+  },
+  {
+    "id": "tvs-032",
+    "tema": "Temas transversales",
+    "subtema": "Neuropediatría",
+    "enunciado": "¿Qué fármaco se indica en los espasmos infantiles secundarios a esclerosis tuberosa?",
+    "opciones": [
+      "Vigabatrina",
+      "ACTH",
+      "Etosuximida",
+      "Rufinamida"
+    ],
+    "correcta": 0,
+    "explicacion": "La ACTH queda para los espasmos infantiles de etiología distinta de la esclerosis tuberosa. En menores de 2 años con descargas ictales en el EEG sin correlato clínico claro también está indicada la vigabatrina.",
+    "fuente": "Cap. 90. Neuropediatría"
+  },
+  {
+    "id": "tvs-033",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "¿Cómo actúa la toxina botulínica A sobre la espasticidad?",
+    "opciones": [
+      "Bloquea la exocitosis de acetilcolina en la unión neuromuscular",
+      "Actúa sobre los receptores GABA-B de la médula espinal",
+      "Inhibe la aferencia del huso muscular",
+      "Reduce la liberación de glutamato en la corteza motora"
+    ],
+    "correcta": 0,
+    "explicacion": "Produce una denervación parcial y reversible del músculo infiltrado y es el tratamiento de elección de la espasticidad localizada, idealmente con infiltración guiada por EMG, estimulación eléctrica o ecografía. El baclofeno intratecal es el que actúa sobre los receptores GABA-B medulares y se reserva para la espasticidad generalizada.",
+    "fuente": "Cap. 91. Neurorrehabilitación: atención del daño cerebral adquirido"
+  },
+  {
+    "id": "tvs-034",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "¿Qué escala se usa con más frecuencia para objetivar la espasticidad?",
+    "opciones": [
+      "La escala de Ashworth modificada",
+      "La escala de Tardieu",
+      "La escala de Borg",
+      "La escala CRS-r"
+    ],
+    "correcta": 0,
+    "explicacion": "Gradúa la resistencia al movimiento pasivo e incorpora el nivel 1+ que no tiene la original. La de Tardieu también mide espasticidad pero explorando a velocidad lenta, media y rápida; la de Borg valora el esfuerzo percibido en el ejercicio y la CRS-r los estados alterados de consciencia.",
+    "fuente": "Cap. 91. Neurorrehabilitación: atención del daño cerebral adquirido"
+  },
+  {
+    "id": "tvs-035",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "¿Qué diferencia el estado de mínima consciencia plus (EMC+) del EMC-?",
+    "opciones": [
+      "La respuesta reproducible a órdenes",
+      "La apertura ocular espontánea",
+      "La localización del dolor",
+      "La comunicación funcional"
+    ],
+    "correcta": 0,
+    "explicacion": "En el EMC- ya hay apertura ocular y movimientos espontáneos, localización del dolor y seguimiento visual, pero no respuesta a órdenes; en el EMC+ esta es reproducible y aparecen palabras inteligibles. En ninguno de los dos la comunicación llega a ser funcional.",
+    "fuente": "Cap. 91. Neurorrehabilitación: atención del daño cerebral adquirido"
+  },
+  {
+    "id": "tvs-036",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "¿Cuándo entra en vigor un documento de voluntades anticipadas?",
+    "opciones": [
+      "Cuando la persona ya no puede tomar o comunicar sus decisiones",
+      "Desde el momento en que se firma y se registra",
+      "Cuando el representante lo solicita al equipo asistencial",
+      "Cuando el pronóstico vital estimado baja de seis meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Solo tiene validez cuando quien lo cumplimentó deja de ser capaz de decidir de forma libre, momento en el que debe consultarse. No sustituye a la planificación compartida de la atención, que es un proceso más amplio, deliberativo y dinámico.",
+    "fuente": "Cap. 94. Cuidados paliativos en neurología"
+  },
+  {
+    "id": "tvs-037",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "¿Qué se recomienda respecto a la alimentación en las fases finales de una demencia?",
+    "opciones": [
+      "Evitar la nutrición e hidratación artificiales y primar la alimentación de confort",
+      "Colocar una sonda nasogástrica para prevenir las aspiraciones",
+      "Indicar una gastrostomía percutánea al detectar la primera disfagia",
+      "Mantener la hidratación intravenosa hasta el fallecimiento"
+    ],
+    "correcta": 0,
+    "explicacion": "La alimentación por sonda nasogástrica a largo plazo no mejora el estado nutricional ni el pronóstico general, no evita el riesgo de aspiración y obliga al uso de contenciones físicas. Todo esto debe explicarse convenientemente a la familia.",
+    "fuente": "Cap. 94. Cuidados paliativos en neurología"
+  },
+  {
+    "id": "tvs-038",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "¿A qué se llama neuroplasticidad maladaptativa?",
+    "opciones": [
+      "A los procesos plásticos que generan síntomas como la espasticidad o el dolor neuropático",
+      "A la ausencia de recuperación espontánea en los primeros meses tras la lesión",
+      "A la pérdida de los beneficios logrados cuando se interrumpe la rehabilitación",
+      "A la reorganización cortical que permite recuperar la función perdida"
+    ],
+    "correcta": 0,
+    "explicacion": "Los cambios plásticos tras el daño cerebral pueden ser beneficiosos, neutros o negativos, y estos últimos contribuyen a síntomas adversos. La OMS definió la neuroplasticidad como la capacidad de las células del sistema nervioso de regenerarse anatómica y funcionalmente tras influencias patológicas, ambientales o del desarrollo.",
+    "fuente": "Cap. 91. Neurorrehabilitación: atención del daño cerebral adquirido"
+  },
+  {
+    "id": "tvs-039",
+    "tema": "Temas transversales",
+    "subtema": "Comunicación, telemedicina y enfermería",
+    "enunciado": "¿Qué se entiende por ecpatía en la relación clínica?",
+    "opciones": [
+      "La exclusión voluntaria de emociones y pensamientos inducidos por el otro",
+      "La identificación afectiva espontánea con el paciente",
+      "El reconocimiento de las emociones ajenas sin emitir juicios",
+      "La indiferencia deliberada ante el sufrimiento del paciente"
+    ],
+    "correcta": 0,
+    "explicacion": "Es una maniobra mental positiva, no frialdad, que evita la respuesta hiperempática en la que el profesional acaba experimentando en carne propia el malestar de su interlocutor. La empatía, en cambio, reconoce las emociones del otro tras una escucha activa y sin posicionarse emocionalmente.",
+    "fuente": "Cap. 95. Aprender a dialogar en la consulta"
+  },
+  {
+    "id": "tvs-040",
+    "tema": "Temas transversales",
+    "subtema": "Comunicación, telemedicina y enfermería",
+    "enunciado": "¿En qué consiste el método teach-back?",
+    "opciones": [
+      "Pedir al paciente que repita con sus palabras lo que ha entendido",
+      "Entregar por escrito un resumen de la consulta",
+      "Repetir la información al acompañante al final de la visita",
+      "Enviar al paciente materiales audiovisuales antes de la consulta"
+    ],
+    "correcta": 0,
+    "explicacion": "Sirve para comprobar la comprensión y es una de las estrategias frente a la baja alfabetización en salud, junto con el lenguaje sencillo, las herramientas visuales y dejar espacio para preguntas libres. En una cohorte de consulta neurológica sin demencia, el 20% tenía baja alfabetización en salud y el 26% no conocía ninguno de sus fármacos.",
+    "fuente": "Cap. 95. Aprender a dialogar en la consulta"
+  },
+  {
+    "id": "tvs-041",
+    "tema": "Temas transversales",
+    "subtema": "Comunicación, telemedicina y enfermería",
+    "enunciado": "¿Qué parte de la exploración neurológica queda fuera del alcance de una teleconsulta?",
+    "opciones": [
+      "El fondo de ojo y las pruebas de reflejos posturales",
+      "La valoración del lenguaje y el habla",
+      "La observación de la marcha",
+      "La exploración de los movimientos oculares"
+    ],
+    "correcta": 0,
+    "explicacion": "También quedan fuera la vía visual, las maniobras vestibulares, el balance muscular y la rigidez; si la anamnesis obliga a valorarlas hay que concertar una visita presencial. Otras limitaciones son la identificación de los interlocutores y los problemas de sonido o ángulo de cámara, corregibles con una prueba previa.",
+    "fuente": "Cap. 93. Neuroinformática y telemedicina"
+  },
+  {
+    "id": "tvs-042",
+    "tema": "Temas transversales",
+    "subtema": "Comunicación, telemedicina y enfermería",
+    "enunciado": "¿Qué permite la prescripción enfermera colaborativa?",
+    "opciones": [
+      "Ajustar la dosis de medicamentos sujetos a prescripción médica según protocolos consensuados",
+      "Indicar cualquier fármaco sin necesidad de protocolo previo",
+      "Prescribir únicamente productos que no requieren receta médica",
+      "Sustituir la indicación del neurólogo cuando este no esté disponible"
+    ],
+    "correcta": 0,
+    "explicacion": "Es uno de los dos modelos que recoge el Real Decreto 1302/2018, junto a la prescripción autónoma, limitada a medicamentos no sujetos a prescripción médica. Son precisamente esos protocolos acordados con el neurólogo los que permiten a la enfermera trabajar de forma autónoma.",
+    "fuente": "Cap. 96. Enfermería neurológica"
+  }
+]

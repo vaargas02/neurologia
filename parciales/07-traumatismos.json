@@ -1,0 +1,170 @@
+[
+  {
+    "id": "tra-001",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "¿En qué momento progresan la mayoría de las lesiones traumáticas intracraneales?",
+    "opciones": [
+      "En torno a las 6-9 horas del traumatismo",
+      "En las primeras 2 horas exclusivamente",
+      "Entre las 48 y las 72 horas",
+      "A partir de la primera semana"
+    ],
+    "correcta": 0,
+    "explicacion": "La mayor parte de las lesiones progresa alrededor de las 6-9 horas, por lo que conviene repetir la TC si el paciente se deteriora aunque la primera, hecha muy precozmente, mostrara poca carga lesional.",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-002",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "¿Qué criterios guían la realización de angio-TC tras un traumatismo craneocervical?",
+    "opciones": [
+      "Los criterios de Denver",
+      "Los criterios de Ottawa",
+      "La escala de Marshall",
+      "Los criterios de Canadian CT Head Rule"
+    ],
+    "correcta": 0,
+    "explicacion": "Los criterios de Denver indican la angio-TC tras trauma craneocervical. Se han detectado disecciones hasta en el 17 % de los pacientes con lesiones cervicales o de base de cráneo que afectan al canal carotídeo.",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-003",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "En el trauma craneal penetrante, ¿cuándo está indicada la angio-TC?",
+    "opciones": [
+      "Si hay hematoma intracraneal o la lesión cruza la línea media",
+      "Siempre que exista fractura de calota",
+      "Solo si el paciente tiene focalidad neurológica",
+      "Únicamente si la PIC supera 20 mmHg"
+    ],
+    "correcta": 0,
+    "explicacion": "Los aneurismas traumáticos aparecen hasta en el 15 % de los traumatismos penetrantes, por lo que se indica angio-TC ante un hematoma intracraneal o cuando la lesión penetrante cruza la línea media.",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-004",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "Dentro de las medidas generales de primer nivel frente a la hipertensión intracraneal, ¿qué rango de presión de perfusión cerebral se recomienda mantener?",
+    "opciones": [
+      "Entre 60 y 70 mmHg",
+      "Entre 30 y 40 mmHg",
+      "Entre 80 y 100 mmHg",
+      "Por encima de 110 mmHg"
+    ],
+    "correcta": 0,
+    "explicacion": "Las medidas de primer nivel incluyen analgesia y sedación, cabecero a 30°, PaO2 >80 mmHg, PaCO2 de 35-40 mmHg, evitar la fiebre, glucemia de 110-180 mg/dl y mantener la PPC entre 60 y 70 mmHg.",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-005",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo craneoencefálico",
+    "enunciado": "¿A partir de qué valor de PIC conviene repetir la TC para descartar una lesión quirúrgica?",
+    "opciones": [
+      "20-25 mmHg",
+      "10-15 mmHg",
+      "35-40 mmHg",
+      "Solo si supera 50 mmHg"
+    ],
+    "correcta": 0,
+    "explicacion": "Si la PIC supera 20-25 mmHg pese a las medidas generales, se valora repetir la TC para descartar una lesión potencialmente quirúrgica antes de escalar al segundo nivel (drenaje de LCR, terapia osmótica).",
+    "fuente": "Cap. 45. Traumatismo craneoencefálico"
+  },
+  {
+    "id": "tra-006",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo medular",
+    "enunciado": "¿Qué perfil epidemiológico tiene el traumatismo medular?",
+    "opciones": [
+      "Predominio en varones (4:1), entre los 16 y los 30 años",
+      "Predominio en mujeres, entre los 40 y los 60 años",
+      "Distribución equilibrada por sexo en mayores de 65 años",
+      "Predominio en varones mayores de 70 años por caídas"
+    ],
+    "correcta": 0,
+    "explicacion": "La incidencia anual es de 28-50 casos por millón de habitantes, con predominio masculino 4:1 y edad entre 16 y 30 años. Hasta el 20 % tiene además otra lesión a distinto nivel, incluidas disecciones arteriales.",
+    "fuente": "Cap. 46. Traumatismo de la médula espinal"
+  },
+  {
+    "id": "tra-007",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo medular",
+    "enunciado": "¿Qué probabilidad de independencia ambulatoria tras rehabilitación completa corresponde a un ASIA A?",
+    "opciones": [
+      "0,3 %",
+      "50 %",
+      "75 %",
+      "95 %"
+    ],
+    "correcta": 0,
+    "explicacion": "Los estándares recogidos son ASIA A 0,3 %, ASIA B 50 %, ASIA C 75 %, ASIA D 95 % y ASIA E 100 %, lo que convierte al grado lesional inicial en el principal determinante pronóstico.",
+    "fuente": "Cap. 46. Traumatismo de la médula espinal",
+    "teoria": "escalas-neuro"
+  },
+  {
+    "id": "tra-008",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo medular",
+    "enunciado": "¿Qué distingue el grado ASIA C del ASIA D?",
+    "opciones": [
+      "En el C menos de la mitad de los músculos clave bajo el nivel tienen fuerza ≥3, y en el D más de la mitad",
+      "En el C la sensibilidad está conservada y en el D abolida",
+      "El C es una lesión completa y el D incompleta",
+      "El C afecta solo a extremidades inferiores y el D a las cuatro"
+    ],
+    "correcta": 0,
+    "explicacion": "Ambos son lesiones motoras incompletas; la diferencia es cuántos músculos clave por debajo del nivel alcanzan una puntuación de 3 o más: menos de la mitad en el ASIA C y más de la mitad en el ASIA D.",
+    "fuente": "Cap. 46. Traumatismo de la médula espinal",
+    "teoria": "escalas-neuro"
+  },
+  {
+    "id": "tra-009",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo de nervio periférico",
+    "enunciado": "¿Cuál es el principal mecanismo de lesión traumática del nervio periférico?",
+    "opciones": [
+      "Los accidentes de tráfico, a menudo con compromiso central asociado",
+      "Las heridas por arma de fuego",
+      "La iatrogenia quirúrgica",
+      "Las posturas prolongadas durante el encamamiento"
+    ],
+    "correcta": 0,
+    "explicacion": "El mecanismo principal son los accidentes de tráfico, con frecuencia junto a lesión central que puede hacer que la lesión nerviosa pase inadvertida al principio. Los traumatismos penetrantes suponen hasta un 7,9 %.",
+    "fuente": "Cap. 47. Traumatismo del nervio periférico"
+  },
+  {
+    "id": "tra-010",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo de nervio periférico",
+    "enunciado": "Una lesión del nervio supraescapular en la escotadura espinoglenoidea, ¿qué clínica produce?",
+    "opciones": [
+      "Atrofia aislada del infraespinoso, sin dolor",
+      "Debilidad para abducción y rotación externa con dolor intenso",
+      "Atrofia del supraespinoso con dolor en el triángulo posterior",
+      "Parálisis del deltoides con hipoestesia del hombro"
+    ],
+    "correcta": 0,
+    "explicacion": "En la escotadura espinoglenoidea la lesión no duele y puede limitarse a la atrofia del infraespinoso. Si el daño ocurre en el triángulo posterior del cuello se afectan supraespinoso e infraespinoso, con debilidad para la abducción y la rotación externa.",
+    "fuente": "Cap. 47. Traumatismo del nervio periférico"
+  },
+  {
+    "id": "tra-011",
+    "tema": "Traumatismos",
+    "subtema": "Traumatismo de nervio periférico",
+    "enunciado": "En una neuroapraxia, ¿qué se encuentra en el EMG realizado en reposo?",
+    "opciones": [
+      "Ausencia de denervación aguda, con patrón voluntario reducido",
+      "Fibrilaciones abundantes desde el primer día",
+      "Descargas miotónicas difusas",
+      "Silencio eléctrico completo también al esfuerzo"
+    ],
+    "correcta": 0,
+    "explicacion": "En la lesión por bloqueo de conducción no hay denervación aguda en reposo y el patrón voluntario está reducido. En axonotmesis y neurotmesis el CMAP distal es inicialmente normal y empieza a caer hacia el tercer día.",
+    "fuente": "Cap. 47. Traumatismo del nervio periférico",
+    "teoria": "emg-patrones"
+  }
+]

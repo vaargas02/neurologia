@@ -1,0 +1,229 @@
+[
+  {
+    "id": "sis-001",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades sistémicas y autoinmunes",
+    "enunciado": "¿Cuáles son las manifestaciones neurológicas más frecuentes de las enfermedades sistémicas?",
+    "opciones": [
+      "Alteraciones del nivel de consciencia, trastornos del sueño, cambios de comportamiento y crisis",
+      "Neuropatías craneales múltiples y oftalmoparesia",
+      "Ataxia cerebelosa subaguda y temblor",
+      "Mielopatía longitudinal extensa y neuritis óptica"
+    ],
+    "correcta": 0,
+    "explicacion": "El manual destaca como más frecuentes las alteraciones del nivel de consciencia, los trastornos del sueño, los cambios conductuales y las crisis epilépticas, síndromes que pueden ser superponibles a otras etiologías.",
+    "fuente": "Cap. 35. Manifestaciones neurológicas de las enfermedades sistémicas"
+  },
+  {
+    "id": "sis-002",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades sistémicas y autoinmunes",
+    "enunciado": "En la afectación neurológica del síndrome de Sjögren, ¿qué hallazgo de laboratorio aparece en la mitad de los pacientes?",
+    "opciones": [
+      "ANA positivos",
+      "Anticuerpos anti-Ro y anti-La en la práctica totalidad",
+      "Hipocomplementemia grave",
+      "Crioglobulinas circulantes en todos los casos"
+    ],
+    "correcta": 0,
+    "explicacion": "Los ANA son positivos en la mitad de los pacientes y los anti-Ro y anti-La en un tercio. En el LCR hay pleocitosis linfocitaria y bandas oligoclonales, y las lesiones en T2/FLAIR pueden recordar a las de la neuromielitis óptica.",
+    "fuente": "Cap. 35. Manifestaciones neurológicas de las enfermedades sistémicas"
+  },
+  {
+    "id": "sis-003",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades sistémicas y autoinmunes",
+    "enunciado": "¿Qué complicación tardía de la radioterapia craneal cursa con cefalea migrañosa y focalidad aguda, con alteración cortical de señal y captación transitoria en la RM?",
+    "opciones": [
+      "El síndrome SMART",
+      "La radionecrosis focal",
+      "La somnolencia posirradiación",
+      "La vasculopatía acelerada con ictus"
+    ],
+    "correcta": 0,
+    "explicacion": "El síndrome SMART (stroke-like migraine attacks after radiation therapy) es infrecuente y combina cefalea migrañosa con síntomas focales agudos; la RM muestra alteración de señal cortical y captación transitoria de contraste.",
+    "fuente": "Cap. 35. Manifestaciones neurológicas de las enfermedades sistémicas"
+  },
+  {
+    "id": "sis-004",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatía hipóxico-isquémica",
+    "enunciado": "¿Qué categoría de la escala Cerebral Performance Categories marca el límite con el mal pronóstico neurológico?",
+    "opciones": [
+      "CPC 3, dependiente para las actividades de la vida diaria",
+      "CPC 2, capaz de trabajar a tiempo parcial en entorno protegido",
+      "CPC 4, coma o estado vegetativo",
+      "CPC 1, vida normal con déficits mínimos"
+    ],
+    "correcta": 0,
+    "explicacion": "CPC 1 y 2 se consideran buen pronóstico; a partir de CPC 3 —dependencia por secuelas neurológicas y alteración cognitiva grave— el pronóstico es malo, con CPC 4 como coma o estado vegetativo y CPC 5 como muerte.",
+    "fuente": "Cap. 36. Encefalopatía hipóxico-isquémica",
+    "teoria": "escalas-neuro"
+  },
+  {
+    "id": "sis-005",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatía hipóxico-isquémica",
+    "enunciado": "¿Qué respuesta motora al dolor implica mejor pronóstico tras una parada cardíaca?",
+    "opciones": [
+      "La respuesta localizadora o flexora",
+      "La respuesta extensora",
+      "La ausencia de respuesta",
+      "Las mioclonías precoces generalizadas"
+    ],
+    "correcta": 0,
+    "explicacion": "Las respuestas localizadoras y en flexión al dolor suponen mejor pronóstico que la respuesta extensora o la ausencia de respuesta. La valoración incluye además los reflejos fotomotor, corneal y oculovestibular y la presencia de mioclonías.",
+    "fuente": "Cap. 36. Encefalopatía hipóxico-isquémica"
+  },
+  {
+    "id": "sis-006",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatía hipóxico-isquémica",
+    "enunciado": "¿Cuándo tiene mayor rendimiento pronóstico la determinación de enolasa neuronal específica (NSE)?",
+    "opciones": [
+      "A las 48-72 horas",
+      "En la primera hora tras la parada",
+      "A los 7 días del evento",
+      "Solo si se determina bajo hipotermia"
+    ],
+    "correcta": 0,
+    "explicacion": "El mejor rendimiento se obtiene midiendo la NSE a las 48-72 horas. Valores superiores a 33 mcg/l a las 24 horas (48 mcg/l en hipotermia), o un ascenso progresivo en determinaciones seriadas, indican mal pronóstico.",
+    "fuente": "Cap. 36. Encefalopatía hipóxico-isquémica"
+  },
+  {
+    "id": "sis-007",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatías tóxicas y metabólicas",
+    "enunciado": "¿Qué rasgo distingue conceptualmente a la encefalopatía de otras causas de disfunción cerebral?",
+    "opciones": [
+      "Es una alteración global de la función cerebral que, al menos al inicio, no se correlaciona con alteraciones estructurales",
+      "Siempre se acompaña de lesiones estructurales visibles en la RM",
+      "Afecta de forma selectiva a un único dominio cognitivo",
+      "Requiere por definición una causa tóxica identificada"
+    ],
+    "correcta": 0,
+    "explicacion": "La encefalopatía es una alteración global de la función cerebral por disfunción de uno o varios órganos o factores, que al menos inicialmente no tiene correlato estructural. El manual prefiere este término al de fallo cerebral agudo o disfunción cerebral aguda.",
+    "fuente": "Cap. 37. Encefalopatías tóxicas y metabólicas"
+  },
+  {
+    "id": "sis-008",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatías tóxicas y metabólicas",
+    "enunciado": "¿Qué velocidad máxima de corrección de la natremia recomienda el manual para evitar la mielinólisis?",
+    "opciones": [
+      "No superar 6-8 mmol en 24 horas",
+      "No superar 15 mmol en 24 horas",
+      "Corregir hasta la normonatremia en las primeras 12 horas",
+      "No superar 2 mmol en 24 horas en ningún caso"
+    ],
+    "correcta": 0,
+    "explicacion": "La corrección no debe exceder 6-8 mmol/24 h; en clínica grave se permite subir 4-6 mmol/l en las primeras 4-6 horas y se suspende al quedar asintomático o alcanzar 120-125 mmol/l, para prevenir la mielinólisis central o extrapontina.",
+    "fuente": "Cap. 37. Encefalopatías tóxicas y metabólicas"
+  },
+  {
+    "id": "sis-009",
+    "tema": "Pat. sistémica",
+    "subtema": "Encefalopatías tóxicas y metabólicas",
+    "enunciado": "En una paciente con hemorragia subaracnoidea e hiponatremia, ¿qué riesgo tiene la restricción hídrica?",
+    "opciones": [
+      "Aumentar el riesgo de vasoespasmo",
+      "Precipitar una mielinólisis pontina",
+      "Provocar edema cerebral de rebote",
+      "Reducir la eficacia del nimodipino"
+    ],
+    "correcta": 0,
+    "explicacion": "En la HSA la restricción hídrica puede favorecer el vasoespasmo, por lo que el tratamiento de un posible SIADH asociado debe individualizarse en estos pacientes.",
+    "fuente": "Cap. 37. Encefalopatías tóxicas y metabólicas",
+    "teoria": "hsa-vasoespasmo"
+  },
+  {
+    "id": "sis-010",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades carenciales",
+    "enunciado": "¿Cómo se comportan las alteraciones hematológicas y neurológicas tras iniciar el tratamiento del déficit de vitamina B12?",
+    "opciones": [
+      "Las hematológicas se corrigen en 1-2 meses y las neurológicas pueden no recuperarse del todo",
+      "Ambas se normalizan en la primera semana de tratamiento",
+      "Las neurológicas revierten antes que las hematológicas",
+      "Ninguna mejora si no se corrige antes el déficit de folato"
+    ],
+    "correcta": 0,
+    "explicacion": "Con cobalamina intramuscular (1 mg diario la primera semana, después semanal 1-2 meses y luego mensual) la anemia se corrige en 1-2 meses, mientras que los síntomas neurológicos pueden quedar como secuela.",
+    "fuente": "Cap. 38. Enfermedades carenciales del sistema nervioso"
+  },
+  {
+    "id": "sis-011",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades carenciales",
+    "enunciado": "¿Por qué el déficit de folato produce menos manifestaciones neurológicas que el de cobalamina, pese a compartir vía metabólica?",
+    "opciones": [
+      "Porque existen mecanismos celulares alternativos que preservan la metionina cuando escasea el folato",
+      "Porque el folato no interviene en la síntesis de metionina",
+      "Porque el folato se almacena en el hígado durante años",
+      "Porque el sistema nervioso no capta folato de forma activa"
+    ],
+    "correcta": 0,
+    "explicacion": "Ambos comparten su papel en la síntesis de metionina y pueden dar una clínica hematológica y neurológica similar, pero las manifestaciones neurológicas son mucho menos frecuentes en el déficit de folato por la existencia de mecanismos celulares alternativos.",
+    "fuente": "Cap. 38. Enfermedades carenciales del sistema nervioso"
+  },
+  {
+    "id": "sis-012",
+    "tema": "Pat. sistémica",
+    "subtema": "Enfermedades carenciales",
+    "enunciado": "¿De qué depende la absorción intestinal de la vitamina E?",
+    "opciones": [
+      "De las sales biliares y las esterasas pancreáticas",
+      "Del factor intrínseco gástrico",
+      "Del transportador de folato reducido",
+      "De la acidez gástrica y la pepsina"
+    ],
+    "correcta": 0,
+    "explicacion": "La vitamina E es liposoluble —el alfa-tocoferol es su forma más relevante— y su absorción depende de sales biliares y esterasas pancreáticas; los quilomicrones la transportan por vía linfática hasta el hígado.",
+    "fuente": "Cap. 38. Enfermedades carenciales del sistema nervioso"
+  },
+  {
+    "id": "sis-013",
+    "tema": "Pat. sistémica",
+    "subtema": "Neurología y embarazo",
+    "enunciado": "¿Cuál es la incidencia estimada de ictus durante el embarazo y el puerperio?",
+    "opciones": [
+      "Unos 30 por cada 100 000 partos, el triple que en no gestantes de igual edad",
+      "Unos 5 por cada 100 000 partos, similar a la población general",
+      "Unos 300 por cada 100 000 partos, diez veces más que en no gestantes",
+      "Menos de 1 por cada 100 000 partos"
+    ],
+    "correcta": 0,
+    "explicacion": "La incidencia global es de unos 30 por cada 100 000 partos, aproximadamente el triple que en mujeres no gestantes de la misma edad, y puede llegar a 1 de cada 500 partos en grupos de riesgo.",
+    "fuente": "Cap. 39. Complicaciones neurológicas en la mujer embarazada"
+  },
+  {
+    "id": "sis-014",
+    "tema": "Pat. sistémica",
+    "subtema": "Neurología y embarazo",
+    "enunciado": "¿Qué proporción de pacientes con eclampsia muestra signos de síndrome de encefalopatía posterior reversible en la RM?",
+    "opciones": [
+      "Casi el 100 %",
+      "Alrededor del 25 %",
+      "Alrededor del 50 %",
+      "Menos del 10 %"
+    ],
+    "correcta": 0,
+    "explicacion": "Casi el 100 % de las pacientes con eclampsia presenta signos de SEPR en la resonancia. El SEPR se caracteriza por edema vasogénico de predominio posterior, disfunción endotelial e hipertensión, y se solapa con frecuencia con el SVCR.",
+    "fuente": "Cap. 39. Complicaciones neurológicas en la mujer embarazada"
+  },
+  {
+    "id": "sis-015",
+    "tema": "Pat. sistémica",
+    "subtema": "Neurología y embarazo",
+    "enunciado": "¿Cómo contribuye la anestesia epidural a las neuropatías postparto?",
+    "opciones": [
+      "Impide percibir la presión, de modo que no se corrige la postura, y prolonga la segunda fase del parto",
+      "Produce toxicidad directa sobre las raíces lumbosacras",
+      "Genera hematomas epidurales en la mayoría de los casos",
+      "Favorece la isquemia del cono medular por hipotensión"
+    ],
+    "correcta": 0,
+    "explicacion": "Las lesiones nerviosas obstétricas ocurren en torno al 1 % de los partos. La epidural contribuye porque la falta de sensibilidad impide ajustar la postura, favoreciendo lesiones compresivas, y porque alarga la segunda fase del parto.",
+    "fuente": "Cap. 39. Complicaciones neurológicas en la mujer embarazada"
+  }
+]

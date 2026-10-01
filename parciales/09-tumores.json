@@ -1,0 +1,188 @@
+[
+  {
+    "id": "tum-001",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "¿Qué signo radiológico caracteriza a los gliomas con mutación de IDH sin codeleción 1p19q?",
+    "opciones": [
+      "El mismatch T2-FLAIR",
+      "Las calcificaciones intratumorales",
+      "El realce en anillo con necrosis central",
+      "La restricción difusa en toda la lesión"
+    ],
+    "correcta": 0,
+    "explicacion": "El mismatch T2-FLAIR consiste en una hiperintensidad homogénea y completa en T2 que en FLAIR se ve hipointensa con un fino borde hiperintenso. Las calcificaciones intratumorales son más propias de los tumores con codeleción.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-002",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "¿Dónde se localiza preferentemente el linfoma cerebral primario y cómo capta contraste?",
+    "opciones": [
+      "En regiones periventriculares o profundas, con captación homogénea salvo necrosis central en inmunodeprimidos",
+      "En la corteza frontal, con captación en anillo en todos los casos",
+      "En la fosa posterior, sin captación de contraste",
+      "En la región selar, con captación heterogénea y calcio"
+    ],
+    "correcta": 0,
+    "explicacion": "El linfoma cerebral primario asienta en regiones periventriculares o profundas de los hemisferios, puede ser multifocal y capta de forma homogénea; en el paciente inmunodeprimido es muy característica la necrosis central.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-003",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "¿Qué fármaco puede reducir el edema cerebral en pacientes que no responden o no toleran los corticoides?",
+    "opciones": [
+      "Bevacizumab",
+      "Temozolomida",
+      "Manitol oral",
+      "Acetazolamida"
+    ],
+    "correcta": 0,
+    "explicacion": "El bevacizumab es un anticuerpo monoclonal frente al VEGF-A que reduce el edema en tumores cerebrales cuando los corticoides fallan o no se toleran.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-004",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "¿Qué proporción de pacientes con tumores cerebrales, sobre todo gliomas, presenta crisis epilépticas durante la enfermedad?",
+    "opciones": [
+      "Hasta un 75 %",
+      "Menos del 20 %",
+      "Alrededor del 40 %",
+      "Prácticamente el 100 %"
+    ],
+    "correcta": 0,
+    "explicacion": "Hasta el 75 % de los pacientes con tumores cerebrales, en especial gliomas, presenta crisis en algún momento. Se tratan preferentemente con antiepilépticos modernos por su menor interacción farmacológica.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-005",
+    "tema": "Tumores",
+    "subtema": "Síndromes paraneoplásicos",
+    "enunciado": "¿Qué relación temporal tienen habitualmente los síndromes neurológicos paraneoplásicos con el tumor?",
+    "opciones": [
+      "Suelen anteceder al diagnóstico de la neoplasia",
+      "Aparecen siempre tras el diagnóstico del tumor",
+      "Coinciden exactamente con el diagnóstico en la mayoría",
+      "Solo aparecen tras el tratamiento oncológico"
+    ],
+    "correcta": 0,
+    "explicacion": "Los SNP suelen preceder al diagnóstico del cáncer, por lo que exigen un alto índice de sospecha. La mayoría se debe a una respuesta inmune desencadenada por el tumor, que expresa antígenos normalmente presentes en el sistema nervioso.",
+    "fuente": "Cap. 55. Síndromes neurológicos paraneoplásicos"
+  },
+  {
+    "id": "tum-006",
+    "tema": "Tumores",
+    "subtema": "Síndromes paraneoplásicos",
+    "enunciado": "En un varón con encefalitis de tronco, hipersomnolencia, trastorno de la marcha y paresia oculomotora, ¿qué anticuerpo y tumor deben sospecharse?",
+    "opciones": [
+      "Anti-Ma2, con tumor testicular o de pulmón",
+      "Anti-KLHL11, con tumor testicular",
+      "Anti-Ri, con cáncer de mama",
+      "Anti-Tr/DNER, con linfoma de Hodgkin"
+    ],
+    "correcta": 0,
+    "explicacion": "El anti-Ma2 produce afectación mesodiencefálica con hipersomnolencia, alteración de la marcha y paresias oculomotoras. El KLHL11, también ligado a tumores testiculares, se presenta más como ataxia cerebelosa con vértigo y sordera.",
+    "fuente": "Cap. 55. Síndromes neurológicos paraneoplásicos",
+    "teoria": "encefalitis-autoinmune"
+  },
+  {
+    "id": "tum-007",
+    "tema": "Tumores",
+    "subtema": "Síndromes paraneoplásicos",
+    "enunciado": "¿En qué plazo debe aparecer el cáncer respecto a un síndrome neurológico clásico para considerarlo paraneoplásico?",
+    "opciones": [
+      "Dentro de los cinco años del inicio de los síntomas",
+      "Dentro del primer año",
+      "En el mismo mes del diagnóstico",
+      "En cualquier momento de la vida del paciente"
+    ],
+    "correcta": 0,
+    "explicacion": "Se acepta el diagnóstico si un síndrome clásico se asocia a un cáncer que aparece en los cinco años siguientes al inicio de la clínica, si el síndrome mejora al tratar el tumor sin inmunoterapia, o ante anticuerpos onconeurales sin tumor conocido.",
+    "fuente": "Cap. 55. Síndromes neurológicos paraneoplásicos"
+  },
+  {
+    "id": "tum-008",
+    "tema": "Tumores",
+    "subtema": "Síndromes paraneoplásicos",
+    "enunciado": "En la encefalitis anti-NMDAR, ¿qué proporción de mujeres de 18 a 35 años tiene un teratoma de ovario?",
+    "opciones": [
+      "Un 58 %",
+      "Un 23 %",
+      "Un 10 %",
+      "Más del 90 %"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre los 18 y los 35 años el 58 % de las pacientes presenta teratoma ovárico, mientras que por encima de los 45 años lo que aparece en un 23 % es un carcinoma.",
+    "fuente": "Cap. 55. Síndromes neurológicos paraneoplásicos",
+    "teoria": "encefalitis-autoinmune"
+  },
+  {
+    "id": "tum-009",
+    "tema": "Tumores",
+    "subtema": "Encefalitis autoinmunes",
+    "enunciado": "¿Qué criterio temporal exige la definición de encefalitis autoinmune posible?",
+    "opciones": [
+      "Instauración subaguda con progresión rápida en menos de 3 meses",
+      "Instauración hiperaguda en menos de 24 horas",
+      "Progresión insidiosa durante más de 6 meses",
+      "Curso en brotes separados por al menos un mes"
+    ],
+    "correcta": 0,
+    "explicacion": "Se requiere una instauración subaguda —progresión en menos de 3 meses— de déficit de memoria reciente, alteración del estado mental o síntomas psiquiátricos, más al menos un hallazgo focal, crisis, pleocitosis o RM compatible.",
+    "fuente": "Cap. 56. Encefalitis autoinmunes",
+    "teoria": "encefalitis-autoinmune"
+  },
+  {
+    "id": "tum-010",
+    "tema": "Tumores",
+    "subtema": "Encefalitis autoinmunes",
+    "enunciado": "¿Qué umbral de pleocitosis en LCR se acepta como criterio de sospecha de encefalitis autoinmune?",
+    "opciones": [
+      "Más de 5 leucocitos/mm³",
+      "Más de 50 leucocitos/mm³",
+      "Más de 100 leucocitos/mm³",
+      "Cualquier cifra si hay hiperproteinorraquia"
+    ],
+    "correcta": 0,
+    "explicacion": "Basta una pleocitosis superior a 5 leucocitos/mm³ como uno de los criterios. El LCR típico muestra pleocitosis linfocitaria por debajo de 200 células y proteínas por debajo de 100 mg/dl, pero puede ser completamente normal.",
+    "fuente": "Cap. 56. Encefalitis autoinmunes",
+    "teoria": "encefalitis-autoinmune"
+  },
+  {
+    "id": "tum-011",
+    "tema": "Tumores",
+    "subtema": "Encefalitis autoinmunes",
+    "enunciado": "¿Por qué se recomienda determinar los anticuerpos antineurales en LCR y suero simultáneamente?",
+    "opciones": [
+      "Porque el LCR es más sensible y específico para la mayoría de los anticuerpos de superficie",
+      "Porque el suero es siempre negativo en estas entidades",
+      "Porque permite prescindir de descartar causas infecciosas",
+      "Porque el LCR solo detecta anticuerpos intracelulares"
+    ],
+    "correcta": 0,
+    "explicacion": "El estudio simultáneo evita retrasos diagnósticos, y el LCR resulta más sensible y específico para la mayoría de los anticuerpos de superficie neural. Hay que descartar además VHS-1, VHS-2 y varicela zóster.",
+    "fuente": "Cap. 56. Encefalitis autoinmunes",
+    "teoria": "encefalitis-autoinmune"
+  },
+  {
+    "id": "tum-012",
+    "tema": "Tumores",
+    "subtema": "Encefalitis autoinmunes",
+    "enunciado": "¿Cuál es la encefalitis autoinmune más frecuente y a qué población afecta?",
+    "opciones": [
+      "La anti-NMDAR, predominantemente en niños y adultos jóvenes",
+      "La anti-LGI1, predominantemente en varones mayores de 60 años",
+      "La anti-GABA-B, sobre todo en fumadores de edad avanzada",
+      "La anti-IgLON5, en pacientes con trastornos del sueño"
+    ],
+    "correcta": 0,
+    "explicacion": "La encefalitis anti-NMDAR es la más frecuente y afecta predominantemente a niños y adultos jóvenes. Las encefalitis autoinmunes se caracterizan por síntomas neuropsiquiátricos prominentes por respuesta inmune contra antígenos neurales o gliales.",
+    "fuente": "Cap. 56. Encefalitis autoinmunes",
+    "teoria": "encefalitis-autoinmune"
+  }
+]

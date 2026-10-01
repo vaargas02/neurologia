@@ -1,0 +1,772 @@
+[
+ {
+  "id": "des-013",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Cuál es la prevalencia aproximada de esclerosis múltiple en España?",
+  "opciones": [
+   "Entre 100 y 200 por 100 000 habitantes",
+   "Entre 10 y 20 por 100 000 habitantes",
+   "Entre 350 y 400 por 100 000 habitantes",
+   "Entre 2 y 5 por 100 000 habitantes"
+  ],
+  "correcta": 0,
+  "explicacion": "La prevalencia global se estima en 35,9 por 100 000, pero España está en una zona de prevalencia alta, 100-200 por 100 000. La cifra de 2,1 por 100 000 al año corresponde a la incidencia, no a la prevalencia.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-014",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Cuál es el perfil demográfico típico del paciente al diagnosticarse una esclerosis múltiple?",
+  "opciones": [
+   "Mujer, con una edad media de 32 años y una razón mujer:hombre de 2:1",
+   "Mujer, con una edad media de 32 años y una razón mujer:hombre de 9:1",
+   "Hombre, con una edad media de 48 años y una razón hombre:mujer de 3:1",
+   "Mujer, con una edad media de 50 años y sin predominio de sexo claro"
+  ],
+  "correcta": 0,
+  "explicacion": "La mayoría son mujeres con una razón global de 2:1 y edad media al diagnóstico de 32 años. La razón 9:1 es la de la NMOSD, mucho más desbalanceada, y sirve como pista diferencial.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-015",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué locus genético se asocia con más fuerza al desarrollo de esclerosis múltiple?",
+  "opciones": [
+   "El HLA-DRB1*1501, del complejo mayor de histocompatibilidad",
+   "El HLA-DRB1*03, del complejo mayor de histocompatibilidad",
+   "El gen NOTCH3 del cromosoma 19",
+   "El gen de la apolipoproteína E"
+  ],
+  "correcta": 0,
+  "explicacion": "El HLA-DRB1*1501 está presente en el 30 % de los pacientes con EM en Europa y Estados Unidos. El DRB1*03 y el DRB1*10 se han asociado a la NMOSD en población caucásica, y NOTCH3 al CADASIL.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-016",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué demostró el estudio longitudinal sobre virus de Epstein-Barr y esclerosis múltiple?",
+  "opciones": [
+   "Que la seroconversión multiplicaba por 32 el riesgo posterior de EM",
+   "Que la infección por el virus se produce después del diagnóstico en la mayoría",
+   "Que el virus está presente en menos del 20 % de la población general",
+   "Que la mayoría de los infectados acaba desarrollando la enfermedad"
+  ],
+  "correcta": 0,
+  "explicacion": "En esa cohorte, los pacientes inicialmente seronegativos que se infectaron durante el seguimiento multiplicaron por 32 su riesgo de EM, y la infección precedió al diagnóstico en el 99,7 %. Aun así, más del 90 % de la población está infectada y la gran mayoría nunca desarrolla EM.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-017",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué se ha observado sobre el abandono del tabaco en pacientes con esclerosis múltiple?",
+  "opciones": [
+   "Tras 5 años de abstinencia el pronóstico funcional se equipara al de los no fumadores",
+   "El daño acumulado es irreversible y el abandono no modifica el pronóstico",
+   "El beneficio aparece solo si se abandona antes del primer brote",
+   "El abandono reduce la tasa de brotes pero aumenta la atrofia cerebral"
+  ],
+  "correcta": 0,
+  "explicacion": "Fumar se asocia a un aumento del 80 % en el riesgo de progresión y a mayor atrofia cerebral, con relación dosis-respuesta, pero tras 5 años de abstinencia el pronóstico funcional se iguala al de los no fumadores. Por eso la recomendación de abandono debe ser activa en consulta.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-018",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué tipo de linfocito es el más frecuente en las lesiones de esclerosis múltiple?",
+  "opciones": [
+   "El linfocito T CD8+ con fenotipo de memoria residente en el SNC",
+   "El linfocito T CD4+ de tipo Th17",
+   "El linfocito B de centro germinal",
+   "El linfocito natural killer"
+  ],
+  "correcta": 0,
+  "explicacion": "En los agregados inflamatorios con rotura de la barrera hematoencefálica, los CD8+ de memoria residente son la población más abundante. Los CD4+ Th1 y Th17 también participan, activando la microglía y debilitando la barrera, pero son menos numerosos.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-019",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué significa un anillo periférico paramagnético en las secuencias de susceptibilidad magnética?",
+  "opciones": [
+   "Una lesión con inflamación no resuelta que se expande lentamente",
+   "Una lesión aguda con rotura completa de la barrera hematoencefálica",
+   "Una lesión crónica ya remielinizada y sin actividad",
+   "Un artefacto por depósito de gadolinio previo"
+  ],
+  "correcta": 0,
+  "explicacion": "Un 20 % de las lesiones mantienen activación microglial persistente en la periferia con centro inactivo, lo que se ve como ese anillo paramagnético. Producen expansión lentamente progresiva y explican parte de la progresión independiente de brotes.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-020",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué cambios introdujo la revisión de 2013 de los fenotipos de esclerosis múltiple?",
+  "opciones": [
+   "Eliminó la forma progresiva con brotes, añadió el SCA e introdujo los modificadores",
+   "Eliminó el síndrome clínico aislado y mantuvo la forma progresiva con brotes",
+   "Sustituyó los fenotipos clínicos por una clasificación basada solo en la RM",
+   "Unificó las formas primaria y secundaria progresiva en un único fenotipo"
+  ],
+  "correcta": 0,
+  "explicacion": "La revisión desapareció el concepto de EM progresiva con brotes, incorporó el síndrome clínico aislado como fenotipo e introdujo los modificadores de actividad y progresión, que se reevalúan al menos una vez al año.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-021",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "Un paciente acumula discapacidad por la mala recuperación de varios brotes. ¿Qué término recomienda usar el panel de expertos?",
+  "opciones": [
+   "Empeoramiento",
+   "Progresión",
+   "Progresión confirmada de la discapacidad",
+   "Actividad indeterminada"
+  ],
+  "correcta": 0,
+  "explicacion": "La progresión se reserva para el empeoramiento que ocurre de forma independiente de los brotes, y solo se aplica a los fenotipos progresivos. Si la discapacidad deriva de una recuperación incompleta de uno o varios brotes, el término correcto es empeoramiento.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-022",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Cómo se define un brote de esclerosis múltiple?",
+  "opciones": [
+   "Episodio monofásico de más de 24 horas sin fiebre ni infección, con hallazgos objetivos",
+   "Episodio de cualquier duración que aparece sin fiebre ni infección",
+   "Episodio de más de 24 horas acompañado siempre de una lesión con realce de gadolinio",
+   "Empeoramiento mantenido durante al menos 3 meses confirmado en dos visitas"
+  ],
+  "correcta": 0,
+  "explicacion": "El brote es un episodio clínico monofásico con síntomas referidos por el paciente y hallazgos objetivos típicos de EM, de instauración aguda o subaguda y más de 24 horas de duración, en ausencia de fiebre o infección. No exige realce de gadolinio.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-023",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "En la neuritis óptica de la esclerosis múltiple, ¿qué se espera encontrar en el fondo de ojo en la fase aguda?",
+  "opciones": [
+   "Fondo normal en dos tercios de los pacientes, por ser retrobulbar",
+   "Papilitis en la mayoría de los pacientes, con hemorragias asociadas",
+   "Papiledema bilateral llamativo en casi todos los casos",
+   "Exudados retinianos en un tercio de los pacientes"
+  ],
+  "correcta": 0,
+  "explicacion": "En dos tercios el fondo es normal porque la neuritis es retrobulbar; el tercio restante muestra papilitis, pero sin hemorragias ni exudados. El dolor retroocular acompaña al 90 % de los casos, y su ausencia o su persistencia sin mejoría es una red flag.",
+  "teoria": "neuritis-optica-dif",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-024",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Cómo es típicamente la mielitis que debuta en una esclerosis múltiple?",
+  "opciones": [
+   "Parcial, con predominio de los síntomas sensitivos sobre los motores",
+   "Completa, con nivel sensitivo simétrico y paraplejía",
+   "Parcial, con retención urinaria aguda como primer síntoma",
+   "Completa, con arreflexia y síndrome de cauda equina"
+  ],
+  "correcta": 0,
+  "explicacion": "La mielitis de la EM es parcial o incompleta, con predominio sensitivo y afectación motora leve o moderada. La pérdida completa de función medular, la arreflexia o la retención urinaria aguda son red flags que obligan a buscar otra etiología.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-025",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Cuál es la alteración oculomotora más frecuente en el síndrome troncoencefálico de la esclerosis múltiple?",
+  "opciones": [
+   "La oftalmoparesia internuclear, que puede ser bilateral",
+   "La parálisis aislada del VI par craneal",
+   "La parálisis aislada del III par craneal",
+   "La oftalmoplejia completa"
+  ],
+  "correcta": 0,
+  "explicacion": "El síndrome troncoencefálico debuta en el 15-25 % de las EM remitentes-recurrentes y la oftalmoparesia internuclear es la alteración más frecuente. La lesión aislada de un par oculomotor es rara; si ocurre, suele ser del VI. La oftalmoplejia completa y la afectación aislada del III son red flags.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-026",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Por qué las lesiones periventriculares de la esclerosis múltiple tienen forma ovoidea perpendicular a los ventrículos?",
+  "opciones": [
+   "Porque las placas se disponen alrededor de las vénulas, perpendiculares al epéndimo",
+   "Porque siguen el trayecto de las fibras del cuerpo calloso",
+   "Porque el flujo de LCR arrastra el infiltrado desde el epéndimo",
+   "Porque coinciden con los territorios frontera de las arterias perforantes"
+  ],
+  "correcta": 0,
+  "explicacion": "Las placas desmielinizantes tienden a situarse alrededor de las vénulas, y en la sustancia blanca periventricular estas tienen un trayecto perpendicular a las paredes ependimarias. De ahí la lesión ovoidea con eje mayor perpendicular al eje anteroposterior.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-027",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Cuánto dura de media el realce con gadolinio de una lesión aguda de esclerosis múltiple?",
+  "opciones": [
+   "Unas tres semanas",
+   "Unas 48 horas",
+   "Unos tres meses",
+   "Más de seis meses"
+  ],
+  "correcta": 0,
+  "explicacion": "El realce es reversible y dura de media unas tres semanas. Los corticoides lo suprimen rápidamente, con posible efecto rebote al retirarlos, lo que conviene tener en cuenta al programar la RM. Un realce persistente más de tres meses es una red flag de otra etiología.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-028",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿A partir de qué recuento celular en LCR conviene replantearse el diagnóstico de esclerosis múltiple?",
+  "opciones": [
+   "Por encima de 50 células/μL",
+   "Por encima de 5 células/μL",
+   "Por encima de 150 células/μL",
+   "Por encima de 250 células/μL"
+  ],
+  "correcta": 0,
+  "explicacion": "El LCR de la EM suele ser normal o mostrar, como mucho, una ligera pleocitosis linfomonocitaria. Un recuento superior a 50 células/μL debe hacer considerar diagnósticos alternativos, sobre todo infecciosos o inflamatorios de otra naturaleza.",
+  "teoria": "lcr-perfiles",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-029",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Con qué se han asociado las bandas oligoclonales de IgM lipidoespecíficas en el LCR?",
+  "opciones": [
+   "Con un pronóstico más agresivo de la enfermedad",
+   "Con un curso benigno y escasa acumulación de discapacidad",
+   "Con la conversión a una forma primaria progresiva",
+   "Con la presencia de anticuerpos anti-AQP4 asociados"
+  ],
+  "correcta": 0,
+  "explicacion": "Además de la síntesis intratecal de IgG, presente en más del 90 % de las EM establecidas, existe síntesis intratecal de IgM. Las bandas de IgM, y sobre todo las lipidoespecíficas, se han asociado en algunas series a un curso más agresivo.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-030",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué alteración caracteriza a los potenciales evocados en la esclerosis múltiple?",
+  "opciones": [
+   "Aumento de la latencia con preservación de la forma del potencial",
+   "Disminución de la amplitud con latencia normal",
+   "Pérdida completa del potencial en todas las modalidades",
+   "Aumento de la amplitud con latencia acortada"
+  ],
+  "correcta": 0,
+  "explicacion": "La desmielinización enlentece la conducción sin destruir el axón, de ahí la latencia aumentada con morfología conservada. Su utilidad cayó con la RM, pero siguen siendo útiles para detectar lesiones silentes en vías poco exploradas por RM, como la óptica.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-031",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué asimetría en la OCT se asocia a haber padecido una neuritis óptica previa?",
+  "opciones": [
+   "pRNFL ≥5 μm y/o GCIPL ≥4 μm",
+   "pRNFL ≥20 μm y/o GCIPL ≥15 μm",
+   "pRNFL ≥1 μm y/o GCIPL ≥1 μm",
+   "Cualquier asimetría, sin umbral definido"
+  ],
+  "correcta": 0,
+  "explicacion": "En pacientes ya diagnosticados de EM, una asimetría de al menos 5 μm en la pRNFL o de 4 μm en la GCIPL se asocia a antecedente de neuritis óptica. La OCT también detecta el daño axonal difuso y se correlaciona con la pérdida de volumen cerebral.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-032",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "Según McDonald 2017, ¿cómo se demuestra la diseminación en espacio en una forma remitente-recurrente?",
+  "opciones": [
+   "Con al menos una lesión típica en 2 de las 4 áreas características",
+   "Con al menos dos lesiones típicas en cada una de las 4 áreas características",
+   "Con al menos una lesión típica en las 4 áreas características",
+   "Con al menos dos lesiones medulares y bandas oligoclonales"
+  ],
+  "correcta": 0,
+  "explicacion": "Basta una lesión típica en dos de estas cuatro áreas: cortical o yuxtacortical, periventricular, infratentorial y médula espinal. Cuentan tanto las lesiones sintomáticas como las asintomáticas. La exigencia de dos lesiones medulares pertenece a los criterios de la forma primaria progresiva.",
+  "teoria": "mcdonald-2017",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-033",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué papel tienen las bandas oligoclonales en los criterios de McDonald 2017?",
+  "opciones": [
+   "Sustituyen el requisito de demostrar diseminación en tiempo si ya hay diseminación en espacio",
+   "Sustituyen el requisito de demostrar diseminación en espacio si ya hay diseminación en tiempo",
+   "Demuestran por sí mismas la diseminación en tiempo, sin más requisitos",
+   "Son obligatorias para diagnosticar cualquier forma de la enfermedad"
+  ],
+  "correcta": 0,
+  "explicacion": "Las bandas no demuestran diseminación en tiempo, pero pueden sustituir el requisito de demostrarla en pacientes con un SCA típico que ya cumplen diseminación en espacio y sin alternativa diagnóstica. Es el equivalente a la antigua categoría de EM con soporte de laboratorio.",
+  "teoria": "mcdonald-2017",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-034",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué se exige siempre para diagnosticar una esclerosis múltiple primaria progresiva?",
+  "opciones": [
+   "Un año de progresión de la discapacidad independiente de brotes",
+   "Dos brotes documentados con recuperación incompleta",
+   "La presencia de lesiones con realce de gadolinio en la RM inicial",
+   "Un seguimiento con dos RM separadas al menos seis meses"
+  ],
+  "correcta": 0,
+  "explicacion": "En la forma primaria progresiva la diseminación en tiempo es clínica: un año de progresión documentada de forma retrospectiva o prospectiva, requisito de obligado cumplimiento. A ello se añaden 2 de 3 criterios: una lesión cerebral típica, dos lesiones medulares o bandas oligoclonales.",
+  "teoria": "mcdonald-2017",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-035",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "Una RM realizada por otro motivo muestra lesiones compatibles con EM en una persona asintomática. ¿Qué corresponde hacer?",
+  "opciones": [
+   "Etiquetarlo de síndrome radiológico aislado y hacer seguimiento estrecho",
+   "Diagnosticar EM si se cumplen criterios de diseminación en espacio y tiempo",
+   "Iniciar un fármaco modificador de la enfermedad de alta eficacia",
+   "Dar el alta, porque sin síntomas el hallazgo carece de valor pronóstico"
+  ],
+  "correcta": 0,
+  "explicacion": "Por definición, sin manifestaciones clínicas no puede establecerse el diagnóstico de EM. Se trata de un síndrome radiológico aislado, y entre el 30 y el 50 % desarrollará síntomas en 5-10 años, lo que justifica el seguimiento.",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-036",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué monitorización especial exige el natalizumab?",
+  "opciones": [
+   "La serología del virus JC",
+   "La función tiroidea trimestral",
+   "El control oftalmológico y de la presión arterial",
+   "Los niveles de inmunoglobulinas"
+  ],
+  "correcta": 0,
+  "explicacion": "El natalizumab es un anticuerpo monoclonal contra las integrinas α4 que bloquea la migración linfocitaria al SNC, y su riesgo característico es la leucoencefalopatía multifocal progresiva, de ahí el seguimiento de la serología JC. La función tiroidea corresponde al alemtuzumab y las inmunoglobulinas a los anti-CD20.",
+  "teoria": "fme-em",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-037",
+  "tema": "Desmielinizantes",
+  "subtema": "Esclerosis múltiple",
+  "enunciado": "¿Qué controles requiere el alemtuzumab durante el tratamiento?",
+  "opciones": [
+   "Analíticas mensuales, función tiroidea trimestral y sedimento urinario mensual",
+   "Solo un hemograma trimestral",
+   "Control oftalmológico y dermatológico periódico",
+   "Serología del virus JC semestral"
+  ],
+  "correcta": 0,
+  "explicacion": "El alemtuzumab es un anticuerpo contra CD52 y es el fármaco con la monitorización más exigente: analíticas mensuales, función tiroidea trimestral y sedimento urinario mensual, por su perfil de autoinmunidad secundaria. El hemograma trimestral corresponde a los fumaratos.",
+  "teoria": "fme-em",
+  "fuente": "Cap. 71. Esclerosis múltiple"
+ },
+ {
+  "id": "des-038",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Cómo es el predominio de sexo en la NMOSD?",
+  "opciones": [
+   "Femenino, de hasta 9:1, y más marcado en las formas seropositivas",
+   "Femenino, de 2:1, y más marcado en las formas seronegativas",
+   "Masculino, de 3:1, sobre todo en el debut tardío",
+   "Sin diferencias entre sexos en ninguna de sus formas"
+  ],
+  "correcta": 0,
+  "explicacion": "El predominio femenino llega a 9:1 y es especialmente alto entre los pacientes con anticuerpos anti-AQP4; en las formas seronegativas es menor. La relación 2:1 es la de la EM, y en el MOGAD no hay diferencias entre sexos.",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-039",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Cuál es la diana celular principal en la NMOSD por anticuerpos anti-AQP4?",
+  "opciones": [
+   "El astrocito",
+   "El oligodendrocito",
+   "La célula endotelial",
+   "La microglía"
+  ],
+  "correcta": 0,
+  "explicacion": "La NMO se considera una astrocitopatía autoinmune: la histopatología muestra daño astrocitario extenso con pérdida de GFAP, y la desmielinización es secundaria a la lesión oligodendrocitaria. El MOGAD, en cambio, se engloba dentro de las oligodendropatías.",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-040",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Qué patrón medular es característico de la NMOSD en la RM?",
+  "opciones": [
+   "Mielitis longitudinalmente extensa de 3 o más segmentos y predominio central",
+   "Lesiones cortas de predominio cordonal posterior",
+   "Lesiones periféricas en cuña que respetan la sustancia gris",
+   "Afectación exclusiva del cono medular"
+  ],
+  "correcta": 0,
+  "explicacion": "La mielitis transversa longitudinalmente extensa afecta la sustancia gris central en el 70 % de los casos y en cortes coronales da la imagen en «ojos de búho», que no es patognomónica. La afectación cordonal posterior y corta es más propia de la EM, y la del cono, del MOGAD.",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-041",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Cómo se tratan los espasmos tónicos paroxísticos de la NMOSD?",
+  "opciones": [
+   "Con dosis bajas de carbamazepina u oxcarbazepina",
+   "Con megabolos de metilprednisolona intravenosa",
+   "Con toxina botulínica en los músculos afectados",
+   "Con recambio plasmático precoz"
+  ],
+  "correcta": 0,
+  "explicacion": "Son espasmos dolorosos de segundos, repetitivos, de 2 a 15 veces al día, en miembros inferiores y tronco, relacionados con la desmielinización medular focal. Responden a dosis bajas de antiepilépticos; los corticoides y el recambio plasmático se reservan para el brote.",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-042",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Con qué frecuencia se detectan bandas oligoclonales en la NMOSD y el MOGAD?",
+  "opciones": [
+   "En menos del 15-20 % de los casos",
+   "En más del 90 % de los casos",
+   "En aproximadamente la mitad de los casos",
+   "Prácticamente en el 100 % de los casos seropositivos"
+  ],
+  "correcta": 0,
+  "explicacion": "Ambas entidades cursan con elevación discreta de proteínas y pleocitosis linfocítica leve, pero las bandas oligoclonales son infrecuentes. Es un dato diferenciador clave frente a la EM, donde superan el 90 %.",
+  "teoria": "lcr-perfiles",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-043",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Qué rendimiento tiene el cell based assay para los anticuerpos IgG-AQP4 en suero?",
+  "opciones": [
+   "Sensibilidad del 80 % y especificidad superior al 99 %",
+   "Sensibilidad superior al 99 % y especificidad del 80 %",
+   "Sensibilidad y especificidad en torno al 50 %",
+   "Sensibilidad del 30 % y especificidad del 90 %"
+  ],
+  "correcta": 0,
+  "explicacion": "El CBA es el test de referencia, con especificidad superior al 99 % pero sensibilidad del 80 %. Pueden aparecer falsos negativos si se ha iniciado plasmaféresis o inmunosupresión antes de la extracción, algo a tener en cuenta al interpretar un resultado negativo.",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-044",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Cómo deben determinarse los anticuerpos anti-MOG?",
+  "opciones": [
+   "Con CBA, preferiblemente sobre células vivas",
+   "Con ELISA, por su mayor sensibilidad",
+   "Con inmunofluorescencia indirecta sobre tejido cerebral",
+   "Con western blot sobre suero y LCR"
+  ],
+  "correcta": 0,
+  "explicacion": "Los CBA sobre células vivas son más específicos que los realizados sobre células fijadas, donde se consideran claramente positivos los títulos iguales o superiores a 1:100. El ELISA está desaconsejado por su baja sensibilidad y especificidad.",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-045",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "Según los criterios de 2015, ¿qué basta en un paciente con anticuerpos IgG-AQP4 positivos?",
+  "opciones": [
+   "Una sola característica clínica nuclear, habiendo excluido otros diagnósticos",
+   "Dos características clínicas nucleares con diseminación en espacio",
+   "Haber presentado neuritis óptica y mielitis, como exigían los criterios de 1999",
+   "La sola positividad del anticuerpo, aunque el paciente esté asintomático"
+  ],
+  "correcta": 0,
+  "explicacion": "En seropositivos basta un episodio nuclear (neuritis óptica, mielitis longitudinalmente extensa, síndrome de área postrema, diencefálico, troncoencefálico agudo o cerebral sintomático) más la exclusión de alternativas. La exigencia de dos episodios con diseminación en espacio es para seronegativos.",
+  "teoria": "nmosd-tratamiento",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-046",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Por qué se ha postulado el área postrema como puerta de entrada de los anticuerpos al SNC?",
+  "opciones": [
+   "Porque sus capilares son fenestrados y no limitan la difusión desde la sangre",
+   "Porque carece de astrocitos y por tanto de barrera glial",
+   "Porque recibe irrigación directa del plexo coroideo del IV ventrículo",
+   "Porque concentra el drenaje linfático meníngeo del tronco"
+  ],
+  "correcta": 0,
+  "explicacion": "Las células endoteliales del área postrema no presentan uniones estrechas, de modo que los anticuerpos circulantes difunden con facilidad. El síndrome de área postrema es casi patognomónico: debuta así el 17 % y lo presenta el 51 % a lo largo de la evolución.",
+  "teoria": "neuritis-optica-dif",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-047",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Qué signo radiológico medular es característico del MOGAD?",
+  "opciones": [
+   "El signo de la H, por afectación restringida a la sustancia gris",
+   "La imagen en «ojos de búho» por afectación de las astas anteriores",
+   "Las bright spotty lesions hiperintensas más que el LCR",
+   "El realce anular incompleto de las lesiones"
+  ],
+  "correcta": 0,
+  "explicacion": "En el MOGAD la alteración de señal en T2 se restringe a la sustancia gris formando una línea sagital que en cortes axiales dibuja la H. También es bastante característica la afectación del cono medular. Las bright spotty lesions orientan más a NMOSD.",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-048",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Cuándo debe plantearse el recambio plasmático en un brote de NMOSD?",
+  "opciones": [
+   "Si no hay mejoría con corticoides, y desde el inicio en los casos graves",
+   "Solo tras haber fracasado tres ciclos consecutivos de corticoides",
+   "Únicamente en pacientes seronegativos para IgG-AQP4",
+   "Solo como tratamiento de mantenimiento, no en la fase aguda"
+  ],
+  "correcta": 0,
+  "explicacion": "El brote se trata con metilprednisolona 1 g/día durante 5 días seguida de prednisona oral. Si empeora o no mejora, se indica PLEX, eficaz en más del 50 % de los casos; en los brotes graves se plantea de entrada porque la recuperación funcional es mejor. Encaja con la patogenia humoral de la enfermedad.",
+  "teoria": "nmosd-tratamiento",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-049",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Qué precaución exige iniciar eculizumab o ravulizumab en una NMOSD?",
+  "opciones": [
+   "Vacunar previamente frente a Neisseria meningitidis",
+   "Descartar hepatitis B y tuberculosis y controlar los neutrófilos",
+   "Premedicar con antihistamínico, antipirético y glucocorticoides",
+   "Monitorizar la función tiroidea cada tres meses"
+  ],
+  "correcta": 0,
+  "explicacion": "Ambos inhiben el factor C5 del complemento e impiden la formación del complejo de ataque a la membrana, lo que aumenta el riesgo de infección meningocócica. El cribado de hepatitis y tuberculosis corresponde a satralizumab e inebilizumab, y la premedicación infusional a inebilizumab.",
+  "teoria": "nmosd-tratamiento",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-050",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Por qué es crítico distinguir una NMOSD de una esclerosis múltiple antes de tratar?",
+  "opciones": [
+   "Porque los tratamientos aprobados para la EM empeoran la evolución de la NMOSD",
+   "Porque los tratamientos de la NMOSD son ineficaces si se retrasan más de un mes",
+   "Porque la NMOSD no requiere tratamiento de mantenimiento si es seronegativa",
+   "Porque los corticoides están contraindicados en los brotes de NMOSD"
+  ],
+  "correcta": 0,
+  "explicacion": "Es la consideración más importante del capítulo: los fármacos modificadores de la EM han demostrado empeorar la NMOSD. El mantenimiento se indica tanto en seropositivos como en seronegativos, y los corticoides son la primera línea del brote.",
+  "teoria": "nmosd-tratamiento",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-051",
+  "tema": "Desmielinizantes",
+  "subtema": "Espectro neuromielitis óptica",
+  "enunciado": "¿Qué caracteriza al CRION frente a otras neuritis ópticas inflamatorias?",
+  "opciones": [
+   "La recurrencia al retirar o bajar los corticoides, con excelente respuesta a ellos",
+   "La ausencia total de respuesta al tratamiento esteroideo",
+   "La presencia constante de bandas oligoclonales en el LCR",
+   "La existencia de un biomarcador serológico propio ya validado"
+  ],
+  "correcta": 0,
+  "explicacion": "El CRION cursa con episodios repetidos de neuritis óptica de respuesta rápida y excelente a los esteroides, pero con dependencia de ellos y recaída al retirarlos. No tiene criterios ni biomarcadores propios, el LCR suele ser normal sin bandas, y hay que testar siempre IgG-AQP4 y anti-MOG.",
+  "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica"
+ },
+ {
+  "id": "des-052",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Cuál es el síntoma más frecuente de la vasculitis primaria del SNC?",
+  "opciones": [
+   "La cefalea, de perfil subagudo-crónico",
+   "La cefalea en trueno recurrente",
+   "Las crisis epilépticas",
+   "Los síntomas sistémicos como fiebre y artralgias"
+  ],
+  "correcta": 0,
+  "explicacion": "La cefalea aparece en el 50-60 %, pero es subaguda o crónica: la cefalea en trueno es muy infrecuente y orienta más al síndrome de vasoconstricción cerebral reversible. Las crisis aparecen en menos del 20 % y los síntomas sistémicos en menos del 10 %.",
+  "teoria": "otras-inflamatorias-snc",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-053",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Qué patrón histológico es el más frecuente en la vasculitis primaria del SNC?",
+  "opciones": [
+   "El granulomatoso, con frecuentes depósitos de beta-amiloide",
+   "El linfocítico, con infiltrado vascular y células plasmáticas",
+   "El necrotizante, con necrosis fibrinoide transmural",
+   "El eosinofílico, con infiltrado perivascular de eosinófilos"
+  ],
+  "correcta": 0,
+  "explicacion": "Se describen tres patrones y el granulomatoso es el más frecuente, con granulomas bien formados y células gigantes. El linfocítico es el único presente en población pediátrica y el necrotizante, el menos frecuente, es indistinguible de la panarteritis nodosa.",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-054",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Qué limitación tiene la biopsia cerebral en la vasculitis primaria del SNC?",
+  "opciones": [
+   "Tiene hasta un 50 % de falsos negativos porque la afectación es parcheada",
+   "Solo es rentable si se limita a la sustancia blanca profunda",
+   "Su especificidad es baja, en torno al 30 %",
+   "Está contraindicada si la angiografía ya es positiva"
+  ],
+  "correcta": 0,
+  "explicacion": "La biopsia sigue siendo el gold standard, con sensibilidad global del 53-63 %, y un resultado normal no descarta el diagnóstico. Rinde más si incluye corteza, sustancia blanca subcortical y leptomeninge, y si es abierta en lugar de estereotáctica. La especificidad del 30 % es la de la angiografía.",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-055",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Qué dato orienta a un síndrome de vasoconstricción cerebral reversible en lugar de una vasculitis primaria del SNC?",
+  "opciones": [
+   "La cefalea en trueno recurrente con un desencadenante identificable",
+   "La instauración insidiosa de un deterioro cognitivo progresivo",
+   "La captación leptomeníngea en la RM cerebral",
+   "La pleocitosis mononuclear en el LCR"
+  ],
+  "correcta": 0,
+  "explicacion": "El SVCR afecta sobre todo a mujeres, suele tener desencadenante (fármacos vasoactivos, posparto, hipertensión) y se presenta como cefalea en trueno recurrente; la vasoconstricción revierte con nimodipino y de forma espontánea en unas 12 semanas de media. Es el principal diagnóstico diferencial de la PACNS.",
+  "teoria": "otras-inflamatorias-snc",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-056",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Cómo debuta típicamente la vasculitis asociada a depósitos de beta-amiloide (ABRA)?",
+  "opciones": [
+   "Con deterioro cognitivo rápidamente progresivo, confusión y alteración conductual",
+   "Con cefalea en trueno aislada de repetición",
+   "Con una mielopatía progresiva de años de evolución",
+   "Con hipoacusia neurosensorial y alteración visual"
+  ],
+  "correcta": 0,
+  "explicacion": "Más del 70 % debuta de forma aguda o subaguda con deterioro cognitivo rápido, confusión, alteraciones conductuales, alucinaciones y focalidad; un 30 % asocia cefalea o crisis. Es más frecuente a partir de los 65 años.",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-057",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Qué distingue radiológicamente al ABRA de la vasculitis primaria del SNC?",
+  "opciones": [
+   "La ausencia de alteraciones en la angio-RM o la arteriografía cerebral",
+   "La presencia de estenosis arteriales en collar de cuentas",
+   "La restricción a la difusión de las lesiones de sustancia blanca",
+   "La ausencia de microhemorragias en las secuencias de susceptibilidad"
+  ],
+  "correcta": 0,
+  "explicacion": "El ABRA muestra lesiones asimétricas hiperintensas en T2/FLAIR sin restricción a la difusión, por tratarse de edema vasogénico, junto a microhemorragias corticosubcorticales, pero el estudio vascular es normal. El collar de cuentas es el hallazgo angiográfico típico de la PACNS.",
+  "teoria": "otras-inflamatorias-snc",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-058",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Dónde deben determinarse los anticuerpos anti-GFAP para diagnosticar una astrocitopatía?",
+  "opciones": [
+   "En el LCR, por su alta sensibilidad y especificidad",
+   "En el suero, porque es donde se producen en mayor título",
+   "En ambos a la vez, exigiéndose positividad simultánea",
+   "En tejido de biopsia cerebral, por inmunohistoquímica"
+  ],
+  "correcta": 0,
+  "explicacion": "Los anti-GFAP se encuentran preferentemente en LCR y en el 55 % de los casos ni siquiera se detectan en suero; si solo aparecen en suero debe dudarse del diagnóstico. No existen aún criterios diagnósticos definidos para esta entidad.",
+  "teoria": "otras-inflamatorias-snc",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-059",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Qué hallazgo de RM se ha descrito como característico de la astrocitopatía anti-GFAP?",
+  "opciones": [
+   "El realce lineal perivascular perpendicular a los ventrículos laterales",
+   "El realce punteado en sal y pimienta centrado en la protuberancia",
+   "Las lesiones en bolas de nieve en el cuerpo calloso",
+   "El realce anular incompleto de las lesiones de sustancia blanca"
+  ],
+  "correcta": 0,
+  "explicacion": "Junto a lesiones hiperintensas periventriculares, el realce lineal radial perpendicular a los ventrículos es lo más característico, aunque las series recientes lo describen como menos frecuente y poco específico. La sal y pimienta pontina es del CLIPPERS y las bolas de nieve, del Susac.",
+  "teoria": "otras-inflamatorias-snc",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-060",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Cuál es el hallazgo oftalmológico más característico del síndrome de Susac?",
+  "opciones": [
+   "Las oclusiones de ramas de la arteria central de la retina, bilaterales y múltiples",
+   "El papiledema bilateral con hemorragias peripapilares",
+   "La uveítis anterior recurrente con sinequias",
+   "La atrofia óptica con palidez papilar precoz"
+  ],
+  "correcta": 0,
+  "explicacion": "Las oclusiones de ramas están presentes en casi todos los pacientes, aunque solo la mitad tiene clínica visual. La angiografía con fluoresceína es la prueba que mejor las demuestra y, junto a la hiperfluorescencia segmentaria de las paredes arteriolares, resulta patognomónica.",
+  "teoria": "otras-inflamatorias-snc",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-061",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Qué combinación define el cuadro típico del CLIPPERS?",
+  "opciones": [
+   "Clínica de fosa posterior con realce punteado pontino y corticodependencia",
+   "Encefalopatía, hipoacusia y oclusiones retinianas de curso recurrente",
+   "Deterioro cognitivo rápido con microhemorragias corticosubcorticales",
+   "Mielitis longitudinalmente extensa con anticuerpos anti-AQP4"
+  ],
+  "correcta": 0,
+  "explicacion": "El CLIPPERS cursa de forma subaguda con ataxia, diplopía y disartria, y muestra un realce punteado y curvilíneo en sal y pimienta centrado en protuberancia y cerebelo. La respuesta llamativa a corticoides y el empeoramiento al reducirlos son claves, y es un diagnóstico de exclusión.",
+  "teoria": "otras-inflamatorias-snc",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ },
+ {
+  "id": "des-062",
+  "tema": "Desmielinizantes",
+  "subtema": "Vasculitis y otras desmielinizantes",
+  "enunciado": "¿Qué recomendación existe sobre los anti-TNF alfa y la patología desmielinizante?",
+  "opciones": [
+   "Evitarlos si hay historia personal o familiar de esclerosis múltiple",
+   "Usarlos con preferencia en pacientes con EM y artritis reumatoide asociada",
+   "Mantenerlos si aparece un evento desmielinizante, añadiendo corticoides",
+   "Indicarlos solo tras confirmar una RM cerebral normal cada seis meses"
+  ],
+  "correcta": 0,
+  "explicacion": "Dos ensayos en EM con infliximab y lenercept mostraron aumento de la actividad clínico-radiológica, y se han descrito unos 120 casos de desmielinización del SNC asociados a estos fármacos. Si aparece un evento desmielinizante, se recomienda suspenderlos.",
+  "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+ }
+]

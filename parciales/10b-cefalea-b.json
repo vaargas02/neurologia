@@ -1,0 +1,452 @@
+[
+  {
+    "id": "cef-019",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "Según la CIC-3, ¿cuánto duran las crisis de migraña sin aura no tratadas en el adulto?",
+    "opciones": [
+      "Entre 15 y 180 minutos",
+      "Entre 4 y 72 horas",
+      "Entre 30 minutos y 7 días",
+      "Entre 2 y 24 horas"
+    ],
+    "correcta": 1,
+    "explicacion": "El criterio exige crisis de 4-72 horas no tratadas o tratadas sin éxito; en niños y adolescentes el rango baja a 2-72 horas. Si el paciente se duerme y despierta sin dolor, la duración se cuenta hasta el despertar.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-020",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "¿Cuántas crisis se exigen como mínimo para diagnosticar una migraña sin aura?",
+    "opciones": [
+      "Dos",
+      "Diez",
+      "Cinco",
+      "Quince"
+    ],
+    "correcta": 2,
+    "explicacion": "Hacen falta al menos cinco crisis que cumplan los criterios B-D; con menos se codifica como migraña sin aura probable. La migraña con aura, en cambio, solo exige dos crisis.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-021",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "En un paciente con cefalea 15 o más días al mes, ¿cuántos días deben cumplir criterios de migraña para hablar de migraña crónica?",
+    "opciones": [
+      "Ocho o más días al mes durante más de 3 meses",
+      "Cuatro o más días al mes durante más de 6 meses",
+      "Doce o más días al mes durante más de 3 meses",
+      "Los quince días, durante más de un año"
+    ],
+    "correcta": 0,
+    "explicacion": "La migraña crónica requiere cefalea 15 o más días al mes durante más de 3 meses, de los cuales al menos 8 cumplen criterios de migraña con o sin aura, o ceden con triptán o ergótico. Hasta un 13 % de las migrañas progresa a esta forma.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-022",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "Si un triptán resulta ineficaz pese a tomarse al inicio del ataque, ¿cuál es el siguiente paso?",
+    "opciones": [
+      "Añadir un mórfico o una combinación con codeína",
+      "Pasar directamente a un anticuerpo anti-CGRP mensual",
+      "Sustituirlo por paracetamol a dosis altas",
+      "Aumentar la dosis, cambiar de forma galénica o probar otro triptán"
+    ],
+    "correcta": 3,
+    "explicacion": "Antes de abandonar la familia conviene subir dosis, cambiar de vía o ensayar otro triptán. Solo tras fracasar al menos dos triptanes, o si están contraindicados, se valoran lasmiditán o rimegepante; los mórficos deben evitarse por riesgo de cefalea por uso excesivo.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-023",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "¿Qué fármaco preventivo tiene indicación únicamente en la migraña crónica?",
+    "opciones": [
+      "El topiramato",
+      "La toxina botulínica tipo A",
+      "El erenumab",
+      "El candesartán"
+    ],
+    "correcta": 1,
+    "explicacion": "La onabotulinumtoxinA es el único preventivo indicado solo en migraña crónica; se infiltra según el protocolo PREEMPT, con 5 U por punto y un total de 155-195 U. Los anticuerpos anti-CGRP pueden usarse también en migraña episódica frecuente.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-024",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "¿Cuánto tiempo se recomienda mantener el tratamiento preventivo en la migraña episódica?",
+    "opciones": [
+      "Al menos 6 meses",
+      "Al menos 3 semanas",
+      "Al menos 12 meses",
+      "De forma indefinida"
+    ],
+    "correcta": 0,
+    "explicacion": "Se mantiene un mínimo de 6 meses en la migraña episódica y de 12 meses en la crónica, con un periodo de prueba de al menos 3 meses (idealmente 6) antes de considerarlo ineficaz. La eficacia se juzga por frecuencia, intensidad y discapacidad asociada.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-025",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "¿Qué consecuencia tiene la activación antidrómica de las neuronas trigeminales en la migraña?",
+    "opciones": [
+      "La conducción del estímulo nociceptivo hasta el tálamo y la corteza sensorial",
+      "Una onda de despolarización neuronal y glial en la corteza occipital",
+      "La liberación meníngea de CGRP y PACAP, con vasodilatación e inflamación estéril",
+      "La inhibición descendente del dolor desde la sustancia gris periacueductal"
+    ],
+    "correcta": 2,
+    "explicacion": "La rama ortodrómica lleva la información nociceptiva al núcleo caudal del trigémino, el tálamo y la corteza; la antidrómica libera neuropéptidos vasoactivos como CGRP y PACAP en las meninges, lo que produce vasodilatación e inflamación meníngea estéril.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-026",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefaleas trigémino-autonómicas y tensional",
+    "enunciado": "¿Cuánto dura típicamente cada crisis de hemicránea paroxística?",
+    "opciones": [
+      "De 15 a 180 minutos",
+      "De 58 a 180 segundos",
+      "De 2 a 30 minutos",
+      "De 30 minutos a 3 días"
+    ],
+    "correcta": 2,
+    "explicacion": "La hemicránea paroxística cursa con crisis breves de 2-30 minutos y una media de 11 al día, frente a los 15-180 minutos de la cefalea en racimos y los 58-180 segundos del SUNCT/SUNA. Frecuencia y duración son la clave para diferenciar estos síndromes.",
+    "fuente": "Cap. 58. Cefaleas trigémino-autonómicas y otras cefaleas primarias"
+  },
+  {
+    "id": "cef-027",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefaleas trigémino-autonómicas y tensional",
+    "enunciado": "¿Qué cefaleas trigémino-autonómicas responden a la indometacina?",
+    "opciones": [
+      "La cefalea en racimos y el SUNCT/SUNA",
+      "La hemicránea paroxística y la hemicránea continua",
+      "Únicamente la cefalea en racimos",
+      "Únicamente el SUNCT/SUNA"
+    ],
+    "correcta": 1,
+    "explicacion": "La respuesta a indometacina define a la hemicránea paroxística y a la hemicránea continua, hasta el punto de que la prueba terapéutica forma parte del estudio. Se inicia con 25 mg/8 h y puede subirse hasta 150 mg/día, con mantenimiento de 75-100 mg/día.",
+    "fuente": "Cap. 58. Cefaleas trigémino-autonómicas y otras cefaleas primarias"
+  },
+  {
+    "id": "cef-028",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefaleas trigémino-autonómicas y tensional",
+    "enunciado": "¿Qué distingue al SUNCT del SUNA?",
+    "opciones": [
+      "El SUNCT asocia inyección conjuntival y lagrimeo, y el SUNA solo uno de los dos",
+      "El SUNCT dura minutos y el SUNA solo segundos",
+      "El SUNCT responde a indometacina y el SUNA no",
+      "El SUNCT afecta a la rama V1 y el SUNA a la V2"
+    ],
+    "correcta": 0,
+    "explicacion": "Ambos son cefaleas neuralgiformes unilaterales de corta duración; el SUNCT exige inyección conjuntival y lagrimeo simultáneos, mientras que en el SUNA aparece uno de los dos, pero no ambos. Como la cefalea en racimos y la hemicránea paroxística, pueden ser episódicos o crónicos.",
+    "fuente": "Cap. 58. Cefaleas trigémino-autonómicas y otras cefaleas primarias"
+  },
+  {
+    "id": "cef-029",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefaleas trigémino-autonómicas y tensional",
+    "enunciado": "¿Cómo se administra el oxígeno en el tratamiento sintomático de la cefalea en racimos?",
+    "opciones": [
+      "Con gafas nasales a 2-3 litros/minuto durante una hora",
+      "Con mascarilla facial a 12-15 litros/minuto durante unos 20 minutos",
+      "Con mascarilla a 4 litros/minuto hasta que ceda el dolor",
+      "En cámara hiperbárica durante 30 minutos"
+    ],
+    "correcta": 1,
+    "explicacion": "El oxígeno a alto flujo con mascarilla facial, unos 20 minutos, es eficaz en la mayoría de los pacientes y se combina con sumatriptán 6 mg subcutáneo. Debe evitarse en insuficiencia cardíaca o respiratoria por el riesgo de hipercapnia.",
+    "fuente": "Cap. 58. Cefaleas trigémino-autonómicas y otras cefaleas primarias"
+  },
+  {
+    "id": "cef-030",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefaleas trigémino-autonómicas y tensional",
+    "enunciado": "¿Cuál es el tratamiento de primera elección del SUNCT/SUNA?",
+    "opciones": [
+      "El verapamilo",
+      "La indometacina",
+      "La lamotrigina",
+      "El litio"
+    ],
+    "correcta": 2,
+    "explicacion": "Se inicia con 25 mg/día y se escala muy despacio hasta 100-400 mg/día, precisamente para evitar reacciones cutáneas graves como el síndrome de Stevens-Johnson. El verapamilo y el litio son preventivos de la cefalea en racimos, y la indometacina no es eficaz aquí.",
+    "fuente": "Cap. 58. Cefaleas trigémino-autonómicas y otras cefaleas primarias"
+  },
+  {
+    "id": "cef-031",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefaleas trigémino-autonómicas y tensional",
+    "enunciado": "¿Qué características del dolor definen la cefalea tipo tensión en la CIC-3?",
+    "opciones": [
+      "Unilateral, pulsátil, moderada-grave y que empeora con la actividad física",
+      "Bilateral, opresiva, leve-moderada y que no empeora con la actividad física",
+      "Bilateral, pulsátil, grave y acompañada de náuseas y vómitos",
+      "Unilateral, opresiva y con síntomas autonómicos ipsilaterales"
+    ],
+    "correcta": 1,
+    "explicacion": "Se exigen al menos dos de esas cuatro características, con episodios de 30 minutos a 7 días. No hay náuseas ni vómitos, aunque puede asociar fotofobia o fonofobia; es el reverso del perfil migrañoso.",
+    "fuente": "Cap. 58. Cefaleas trigémino-autonómicas y otras cefaleas primarias"
+  },
+  {
+    "id": "cef-032",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "¿Qué presión de apertura de LCR exige la ICHD-3 para diagnosticar hipertensión intracraneal idiopática en el adulto?",
+    "opciones": [
+      "Por encima de 15 cmH2O",
+      "Por encima de 20 cmH2O",
+      "Por encima de 25 cmH2O",
+      "Por encima de 40 cmH2O"
+    ],
+    "correcta": 2,
+    "explicacion": "El punto de corte es 25 cmH2O en adultos y 28 en niños obesos, con bioquímica del LCR normal. La punción debe hacerse en decúbito lateral, con las piernas estiradas y el paciente relajado, o la medida no es válida.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-033",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "¿Cuál es el tratamiento modificador de la enfermedad más importante en la hipertensión intracraneal idiopática?",
+    "opciones": [
+      "La pérdida de peso",
+      "La acetazolamida",
+      "La fenestración de la vaina del nervio óptico",
+      "El stent en el seno transverso"
+    ],
+    "correcta": 0,
+    "explicacion": "La obesidad es con diferencia el factor de riesgo más relevante y su corrección puede resolver todo el cuadro, mediante dieta, cirugía bariátrica o fármacos. La acetazolamida es el fármaco de primera elección y el único con ensayos controlados, pero no modifica la enfermedad de base.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-034",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "¿Qué hallazgo de neuroimagen aparece hasta en el 90 % de los pacientes con hipertensión intracraneal idiopática?",
+    "opciones": [
+      "La hidrocefalia tetraventricular",
+      "La captación paquimeníngea difusa de gadolinio",
+      "El descenso amigdalar",
+      "La estenosis de uno o ambos senos transversos"
+    ],
+    "correcta": 3,
+    "explicacion": "Es muy característica, aunque sigue sin aclararse si es causa o consecuencia. Otros signos típicos, poco específicos y presentes en sanos, son la silla turca vacía, el aplanamiento posterior del globo ocular y la tortuosidad de los nervios ópticos; la venografía es obligatoria para excluir una trombosis de senos.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-035",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "¿Cuál es el síntoma más frecuente del síndrome de hipotensión intracraneal espontánea de origen espinal?",
+    "opciones": [
+      "La cefalea ortostática",
+      "La rinorrea de LCR",
+      "El acúfeno pulsátil",
+      "La diplopía binocular"
+    ],
+    "correcta": 0,
+    "explicacion": "Aparece en el 87 % de los casos, en los primeros 15 minutos tras la bipedestación, y empeora con las maniobras de Valsalva. Con el tiempo puede perder el componente postural, por lo que el síndrome debe descartarse ante una cefalea nueva persistente y diaria.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-036",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "¿Cuál es el signo radiológico más frecuente en la RM craneal del síndrome de hipotensión intracraneal?",
+    "opciones": [
+      "La silla turca vacía",
+      "El aplanamiento posterior del globo ocular",
+      "La captación paquimeníngea difusa y homogénea de gadolinio",
+      "La estenosis de los senos transversos"
+    ],
+    "correcta": 2,
+    "explicacion": "Aparece en el 73-80 % de los casos y suele apreciarse también en FLAIR sin contraste. Le siguen la ingurgitación venosa, las colecciones extra-axiales y el descenso cerebral; la RM craneal con gadolinio es diagnóstica en torno al 80 % de los casos.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-037",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "¿Cuántos días al mes de consumo definen la cefalea por uso excesivo de medicación?",
+    "opciones": [
+      "Más de 10 días con ergóticos, triptanes u opioides, y más de 15 con AINE o paracetamol",
+      "Más de 5 días con cualquier analgésico",
+      "Más de 15 días con ergóticos, triptanes u opioides, y más de 20 con AINE o paracetamol",
+      "Más de 20 días al mes con cualquier analgésico"
+    ],
+    "correcta": 0,
+    "explicacion": "El umbral es más bajo para los fármacos específicos y los opioides que para los analgésicos simples, y en ambos casos debe mantenerse más de 3 meses. Los cuadros por ergóticos y opiáceos son los más graves, y la migraña es la cefalea primaria donde más aparece.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-038",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "¿Qué dato, poco frecuente pero bastante específico, apoya el diagnóstico de arteritis de células gigantes?",
+    "opciones": [
+      "El acúfeno pulsátil bilateral",
+      "La claudicación mandibular",
+      "La cefalea en trueno recurrente",
+      "La rinorrea acuosa unilateral"
+    ],
+    "correcta": 1,
+    "explicacion": "Consiste en la fatiga de los músculos de la masticación y acompaña a una cefalea de reciente aparición, sobre todo temporal, a veces con alodinia local. Puede coexistir con síndrome constitucional y polimialgia reumática, y obliga a determinar VSG y PCR en toda cefalea que empieza más allá de los 50 años.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-039",
+    "tema": "Cefalea y dolor",
+    "subtema": "Neuralgias y algias faciales",
+    "enunciado": "¿Qué mecanismo explica, según la hipótesis más aceptada, la neuralgia del trigémino?",
+    "opciones": [
+      "Una inflamación granulomatosa del seno cavernoso",
+      "La sensibilización de nociceptores silentes de la duramadre",
+      "La desmielinización focal en la zona de entrada de la raíz, que facilita la transmisión efáptica",
+      "Una onda de depresión cortical propagada sobre la corteza sensitiva facial"
+    ],
+    "correcta": 2,
+    "explicacion": "La hipótesis de Devor sitúa el daño en la zona transicional de Obersteiner-Redlich, un segmento de 2-2,5 mm donde la mielina central pasa a periférica. La desmielinización permite el contacto efáptico entre fibras de tacto fino y nociceptivas, y explica que un estímulo táctil desencadene el paroxismo.",
+    "fuente": "Cap. 60. Neuralgias, neuropatías y algias faciales"
+  },
+  {
+    "id": "cef-040",
+    "tema": "Cefalea y dolor",
+    "subtema": "Neuralgias y algias faciales",
+    "enunciado": "¿Qué protocolo de RM se recomienda para valorar el conflicto neurovascular en la neuralgia del trigémino?",
+    "opciones": [
+      "Secuencias 3D de alta resolución tipo FIESTA, DRIVE o CISS",
+      "Secuencias de difusión con mapa ADC",
+      "Secuencias T2* con eco de gradiente",
+      "Estudios de perfusión con contraste dinámico"
+    ],
+    "correcta": 0,
+    "explicacion": "Se combinan con angioRM TOF y T1 con gadolinio y reconstrucciones 3D. Comparadas con el hallazgo quirúrgico alcanzan una sensibilidad del 98 % y una especificidad del 100 %, y permiten distinguir el simple contacto vascular de una compresión verdadera.",
+    "fuente": "Cap. 60. Neuralgias, neuropatías y algias faciales"
+  },
+  {
+    "id": "cef-041",
+    "tema": "Cefalea y dolor",
+    "subtema": "Neuralgias y algias faciales",
+    "enunciado": "¿Cuándo indica el consenso de la SEN el tratamiento quirúrgico en la neuralgia del trigémino clásica o idiopática?",
+    "opciones": [
+      "Tras el fracaso de la carbamazepina en monoterapia",
+      "En todos los casos con contacto neurovascular en la RM",
+      "Solo cuando se demuestra una causa secundaria",
+      "Tras el fracaso de al menos tres fármacos de grupos terapéuticos distintos"
+    ],
+    "correcta": 3,
+    "explicacion": "Se exige el fallo de tres familias distintas, por separado o combinadas, a dosis adecuadas y con un máximo de 3 meses por fármaco. La descompresión microvascular es la técnica de elección por mantener mejor el efecto a largo plazo, sobre todo en pacientes jóvenes con contacto neurovascular.",
+    "fuente": "Cap. 60. Neuralgias, neuropatías y algias faciales"
+  },
+  {
+    "id": "cef-042",
+    "tema": "Cefalea y dolor",
+    "subtema": "Neuralgias y algias faciales",
+    "enunciado": "¿Qué papel tiene el bloqueo anestésico del nervio occipital en la neuralgia occipital?",
+    "opciones": [
+      "Alivia el dolor durante semanas o meses y constituye un criterio diagnóstico",
+      "Se reserva para las formas secundarias a malformación de Chiari",
+      "Solo se emplea cuando fracasan la radiofrecuencia y la toxina botulínica",
+      "Está contraindicado por el riesgo de lesión del nervio"
+    ],
+    "correcta": 0,
+    "explicacion": "La inyección de anestésico, a veces con corticoide, cerca de la emergencia del nervio alivia el dolor de forma prolongada y su respuesta apoya el diagnóstico. La fisioterapia y los antiepilépticos o tricíclicos suelen ser eficaces; la radiofrecuencia pulsada, la toxina botulínica o la estimulación quedan para los refractarios.",
+    "fuente": "Cap. 60. Neuralgias, neuropatías y algias faciales"
+  },
+  {
+    "id": "cef-043",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefalea en urgencias",
+    "enunciado": "¿Qué proporción de pacientes que consultan en urgencias por cefalea padece una cefalea secundaria de alto riesgo (CESAR)?",
+    "opciones": [
+      "Menos del 1 %",
+      "En torno al 6 %",
+      "En torno al 20 %",
+      "En torno al 40 %"
+    ],
+    "correcta": 1,
+    "explicacion": "Equivale a uno de cada veinte pacientes atendidos por cefalea. El conjunto de cefaleas secundarias supone entre el 5 % y el 20 % de las consultas, pero solo esa fracción corresponde a entidades que amenazan la vida o dejan secuelas.",
+    "fuente": "Cap. 61. Cefalea en el servicio de urgencias"
+  },
+  {
+    "id": "cef-044",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefalea en urgencias",
+    "enunciado": "¿Cuál es el tratamiento de elección de una crisis de migraña moderada-grave en urgencias?",
+    "opciones": [
+      "Metamizol 2 g intravenoso",
+      "Oxígeno normobárico a alto flujo",
+      "Sumatriptán 6 mg subcutáneo",
+      "Cloruro mórfico subcutáneo"
+    ],
+    "correcta": 2,
+    "explicacion": "Tiene nivel de evidencia I y grado de recomendación A en pacientes sin contraindicaciones que no hayan tomado triptanes ni ergóticos en las últimas 24 horas. El metamizol se reserva para cuando el resto está contraindicado, por el riesgo de hipotensión grave y agranulocitosis, y el oxígeno no ha demostrado eficacia en la migraña.",
+    "fuente": "Cap. 61. Cefalea en el servicio de urgencias"
+  },
+  {
+    "id": "cef-045",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefalea en urgencias",
+    "enunciado": "¿Por qué se evitan los AINE a partir de la semana 30 de gestación en el tratamiento de la migraña?",
+    "opciones": [
+      "Por el riesgo de prolongación del intervalo QT materno",
+      "Por el riesgo de cierre prematuro del conducto arterioso fetal",
+      "Por el riesgo de hemorragia intraventricular neonatal",
+      "Por el riesgo de acelerar la maduración pulmonar fetal"
+    ],
+    "correcta": 1,
+    "explicacion": "El paracetamol es la molécula más segura en crisis leves-moderadas y los AINE pueden usarse antes de esa semana. Si no responden, se valora sumatriptán oral o intranasal, o el bloqueo del nervio occipital mayor con lidocaína al 2 % sin corticoide, que sí aceleraría el desarrollo pulmonar fetal.",
+    "fuente": "Cap. 61. Cefalea en el servicio de urgencias"
+  },
+  {
+    "id": "cef-046",
+    "tema": "Cefalea y dolor",
+    "subtema": "Dolor neuropático",
+    "enunciado": "¿Qué define al dolor nociplástico?",
+    "opciones": [
+      "El producido por lesión o enfermedad del sistema somatosensorial",
+      "El generado por la activación fisiológica de nociceptores ante un estímulo térmico o mecánico",
+      "Aquel que exige un diagnóstico psiquiátrico previo para sostenerse",
+      "Una alteración de la nocicepción sin lesión del sistema somatosensorial ni activación de nociceptores"
+    ],
+    "correcta": 3,
+    "explicacion": "Es una tercera categoría junto al dolor nociceptivo y al neuropático, con la fibromialgia y el síndrome de boca urente como ejemplos. El dolor psicógeno es distinto: se trata de un diagnóstico de exclusión que además requiere una enfermedad psiquiátrica demostrada.",
+    "fuente": "Cap. 62. Dolor neuropático y nociceptivo"
+  },
+  {
+    "id": "cef-047",
+    "tema": "Cefalea y dolor",
+    "subtema": "Dolor neuropático",
+    "enunciado": "¿Qué lugar ocupan el tramadol y la codeína en el tratamiento del dolor neuropático?",
+    "opciones": [
+      "Primera línea",
+      "Segunda línea",
+      "Tercera línea",
+      "Cuarta línea"
+    ],
+    "correcta": 1,
+    "explicacion": "La primera línea la forman tricíclicos, gabapentinoides, duales, tópicos como lidocaína al 5 % o capsaicina al 8 %, y antiepilépticos como carbamazepina o lamotrigina. Los opioides mayores son tercera línea, y la toxina botulínica, los cannabinoides y las técnicas intervencionistas, cuarta.",
+    "fuente": "Cap. 62. Dolor neuropático y nociceptivo"
+  },
+  {
+    "id": "cef-048",
+    "tema": "Cefalea y dolor",
+    "subtema": "Dolor neuropático",
+    "enunciado": "¿Qué rasgo distingue la claudicación neurógena de la isquémica?",
+    "opciones": [
+      "El alivio es lento y exige sentarse o inclinarse hacia delante",
+      "El alivio es inmediato al detener la marcha, aunque se siga de pie",
+      "Aparece siempre tras recorrer una distancia fija",
+      "Se acompaña de soplos y disminución de los pulsos distales"
+    ],
+    "correcta": 0,
+    "explicacion": "La neurógena la provoca sobre todo la postura erecta, con distancia de marcha variable, y asocia parestesias, incontinencia e hiporreflexia; se confirma con RM lumbosacra. La isquémica aparece solo con la marcha a distancia fija, cede de inmediato al parar y cursa con calambres y alteraciones tróficas.",
+    "fuente": "Cap. 62. Dolor neuropático y nociceptivo"
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "id": "ecc-001",
+    "tema": "EECC",
+    "subtema": "Punción lumbar y LCR",
+    "enunciado": "¿Cuál es la tasa de producción diaria de líquido cefalorraquídeo?",
+    "opciones": [
+      "Unos 500 ml al día (20 ml/hora)",
+      "Unos 150 ml al día (6 ml/hora)",
+      "Unos 1000 ml al día (40 ml/hora)",
+      "Unos 50 ml al día (2 ml/hora)"
+    ],
+    "correcta": 0,
+    "explicacion": "Los plexos coroideos producen LCR de forma continua a razón de 20 ml/hora, es decir unos 500 ml al día, mediante transporte activo y difusión. Los 150 ml corresponden al volumen circulante, no a la producción.",
+    "fuente": "Cap. 24. Punción lumbar y examen del LCR",
+    "teoria": "lcr-perfiles"
+  },
+  {
+    "id": "ecc-002",
+    "tema": "EECC",
+    "subtema": "Punción lumbar y LCR",
+    "enunciado": "¿Por qué debe orientarse el bisel de la aguja hacia los flancos al realizar una punción lumbar?",
+    "opciones": [
+      "Para separar las fibras meníngeas, que discurren paralelas al eje espinal, en lugar de cortarlas",
+      "Para reducir el riesgo de puncionar el plexo venoso epidural",
+      "Para facilitar la medición fiable de la presión de apertura",
+      "Para evitar lesionar el cono medular en punciones altas"
+    ],
+    "correcta": 0,
+    "explicacion": "Las fibras de la meninge discurren paralelas al eje espinal, así que con el bisel hacia los flancos se separan en vez de seccionarse. La aguja se introduce en L3-L4 o L4-L5 con unos 15° de inclinación cefálica.",
+    "fuente": "Cap. 24. Punción lumbar y examen del LCR",
+    "teoria": "lcr-perfiles"
+  },
+  {
+    "id": "ecc-003",
+    "tema": "EECC",
+    "subtema": "Punción lumbar y LCR",
+    "enunciado": "Tras una punción lumbar traumática, ¿qué corrección debe aplicarse al recuento celular?",
+    "opciones": [
+      "Restar 1-2 leucocitos por cada 1000 hematíes",
+      "Restar 10 leucocitos por cada 1000 hematíes",
+      "Restar 1 leucocito por cada 100 hematíes",
+      "No es posible corregir; hay que repetir la punción"
+    ],
+    "correcta": 0,
+    "explicacion": "Por cada 1000 eritrocitos se contabilizan 1 o 2 leucocitos, y también se corrigen las proteínas: 1 mg por cada 1000 eritrocitos. La cifra normal de proteínas en LCR es inferior a 45 mg/dl.",
+    "fuente": "Cap. 24. Punción lumbar y examen del LCR",
+    "teoria": "lcr-perfiles"
+  },
+  {
+    "id": "ecc-004",
+    "tema": "EECC",
+    "subtema": "Punción lumbar y LCR",
+    "enunciado": "¿Qué perfil celular es propio de una meningitis parasitaria?",
+    "opciones": [
+      "Más de 150 células/μl con predominio de eosinófilos",
+      "Más de 250 células/μl con predominio de neutrófilos",
+      "Entre 50 y 500 células/μl con predominio linfocitario",
+      "Entre 10 y 100 células/μl con predominio linfocitario"
+    ],
+    "correcta": 0,
+    "explicacion": "Las parasitarias muestran más de 150 células/μl con eosinofilia; las fúngicas más de 250 células con neutrófilos, la tuberculosa 50-500 células de predominio linfocitario y la neurosífilis 10-100 linfocitos.",
+    "fuente": "Cap. 24. Punción lumbar y examen del LCR",
+    "teoria": "lcr-perfiles"
+  },
+  {
+    "id": "ecc-005",
+    "tema": "EECC",
+    "subtema": "Autoanticuerpos",
+    "enunciado": "¿Qué diferencia patogénica hay entre los autoanticuerpos neuronales de superficie y los intracelulares?",
+    "opciones": [
+      "Los de superficie suelen ser directamente patógenos; los intracelulares son biomarcadores de citotoxicidad mediada por células",
+      "Los intracelulares son directamente patógenos; los de superficie solo marcadores de daño",
+      "Ambos son directamente patógenos, pero los intracelulares requieren complemento",
+      "Ninguno es patógeno; ambos son marcadores de la respuesta tumoral"
+    ],
+    "correcta": 0,
+    "explicacion": "Los anticuerpos de superficie se unen directamente a su diana y es más probable que sean patógenos, mientras que los intracelulares no acceden a su antígeno y se consideran biomarcadores de un proceso citotóxico mediado por células, lo que condiciona el pronóstico y la respuesta al tratamiento.",
+    "fuente": "Cap. 25. Evaluación de los autoanticuerpos en neurología",
+    "teoria": "encefalitis-autoinmune"
+  },
+  {
+    "id": "ecc-006",
+    "tema": "EECC",
+    "subtema": "Autoanticuerpos",
+    "enunciado": "¿En qué porcentaje de pacientes con miastenia gravis generalizada se detectan anticuerpos anti-receptor de acetilcolina?",
+    "opciones": [
+      "80-85 %",
+      "50-60 %",
+      "30-40 %",
+      "Prácticamente el 100 %"
+    ],
+    "correcta": 0,
+    "explicacion": "Los anti-AChR están presentes en el 80-85 % de las miastenias generalizadas y en el 50-60 % de las oculares. Su especificidad es muy alta, de modo que con una clínica compatible confirman el diagnóstico.",
+    "fuente": "Cap. 25. Evaluación de los autoanticuerpos en neurología"
+  },
+  {
+    "id": "ecc-007",
+    "tema": "EECC",
+    "subtema": "Autoanticuerpos",
+    "enunciado": "¿En qué porcentaje de pacientes con síndrome de Eaton-Lambert se detectan anticuerpos anti-VGCC tipo P/Q?",
+    "opciones": [
+      "En torno al 90 %",
+      "En torno al 50 %",
+      "En torno al 30 %",
+      "Menos del 20 %"
+    ],
+    "correcta": 0,
+    "explicacion": "Los anti-VGCC P/Q aparecen en el 90 % de los pacientes con LEMS, con prevalencia similar en las formas paraneoplásica e idiopática. Estos canales están en las terminales colinérgicas presinápticas de la unión neuromuscular.",
+    "fuente": "Cap. 25. Evaluación de los autoanticuerpos en neurología",
+    "teoria": "encefalitis-autoinmune"
+  },
+  {
+    "id": "ecc-008",
+    "tema": "EECC",
+    "subtema": "Autoanticuerpos",
+    "enunciado": "¿Con qué neoplasia se asocia casi en exclusiva el anticuerpo anti-Tr/DNER?",
+    "opciones": [
+      "El linfoma de Hodgkin",
+      "El carcinoma microcítico de pulmón",
+      "El timoma",
+      "El cáncer de ovario"
+    ],
+    "correcta": 0,
+    "explicacion": "Anti-Tr/DNER, dirigido contra una proteína de los cuerpos y dendritas de las células de Purkinje, se asocia casi exclusivamente al linfoma de Hodgkin y se presenta típicamente como ataxia cerebelosa.",
+    "fuente": "Cap. 25. Evaluación de los autoanticuerpos en neurología",
+    "teoria": "encefalitis-autoinmune"
+  },
+  {
+    "id": "ecc-009",
+    "tema": "EECC",
+    "subtema": "Autoanticuerpos",
+    "enunciado": "Los anticuerpos anti-AMPAR se asocian a tumor en un porcentaje elevado de casos. ¿Cuál es su presentación clínica más característica?",
+    "opciones": [
+      "Encefalitis límbica con síntomas neuropsiquiátricos",
+      "Neuropatía sensitiva subaguda",
+      "Degeneración cerebelosa pura",
+      "Síndrome de la persona rígida"
+    ],
+    "correcta": 0,
+    "explicacion": "El AMPAR es un receptor ionotrópico de glutamato y sus anticuerpos producen sobre todo encefalitis límbica con clínica neuropsiquiátrica; el 60 % se asocia a tumores de pulmón, mama o timo y el estudio en LCR rinde más que en suero.",
+    "fuente": "Cap. 25. Evaluación de los autoanticuerpos en neurología",
+    "teoria": "encefalitis-autoinmune"
+  },
+  {
+    "id": "ecc-010",
+    "tema": "EECC",
+    "subtema": "Neuroimagen",
+    "enunciado": "En la escala de Hounsfield, ¿qué valores corresponden a la sangre aguda?",
+    "opciones": [
+      "56 a 76 UH",
+      "23 a 34 UH",
+      "140 a 200 UH",
+      "-30 a -100 UH"
+    ],
+    "correcta": 0,
+    "explicacion": "La sangre aguda mide 56-76 UH, por encima de la sustancia gris (32-41) y la blanca (23-34); el calcio alcanza 140-200 UH y la grasa da valores negativos.",
+    "fuente": "Cap. 27. Neurorradiología y neuroimagen funcional"
+  },
+  {
+    "id": "ecc-011",
+    "tema": "EECC",
+    "subtema": "Neuroimagen",
+    "enunciado": "¿Qué complicación se ha descrito con el gadolinio en pacientes con insuficiencia renal grave?",
+    "opciones": [
+      "La fibrosis sistémica nefrogénica",
+      "La nefropatía por contraste yodado",
+      "La encefalopatía por depósito talámico",
+      "La reacción anafiláctica tardía"
+    ],
+    "correcta": 0,
+    "explicacion": "Los contrastes con gadolinio son seguros y sus reacciones adversas son infrecuentes y leves, pero se han descrito casos aislados de fibrosis sistémica nefrogénica en insuficiencia renal grave.",
+    "fuente": "Cap. 27. Neurorradiología y neuroimagen funcional"
+  },
+  {
+    "id": "ecc-012",
+    "tema": "EECC",
+    "subtema": "Neuroimagen",
+    "enunciado": "¿Qué técnica de RM mide la perfusión usando los protones de la sangre arterial marcados magnéticamente como trazador endógeno?",
+    "opciones": [
+      "El ASL (arterial spin labeling)",
+      "La perfusión DSC con gadolinio",
+      "La espectroscopia por RM",
+      "La secuencia FLAIR con supresión de líquido"
+    ],
+    "correcta": 0,
+    "explicacion": "El ASL prescinde del contraste exógeno y deriva el flujo sanguíneo cerebral; es sensible a pequeños cambios de flujo ligados a la actividad neuronal, por lo que puede sustituir al PET en algunos casos de epilepsia y neurodegeneración.",
+    "fuente": "Cap. 27. Neurorradiología y neuroimagen funcional"
+  },
+  {
+    "id": "ecc-013",
+    "tema": "EECC",
+    "subtema": "Neuroimagen",
+    "enunciado": "¿Qué metabolitos permite cuantificar la espectroscopia por resonancia magnética?",
+    "opciones": [
+      "N-acetil aspartato, colina, creatina, lactato y mioinositol",
+      "Glutamato, GABA y dopamina exclusivamente",
+      "Hierro, cobre y calcio tisulares",
+      "Amiloide y tau fosforilada"
+    ],
+    "correcta": 0,
+    "explicacion": "La espectroscopia detecta la presencia y concentración de NAA, colina, creatina, ácido láctico y mioinositol, cuyo patrón se compara con el gráfico espectral normal.",
+    "fuente": "Cap. 27. Neurorradiología y neuroimagen funcional"
+  },
+  {
+    "id": "ecc-014",
+    "tema": "EECC",
+    "subtema": "Neurosonología",
+    "enunciado": "¿Qué ángulo Doppler debe mantenerse para que las velocidades medidas sean fiables?",
+    "opciones": [
+      "Siempre menor de 60°",
+      "Siempre mayor de 60°",
+      "Exactamente 90°",
+      "El ángulo no influye en la medida"
+    ],
+    "correcta": 0,
+    "explicacion": "Las velocidades se miden en sección longitudinal colocando el ángulo Doppler lo más paralelo posible al flujo y siempre por debajo de 60°. Conviene además evitar zonas de turbulencia como el bulbo carotídeo.",
+    "fuente": "Cap. 29. Neurosonología"
+  },
+  {
+    "id": "ecc-015",
+    "tema": "EECC",
+    "subtema": "Neurosonología",
+    "enunciado": "¿Cuál es la principal desventaja de la ecografía en neurología?",
+    "opciones": [
+      "Es explorador-dependiente y exige entrenamiento para ser fiable",
+      "Requiere trasladar al paciente fuera de la unidad",
+      "Emplea radiación ionizante en exploraciones repetidas",
+      "Necesita contraste yodado para valorar el flujo"
+    ],
+    "correcta": 0,
+    "explicacion": "La ecografía es poco invasiva y se hace a la cabecera del paciente; su principal limitación es depender del explorador, lo que obliga a entrenamiento y a una sistemática constante.",
+    "fuente": "Cap. 29. Neurosonología"
+  },
+  {
+    "id": "ecc-016",
+    "tema": "EECC",
+    "subtema": "Neurosonología",
+    "enunciado": "Ante una oclusión carotídea, ¿qué hallazgo transcraneal indica compensación por vía leptomeníngea?",
+    "opciones": [
+      "Aumento de velocidades en cerebral anterior y posterior ipsilaterales",
+      "Descenso global de velocidades en todo el territorio anterior",
+      "Ausencia de señal en la arteria oftálmica",
+      "Inversión del flujo en la arteria vertebral ipsilateral"
+    ],
+    "correcta": 0,
+    "explicacion": "El aumento de velocidad en ACA y ACP ipsilaterales traduce compensación a través de las arterias leptomeníngeas; también puede verse hiperaflujo por la comunicante posterior.",
+    "fuente": "Cap. 29. Neurosonología"
+  },
+  {
+    "id": "ecc-017",
+    "tema": "EECC",
+    "subtema": "EEG",
+    "enunciado": "¿Qué duración típica tienen las ondas de origen epiléptico frente a las agudas fisiológicas?",
+    "opciones": [
+      "Entre 70 y 200 ms, mientras que las fisiológicas superan los 200 ms",
+      "Entre 200 y 500 ms, mientras que las fisiológicas duran menos de 70 ms",
+      "Menos de 20 ms, frente a los 100 ms de las fisiológicas",
+      "La duración es idéntica y solo cambia la amplitud"
+    ],
+    "correcta": 0,
+    "explicacion": "Las descargas epileptiformes duran entre 70 y 200 milisegundos y destacan sobre el trazado de fondo con morfología afilada; las ondas agudas fisiológicas suelen durar más de 200 milisegundos.",
+    "fuente": "Cap. 30. Electroencefalografía y video-EEG"
+  },
+  {
+    "id": "ecc-018",
+    "tema": "EECC",
+    "subtema": "EEG",
+    "enunciado": "En un EEG, ¿cuándo se registra una deflexión electronegativa, dirigida hacia arriba?",
+    "opciones": [
+      "Cuando el electrodo 1 de la derivación es más negativo que el electrodo 2",
+      "Cuando el electrodo 1 es más positivo que el electrodo 2",
+      "Cuando ambos electrodos tienen la misma carga",
+      "Siempre que el montaje sea referencial y no bipolar"
+    ],
+    "correcta": 0,
+    "explicacion": "La deflexión depende de la diferencia de carga entre los dos electrodos de la derivación: si el primero es más negativo, la onda va hacia arriba; si es más positivo, hacia abajo; y si son iguales, la línea es plana.",
+    "fuente": "Cap. 30. Electroencefalografía y video-EEG"
+  },
+  {
+    "id": "ecc-019",
+    "tema": "EECC",
+    "subtema": "EEG",
+    "enunciado": "¿Qué dos aspectos fundamentales definen si un EEG es patológico?",
+    "opciones": [
+      "La anormalidad de los ritmos de base y la presencia de descargas epileptiformes",
+      "La amplitud global del trazado y el número de artefactos",
+      "La reactividad a la apertura ocular y la edad del paciente",
+      "El tipo de montaje y la duración del registro"
+    ],
+    "correcta": 0,
+    "explicacion": "Se valora la anormalidad del trazado de base —velocidad, simetría y reactividad— y la presencia de actividad epileptiforme. Los artefactos se identifican por su falta de congruencia con un campo eléctrico fisiológico.",
+    "fuente": "Cap. 30. Electroencefalografía y video-EEG"
+  },
+  {
+    "id": "ecc-020",
+    "tema": "EECC",
+    "subtema": "EMG y conducción nerviosa",
+    "enunciado": "¿Qué potenciales espontáneos se describen clásicamente con el sonido de «lluvia sobre tejado»?",
+    "opciones": [
+      "Las fibrilaciones",
+      "Las descargas repetitivas complejas",
+      "Los potenciales de fasciculación",
+      "Las descargas miotónicas"
+    ],
+    "correcta": 0,
+    "explicacion": "Las fibrilaciones proceden de una sola fibra denervada que se despolariza espontáneamente: amplitud menor de 500 µV, morfología bi o trifásica con deflexión inicial positiva y frecuencia de 0,5-10 Hz. Las descargas repetitivas complejas suenan como una máquina en marcha.",
+    "fuente": "Cap. 31. Electromiografía y electroneurografía",
+    "teoria": "emg-patrones"
+  },
+  {
+    "id": "ecc-021",
+    "tema": "EECC",
+    "subtema": "EMG y conducción nerviosa",
+    "enunciado": "¿Qué trazado electromiográfico corresponde a un proceso miopático?",
+    "opciones": [
+      "Potenciales de pequeño tamaño con reclutamiento precoz",
+      "Potenciales de gran amplitud con reclutamiento reducido",
+      "Potenciales de amplitud normal con reclutamiento tardío",
+      "Ausencia total de actividad voluntaria con silencio en reposo"
+    ],
+    "correcta": 0,
+    "explicacion": "La miopatía reduce el número de fibras por unidad motora sin reducir el número de unidades, lo que da potenciales pequeños y un patrón interferencial con esfuerzos pequeños. El patrón neurógeno es el inverso: potenciales grandes con reclutamiento reducido.",
+    "fuente": "Cap. 31. Electromiografía y electroneurografía",
+    "teoria": "emg-patrones"
+  },
+  {
+    "id": "ecc-022",
+    "tema": "EECC",
+    "subtema": "EMG y conducción nerviosa",
+    "enunciado": "¿Qué permite determinar el estudio neurofisiológico además de localizar la lesión?",
+    "opciones": [
+      "Si el proceso es axonal o desmielinizante y su gravedad",
+      "La etiología concreta, sin necesidad de más pruebas",
+      "El pronóstico funcional a largo plazo con precisión",
+      "La presencia de anticuerpos antineuronales asociados"
+    ],
+    "correcta": 0,
+    "explicacion": "El estudio localiza la lesión (motoneurona, ganglio raquídeo, raíz, plexo, nervio, unión o músculo), clasifica la fibra afectada y define el proceso fisiopatológico —axonal o desmielinizante—, su curso, distribución y gravedad, pero siempre como complemento de la clínica.",
+    "fuente": "Cap. 31. Electromiografía y electroneurografía",
+    "teoria": "emg-patrones"
+  },
+  {
+    "id": "ecc-023",
+    "tema": "EECC",
+    "subtema": "Potenciales evocados y OCT",
+    "enunciado": "¿Qué modalidades sensitivas valoran los potenciales evocados somatosensoriales?",
+    "opciones": [
+      "Propioceptiva, vibratoria y táctil, por cordones posteriores",
+      "Térmica y algésica, por el haz espinotalámico lateral",
+      "Todas las modalidades somatosensoriales por igual",
+      "Solo la sensibilidad táctil superficial"
+    ],
+    "correcta": 0,
+    "explicacion": "Los PESS exploran la vía de los cordones posteriores, es decir la sensibilidad propioceptiva, vibratoria y táctil, con organización somatotópica —las fibras sacras y lumbares más mediales—. No valoran la sensibilidad térmica ni algésica.",
+    "fuente": "Cap. 32. Potenciales evocados y estimulación magnética transcraneal"
+  },
+  {
+    "id": "ecc-024",
+    "tema": "EECC",
+    "subtema": "Potenciales evocados y OCT",
+    "enunciado": "¿Por qué los potenciales evocados requieren promediación de la señal?",
+    "opciones": [
+      "Porque son de muy baja amplitud y quedan enmascarados por la actividad de fondo del EEG o el EMG",
+      "Porque el estímulo externo es demasiado breve para registrarse",
+      "Porque la frecuencia de muestreo de los equipos es limitada",
+      "Porque la respuesta cortical llega con latencia variable en cada sujeto"
+    ],
+    "correcta": 0,
+    "explicacion": "Los potenciales evocados registran la respuesta eléctrica a un estímulo sensorial, pero su amplitud es muy baja frente a la actividad de fondo del EEG o del EMG, así que se promedian muchas respuestas para extraer la señal útil.",
+    "fuente": "Cap. 32. Potenciales evocados y estimulación magnética transcraneal"
+  },
+  {
+    "id": "ecc-025",
+    "tema": "EECC",
+    "subtema": "Potenciales evocados y OCT",
+    "enunciado": "¿Qué se considera estimulación magnética transcraneal repetitiva de alta frecuencia?",
+    "opciones": [
+      "La que utiliza frecuencias por encima de 1 Hz",
+      "La que utiliza frecuencias de 1 Hz o inferiores",
+      "La que aplica estímulos únicos a máxima intensidad",
+      "La que supera los 100 Hz de frecuencia"
+    ],
+    "correcta": 0,
+    "explicacion": "La EMT repetitiva se considera rápida o de alta frecuencia por encima de 1 Hz y lenta a 1 Hz o menos. El estimulador es un condensador que descarga por una bobina y genera un campo magnético que induce un campo eléctrico cortical.",
+    "fuente": "Cap. 32. Potenciales evocados y estimulación magnética transcraneal"
+  },
+  {
+    "id": "ecc-026",
+    "tema": "EECC",
+    "subtema": "Potenciales evocados y OCT",
+    "enunciado": "¿Qué modalidad de OCT permite un campo más amplio y profundo, con buena visualización de la coroides?",
+    "opciones": [
+      "Swept-source OCT",
+      "Time-domain OCT",
+      "Spectral-domain OCT",
+      "Angio-OCT"
+    ],
+    "correcta": 0,
+    "explicacion": "La OCT swept-source alcanza 12 mm de campo y una buena visualización coroidea. La time-domain tenía peor resolución axial, la spectral-domain llega a 10 μm con visión 3D y la angio-OCT muestra los vasos retinianos y coroideos.",
+    "fuente": "Cap. 33. OCT y exploración del campo visual"
+  },
+  {
+    "id": "ecc-027",
+    "tema": "EECC",
+    "subtema": "Potenciales evocados y OCT",
+    "enunciado": "¿Qué parámetro del campo visual se altera sobre todo por defectos locales y no por una pérdida global de sensibilidad?",
+    "opciones": [
+      "La desviación estándar patrón (PSD)",
+      "La desviación media (DM)",
+      "El glaucoma hemifield test",
+      "La escala de grises extrapolada"
+    ],
+    "correcta": 0,
+    "explicacion": "La PSD compara la desviación patrón con la esperada para la edad y se altera por defectos localizados; la desviación media refleja defectos globales, como los producidos por una catarata.",
+    "fuente": "Cap. 33. OCT y exploración del campo visual"
+  },
+  {
+    "id": "ecc-028",
+    "tema": "EECC",
+    "subtema": "Potenciales evocados y OCT",
+    "enunciado": "¿Qué relación existe entre el volumen de drusas del nervio óptico medido por EDI-OCT y el pronóstico?",
+    "opciones": [
+      "A mayor volumen, mayor posibilidad de daño axonal y de afectación del campo visual",
+      "El volumen no se relaciona con el daño axonal, solo con la edad",
+      "A mayor volumen, menor riesgo de afectación campimétrica por efecto protector",
+      "La relación solo es válida en drusas calcificadas superficiales"
+    ],
+    "correcta": 0,
+    "explicacion": "La EDI-OCT cuantifica con precisión el tamaño de las drusas y permite seguirlas en el tiempo: cuanto mayor es su volumen, mayor es la probabilidad de daño axonal y de defecto campimétrico. Con los años las drusas se hacen superficiales y se calcifican.",
+    "fuente": "Cap. 33. OCT y exploración del campo visual"
+  }
+]

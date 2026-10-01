@@ -1,0 +1,186 @@
+[
+  {
+    "id": "otr-001",
+    "tema": "Otros",
+    "subtema": "Formación, gestión y ética",
+    "enunciado": "¿Desde qué año se aplica el programa formativo vigente de la especialidad de Neurología en España?",
+    "opciones": [
+      "Desde 2007",
+      "Desde 1996",
+      "Desde 2003",
+      "Desde 2016"
+    ],
+    "correcta": 0,
+    "explicacion": "El programa actual, creado por la Comisión Nacional de la Especialidad, se aplica desde 2007 y sustituyó al plan de 1996. Los programas formativos se regulan por la Ley 44/2003.",
+    "fuente": "Cap. 97. Programa y estructura de la formación en neurología"
+  },
+  {
+    "id": "otr-002",
+    "tema": "Otros",
+    "subtema": "Formación, gestión y ética",
+    "enunciado": "¿Quién elabora y quién verifica los planes formativos de las especialidades médicas?",
+    "opciones": [
+      "Los elabora la Comisión Nacional de cada especialidad y los verifica el Consejo Nacional de Especialidades",
+      "Los elabora el Ministerio de Sanidad y los verifica la sociedad científica correspondiente",
+      "Los elabora cada comunidad autónoma y los verifica el hospital docente",
+      "Los elabora la Unión Europea de Médicos Especialistas y los verifica el Ministerio"
+    ],
+    "correcta": 0,
+    "explicacion": "La Comisión Nacional de cada especialidad elabora el plan y el Consejo Nacional de Especialidades en Ciencias de la Salud lo verifica.",
+    "fuente": "Cap. 97. Programa y estructura de la formación en neurología"
+  },
+  {
+    "id": "otr-003",
+    "tema": "Otros",
+    "subtema": "Formación, gestión y ética",
+    "enunciado": "¿Qué enfoque recomienda el manual al plantear cambios organizativos en un servicio de neurología?",
+    "opciones": [
+      "Justificar el cambio, explicitar necesidades y resultados esperados, y apoyarse en experiencias consolidadas o pilotos",
+      "Solicitar directamente más plantilla como primera medida",
+      "Implantar el cambio completo y evaluarlo después",
+      "Delegar la propuesta en la dirección del centro"
+    ],
+    "correcta": 0,
+    "explicacion": "El manual aconseja argumentar bien la justificación, las necesidades y los resultados esperados, apoyándose en experiencias ya consolidadas o en una prueba piloto: resulta más convincente proponer una unidad de atención integral que pedir más neurólogos.",
+    "fuente": "Cap. 99. Aspectos básicos de gestión clínica y asistencial"
+  },
+  {
+    "id": "otr-004",
+    "tema": "Otros",
+    "subtema": "Formación, gestión y ética",
+    "enunciado": "¿Qué consecuencias puede tener acceder a una historia clínica sin justificación?",
+    "opciones": [
+      "Responsabilidad administrativa, disciplinaria y penal, con penas de hasta 5 años",
+      "Únicamente una sanción administrativa leve",
+      "Solo responsabilidad disciplinaria dentro del centro",
+      "Ninguna si el profesional trabaja en el mismo hospital"
+    ],
+    "correcta": 0,
+    "explicacion": "Está tipificado en el Código Penal como delito de descubrimiento y revelación de secretos, con penas de hasta 5 años además de multa, suspensión o inhabilitación. Solo pueden acceder los profesionales implicados en la asistencia al paciente.",
+    "fuente": "Cap. 100. Aspectos éticos y médico-legales"
+  },
+  {
+    "id": "otr-005",
+    "tema": "Otros",
+    "subtema": "Formación, gestión y ética",
+    "enunciado": "¿Qué datos de la historia clínica se consideran sensibles y merecen protección reforzada?",
+    "opciones": [
+      "Los datos de salud y antecedentes, junto a costumbres alimentarias, hábitos tóxicos y sexuales",
+      "Solo el diagnóstico principal y el tratamiento",
+      "Únicamente los datos de contacto del paciente",
+      "Solo los resultados de pruebas genéticas"
+    ],
+    "correcta": 0,
+    "explicacion": "Los datos de contacto del paciente y familiares, los datos de salud, los antecedentes y otros como costumbres alimentarias o hábitos tóxicos y sexuales son datos sensibles y solo pueden tratarse con determinadas garantías.",
+    "fuente": "Cap. 100. Aspectos éticos y médico-legales"
+  },
+  {
+    "id": "otr-006",
+    "tema": "Otros",
+    "subtema": "Escalas",
+    "enunciado": "¿Qué ítems integran la escala RACE y qué puntuación sugiere oclusión de gran vaso?",
+    "opciones": [
+      "Cinco ítems, con puntuación de 0 a 9; por encima de 4 hay alta sospecha",
+      "Tres ítems, con puntuación de 0 a 6; por encima de 3 hay alta sospecha",
+      "Siete ítems, con puntuación de 0 a 14; por encima de 7 hay alta sospecha",
+      "Cinco ítems, con puntuación de 0 a 5; cualquier punto sugiere oclusión"
+    ],
+    "correcta": 0,
+    "explicacion": "La RACE valora paresia facial, braquial y crural, desviación oculocefálica y afasia-agnosia-asomatognosia-anosognosia, con rango de 0 a 9; una puntuación mayor de 4 indica alta sospecha de oclusión de gran vaso.",
+    "fuente": "Cap. 101. Escalas de interés en neurología clínica",
+    "teoria": "escalas-neuro"
+  },
+  {
+    "id": "otr-007",
+    "tema": "Otros",
+    "subtema": "Escalas",
+    "enunciado": "¿Para qué sirve la escala ABCD2?",
+    "opciones": [
+      "Para estimar el riesgo de ictus en los días siguientes a un AIT",
+      "Para graduar la discapacidad tras un ictus establecido",
+      "Para predecir la oclusión de gran vaso en el medio extrahospitalario",
+      "Para medir la gravedad clínica de una hemorragia subaracnoidea"
+    ],
+    "correcta": 0,
+    "explicacion": "La ABCD2 estima el riesgo de ictus en los días posteriores a un ataque isquémico transitorio a partir de variables como la edad y la presión arterial. La discapacidad tras el ictus se gradúa con la escala de Rankin modificada.",
+    "fuente": "Cap. 101. Escalas de interés en neurología clínica",
+    "teoria": "escalas-neuro"
+  },
+  {
+    "id": "otr-008",
+    "tema": "Otros",
+    "subtema": "Escalas",
+    "enunciado": "¿Qué corresponde a una puntuación de 5 en la escala de Rankin modificada?",
+    "opciones": [
+      "Discapacidad grave",
+      "Discapacidad moderada",
+      "Discapacidad moderadamente grave",
+      "Fallecimiento"
+    ],
+    "correcta": 0,
+    "explicacion": "En la escala de Rankin modificada, 3 es discapacidad moderada, 4 moderadamente grave, 5 discapacidad grave y 6 fallecimiento.",
+    "fuente": "Cap. 101. Escalas de interés en neurología clínica",
+    "teoria": "escalas-neuro"
+  },
+  {
+    "id": "otr-009",
+    "tema": "Otros",
+    "subtema": "Escalas",
+    "enunciado": "¿Qué caracteriza a una escala en la práctica clínica?",
+    "opciones": [
+      "Que obtiene una puntuación ordinal que ordena de forma estandarizada la intensidad del fenómeno medido",
+      "Que mide con precisión métrica la magnitud absoluta de un fenómeno",
+      "Que sustituye a la exploración clínica en el seguimiento",
+      "Que solo es válida si ha sido validada en más de diez idiomas"
+    ],
+    "correcta": 0,
+    "explicacion": "Se llama escala a cualquier medición clínica que dé una puntuación ordinal y permita un orden estandarizado según la intensidad del fenómeno. Nacen de la necesidad de objetivar, cuantificar y universalizar, y permiten comparar y seguir al paciente.",
+    "fuente": "Cap. 101. Escalas de interés en neurología clínica",
+    "teoria": "escalas-neuro"
+  },
+  {
+    "id": "otr-010",
+    "tema": "Otros",
+    "subtema": "Investigación",
+    "enunciado": "¿Qué proyectos deben pasar por un Comité de Ética de la Investigación con medicamentos (CEIm)?",
+    "opciones": [
+      "Cualquier proyecto, incluidos casos clínicos, series, trabajos fin de grado o máster y tesis doctorales",
+      "Solo los ensayos clínicos con medicamentos",
+      "Solo los estudios con financiación pública",
+      "Solo los estudios multicéntricos internacionales"
+    ],
+    "correcta": 0,
+    "explicacion": "Todo proyecto de investigación pasa por un CEIm, que valora la protección de datos, los derechos, la seguridad y el bienestar de los participantes, la relevancia científica y la idoneidad de los procedimientos.",
+    "fuente": "Cap. 102. Investigación y ensayos clínicos en neurología"
+  },
+  {
+    "id": "otr-011",
+    "tema": "Otros",
+    "subtema": "Investigación",
+    "enunciado": "¿Dónde deben recogerse las aprobaciones del CEIm?",
+    "opciones": [
+      "En comunicaciones a congresos, publicaciones y como anexo de tesis o memorias de financiación",
+      "Únicamente en el archivo interno del servicio",
+      "Solo en las publicaciones en revistas indexadas",
+      "Solo cuando el estudio incluye menores"
+    ],
+    "correcta": 0,
+    "explicacion": "Las aprobaciones deben constar en las comunicaciones a congresos, indicarse en las publicaciones y anexarse en las tesis doctorales o en las memorias presentadas para obtener financiación.",
+    "fuente": "Cap. 102. Investigación y ensayos clínicos en neurología"
+  },
+  {
+    "id": "otr-012",
+    "tema": "Otros",
+    "subtema": "Investigación",
+    "enunciado": "¿Qué documento dedicó un capítulo a la realidad de la investigación neurológica en España en 2016?",
+    "opciones": [
+      "El PENTIEN-2",
+      "El documento de consenso de la SEN de 2010",
+      "La Ley 44/2003 de ordenación de las profesiones sanitarias",
+      "El programa formativo de la especialidad"
+    ],
+    "correcta": 0,
+    "explicacion": "La II Edición del Plan Estratégico Nacional para el tratamiento integral de las Enfermedades Neurológicas (PENTIEN-2), de 2016, dedicó un capítulo a la investigación, tras el documento de consenso de la SEN de 2010.",
+    "fuente": "Cap. 102. Investigación y ensayos clínicos en neurología"
+  }
+]

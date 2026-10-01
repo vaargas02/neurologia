@@ -1,0 +1,187 @@
+[
+  {
+    "id": "int-001",
+    "tema": "Introducción",
+    "subtema": "Método clínico y exploración",
+    "enunciado": "Ante una paresia de la que se sospecha origen funcional, ¿qué maniobra recoge el manual dentro de la exploración neurológica?",
+    "opciones": ["Signo de Hoover", "Signo de Tinel", "Signo de Bragard", "Test del empujón"],
+    "correcta": 0,
+    "explicacion": "El manual reserva el signo de Hoover para las paresias funcionales. Tinel se usa en atrapamientos nerviosos, Bragard en compromiso radicular y el test del empujón forma parte de la exploración de la marcha y el equilibrio.",
+    "fuente": "Cap. 2. El método clínico en neurología"
+  },
+  {
+    "id": "int-002",
+    "tema": "Introducción",
+    "subtema": "Método clínico y exploración",
+    "enunciado": "¿Qué pareja de signos se explora cuando se sospecha compromiso radicular?",
+    "opciones": ["Lasègue y Bragard", "Tinel y Phalen", "Romberg y tándem", "Decorticación y descerebración"],
+    "correcta": 0,
+    "explicacion": "Lasègue y Bragard son los signos de compromiso radicular. Tinel y Phalen exploran atrapamiento nervioso, Romberg y la marcha en tándem el equilibrio, y las posturas de decorticación y descerebración se valoran en el paciente comatoso.",
+    "fuente": "Cap. 2. El método clínico en neurología"
+  },
+  {
+    "id": "int-003",
+    "tema": "Introducción",
+    "subtema": "Método clínico y exploración",
+    "enunciado": "Según el capítulo del método clínico, ¿qué papel se atribuye a la inteligencia artificial en la práctica neurológica?",
+    "opciones": [
+      "Se potencia con el método clínico, pero el juicio clínico sigue siendo responsabilidad del neurólogo",
+      "Sustituye progresivamente el razonamiento clínico en los casos complejos",
+      "Resulta poco útil porque el razonamiento neurológico no es formalizable",
+      "Su uso queda restringido a la interpretación de pruebas de imagen"
+    ],
+    "correcta": 0,
+    "explicacion": "El método clínico y las máquinas de aprendizaje no son excluyentes sino que se potencian, pero si reciben datos erróneos sus respuestas serán equívocas; la elaboración y expresión del juicio clínico sigue siendo competencia del neurólogo.",
+    "fuente": "Cap. 2. El método clínico en neurología"
+  },
+  {
+    "id": "int-004",
+    "tema": "Introducción",
+    "subtema": "Neuroanatomía y biología celular",
+    "enunciado": "¿Qué caracteriza a las sinapsis eléctricas frente a las químicas?",
+    "opciones": [
+      "Permiten el paso directo de iones y una comunicación rápida y bidireccional",
+      "Son el tipo de sinapsis más frecuente en el sistema nervioso adulto",
+      "Necesitan la liberación vesicular de neurotransmisor para propagar la señal",
+      "Transmiten la señal en un solo sentido con un retardo sináptico mayor"
+    ],
+    "correcta": 0,
+    "explicacion": "En la sinapsis eléctrica la señalización se hace a través de canales iónicos que dejan pasar iones y moléculas pequeñas entre células, lo que da una comunicación rápida y bidireccional. Son menos comunes que las químicas, que son las que emplean neurotransmisor.",
+    "fuente": "Cap. 3. Biología celular y anatomía del SNC"
+  },
+  {
+    "id": "int-005",
+    "tema": "Introducción",
+    "subtema": "Neuroanatomía y biología celular",
+    "enunciado": "¿Qué iones, al entrar en la neurona, despolarizan la membrana e inician el potencial de acción?",
+    "opciones": ["Sodio y, en algunos casos, calcio", "Potasio y cloro", "Cloro y bicarbonato", "Potasio y magnesio"],
+    "correcta": 0,
+    "explicacion": "La entrada de Na+, y en algunos casos de Ca2+, despolariza la membrana e inicia el potencial de acción. El potasio y el cloro participan en la repolarización y en la inhibición, no en el inicio de la despolarización.",
+    "fuente": "Cap. 3. Biología celular y anatomía del SNC"
+  },
+  {
+    "id": "int-006",
+    "tema": "Introducción",
+    "subtema": "Neuroanatomía y biología celular",
+    "enunciado": "¿Cómo se denominan los núcleos en los que se organiza la sustancia gris de la médula espinal?",
+    "opciones": ["Láminas de Rexed", "Núcleos intralaminares", "Cordones anterolaterales", "Columnas de Clarke"],
+    "correcta": 0,
+    "explicacion": "La sustancia gris medular se dispone de forma parcialmente laminada en las láminas de Rexed, rodeada por los tractos ascendentes y descendentes de la sustancia blanca, agrupados en cordones anterolaterales y posteriores.",
+    "fuente": "Cap. 3. Biología celular y anatomía del SNC"
+  },
+  {
+    "id": "int-007",
+    "tema": "Introducción",
+    "subtema": "Neuroanatomía y biología celular",
+    "enunciado": "¿Qué estructura talámica separa los grupos nucleares anteriores, dorsomediales y ventrolaterales?",
+    "opciones": ["La lámina medular interna", "El núcleo reticular del tálamo", "La cápsula interna", "Los cuerpos geniculados"],
+    "correcta": 0,
+    "explicacion": "La lámina medular interna es un tracto de sustancia blanca que atraviesa el tálamo y se bifurca anteriormente, definiendo los grupos anterior, dorsomedial, ventrolateral y posterior; en su interior quedan aislados los núcleos intralaminares.",
+    "fuente": "Cap. 3. Biología celular y anatomía del SNC"
+  },
+  {
+    "id": "int-008",
+    "tema": "Introducción",
+    "subtema": "Genética y epidemiología",
+    "enunciado": "¿Qué técnica genética está indicada cuando se busca una alteración concreta en un gen conocido, como SMN1 en la atrofia muscular espinal?",
+    "opciones": [
+      "Secuenciación de un único gen",
+      "Microarray cromosómico",
+      "Cariotipo convencional",
+      "Secuenciación de nueva generación en panel amplio"
+    ],
+    "correcta": 0,
+    "explicacion": "La secuenciación de un único gen se reserva para enfermedades con una asociación clara entre fenotipo y genotipo, como SMN1 en la AME o DMD en Duchenne. El microarray busca alteraciones del número de copias a lo largo del genoma, no mutaciones puntuales de un gen.",
+    "fuente": "Cap. 4. Genes, inmunidad, desarrollo y envejecimiento"
+  },
+  {
+    "id": "int-009",
+    "tema": "Introducción",
+    "subtema": "Genética y epidemiología",
+    "enunciado": "¿Qué ventaja del microarray cromosómico frente al cariotipo tradicional señala el manual?",
+    "opciones": [
+      "Detecta microdeleciones y microduplicaciones con mayor eficiencia diagnóstica",
+      "Identifica expansiones de tripletes de forma directa",
+      "Cuantifica el nivel de expresión de los genes implicados",
+      "Detecta mutaciones puntuales en genes de herencia recesiva"
+    ],
+    "correcta": 0,
+    "explicacion": "El microarray detecta tanto aneuploidías como alteraciones submicroscópicas del número de copias (microdeleciones y microduplicaciones) y tiene una eficiencia diagnóstica mayor que el cariotipo. Las expansiones de trinucleótidos requieren técnicas dirigidas.",
+    "fuente": "Cap. 4. Genes, inmunidad, desarrollo y envejecimiento"
+  },
+  {
+    "id": "int-010",
+    "tema": "Introducción",
+    "subtema": "Genética y epidemiología",
+    "enunciado": "En la enfermedad de Parkinson, ¿qué genes se asociaron a las formas autosómicas dominantes?",
+    "opciones": ["SNCA y LRRK2", "PRKN y PINK1", "PINK1 y DJ-1", "PRKN y DJ-1"],
+    "correcta": 0,
+    "explicacion": "El estudio de las formas autosómicas dominantes llevó a identificar α-sinucleína (SNCA, 4q22.1) y LRRK2 (12q12). Parkina (PRKN), PINK1 y DJ-1 corresponden a las formas recesivas.",
+    "fuente": "Cap. 4. Genes, inmunidad, desarrollo y envejecimiento"
+  },
+  {
+    "id": "int-011",
+    "tema": "Introducción",
+    "subtema": "Genética y epidemiología",
+    "enunciado": "¿En qué diseño de estudio se emplea la odds ratio como estimador del riesgo relativo?",
+    "opciones": [
+      "Casos y controles, donde no es posible calcular incidencias",
+      "Cohortes prospectivas, donde se sigue a expuestos y no expuestos",
+      "Ensayos clínicos aleatorizados con grupo control",
+      "Estudios ecológicos con datos agregados de población"
+    ],
+    "correcta": 0,
+    "explicacion": "La OR se utiliza en los estudios de casos y controles precisamente porque, al partir de individuos enfermos, no permiten calcular incidencias; es un buen estimador del riesgo relativo. En las cohortes sí se calcula directamente el RR.",
+    "fuente": "Cap. 5. Neuroepidemiología y diseño de estudios"
+  },
+  {
+    "id": "int-012",
+    "tema": "Introducción",
+    "subtema": "Neurofarmacología",
+    "enunciado": "¿A partir de qué sustratos y por qué enzima se sintetiza la acetilcolina?",
+    "opciones": [
+      "De colina y acetil-CoA, por la colinacetiltransferasa",
+      "De colina y glutamato, por la acetilcolinesterasa",
+      "De tirosina y acetil-CoA, por la tirosina hidroxilasa",
+      "De colina y fosfatidilserina, por la colinesterasa plasmática"
+    ],
+    "correcta": 0,
+    "explicacion": "La ACh se sintetiza a partir de colina y de acetil-CoA gracias a la colinacetiltransferasa (ChAT). La acetilcolinesterasa no sintetiza sino que hidroliza la ACh para terminar su efecto.",
+    "fuente": "Cap. 6. Neurofarmacología"
+  },
+  {
+    "id": "int-013",
+    "tema": "Introducción",
+    "subtema": "Neurofarmacología",
+    "enunciado": "¿Qué caracteriza a los receptores nicotínicos de acetilcolina?",
+    "opciones": [
+      "Son ionotrópicos y median una respuesta rápida, como la contracción muscular",
+      "Son metabotrópicos y actúan mediante segundos mensajeros",
+      "Se localizan exclusivamente en las fibras parasimpáticas postganglionares",
+      "Su activación produce una respuesta lenta y sostenida en la neurona"
+    ],
+    "correcta": 0,
+    "explicacion": "Los receptores nicotínicos están en la unión neuromuscular y en el SNC y son ionotrópicos: su activación genera una respuesta rápida que permite, por ejemplo, la contracción muscular. Los muscarínicos son los que acoplan a proteínas G.",
+    "fuente": "Cap. 6. Neurofarmacología"
+  },
+  {
+    "id": "int-014",
+    "tema": "Introducción",
+    "subtema": "Neurofarmacología",
+    "enunciado": "¿Qué familia de receptores serotoninérgicos se relaciona con el efecto alucinógeno y psicodélico?",
+    "opciones": ["5-HT2A", "5-HT1A", "5-HT3", "5-HT4"],
+    "correcta": 0,
+    "explicacion": "La familia 5-HT2A, en corteza prefrontal e hipocampo, regula la cognición y el procesamiento de estímulos sensitivos, y su activación puede inducir alucinaciones. La 5-HT1A se asocia a efectos ansiolíticos y antidepresivos.",
+    "fuente": "Cap. 6. Neurofarmacología"
+  },
+  {
+    "id": "int-015",
+    "tema": "Introducción",
+    "subtema": "Neurofarmacología",
+    "enunciado": "¿Qué fármaco actúa sobre el receptor de la sustancia P?",
+    "opciones": ["Aprepitant", "Ondansetrón", "Metoclopramida", "Domperidona"],
+    "correcta": 0,
+    "explicacion": "La sustancia P interviene en la transmisión del dolor y la inflamación, y el aprepitant actúa sobre su receptor en la náusea y el vómito inducidos por quimioterapia. El ondansetrón actúa sobre receptores 5-HT3.",
+    "fuente": "Cap. 6. Neurofarmacología"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "des-001",
+    "tema": "Desmielinizantes",
+    "subtema": "Esclerosis múltiple",
+    "enunciado": "¿Qué lugar ocupa la esclerosis múltiple entre las causas de discapacidad?",
+    "opciones": [
+      "Es la principal causa de discapacidad no traumática en el adulto joven",
+      "Es la principal causa de discapacidad en mayores de 65 años",
+      "Es la segunda causa de discapacidad tras el ictus a cualquier edad",
+      "Es una causa poco relevante de discapacidad mantenida"
+    ],
+    "correcta": 0,
+    "explicacion": "La EM afecta sobre todo a personas jóvenes y es la primera causa de discapacidad no traumática en el adulto joven, con prevalencia creciente en los últimos años.",
+    "fuente": "Cap. 71. Esclerosis múltiple"
+  },
+  {
+    "id": "des-002",
+    "tema": "Desmielinizantes",
+    "subtema": "Esclerosis múltiple",
+    "enunciado": "¿Cuáles son las formas típicas de presentación de la esclerosis múltiple remitente-recurrente?",
+    "opciones": [
+      "Neuritis óptica, mielitis transversa incompleta o síndrome troncoencefálico",
+      "Mielitis transversa longitudinalmente extensa o síndrome del área postrema",
+      "Deterioro cognitivo progresivo o crisis epilépticas",
+      "Neuritis óptica bilateral simultánea con papiledema"
+    ],
+    "correcta": 0,
+    "explicacion": "La EM debuta típicamente con neuritis óptica, mielitis transversa incompleta o un síndrome troncoencefálico. El trastorno cognitivo o las crisis son presentaciones raras. La mielitis longitudinalmente extensa es más propia del espectro NMO.",
+    "fuente": "Cap. 71. Esclerosis múltiple",
+    "teoria": "neuritis-optica-dif"
+  },
+  {
+    "id": "des-003",
+    "tema": "Desmielinizantes",
+    "subtema": "Esclerosis múltiple",
+    "enunciado": "¿En qué proporción de pacientes con esclerosis múltiple la progresión es la primera manifestación de la enfermedad?",
+    "opciones": [
+      "En un 10-15 %",
+      "En un 40-50 %",
+      "En menos del 2 %",
+      "En más del 60 %"
+    ],
+    "correcta": 0,
+    "explicacion": "La EM progresiva, con acúmulo de discapacidad independiente de brotes, es la forma de inicio en aproximadamente el 10-15 % de los pacientes.",
+    "fuente": "Cap. 71. Esclerosis múltiple"
+  },
+  {
+    "id": "des-004",
+    "tema": "Desmielinizantes",
+    "subtema": "Esclerosis múltiple",
+    "enunciado": "¿Qué criterios diagnósticos fueron los primeros en describir explícitamente el papel de la RM en la esclerosis múltiple?",
+    "opciones": [
+      "Los de McDonald de 2001",
+      "Los de Poser de 1983",
+      "Los de McDonald de 2017",
+      "Los de Barkhof-Tintoré de 2005"
+    ],
+    "correcta": 0,
+    "explicacion": "Los criterios de McDonald de 2001 introdujeron explícitamente la RM en el diagnóstico; sus revisiones de 2005, 2010 y 2017 fueron modificando las condiciones de diseminación en espacio y tiempo para ganar sensibilidad sin perder especificidad.",
+    "fuente": "Cap. 71. Esclerosis múltiple"
+  },
+  {
+    "id": "des-005",
+    "tema": "Desmielinizantes",
+    "subtema": "Esclerosis múltiple",
+    "enunciado": "¿Cómo suele ser la recuperación de los brotes a lo largo de la evolución de la esclerosis múltiple?",
+    "opciones": [
+      "Completa con más frecuencia en fases iniciales e incompleta en fases avanzadas",
+      "Siempre completa mientras no se alcance la fase progresiva",
+      "Incompleta desde el primer brote en la mayoría de pacientes",
+      "Independiente del momento evolutivo de la enfermedad"
+    ],
+    "correcta": 0,
+    "explicacion": "La recuperación de los brotes tiende a ser completa en las fases iniciales y con más frecuencia incompleta conforme avanza la enfermedad.",
+    "fuente": "Cap. 71. Esclerosis múltiple"
+  },
+  {
+    "id": "des-006",
+    "tema": "Desmielinizantes",
+    "subtema": "Espectro neuromielitis óptica",
+    "enunciado": "¿Qué cuadro clínico señaló al área postrema como diana lesional en la NMOSD?",
+    "opciones": [
+      "El hipo incoercible o los vómitos prolongados más de 72 horas",
+      "La narcolepsia sintomática con hipersomnia diurna",
+      "El síndrome de secreción inadecuada de ADH",
+      "La neuritis óptica bilateral simultánea"
+    ],
+    "correcta": 0,
+    "explicacion": "El síndrome del área postrema —hipo incoercible o vómitos de más de 72 horas— se describió en pacientes seropositivos para IgG-AQP4 y amplió el espectro clínico más allá del nervio óptico y la médula.",
+    "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica",
+    "teoria": "neuritis-optica-dif"
+  },
+  {
+    "id": "des-007",
+    "tema": "Desmielinizantes",
+    "subtema": "Espectro neuromielitis óptica",
+    "enunciado": "¿Qué patrón de neuritis óptica es característico del MOGAD?",
+    "opciones": [
+      "Bilateral simultánea, con papiledema en el fondo de ojo y buena recuperación",
+      "Unilateral con fondo de ojo normal y buena recuperación",
+      "Unilateral o bilateral secuencial con escasa recuperación",
+      "Bilateral simultánea con recuperación escasa y atrofia precoz"
+    ],
+    "correcta": 0,
+    "explicacion": "En MOGAD la neuritis suele ser bilateral simultánea, con papiledema, afectación intraorbitaria extensa, captación de la vaina del nervio y la grasa orbitaria, y buena recuperación. En NMOSD la pérdida visual es grave, con escasa recuperación y lesión quiasmática extensa.",
+    "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica",
+    "teoria": "neuritis-optica-dif"
+  },
+  {
+    "id": "des-008",
+    "tema": "Desmielinizantes",
+    "subtema": "Espectro neuromielitis óptica",
+    "enunciado": "¿Por qué son más exigentes los criterios de NMOSD en los pacientes seronegativos?",
+    "opciones": [
+      "Requieren al menos dos episodios nucleares con diseminación en espacio y hallazgos de imagen adicionales",
+      "Requieren biopsia de nervio óptico o médula",
+      "Exigen la presencia de bandas oligoclonales en LCR",
+      "Obligan a repetir la determinación de IgG-AQP4 cada seis meses"
+    ],
+    "correcta": 0,
+    "explicacion": "Sin anticuerpos se exigen al menos dos episodios nucleares con diseminación en el espacio, siendo uno de ellos neuritis óptica, mielitis longitudinalmente extensa o síndrome del área postrema, además de características de imagen adicionales.",
+    "fuente": "Cap. 72. Enfermedades del espectro de la neuromielitis óptica",
+    "teoria": "neuritis-optica-dif"
+  },
+  {
+    "id": "des-009",
+    "tema": "Desmielinizantes",
+    "subtema": "Vasculitis y otras desmielinizantes",
+    "enunciado": "¿En qué se apoya el diagnóstico de la vasculitis primaria del sistema nervioso central?",
+    "opciones": [
+      "En la estenosis arterial alternante en angiografía o la inflamación transmural en la biopsia",
+      "En la positividad de ANCA con clínica neurológica compatible",
+      "En el realce leptomeníngeo difuso en la RM con gadolinio",
+      "En la pleocitosis linfocitaria con bandas oligoclonales"
+    ],
+    "correcta": 0,
+    "explicacion": "El diagnóstico se apoya en la estenosis arterial alternante en la angiografía cerebral y/o en la inflamación vascular transmural en la biopsia, siempre tras excluir el síndrome de vasoconstricción cerebral reversible y las vasculitis secundarias.",
+    "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+  },
+  {
+    "id": "des-010",
+    "tema": "Desmielinizantes",
+    "subtema": "Vasculitis y otras desmielinizantes",
+    "enunciado": "¿Cuál es el tratamiento de inducción recomendado en la vasculitis primaria del SNC?",
+    "opciones": [
+      "Corticoides orales o intravenosos",
+      "Plasmaféresis seguida de rituximab",
+      "Inmunoglobulinas intravenosas",
+      "Anticoagulación con heparina de bajo peso molecular"
+    ],
+    "correcta": 0,
+    "explicacion": "La inducción se realiza con corticoides orales o intravenosos. La PACNS es rara y puede manifestarse con cefalea, focalidad, encefalopatía, deterioro cognitivo o crisis.",
+    "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+  },
+  {
+    "id": "des-011",
+    "tema": "Desmielinizantes",
+    "subtema": "Vasculitis y otras desmielinizantes",
+    "enunciado": "¿Qué lesiones de RM son características del síndrome de Susac?",
+    "opciones": [
+      "Lesiones «en bola de nieve» en el cuerpo calloso, que dejan agujeros negros crónicos",
+      "Lesiones periventriculares perpendiculares al eje del ventrículo",
+      "Lesiones medulares longitudinalmente extensas",
+      "Realce en anillo con edema perilesional en sustancia blanca profunda"
+    ],
+    "correcta": 0,
+    "explicacion": "El Susac produce lesiones en bola de nieve en el cuerpo calloso que cronifican como agujeros negros; hay realce leptomeníngeo hasta en el 50 % de los casos activos y, en fases precoces, lesiones isquémicas que restringen en difusión.",
+    "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+  },
+  {
+    "id": "des-012",
+    "tema": "Desmielinizantes",
+    "subtema": "Vasculitis y otras desmielinizantes",
+    "enunciado": "¿Qué hallazgos de LCR son frecuentes en el síndrome de Susac?",
+    "opciones": [
+      "Proteinorraquia leve en el 80 % y pleocitosis linfocitaria en el 50 %, siendo raras las bandas oligoclonales",
+      "Hipoglucorraquia marcada con predominio de neutrófilos",
+      "Bandas oligoclonales positivas en la mayoría de los pacientes",
+      "LCR siempre normal, lo que descarta el diagnóstico si está alterado"
+    ],
+    "correcta": 0,
+    "explicacion": "En el Susac hay proteinorraquia leve en el 80 % y pleocitosis linfocítica en el 50 %, aunque el LCR puede ser normal; las bandas oligoclonales son infrecuentes, lo que ayuda a separarlo de la esclerosis múltiple.",
+    "fuente": "Cap. 73. Otras enfermedades desmielinizantes y vasculitis"
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "id": "vas-001",
+    "tema": "Vascular",
+    "subtema": "Ictus isquémico y AIT",
+    "enunciado": "¿Qué síndrome combina paresia del III par ipsilateral con hemiparesia contralateral?",
+    "opciones": [
+      "Weber",
+      "Benedikt",
+      "Nothnagel",
+      "Marie Foix"
+    ],
+    "correcta": 0,
+    "explicacion": "El síndrome de Weber localiza en el mesencéfalo medial o pedúnculo cerebral, irrigado por arterias penetrantes de la cerebral posterior. Benedikt añade temblor o hemicorea contralateral por afectación del núcleo rojo.",
+    "fuente": "Cap. 48. Isquemia cerebral aguda (ictus y AIT)",
+    "teoria": "sindromes-tronco"
+  },
+  {
+    "id": "vas-002",
+    "tema": "Vascular",
+    "subtema": "Ictus isquémico y AIT",
+    "enunciado": "¿Qué síndrome asocia paresia ipsilateral del III par con dismetría y ataxia contralateral por lesión del pedúnculo cerebeloso superior?",
+    "opciones": [
+      "Nothnagel",
+      "Weber",
+      "Foville",
+      "Benedikt"
+    ],
+    "correcta": 0,
+    "explicacion": "El síndrome de Nothnagel se debe a lesión del pedúnculo cerebeloso superior por ramas penetrantes profundas de la cerebral posterior, y suma la paresia del III par a la dismetría y ataxia contralaterales.",
+    "fuente": "Cap. 48. Isquemia cerebral aguda (ictus y AIT)",
+    "teoria": "sindromes-tronco"
+  },
+  {
+    "id": "vas-003",
+    "tema": "Vascular",
+    "subtema": "Ictus isquémico y AIT",
+    "enunciado": "En el síndrome de Marie Foix, por lesión de la protuberancia lateral, ¿qué se encuentra en el lado contralateral?",
+    "opciones": [
+      "Hemiparesia e hipoestesia termoalgésica",
+      "Ataxia de extremidades y parálisis facial",
+      "Hipoacusia, vértigo y nistagmo",
+      "Paresia del III par y temblor"
+    ],
+    "correcta": 0,
+    "explicacion": "El síndrome de Marie Foix, por ramas perforantes de la basilar, produce ipsilateralmente ataxia de extremidades, parálisis facial, hipoacusia, vértigo y nistagmo, y contralateralmente hemiparesia e hipoestesia termoalgésica.",
+    "fuente": "Cap. 48. Isquemia cerebral aguda (ictus y AIT)",
+    "teoria": "sindromes-tronco"
+  },
+  {
+    "id": "vas-004",
+    "tema": "Vascular",
+    "subtema": "Ictus isquémico y AIT",
+    "enunciado": "¿En qué pacientes se recomienda realizar TC de perfusión en la fase aguda del ictus isquémico?",
+    "opciones": [
+      "En los candidatos a trombólisis intravenosa con más de 4,5 horas de evolución",
+      "En todos los pacientes con código ictus, independientemente del tiempo",
+      "Solo en los pacientes con oclusión de gran vaso confirmada",
+      "Únicamente si la RM no está disponible en menos de una hora"
+    ],
+    "correcta": 0,
+    "explicacion": "La perfusión se recomienda en candidatos a trombólisis con más de 4,5 horas de evolución y puede evitarse por debajo de ese tiempo. Además ayuda en el diagnóstico diferencial con los procesos que simulan un ictus.",
+    "fuente": "Cap. 48. Isquemia cerebral aguda (ictus y AIT)"
+  },
+  {
+    "id": "vas-005",
+    "tema": "Vascular",
+    "subtema": "Ictus isquémico y AIT",
+    "enunciado": "¿En qué situaciones es preferible la RM a la TC en la valoración del ictus agudo?",
+    "opciones": [
+      "En embarazadas, alergia a contrastes yodados o insuficiencia renal grave",
+      "En todos los pacientes, por su mayor disponibilidad",
+      "Solo en los ictus de circulación anterior",
+      "Cuando el paciente está agitado y no colabora"
+    ],
+    "correcta": 0,
+    "explicacion": "La RM tiene mayor sensibilidad y especificidad para la lesión isquémica y se prefiere en embarazo, alergia al contraste yodado o insuficiencia renal grave, pero su baja accesibilidad la hace poco usada en fase aguda.",
+    "fuente": "Cap. 48. Isquemia cerebral aguda (ictus y AIT)"
+  },
+  {
+    "id": "vas-006",
+    "tema": "Vascular",
+    "subtema": "Ictus isquémico y AIT",
+    "enunciado": "En un ictus cardioembólico con NIHSS ≥16, ¿cuándo se plantea iniciar la anticoagulación?",
+    "opciones": [
+      "A los 12-14 días, tras excluir transformación hemorrágica en las 24 horas previas",
+      "En las primeras 24 horas siempre que la TC sea normal",
+      "A las 48 horas, independientemente del tamaño del infarto",
+      "Nunca: estos pacientes solo reciben antiagregación"
+    ],
+    "correcta": 0,
+    "explicacion": "El inicio se retrasa según la gravedad del déficit, hasta los 12-14 días en los NIHSS ≥16, siempre tras descartar transformación hemorrágica en las 24 horas previas. Si no puede anticoagularse en 48 horas, se antiagrega con AAS mientras tanto.",
+    "fuente": "Cap. 48. Isquemia cerebral aguda (ictus y AIT)"
+  },
+  {
+    "id": "vas-007",
+    "tema": "Vascular",
+    "subtema": "Ictus isquémico y AIT",
+    "enunciado": "¿En qué situaciones se recomienda iniciar o reiniciar precozmente la anticoagulación pese al ictus?",
+    "opciones": [
+      "Trombo intracardíaco en ventrículo izquierdo o asociado a válvula, y portadores de válvula mecánica",
+      "Fibrilación auricular paroxística de reciente diagnóstico",
+      "Foramen oval permeable con aneurisma del septo",
+      "Estenosis carotídea sintomática mayor del 70 %"
+    ],
+    "correcta": 0,
+    "explicacion": "El riesgo de recurrencia es tan alto en el trombo ventricular izquierdo, el trombo sobre válvula mecánica o nativa y en los portadores de válvula mecánica que se recomienda anticoagular precozmente.",
+    "fuente": "Cap. 48. Isquemia cerebral aguda (ictus y AIT)"
+  },
+  {
+    "id": "vas-008",
+    "tema": "Vascular",
+    "subtema": "Hemorragia intraparenquimatosa",
+    "enunciado": "¿Qué proporción de todos los ictus corresponde a la hemorragia intraparenquimatosa espontánea?",
+    "opciones": [
+      "Entre el 10 y el 30 %",
+      "Menos del 5 %",
+      "Alrededor del 50 %",
+      "Entre el 40 y el 60 %"
+    ],
+    "correcta": 0,
+    "explicacion": "La HIP supone entre el 10 y el 30 % de los ictus y se define como el daño cerebral atribuible a la extravasación aguda de sangre en el parénquima por rotura de un vaso.",
+    "fuente": "Cap. 49. Hemorragia intraparenquimatosa espontánea",
+    "teoria": "hip-clasificacion"
+  },
+  {
+    "id": "vas-009",
+    "tema": "Vascular",
+    "subtema": "Hemorragia intraparenquimatosa",
+    "enunciado": "¿Por qué aparece cefalea en la hemorragia intraparenquimatosa, presente en la mitad de los pacientes?",
+    "opciones": [
+      "Por afectación de las meninges y de los vasos de la piamadre",
+      "Por estimulación directa de las terminaciones nociceptivas del parénquima",
+      "Por isquemia del tálamo sensitivo",
+      "Por irritación directa del sistema reticular"
+    ],
+    "correcta": 0,
+    "explicacion": "El cerebro carece de terminaciones para el dolor, así que la cefalea se debe a la afectación meníngea y de los vasos piales; es más característica de hematomas lobares, cerebelosos y de gran volumen.",
+    "fuente": "Cap. 49. Hemorragia intraparenquimatosa espontánea",
+    "teoria": "hip-clasificacion"
+  },
+  {
+    "id": "vas-010",
+    "tema": "Vascular",
+    "subtema": "Hemorragia intraparenquimatosa",
+    "enunciado": "Un tercio de los pacientes con hemorragia intraparenquimatosa se deteriora. ¿Qué lo explica en cada momento?",
+    "opciones": [
+      "La expansión del hematoma en las primeras horas y el edema perilesional en los primeros días",
+      "El edema en las primeras horas y el resangrado a la semana",
+      "El vasoespasmo precoz y la hidrocefalia tardía",
+      "La hiponatremia inicial y las crisis epilépticas tardías"
+    ],
+    "correcta": 0,
+    "explicacion": "El deterioro de las primeras horas se debe al crecimiento del hematoma y el de los primeros días al edema perilesional. La disminución del nivel de consciencia aparece en un 40 % de los casos.",
+    "fuente": "Cap. 49. Hemorragia intraparenquimatosa espontánea",
+    "teoria": "hip-clasificacion"
+  },
+  {
+    "id": "vas-011",
+    "tema": "Vascular",
+    "subtema": "Hemorragia intraparenquimatosa",
+    "enunciado": "¿Qué significan las siglas de la clasificación etiológica SMASH-U de la hemorragia intracerebral?",
+    "opciones": [
+      "Estructural, medicación, angiopatía amiloide, sistémica, hipertensiva e indeterminada",
+      "Subaracnoidea, mecánica, aneurismática, séptica, hemática y urgente",
+      "Subcortical, microangiopática, arterial, silente, hemorrágica y ulcerada",
+      "Sistémica, metastásica, amiloide, séptica, hipóxica e idiopática"
+    ],
+    "correcta": 0,
+    "explicacion": "SMASH-U, publicada en Stroke en 2012, sigue un algoritmo secuencial de sí/no: lesiones estructurales, medicación, angiopatía amiloide, enfermedades sistémicas, hipertensivas y origen indeterminado. Su concordancia interobservador es alta, pero puede resultar demasiado simple.",
+    "fuente": "Cap. 49. Hemorragia intraparenquimatosa espontánea",
+    "teoria": "hip-clasificacion"
+  },
+  {
+    "id": "vas-012",
+    "tema": "Vascular",
+    "subtema": "Hemorragia intraparenquimatosa",
+    "enunciado": "¿Cuándo está indicado el drenaje ventricular externo en la hemorragia intracerebral?",
+    "opciones": [
+      "Cuando hay componente intraventricular con hidrocefalia aguda",
+      "En todos los hematomas de más de 30 ml",
+      "En los hematomas lobares con desplazamiento de línea media",
+      "Siempre que la PIC supere 15 mmHg"
+    ],
+    "correcta": 0,
+    "explicacion": "El DVE se indica cuando existe hemorragia intraventricular con hidrocefalia aguda; en ocasiones el componente parenquimatoso es mínimo y la manifestación principal es precisamente la hemorragia ventricular.",
+    "fuente": "Cap. 49. Hemorragia intraparenquimatosa espontánea",
+    "teoria": "hip-clasificacion"
+  },
+  {
+    "id": "vas-013",
+    "tema": "Vascular",
+    "subtema": "Hemorragia subaracnoidea",
+    "enunciado": "¿Cuál es la principal causa de hemorragia subaracnoidea?",
+    "opciones": [
+      "La rotura de un aneurisma, en el 80 % de los casos",
+      "El traumatismo craneal cerrado",
+      "La malformación arteriovenosa",
+      "El síndrome de vasoconstricción cerebral reversible"
+    ],
+    "correcta": 0,
+    "explicacion": "El 80 % de las HSA se deben a rotura aneurismática. La HSA supone el 5 % de los ictus y un tercio de los hemorrágicos, y es una de las patologías neurológicas que con más frecuencia requiere cuidados neurocríticos.",
+    "fuente": "Cap. 50. Hemorragia subaracnoidea",
+    "teoria": "hsa-vasoespasmo"
+  },
+  {
+    "id": "vas-014",
+    "tema": "Vascular",
+    "subtema": "Hemorragia subaracnoidea",
+    "enunciado": "¿Por qué tienen los aneurismas de la cerebral media más riesgo de rotura que los de la carótida interna?",
+    "opciones": [
+      "Porque la mayor velocidad de flujo aumenta el estrés de cizallamiento",
+      "Porque su pared carece de lámina elástica interna",
+      "Porque suelen ser de mayor tamaño en el momento del diagnóstico",
+      "Porque están más expuestos a los cambios de presión del LCR"
+    ],
+    "correcta": 0,
+    "explicacion": "La alta velocidad de flujo incrementa el estrés de cizallamiento sobre la pared, de modo que los aneurismas en arterias de flujo rápido como la ACM tienen mayor riesgo de rotura que los situados en arterias de menor velocidad.",
+    "fuente": "Cap. 50. Hemorragia subaracnoidea",
+    "teoria": "hsa-vasoespasmo"
+  },
+  {
+    "id": "vas-015",
+    "tema": "Vascular",
+    "subtema": "Hemorragia subaracnoidea",
+    "enunciado": "¿Qué caracteriza a la hemorragia subaracnoidea de patrón perimesencefálico?",
+    "opciones": [
+      "Supone el 10 % de los casos, rara vez es aneurismática y su evolución es más benigna",
+      "Es la forma más frecuente y la que más vasoespasmo sintomático produce",
+      "Siempre obliga a repetir la arteriografía hasta encontrar el aneurisma",
+      "Se asocia a hidrocefalia que casi siempre requiere derivación"
+    ],
+    "correcta": 0,
+    "explicacion": "El patrón perimesencefálico representa alrededor del 10 % de las HSA, tiene curso benigno y complicaciones infrecuentes; se ha relacionado con variantes del drenaje venoso primitivo y raramente con aneurismas de la basilar.",
+    "fuente": "Cap. 50. Hemorragia subaracnoidea",
+    "teoria": "hsa-vasoespasmo"
+  },
+  {
+    "id": "vas-016",
+    "tema": "Vascular",
+    "subtema": "Hemorragia subaracnoidea",
+    "enunciado": "¿Cómo se calcula el índice de Lindegaard y qué valor sugiere vasoespasmo grave?",
+    "opciones": [
+      "Velocidad sistólica máxima en ACM dividida por la de la carótida interna; mayor de 6",
+      "Velocidad media en ACM dividida por la de la basilar; mayor de 3",
+      "Velocidad diastólica en ACM dividida por la sistólica; mayor de 2",
+      "Índice de pulsatilidad de la ACM multiplicado por 3; mayor de 6"
+    ],
+    "correcta": 0,
+    "explicacion": "El índice de Lindegaard relaciona la velocidad sistólica máxima de la ACM con la de la carótida interna: por encima de 3 indica vasoespasmo moderado y por encima de 6 grave. Sirve para distinguir vasoespasmo de hiperaflujo.",
+    "fuente": "Cap. 50. Hemorragia subaracnoidea",
+    "teoria": "hsa-vasoespasmo"
+  },
+  {
+    "id": "vas-017",
+    "tema": "Vascular",
+    "subtema": "Hemorragia subaracnoidea",
+    "enunciado": "¿Cómo se describe típicamente la cefalea de la hemorragia subaracnoidea?",
+    "opciones": [
+      "Cefalea en trueno, el peor dolor de cabeza de la vida del paciente",
+      "Cefalea opresiva bilateral de intensidad creciente en días",
+      "Cefalea periorbitaria con lagrimeo y rinorrea",
+      "Cefalea occipital que mejora con el decúbito"
+    ],
+    "correcta": 0,
+    "explicacion": "El síntoma cardinal es la cefalea repentina de alta intensidad, la llamada cefalea en trueno, descrita como el peor dolor de cabeza de su vida, aunque este síndrome puede deberse también a otras patologías.",
+    "fuente": "Cap. 50. Hemorragia subaracnoidea",
+    "teoria": "hsa-vasoespasmo"
+  },
+  {
+    "id": "vas-018",
+    "tema": "Vascular",
+    "subtema": "Malformaciones y patología medular",
+    "enunciado": "¿Qué técnica sigue siendo de elección para estudiar los pedículos arteriales, el flujo intranidal y el drenaje venoso de una malformación arteriovenosa?",
+    "opciones": [
+      "La angiografía cerebral",
+      "La angio-TC multidetector",
+      "La angio-RM con secuencias dinámicas TRICKS",
+      "La ecografía Doppler transcraneal"
+    ],
+    "correcta": 0,
+    "explicacion": "Aunque angio-TC y angio-RM superan el 90 % de sensibilidad —y las secuencias dinámicas TRICKS el 95 %—, la arteriografía sigue siendo la técnica de elección para definir la angioarquitectura y detectar aneurismas intranidales.",
+    "fuente": "Cap. 51. Otras malformaciones vasculares"
+  },
+  {
+    "id": "vas-019",
+    "tema": "Vascular",
+    "subtema": "Malformaciones y patología medular",
+    "enunciado": "Tras un sangrado con arteriografía inicial negativa en la que se sospecha una malformación arteriovenosa, ¿qué conducta indica el manual?",
+    "opciones": [
+      "Repetir el estudio pasados unos meses para confirmar la ausencia de malformación",
+      "Dar por descartada la malformación y seguir solo con clínica",
+      "Realizar biopsia de la pared del hematoma",
+      "Tratar empíricamente con radiocirugía la zona del sangrado"
+    ],
+    "correcta": 0,
+    "explicacion": "Tras un sangrado la MAV puede quedar comprimida u oculta en la arteriografía inicial, de modo que el estudio debe repetirse unos meses después para confirmar que realmente no existe.",
+    "fuente": "Cap. 51. Otras malformaciones vasculares"
+  },
+  {
+    "id": "vas-020",
+    "tema": "Vascular",
+    "subtema": "Malformaciones y patología medular",
+    "enunciado": "¿Qué clasificaciones de las malformaciones arteriovenosas siguen siendo las más utilizadas en la práctica?",
+    "opciones": [
+      "Spetzler-Martin y la suplementaria de Lawton-Young",
+      "Borden y Cognard",
+      "Fisher y Hunt-Hess",
+      "Spetzler-Martin y SMASH-U"
+    ],
+    "correcta": 0,
+    "explicacion": "Ambas nacieron para estimar el riesgo quirúrgico, cuando la cirugía era la principal modalidad terapéutica, y siguen siendo las más usadas pese a tener menos utilidad con las opciones actuales.",
+    "fuente": "Cap. 51. Otras malformaciones vasculares"
+  },
+  {
+    "id": "vas-021",
+    "tema": "Vascular",
+    "subtema": "Malformaciones y patología medular",
+    "enunciado": "¿Cuál es la presentación clínica más frecuente de una fístula carótido-cavernosa indirecta?",
+    "opciones": [
+      "Síntomas oculares, con alteración de la agudeza visual y afectación oculomotora",
+      "Cefalea en trueno de inicio súbito",
+      "Crisis epilépticas focales temporales",
+      "Hemiparesia progresiva de curso subagudo"
+    ],
+    "correcta": 0,
+    "explicacion": "Las fístulas carótido-cavernosas indirectas aparecen sobre todo a partir de los 40 años, muchas veces con antecedente traumático, y debutan con clínica ocular de curso insidioso que retrasa el diagnóstico. El tratamiento de elección es la oclusión endovascular.",
+    "fuente": "Cap. 51. Otras malformaciones vasculares"
+  },
+  {
+    "id": "vas-022",
+    "tema": "Vascular",
+    "subtema": "Trombosis venosa cerebral",
+    "enunciado": "¿Cuál es la incidencia de la trombosis venosa cerebral y qué proporción de los ictus representa?",
+    "opciones": [
+      "3-7 casos por millón de habitantes y año; el 0,5-1 % de los ictus",
+      "30-70 casos por millón y año; el 5 % de los ictus",
+      "1 caso por millón y año; menos del 0,1 % de los ictus",
+      "100 casos por millón y año; el 10 % de los ictus"
+    ],
+    "correcta": 0,
+    "explicacion": "La TVC es infrecuente: 3-7 casos por millón de habitantes al año y el 0,5-1 % de todos los ictus. Predomina en pacientes jóvenes, con edad media entre 20 y 40 años, y en mujeres por factores como embarazo, puerperio y anticoncepción.",
+    "fuente": "Cap. 52. Enfermedades de las venas y senos cerebrales"
+  },
+  {
+    "id": "vas-023",
+    "tema": "Vascular",
+    "subtema": "Trombosis venosa cerebral",
+    "enunciado": "¿Cómo debe interpretarse un dímero D normal ante la sospecha de trombosis venosa cerebral?",
+    "opciones": [
+      "No descarta el diagnóstico, aunque tiene alto valor predictivo negativo en las presentaciones como cefalea aislada",
+      "Descarta el diagnóstico en cualquier forma de presentación",
+      "Carece por completo de valor diagnóstico",
+      "Obliga a repetir la determinación cada 24 horas"
+    ],
+    "correcta": 0,
+    "explicacion": "Un dímero D elevado apoya el diagnóstico, pero uno normal no lo descarta y es frecuente fuera de la fase aguda; su valor predictivo negativo es alto en los casos que debutan solo con cefalea.",
+    "fuente": "Cap. 52. Enfermedades de las venas y senos cerebrales"
+  },
+  {
+    "id": "vas-024",
+    "tema": "Vascular",
+    "subtema": "Trombosis venosa cerebral",
+    "enunciado": "¿En qué porcentaje de trombosis venosas cerebrales no se identifica causa ni factor de riesgo?",
+    "opciones": [
+      "En torno al 15 %",
+      "En torno al 40 %",
+      "Menos del 2 %",
+      "Más del 60 %"
+    ],
+    "correcta": 0,
+    "explicacion": "En un 15 % no se identifica la causa, pero el estudio debe continuar fuera de la fase aguda: el síndrome antifosfolípido, la policitemia, los tumores o la enfermedad inflamatoria intestinal se descubren a veces semanas o meses después.",
+    "fuente": "Cap. 52. Enfermedades de las venas y senos cerebrales"
+  },
+  {
+    "id": "vas-025",
+    "tema": "Vascular",
+    "subtema": "Malformaciones y patología medular",
+    "enunciado": "En el tratamiento endovascular de una fístula arteriovenosa dural espinal, ¿cuándo se prefiere la cirugía abierta?",
+    "opciones": [
+      "Cuando las aferencias arteriales están muy próximas a la arteria de Adamkiewicz",
+      "Cuando el paciente presenta clínica de menos de 24 horas",
+      "Siempre que la fístula sea cervical",
+      "Cuando existe hemorragia subaracnoidea asociada"
+    ],
+    "correcta": 0,
+    "explicacion": "El tratamiento endovascular con agentes embólicos líquidos es la primera opción, salvo si las aferencias están muy cerca de la arteria de Adamkiewicz u otro aporte medular franco, por el riesgo de migración del material a arterias sanas.",
+    "fuente": "Cap. 53. Enfermedades vasculares de la médula espinal"
+  },
+  {
+    "id": "vas-026",
+    "tema": "Vascular",
+    "subtema": "Malformaciones y patología medular",
+    "enunciado": "¿Qué factores empeoran el pronóstico del infarto medular?",
+    "opciones": [
+      "Mayor edad, clínica grave inicial y ausencia de mejoría en 24-48 horas",
+      "Sexo femenino y localización cervical",
+      "Presencia de dolor radicular al inicio",
+      "Tratamiento precoz con corticoides"
+    ],
+    "correcta": 0,
+    "explicacion": "El pronóstico es peor con mayor edad, clínica inicial severa y falta de mejoría en las primeras 24-48 horas, aunque se describen mejorías a largo plazo incluso en quienes son dados de alta en silla de ruedas. Los corticoides no están indicados salvo vasculitis subyacente.",
+    "fuente": "Cap. 53. Enfermedades vasculares de la médula espinal"
+  }
+]

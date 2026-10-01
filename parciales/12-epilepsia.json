@@ -1,0 +1,262 @@
+[
+  {
+    "id": "epi-001",
+    "tema": "Epilepsia",
+    "subtema": "Síndromes epilépticos",
+    "enunciado": "¿Cómo define el manual la crisis epiléptica?",
+    "opciones": [
+      "Aparición transitoria de signos o síntomas por actividad neuronal anómala excesiva o simultánea",
+      "Descarga eléctrica registrada en el EEG con o sin clínica acompañante",
+      "Pérdida de consciencia con movimientos tónico-clónicos generalizados",
+      "Cualquier episodio paroxístico recurrente de origen cerebral"
+    ],
+    "correcta": 0,
+    "explicacion": "La crisis se define por la aparición transitoria de signos o síntomas provocados por actividad neuronal anómala, excesiva o simultánea. Se clasifican por origen, presencia de síntomas motores y afectación del nivel de consciencia.",
+    "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+  },
+  {
+    "id": "epi-002",
+    "tema": "Epilepsia",
+    "subtema": "Síndromes epilépticos",
+    "enunciado": "¿Qué fármacos pueden exacerbar las crisis y servir de pista diagnóstica en determinadas encefalopatías epilépticas?",
+    "opciones": [
+      "Los bloqueantes de canales de sodio: carbamazepina, lamotrigina, oxcarbazepina y fenitoína",
+      "Los potenciadores gabaérgicos: benzodiazepinas y fenobarbital",
+      "Los inhibidores de la anhidrasa carbónica: topiramato y zonisamida",
+      "Los antagonistas del receptor AMPA: perampanel"
+    ],
+    "correcta": 0,
+    "explicacion": "La exacerbación de crisis con bloqueantes de canales de sodio —carbamazepina, lamotrigina, oxcarbazepina, fenitoína— puede orientar el diagnóstico sindrómico.",
+    "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+  },
+  {
+    "id": "epi-003",
+    "tema": "Epilepsia",
+    "subtema": "Síndromes epilépticos",
+    "enunciado": "En la epilepsia de ausencias juvenil, ¿cómo son las crisis comparadas con las de la forma infantil?",
+    "opciones": [
+      "Menos frecuentes, más duraderas y con menor alteración de la consciencia",
+      "Más frecuentes, más breves y con pérdida completa de consciencia",
+      "Idénticas, cambiando solo la edad de inicio",
+      "Siempre acompañadas de mioclonías palpebrales"
+    ],
+    "correcta": 0,
+    "explicacion": "En la epilepsia de ausencias juvenil las crisis son menos frecuentes que en la infantil, de mayor duración y con menor alteración de la consciencia, de modo que el paciente puede llegar a obedecer órdenes sencillas.",
+    "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+  },
+  {
+    "id": "epi-004",
+    "tema": "Epilepsia",
+    "subtema": "Síndromes epilépticos",
+    "enunciado": "En la epilepsia de ausencias juvenil, ¿con qué frecuencia aparecen crisis tónico-clónicas generalizadas?",
+    "opciones": [
+      "En más del 80 % de los casos",
+      "En un 10-15 %",
+      "En menos del 5 %",
+      "Solo tras la retirada del tratamiento"
+    ],
+    "correcta": 0,
+    "explicacion": "Las tónico-clónicas generalizadas aparecen en más del 80 % de los pacientes, las mioclónicas en un 10-15 % y los estatus de ausencia en torno al 20 %.",
+    "fuente": "Cap. 67. Orientación clínica de los síndromes epilépticos"
+  },
+  {
+    "id": "epi-005",
+    "tema": "Epilepsia",
+    "subtema": "Diagnóstico en epilepsia",
+    "enunciado": "¿Qué propiedades hacen del EEG una herramienta fundamental en epilepsia?",
+    "opciones": [
+      "Su alta resolución temporal y su carácter no invasivo",
+      "Su alta resolución espacial y su capacidad de localizar lesiones",
+      "Su capacidad para medir el metabolismo cortical",
+      "Su independencia del estado de vigilia del paciente"
+    ],
+    "correcta": 0,
+    "explicacion": "El EEG registra la actividad eléctrica desde el cuero cabelludo y aporta información global y regional gracias a su alta resolución temporal y a no ser invasivo; la resolución espacial la aportan otras técnicas.",
+    "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+  },
+  {
+    "id": "epi-006",
+    "tema": "Epilepsia",
+    "subtema": "Diagnóstico en epilepsia",
+    "enunciado": "¿Qué secuencias de RM ayudan a identificar los cavernomas por su anillo de hemosiderina?",
+    "opciones": [
+      "Eco de gradiente o SWI",
+      "FLAIR y T1 con gadolinio",
+      "Difusión y ADC",
+      "Espectroscopia multivóxel"
+    ],
+    "correcta": 0,
+    "explicacion": "En eco de gradiente o SWI los cavernomas se ven hipointensos con el característico anillo de hemosiderina. La cavernomatosis puede aparecer hasta en un 12,5 % de pacientes con epilepsia refractaria.",
+    "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+  },
+  {
+    "id": "epi-007",
+    "tema": "Epilepsia",
+    "subtema": "Diagnóstico en epilepsia",
+    "enunciado": "¿Qué distribución lesional caracteriza a la encefalitis de Rasmussen frente a la encefalitis límbica?",
+    "opciones": [
+      "Afectación perisilviana y del caudado ipsilateral",
+      "Afectación temporal mesial bilateral",
+      "Afectación occipital bilateral simétrica",
+      "Afectación exclusiva de la sustancia blanca periventricular"
+    ],
+    "correcta": 0,
+    "explicacion": "Cualquier proceso autoinmune o infeccioso del SNC puede ser epileptógeno; la encefalitis límbica afecta sobre todo al temporal mesial, mientras que la de Rasmussen compromete la región perisilviana y el caudado ipsilateral.",
+    "fuente": "Cap. 68. Evaluación diagnóstica en epilepsia"
+  },
+  {
+    "id": "epi-008",
+    "tema": "Epilepsia",
+    "subtema": "Tratamiento de la epilepsia",
+    "enunciado": "¿Por qué se prefiere hoy el término «medicamentos anticrisis» al de antiepilépticos?",
+    "opciones": [
+      "Porque suponen un tratamiento sintomático y no modifican la enfermedad",
+      "Porque se emplean también en el dolor neuropático",
+      "Porque solo actúan en las crisis focales",
+      "Porque no previenen la recurrencia de las crisis"
+    ],
+    "correcta": 0,
+    "explicacion": "Los MAC tratan los síntomas —las crisis— y no la epilepsia como enfermedad, y de ahí el cambio de nomenclatura.",
+    "fuente": "Cap. 69. Tratamiento de la epilepsia"
+  },
+  {
+    "id": "epi-009",
+    "tema": "Epilepsia",
+    "subtema": "Tratamiento de la epilepsia",
+    "enunciado": "¿Qué efecto tienen los anticonceptivos combinados y el embarazo sobre la lamotrigina?",
+    "opciones": [
+      "Aumentan su aclaramiento y bajan sus niveles en sangre",
+      "Inhiben su metabolismo y elevan sus niveles",
+      "No modifican su farmacocinética",
+      "Aumentan el riesgo de exantema sin cambiar los niveles"
+    ],
+    "correcta": 0,
+    "explicacion": "Tanto los anticonceptivos combinados y la terapia hormonal sustitutiva como el embarazo aumentan el aclaramiento de la lamotrigina, con la consiguiente caída de niveles. También requiere ajuste si el filtrado es menor de 30 ml/min.",
+    "fuente": "Cap. 69. Tratamiento de la epilepsia"
+  },
+  {
+    "id": "epi-010",
+    "tema": "Epilepsia",
+    "subtema": "Tratamiento de la epilepsia",
+    "enunciado": "¿Qué precaución exige la combinación de gabapentina con valproato?",
+    "opciones": [
+      "Titular aún más lentamente, porque el valproato inhibe su metabolismo",
+      "Duplicar la dosis inicial por inducción enzimática",
+      "Evitar la combinación por riesgo de agranulocitosis",
+      "Monitorizar la natremia semanalmente"
+    ],
+    "correcta": 0,
+    "explicacion": "El valproato inhibe el metabolismo del fármaco asociado, de modo que la titulación debe ser todavía más lenta para evitar efectos adversos.",
+    "fuente": "Cap. 69. Tratamiento de la epilepsia"
+  },
+  {
+    "id": "epi-011",
+    "tema": "Epilepsia",
+    "subtema": "Tratamiento de la epilepsia",
+    "enunciado": "¿Qué efectos adversos idiosincráticos se asocian a los bloqueantes de canales de sodio como la carbamazepina?",
+    "opciones": [
+      "Síndrome de Stevens-Johnson, hipersensibilidad múltiple, agranulocitosis y pancitopenia",
+      "Vértigo, ataxia, diplopía e hiponatremia",
+      "Nefrolitiasis y acidosis metabólica",
+      "Aumento de peso y ovario poliquístico"
+    ],
+    "correcta": 0,
+    "explicacion": "Los efectos dosis-dependientes son vértigo, ataxia, diplopía, erupción cutánea e hiponatremia; los idiosincráticos incluyen el Stevens-Johnson y la necrólisis epidérmica tóxica, la hipersensibilidad múltiple, la agranulocitosis y la pancitopenia.",
+    "fuente": "Cap. 69. Tratamiento de la epilepsia"
+  },
+  {
+    "id": "epi-012",
+    "tema": "Epilepsia",
+    "subtema": "Tratamiento de la epilepsia",
+    "enunciado": "¿En qué epilepsias no suele recomendarse la retirada del tratamiento anticrisis?",
+    "opciones": [
+      "En las generalizadas idiopáticas y otras genéticamente determinadas",
+      "En las focales con neuroimagen normal",
+      "En las epilepsias postraumáticas sin lesión residual",
+      "En las que han permanecido libres de crisis más de cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "En las epilepsias generalizadas idiopáticas o genéticamente determinadas no se recomienda retirar el tratamiento por el alto riesgo de recurrencia. Globalmente la recurrencia tras la retirada oscila entre el 12 y el 67 %.",
+    "fuente": "Cap. 69. Tratamiento de la epilepsia"
+  },
+  {
+    "id": "epi-013",
+    "tema": "Epilepsia",
+    "subtema": "Estado epiléptico",
+    "enunciado": "¿Qué define el estado de mal epiléptico?",
+    "opciones": [
+      "El fallo de los mecanismos de finalización de las crisis, con duración excesiva o recurrencia",
+      "La presencia de más de tres crisis en 24 horas",
+      "Cualquier crisis que requiera benzodiazepinas intravenosas",
+      "La actividad epileptiforme continua en el EEG sin clínica"
+    ],
+    "correcta": 0,
+    "explicacion": "El estado de mal se define por un fallo en los mecanismos de finalización de las crisis, que se prolongan en exceso o se repiten. Es una emergencia médica con morbimortalidad relevante.",
+    "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+    "teoria": "estado-epileptico"
+  },
+  {
+    "id": "epi-014",
+    "tema": "Epilepsia",
+    "subtema": "Estado epiléptico",
+    "enunciado": "¿Qué criterios se emplean para el diagnóstico del estado epiléptico no convulsivo?",
+    "opciones": [
+      "Los criterios de Salzburgo",
+      "Los criterios de Denver",
+      "Los criterios de Salzburgo-Lindegaard",
+      "Los criterios de la NIA-AA"
+    ],
+    "correcta": 0,
+    "explicacion": "Los criterios de Salzburgo son los utilizados para el estado epiléptico no convulsivo, apoyados en el registro EEG.",
+    "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+    "teoria": "estado-epileptico"
+  },
+  {
+    "id": "epi-015",
+    "tema": "Epilepsia",
+    "subtema": "Estado epiléptico",
+    "enunciado": "En un paciente con déficit neurológico agudo en el que se descarta causa vascular, ¿qué hallazgo de la TC de perfusión apoya un estado epiléptico?",
+    "opciones": [
+      "Hiperperfusión focal que excede un territorio vascular",
+      "Hipoperfusión ajustada a un territorio arterial",
+      "Ausencia de mismatch entre core y penumbra",
+      "Retraso simétrico del tiempo al pico en ambos hemisferios"
+    ],
+    "correcta": 0,
+    "explicacion": "Los mapas de perfusión muestran hiperperfusión focal que habitualmente no respeta los límites de un territorio vascular. El ASL permite ver lo mismo sin contraste y el PET-FDG objetiva hipermetabolismo regional.",
+    "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+    "teoria": "estado-epileptico"
+  },
+  {
+    "id": "epi-016",
+    "tema": "Epilepsia",
+    "subtema": "Estado epiléptico",
+    "enunciado": "¿En qué suero debe diluirse la fenitoína intravenosa y a qué ritmo se administra el bolo en el adulto?",
+    "opciones": [
+      "En suero salino, a 25-50 mg/min",
+      "En suero glucosado, a 25-50 mg/min",
+      "En suero salino, en bolo rápido de un minuto",
+      "En suero glucosado, a 100 mg/min"
+    ],
+    "correcta": 0,
+    "explicacion": "La fenitoína se diluye en 250 cc de suero salino —nunca glucosado— en envase de plástico, con dosis de 20-30 mg/kg administrada a 25-50 mg/min.",
+    "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+    "teoria": "estado-epileptico"
+  },
+  {
+    "id": "epi-017",
+    "tema": "Epilepsia",
+    "subtema": "Estado epiléptico",
+    "enunciado": "Tras administrar midazolam bucal como primera línea, ¿cuándo puede repetirse la dosis?",
+    "opciones": [
+      "Pasados 10 minutos",
+      "Pasados 2 minutos",
+      "Pasada una hora",
+      "No debe repetirse nunca"
+    ],
+    "correcta": 0,
+    "explicacion": "La dosis puede repetirse a los 10 minutos si persisten las crisis. La solución bucal puede administrarla también personal no sanitario, lo que la hace útil fuera del hospital.",
+    "fuente": "Cap. 70. Estado de mal epiléptico. Código crisis",
+    "teoria": "estado-epileptico"
+  }
+]

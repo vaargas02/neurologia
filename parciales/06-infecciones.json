@@ -1,0 +1,237 @@
+[
+  {
+    "id": "inf-001",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "¿Qué complicación explica la hiponatremia en la meningitis bacteriana aguda?",
+    "opciones": ["El SIADH", "La diabetes insípida central", "El síndrome pierde-sal por natriuresis obligada", "La sobrecarga hídrica del tratamiento antibiótico"],
+    "correcta": 0,
+    "explicacion": "La hiponatremia de la meningitis bacteriana se debe a un síndrome de secreción inadecuada de ADH. Otras complicaciones son las crisis por inflamación cortical, los infartos por arteritis oclusiva, la hidrocefalia por exudado en cisternas basales y el edema difuso.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-002",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "¿Qué porcentaje de pacientes queda con secuelas auditivas o vestibulares tras una meningitis bacteriana aguda?",
+    "opciones": ["Un 10-30 %", "Menos del 2 %", "Un 50-60 %", "Prácticamente todos"],
+    "correcta": 0,
+    "explicacion": "Entre el 10 y el 30 % presenta secuelas auditivas o vestibulares, y son frecuentes las alteraciones cognitivas asociadas.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-003",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "¿Cómo se define una meningitis crónica?",
+    "opciones": [
+      "Por una duración de los síntomas de 4 o más semanas",
+      "Por una duración superior a 10 días con LCR persistente alterado",
+      "Por la ausencia de respuesta a dos ciclos de antibiótico",
+      "Por la presencia de granulomas en la neuroimagen"
+    ],
+    "correcta": 0,
+    "explicacion": "Las meningitis crónicas se definen por síntomas de 4 semanas o más, de causa infecciosa o no. El LCR muestra pleocitosis linfocitaria e hiperproteinorraquia; si predominan los neutrófilos hay que pensar en brucella o en tuberculosis precoz.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-004",
+    "tema": "Infecciones SNC",
+    "subtema": "Absceso y empiemas",
+    "enunciado": "¿Con qué frecuencia aparece la tríada clásica de fiebre, cefalea y déficit focal en el absceso cerebral?",
+    "opciones": ["Solo en el 20 % de los casos", "En el 60 % de los casos", "En más del 90 %", "Únicamente cuando el absceso se rompe"],
+    "correcta": 0,
+    "explicacion": "La tríada clásica solo está presente en el 20 %. Los síntomas más frecuentes son cefalea, náuseas y vómitos, alteración del nivel de consciencia, déficits focales y fiebre.",
+    "fuente": "Cap. 41. Absceso cerebral, empiemas epidural y subdural"
+  },
+  {
+    "id": "inf-005",
+    "tema": "Infecciones SNC",
+    "subtema": "Absceso y empiemas",
+    "enunciado": "¿Qué riesgo tiene la punción lumbar en un paciente con absceso cerebral?",
+    "opciones": [
+      "Deterioro neurológico hasta en el 19 % y mortalidad del 4,7 %",
+      "Diseminación del germen a las meninges en la mayoría de los casos",
+      "Falsos negativos microbiológicos sin riesgo clínico añadido",
+      "Hemorragia subaracnoidea iatrogénica en el 10 %"
+    ],
+    "correcta": 0,
+    "explicacion": "La PL tiene escaso rendimiento microbiológico en abscesos encapsulados, salvo rotura o meningitis concomitante, y se han descrito hasta un 19 % de deterioros neurológicos y un 4,7 % de fallecimientos secundarios al procedimiento.",
+    "fuente": "Cap. 41. Absceso cerebral, empiemas epidural y subdural"
+  },
+  {
+    "id": "inf-006",
+    "tema": "Infecciones SNC",
+    "subtema": "Absceso y empiemas",
+    "enunciado": "¿Qué microorganismos son los más habituales en las infecciones supurativas del SNC?",
+    "opciones": [
+      "Streptococcus spp. y Staphylococcus spp.",
+      "Listeria monocytogenes y Haemophilus influenzae",
+      "Pseudomonas aeruginosa y Acinetobacter",
+      "Anaerobios estrictos de forma aislada"
+    ],
+    "correcta": 0,
+    "explicacion": "Los patógenos dependen del foco de origen, la inmunocompetencia y factores geográficos, pero los más habituales son Streptococcus y Staphylococcus. La forma más frecuente de infección supurativa del SNC es el absceso cerebral.",
+    "fuente": "Cap. 41. Absceso cerebral, empiemas epidural y subdural"
+  },
+  {
+    "id": "inf-007",
+    "tema": "Infecciones SNC",
+    "subtema": "Absceso y empiemas",
+    "enunciado": "¿Qué prueba de imagen es la más precisa para el diagnóstico de absceso cerebral?",
+    "opciones": [
+      "La RM cerebral sin y con gadolinio",
+      "La TC cerebral sin y con contraste",
+      "La angiografía cerebral",
+      "El PET con fluorodesoxiglucosa"
+    ],
+    "correcta": 0,
+    "explicacion": "La RM con y sin gadolinio es la técnica más precisa, aunque en urgencias suele hacerse primero una TC con y sin contraste por disponibilidad. Espectroscopia y perfusión ayudan, y a veces se precisa biopsia.",
+    "fuente": "Cap. 41. Absceso cerebral, empiemas epidural y subdural"
+  },
+  {
+    "id": "inf-008",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones víricas",
+    "enunciado": "¿Qué perfil de LCR es típico de una meningoencefalitis vírica?",
+    "opciones": [
+      "Aspecto claro con pleocitosis de 10-500 leucocitos/mm³ de predominio linfocitario",
+      "Aspecto turbio con más de 2000 células de predominio neutrofílico",
+      "Aspecto claro con celularidad normal e hipoglucorraquia marcada",
+      "Aspecto xantocrómico con eritrocitos y proteínas muy elevadas"
+    ],
+    "correcta": 0,
+    "explicacion": "La meningoencefalitis vírica cursa con LCR claro, presión de apertura normal o elevada y pleocitosis habitualmente de 10-500 leucocitos/mm³ de predominio linfocitario.",
+    "fuente": "Cap. 42. Infecciones víricas"
+  },
+  {
+    "id": "inf-009",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones víricas",
+    "enunciado": "¿Qué tres factores aumentan el riesgo de leucoencefalopatía multifocal progresiva en el paciente tratado con natalizumab?",
+    "opciones": [
+      "Anticuerpos anti-JC elevados, inmunosupresión previa y más de 2 años de tratamiento",
+      "Edad avanzada, sexo masculino y brotes frecuentes",
+      "Linfopenia, hipogammaglobulinemia y vacunación reciente",
+      "Coinfección por VIH, tabaquismo y obesidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El riesgo se estratifica por el índice de anticuerpos anti-JC, el uso previo de inmunosupresores o inmunomoduladores y una duración del natalizumab superior a 2 años. La supervivencia en la LMP asociada a natalizumab es del 70-80 % a los seis meses, con discapacidad grave.",
+    "fuente": "Cap. 42. Infecciones víricas"
+  },
+  {
+    "id": "inf-010",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones víricas",
+    "enunciado": "¿En qué momento del embarazo produce el virus Zika las formas más graves del síndrome congénito?",
+    "opciones": [
+      "En el primer trimestre",
+      "En el segundo trimestre",
+      "En el tercer trimestre",
+      "Únicamente en el periparto"
+    ],
+    "correcta": 0,
+    "explicacion": "El Zika cruza la barrera placentaria e infecta las células progenitoras neuronales; las infecciones del primer trimestre se asocian a las formas más graves, con lisencefalia o paquigiria, microcefalia, atrofia y calcificaciones cerebrales.",
+    "fuente": "Cap. 42. Infecciones víricas"
+  },
+  {
+    "id": "inf-011",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones fúngicas y parasitarias",
+    "enunciado": "¿Qué infección fúngica del SNC se asocia típicamente a la infección por VIH?",
+    "opciones": ["La criptococosis", "La candidiasis", "La aspergilosis", "La mucormicosis rinocerebral"],
+    "correcta": 0,
+    "explicacion": "El criptococo tiene como principal factor de riesgo el VIH, aunque también afecta a trasplantados, neoplasias hematológicas e incluso inmunocompetentes. Candida se asocia a neonatos, neutropenia, cirugía, antibioterapia prolongada y catéteres.",
+    "fuente": "Cap. 43. Infecciones fúngicas y parasitarias del SNC"
+  },
+  {
+    "id": "inf-012",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones fúngicas y parasitarias",
+    "enunciado": "En la aspergilosis cerebral, ¿qué hallazgo de RM traduce el componente hemorrágico por invasión vascular?",
+    "opciones": [
+      "La hipointensidad en secuencias eco de gradiente",
+      "El realce en anillo tras gadolinio",
+      "La restricción en difusión de las lesiones",
+      "El realce difuso de la duramadre"
+    ],
+    "correcta": 0,
+    "explicacion": "Las lesiones muestran realce en anillo con edema perilesional y restricción en difusión, pero es la hipointensidad en eco de gradiente la que indica sangrado por invasión vascular, propia del Aspergillus.",
+    "fuente": "Cap. 43. Infecciones fúngicas y parasitarias del SNC"
+  },
+  {
+    "id": "inf-013",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones fúngicas y parasitarias",
+    "enunciado": "¿Por qué vía alcanza Naegleria el sistema nervioso central?",
+    "opciones": [
+      "Por el nervio olfatorio",
+      "Por diseminación hematógena desde el pulmón",
+      "Por contigüidad desde los senos paranasales",
+      "Por el plexo coroideo tras bacteriemia"
+    ],
+    "correcta": 0,
+    "explicacion": "Naegleria accede por el nervio olfatorio y produce la meningoencefalitis amébica primaria, necrotizante y rápidamente progresiva: incubación de 5-14 días y muerte en una semana por herniación. El LCR simula una meningitis bacteriana salvo por los trofozoítos.",
+    "fuente": "Cap. 43. Infecciones fúngicas y parasitarias del SNC"
+  },
+  {
+    "id": "inf-014",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones fúngicas y parasitarias",
+    "enunciado": "¿Qué diferencia epidemiológica hay entre Acanthamoeba y Balamuthia mandrillaris?",
+    "opciones": [
+      "Acanthamoeba afecta sobre todo a inmunocomprometidos y Balamuthia más a inmunocompetentes",
+      "Balamuthia afecta solo a inmunodeprimidos y Acanthamoeba solo a niños",
+      "Ambas afectan exclusivamente a pacientes con VIH avanzado",
+      "Acanthamoeba solo produce queratitis y nunca encefalitis"
+    ],
+    "correcta": 0,
+    "explicacion": "Las dos causan encefalitis amebiana granulomatosa con lesiones que realzan en anillo y pueden sangrar, pero Acanthamoeba afecta habitualmente a inmunocomprometidos y Balamuthia más a inmunocompetentes, con curso subagudo o crónico.",
+    "fuente": "Cap. 43. Infecciones fúngicas y parasitarias del SNC"
+  },
+  {
+    "id": "inf-015",
+    "tema": "Infecciones SNC",
+    "subtema": "Prionopatías",
+    "enunciado": "¿Dónde se localiza el gen PRNP que codifica la proteína priónica celular?",
+    "opciones": [
+      "En el brazo corto del cromosoma 20",
+      "En el brazo largo del cromosoma 14",
+      "En el brazo corto del cromosoma 4",
+      "En el brazo largo del cromosoma 21"
+    ],
+    "correcta": 0,
+    "explicacion": "PRNP está en el brazo corto del cromosoma 20. La forma patológica PrPsc, con estructura β-plegada y resistente a la degradación, convierte exponencialmente a la proteína normal y se agrega.",
+    "fuente": "Cap. 44. Prionopatías"
+  },
+  {
+    "id": "inf-016",
+    "tema": "Infecciones SNC",
+    "subtema": "Prionopatías",
+    "enunciado": "¿Qué hallazgos de RM son característicos de la enfermedad de Creutzfeldt-Jakob?",
+    "opciones": [
+      "Restricción en difusión con hiperintensidad cortical en cinta y en núcleos grises profundos",
+      "Lesiones con realce en anillo en sustancia blanca subcortical",
+      "Atrofia hipocampal bilateral aislada",
+      "Hiperintensidades periventriculares confluentes sin restricción"
+    ],
+    "correcta": 0,
+    "explicacion": "En DWI/ADC y T2-FLAIR se ve el cortical ribboning y la afectación de caudado, putamen o tálamo (signo del pulvinar o del palo de hockey). No son patognomónicos: pueden aparecer en encefalopatías tóxico-metabólicas, encefalitis autoinmunes o linfoma.",
+    "fuente": "Cap. 44. Prionopatías"
+  },
+  {
+    "id": "inf-017",
+    "tema": "Infecciones SNC",
+    "subtema": "Prionopatías",
+    "enunciado": "¿Qué dato debe hacer dudar del diagnóstico de enfermedad de Creutzfeldt-Jakob y buscar una alternativa?",
+    "opciones": [
+      "La presencia de fiebre, pleocitosis en LCR o lesiones que captan contraste",
+      "El mutismo acinético en fases avanzadas",
+      "Los signos extrapiramidales asociados",
+      "La parálisis de la mirada vertical"
+    ],
+    "correcta": 0,
+    "explicacion": "Son red flags la fiebre, las crisis, la hiponatremia, la pleocitosis, las lesiones captantes o las hiperintensidades T2 fuera de estriado, tálamo y corteza. El mutismo, los signos piramidales y extrapiramidales forman parte del cuadro evolutivo.",
+    "fuente": "Cap. 44. Prionopatías"
+  }
+]

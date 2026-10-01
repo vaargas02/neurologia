@@ -1,0 +1,770 @@
+[
+  {
+    "id": "sem-051",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "Un paciente en coma presenta sacudidas rápidas de ambos ojos hacia abajo seguidas de un retorno lento a la posición media. ¿Dónde se localiza la lesión?",
+    "opciones": [
+      "Protuberancia caudal",
+      "Mesencéfalo dorsal",
+      "Tálamo paramediano bilateral",
+      "Bulbo lateral"
+    ],
+    "correcta": 0,
+    "explicacion": "Ese patrón es el bobbing ocular, característico de lesiones de la protuberancia caudal. Se diferencia del roving o mirada en ping-pong, que es horizontal, conjugado y lento, y orienta a causa tóxico-metabólica o lesión hemisférica bilateral.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma",
+    "teoria": "coma-localizacion"
+  },
+  {
+    "id": "sem-052",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "Ante un estímulo doloroso, un paciente flexiona y aduce los miembros superiores y extiende los inferiores. ¿Qué indica esta respuesta?",
+    "opciones": [
+      "Lesión por encima del núcleo rojo",
+      "Lesión por debajo del núcleo rojo",
+      "Indemnidad de la vía piramidal",
+      "Encefalopatía tóxico-metabólica leve"
+    ],
+    "correcta": 0,
+    "explicacion": "Es la rigidez de decorticación, que sitúa la lesión por encima del núcleo rojo. La descerebración (extensión y aducción de los superiores con extensión de los inferiores) indica afectación por debajo del núcleo rojo, habitualmente mesencéfalo y protuberancia rostral, y es de peor pronóstico.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma",
+    "teoria": "coma-localizacion"
+  },
+  {
+    "id": "sem-053",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué patrón respiratorio orienta a una lesión pontina media en el paciente con disminución del nivel de consciencia?",
+    "opciones": [
+      "Respiración apnéustica",
+      "Respiración de Cheyne-Stokes",
+      "Respiración de Kussmaul",
+      "Respiración atáxica de Biot"
+    ],
+    "correcta": 0,
+    "explicacion": "La respiración apnéustica localiza en protuberancia media. Cheyne-Stokes aparece en lesiones bitalámicas o hemisféricas difusas, Kussmaul en acidosis metabólica, y la atáxica de Biot en lesiones pontinas inferiores y bulbares.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma",
+    "teoria": "coma-localizacion"
+  },
+  {
+    "id": "sem-054",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué ventaja aporta la escala FOUR sobre la escala de coma de Glasgow?",
+    "opciones": [
+      "Evalúa los reflejos de tronco y la respiración",
+      "Es más rápida de aplicar porque utiliza tres parámetros en lugar de cuatro",
+      "Permite puntuar la respuesta verbal en pacientes portadores de tubo orotraqueal",
+      "Está validada específicamente para el traumatismo craneoencefálico grave"
+    ],
+    "correcta": 0,
+    "explicacion": "La FOUR incorpora la respuesta ocular y motora, los reflejos de tronco y la respiración, de modo que no depende de la respuesta verbal. Por eso discrimina mejor que la GCS en pacientes intubados y con puntuaciones muy bajas; la GCS fue precisamente la diseñada para el traumatismo craneal.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma"
+  },
+  {
+    "id": "sem-055",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "Al irrigar el conducto auditivo con agua helada a un paciente en coma con tronco íntegro, ¿qué respuesta se espera?",
+    "opciones": [
+      "Desviación tónica ipsilateral mantenida, con pérdida de la fase rápida",
+      "Desviación tónica contralateral seguida de sacadas rápidas ipsilaterales",
+      "Nistagmo horizontal con fase rápida hacia el oído irrigado",
+      "Ausencia completa de respuesta ocular"
+    ],
+    "correcta": 0,
+    "explicacion": "La fase rápida correctora es voluntaria y se pierde en el coma, de modo que solo queda la desviación lenta ipsilateral mantenida. La abolición total de la respuesta calórica indica lesión extensa del troncoencéfalo o depresión metabólica profunda. Conviene esperar unos 5 minutos entre un oído y otro.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma",
+    "teoria": "coma-localizacion"
+  },
+  {
+    "id": "sem-056",
+    "tema": "Semiología",
+    "subtema": "Consciencia, síncope y coma",
+    "enunciado": "¿Qué significado tiene encontrar asterixis unilateral en un paciente con bajo nivel de consciencia?",
+    "opciones": [
+      "Sugiere una lesión focal mesencefálica o talámica",
+      "Confirma el origen tóxico-metabólico difuso del cuadro",
+      "Indica una crisis epiléptica focal en curso",
+      "Traduce afectación de la segunda motoneurona"
+    ],
+    "correcta": 0,
+    "explicacion": "La asterixis es una mioclonía negativa que habitualmente es bilateral y acompaña a los trastornos tóxico-metabólicos, y desaparece cuando el coma se profundiza. Cuando es unilateral la lectura cambia: apunta a una lesión focal mesencefálica o talámica.",
+    "fuente": "Cap. 9. Aproximación diagnóstica al estupor y coma"
+  },
+  {
+    "id": "sem-057",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "Un paciente conserva la fluidez y la comprensión, pero repite mal y produce parafasias fonémicas. ¿Qué estructura está lesionada?",
+    "opciones": [
+      "Fascículo arqueado",
+      "Corteza frontal inferior izquierda",
+      "Corteza temporal superior posterior",
+      "Fascículo uncinado"
+    ],
+    "correcta": 0,
+    "explicacion": "Es una afasia de conducción, cuyo sustrato es la lesión del fascículo arqueado, que conecta la unión temporoparietal posterior con la corteza frontal. La comprensión hablada y escrita permanece relativamente intacta y la fluidez está conservada; lo que falla es la repetición precisa.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias",
+    "teoria": "afasias-clasificacion"
+  },
+  {
+    "id": "sem-058",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Qué dato permite separar la afasia transcortical sensorial de la afasia de Wernicke?",
+    "opciones": [
+      "La capacidad de repetición",
+      "La presencia de parafasias semánticas",
+      "La fluidez del lenguaje espontáneo",
+      "La conservación de la comprensión verbal"
+    ],
+    "correcta": 0,
+    "explicacion": "Ambas cursan con habla fluida, vacía de contenido, parafasias semánticas y comprensión alterada. La diferencia está en la repetición: en las transcorticales se preserva, porque la lesión respeta el circuito perisilviano, mientras que en la de Wernicke está alterada.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias",
+    "teoria": "afasias-clasificacion"
+  },
+  {
+    "id": "sem-059",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "Una paciente usa palabras supraordinales («animal» en lugar de «gato»), denomina mal y no comprende el significado de las palabras, pero repite bien y habla con fluidez. ¿Qué variante de afasia progresiva primaria es?",
+    "opciones": [
+      "Variante semántica",
+      "Variante logopénica",
+      "Variante no fluente",
+      "Afasia anómica degenerativa"
+    ],
+    "correcta": 0,
+    "explicacion": "La APP semántica se debe a atrofia del lóbulo temporal anterior izquierdo y consiste en la pérdida progresiva de la memoria semántica: el discurso pierde contenido y especificidad. La fluidez y la repetición se mantienen, lo que la separa de las otras dos variantes.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias",
+    "teoria": "afasias-clasificacion"
+  },
+  {
+    "id": "sem-060",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Qué combinación define a la afasia progresiva primaria logopénica?",
+    "opciones": [
+      "Anomia con fallo de repetición de frases largas y comprensión conservada",
+      "Agramatismo con apraxia del habla y repetición conservada",
+      "Pérdida de la comprensión del significado de las palabras con denominación muy alterada",
+      "Mutismo progresivo con ecolalia y perseveraciones"
+    ],
+    "correcta": 0,
+    "explicacion": "La variante logopénica se asocia a atrofia temporal posterior o parietal inferior. El lenguaje es hipofluente por anomia, con pausas y a veces parafasias fonémicas, pero sin apraxia del habla ni agramatismo franco; el rasgo distintivo es el fallo en la repetición de frases largas.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias",
+    "teoria": "afasias-clasificacion"
+  },
+  {
+    "id": "sem-061",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "En la afasia progresiva primaria no fluente, ¿en qué situación falla la comprensión verbal?",
+    "opciones": [
+      "Cuando depende de la estructura sintáctica, como en las frases en voz pasiva",
+      "Cuando se trata de palabras aisladas poco frecuentes",
+      "Cuando el estímulo se presenta por vía escrita en lugar de oral",
+      "Cuando se exploran categorías semánticas concretas, como los seres vivos o los útiles"
+    ],
+    "correcta": 0,
+    "explicacion": "La APP no fluente se asocia a atrofia frontoinsular izquierda y cursa con agramatismo, apraxia del habla o ambos. La comprensión está globalmente conservada y solo se resiente en construcciones que exigen procesamiento sintáctico, como la voz pasiva.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias",
+    "teoria": "afasias-clasificacion"
+  },
+  {
+    "id": "sem-062",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Qué define a la jergafasia?",
+    "opciones": [
+      "Lenguaje fluido y bien articulado pero sin significado para el oyente",
+      "Repetición involuntaria de las últimas palabras del interlocutor",
+      "Emisión repetida de un mismo grupo de fonemas sin significado cada vez que se intenta hablar",
+      "Uso incorrecto de numerosas fórmulas gramaticales que hace incoherente el discurso"
+    ],
+    "correcta": 0,
+    "explicacion": "La jergafasia es un paso más allá del neologismo: el habla mantiene fluidez y articulación, pero pierde todo significado para el oyente. Suele acompañarse de anosognosia. Las otras opciones describen ecolalia, estereotipias y disintaxis.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias",
+    "teoria": "afasias-clasificacion"
+  },
+  {
+    "id": "sem-063",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Qué maniobra permite separar una agnosia visual aperceptiva de una asociativa?",
+    "opciones": [
+      "Pedir al paciente que copie el dibujo del objeto",
+      "Pedir al paciente que denomine el objeto que ve",
+      "Presentar el objeto en un contexto semántico favorable",
+      "Explorar el reconocimiento del objeto por el tacto"
+    ],
+    "correcta": 0,
+    "explicacion": "En la agnosia asociativa la percepción está intacta, de modo que el paciente copia, empareja y clasifica correctamente aunque no atribuya significado al objeto. En la aperceptiva falla la discriminación de las formas y no es capaz de copiar. Denominar falla en ambas.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias"
+  },
+  {
+    "id": "sem-064",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Con qué localización lesional se relaciona la prosopagnosia?",
+    "opciones": [
+      "Occipitotemporal bilateral, en especial el giro fusiforme facial derecho",
+      "Corteza parietal superior izquierda y precúneo",
+      "Corteza temporal anterior izquierda y polo temporal del hemisferio dominante",
+      "Polo occipital y labio superior de la cisura calcarina"
+    ],
+    "correcta": 0,
+    "explicacion": "La prosopagnosia se debe a lesión bilateral o del hemisferio derecho de las cortezas de asociación occipitotemporales, en particular del giro fusiforme facial derecho. El paciente no identifica caras familiares ni la propia, pero sí reconoce a la persona por la voz u otro canal sensorial.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias"
+  },
+  {
+    "id": "sem-065",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "Un paciente no comprende el lenguaje hablado ni repite ni escribe al dictado, pero habla espontáneamente, lee y comprende lo escrito, con audiometría normal. ¿Qué cuadro es?",
+    "opciones": [
+      "Sordera pura de palabras",
+      "Afasia de Wernicke",
+      "Amusia receptiva",
+      "Agnosia auditiva aperceptiva"
+    ],
+    "correcta": 0,
+    "explicacion": "La sordera pura de palabras es una agnosia auditiva limitada a los sonidos del lenguaje, por lesión de áreas anteriores del lóbulo temporal. La conservación del lenguaje espontáneo, la lectura y la comprensión escrita la separa de la afasia de Wernicke, donde también fallan.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias"
+  },
+  {
+    "id": "sem-066",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "¿Qué sistema está alterado en la apraxia ideacional o ideatoria?",
+    "opciones": [
+      "El sistema conceptual, que almacena el conocimiento del objeto y su programa motor",
+      "El sistema de producción gestual, que transforma el programa motor seleccionado en un gesto",
+      "El sistema intencional, que determina cuándo iniciar el movimiento",
+      "El sistema visuoconstructivo de integración visuomotora"
+    ],
+    "correcta": 0,
+    "explicacion": "La apraxia ideacional refleja la disfunción del sistema conceptual: se pierde el conocimiento del propósito de los objetos y de la secuencia de acciones que define su uso. Las alteraciones del sistema de producción gestual dan lugar a las apraxias motoras, ideomotora y melocinética.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias"
+  },
+  {
+    "id": "sem-067",
+    "tema": "Semiología",
+    "subtema": "Funciones superiores y psiquiatría",
+    "enunciado": "Un paciente imita gestos con la mano derecha bajo orden verbal, pero no con la izquierda. ¿Qué lesión lo explica?",
+    "opciones": [
+      "Cuerpo calloso",
+      "Área motora suplementaria derecha",
+      "Lóbulo parietal derecho",
+      "Corteza premotora izquierda"
+    ],
+    "correcta": 0,
+    "explicacion": "Es la apraxia callosa, un síndrome de desconexión: la lesión del cuerpo calloso aísla el programa motor alojado en el hemisferio izquierdo de las áreas motoras del derecho, de modo que solo la mano derecha ejecuta el gesto bajo orden verbal.",
+    "fuente": "Cap. 12. Afasias, apraxias y agnosias"
+  },
+  {
+    "id": "sem-068",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "Una lesión que comprime el quiasma anterior produce un defecto central en un ojo y un defecto temporal superior en el contralateral. ¿Qué disposición anatómica lo explica?",
+    "opciones": [
+      "La rodilla de Wilbrand, en la porción distal del nervio óptico contralateral",
+      "La concentración de las fibras maculares en la parte posterior del quiasma óptico",
+      "El paso lateral no cruzado de las fibras temporales por el quiasma",
+      "La proyección de fibras pupilomotoras al núcleo pretectal"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el escotoma de la unión. Las fibras nasales inferiores, tras cruzar, recorren unos 4 mm por el nervio óptico contralateral antes de incorporarse al tracto óptico; su compresión añade el defecto temporal superior contralateral al escotoma central ipsilateral.",
+    "fuente": "Cap. 13. Alteraciones de la vía visual",
+    "teoria": "campo-visual-topografia"
+  },
+  {
+    "id": "sem-069",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "¿Qué defecto campimétrico aparece primero en la mayoría de los adenomas hipofisarios que crecen hacia arriba?",
+    "opciones": [
+      "Cuadrantanopsia temporal superior bilateral",
+      "Cuadrantanopsia temporal inferior bilateral",
+      "Hemianopsia homónima congruente que respeta la visión macular",
+      "Escotoma centrocecal bilateral"
+    ],
+    "correcta": 0,
+    "explicacion": "Las fibras nasales inferiores cruzan por la parte inferior y anterior del quiasma, así que una masa que empuja desde abajo las comprime primero y produce el defecto en los cuadrantes temporales superiores, que luego progresa a hemianopsia bitemporal. Cuando el defecto inicial es temporal inferior conviene pensar en una lesión supraquiasmática, como el craneofaringioma.",
+    "fuente": "Cap. 13. Alteraciones de la vía visual",
+    "teoria": "campo-visual-topografia"
+  },
+  {
+    "id": "sem-070",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "Ante una hemianopsia homónima aislada, ¿qué indica un nistagmo optocinético asimétrico al girar el tambor hacia el lado de la lesión?",
+    "opciones": [
+      "Lesión parietal, con afectación de la vía de seguimiento lento",
+      "Lesión occipital, con las vías de seguimiento lento íntegras y campo congruente",
+      "Lesión del tracto óptico con pupila hemianópsica de Wernicke",
+      "Lesión del núcleo geniculado lateral"
+    ],
+    "correcta": 0,
+    "explicacion": "Es la regla de Cogan. Las lesiones parietales comprometen el seguimiento lento hacia el lado lesionado y alteran ese componente del nistagmo optocinético. En las occipitales el seguimiento está intacto y el nistagmo optocinético resulta simétrico.",
+    "fuente": "Cap. 13. Alteraciones de la vía visual",
+    "teoria": "campo-visual-topografia"
+  },
+  {
+    "id": "sem-071",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "¿Qué defecto campimétrico produce una lesión de la parte más anterior de la corteza calcarina?",
+    "opciones": [
+      "Un defecto monocular en el campo temporal del ojo contralateral",
+      "Un defecto macular homónimo congruente",
+      "Una hemianopsia homónima congruente que respeta la visión macular central",
+      "Una cuadrantanopsia homónima superior contralateral"
+    ],
+    "correcta": 0,
+    "explicacion": "Es la media luna temporal: la porción más anterior de la calcarina representa la zona temporal extrema del campo visual del ojo contralateral, que no tiene correspondencia en el otro ojo, de modo que el defecto resulta monocular pese a ser retroquiasmático.",
+    "fuente": "Cap. 13. Alteraciones de la vía visual",
+    "teoria": "campo-visual-topografia"
+  },
+  {
+    "id": "sem-072",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "Un paciente con lesiones bilaterales de la corteza visual no ve, pero niega su déficit. ¿Cómo se denomina este cuadro?",
+    "opciones": [
+      "Síndrome de Anton",
+      "Síndrome de Balint",
+      "Síndrome de Benson",
+      "Síndrome de Foster-Kennedy"
+    ],
+    "correcta": 0,
+    "explicacion": "La ceguera cortical con anosognosia del defecto visual es el síndrome de Anton-Babinski. El de Balint combina simultagnosia, ataxia óptica y apraxia de la mirada por lesión parietooccipital bilateral, y el de Benson es la atrofia cortical posterior.",
+    "fuente": "Cap. 13. Alteraciones de la vía visual"
+  },
+  {
+    "id": "sem-073",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "Un paciente refiere que lo ve todo «como en un televisor en blanco y negro» tras un infarto. ¿Dónde se localiza la lesión?",
+    "opciones": [
+      "Región occipitotemporal medial bilateral, con la calcarina respetada",
+      "Corteza calcarina bilateral en toda su extensión",
+      "Unión temporooccipital del hemisferio izquierdo, en el área subesplenial mesial",
+      "Radiaciones ópticas parietales bilaterales"
+    ],
+    "correcta": 0,
+    "explicacion": "La acromatopsia adquirida se debe al daño de las circunvoluciones lingual y fusiforme, irrigadas por la rama occipital inferior de la cerebral posterior, que respeta la rama calcarina. Suele asociar cuadrantanopsia superior. Si el paciente distingue los colores pero no sabe nombrarlos se trata de una anomia del color.",
+    "fuente": "Cap. 13. Alteraciones de la vía visual"
+  },
+  {
+    "id": "sem-074",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "Un paciente no puede mirar a la izquierda con ninguno de los dos ojos y, al mirar a la derecha, solo abduce el ojo derecho con nistagmo. ¿Qué estructuras están lesionadas?",
+    "opciones": [
+      "FRPP, núcleo del VI y fascículo longitudinal medial izquierdos",
+      "Fascículo longitudinal medial izquierdo de forma aislada",
+      "Núcleo del III par izquierdo y colículo superior",
+      "Fascículo longitudinal medial rostral intersticial de forma bilateral"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el síndrome del uno y medio: la lesión conjunta de la FRPP y el núcleo del VI abole toda la mirada hacia ese lado (el «uno») y la del fascículo longitudinal medial añade una oftalmoplejía internuclear que deja solo la abducción del ojo contralateral (el «medio»).",
+    "fuente": "Cap. 15. Movimientos oculares y alteraciones pupilares"
+  },
+  {
+    "id": "sem-075",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "¿Qué combinación sugiere una lesión nuclear del III par craneal en lugar de una lesión extraaxial del nervio?",
+    "opciones": [
+      "Ptosis bilateral con paresia del recto superior contralateral",
+      "Ptosis y midriasis ipsilaterales con exotropía e hipotropía del ojo afecto",
+      "Paresia aislada del oblicuo superior contralateral",
+      "Limitación de toda la mirada horizontal ipsilateral"
+    ],
+    "correcta": 0,
+    "explicacion": "El subnúcleo del elevador del párpado es único y los axones del recto superior se decusan, de modo que una lesión nuclear del III produce ptosis bilateral y paresia del recto superior contralateral junto a la paresia ipsilateral. La lesión extraaxial afecta solo a la musculatura ipsilateral.",
+    "fuente": "Cap. 15. Movimientos oculares y alteraciones pupilares"
+  },
+  {
+    "id": "sem-076",
+    "tema": "Semiología",
+    "subtema": "Vía visual y movimientos oculares",
+    "enunciado": "En un síndrome de Horner, ¿qué resultado del test de hidroxianfetamina indica una lesión postganglionar?",
+    "opciones": [
+      "La pupila afecta no se dilata",
+      "La pupila afecta se dilata más que la sana",
+      "Ambas pupilas se dilatan por igual",
+      "La pupila sana se contrae y la afecta no varía"
+    ],
+    "correcta": 0,
+    "explicacion": "La hidroxianfetamina libera la noradrenalina almacenada en la terminal postganglionar; si la neurona de tercer orden está dañada no hay depósito que liberar y la pupila no se dilata. En las lesiones de primer y segundo orden sí lo hace, y son también las que cursan con anhidrosis facial.",
+    "fuente": "Cap. 15. Movimientos oculares y alteraciones pupilares"
+  },
+  {
+    "id": "sem-077",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "¿Qué nervio recoge la sensibilidad gustativa de los dos tercios anteriores de la lengua?",
+    "opciones": [
+      "La cuerda del tímpano, rama del facial",
+      "La rama lingual del nervio mandibular",
+      "La rama lingual tonsilar del glosofaríngeo",
+      "El nervio petroso superficial mayor"
+    ],
+    "correcta": 0,
+    "explicacion": "El gusto de los dos tercios anteriores viaja por la cuerda del tímpano, el tercio posterior por el glosofaríngeo y la epiglotis y faringe por el vago; las tres aferencias convergen en el núcleo del tracto solitario. La rama lingual del mandibular recoge la información somatosensitiva (temperatura, tacto y picante), no el sabor.",
+    "fuente": "Cap. 14. Trastornos del gusto y del olfato"
+  },
+  {
+    "id": "sem-078",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "¿Qué peculiaridad anatómica distingue a la vía olfatoria del resto de modalidades sensoriales?",
+    "opciones": [
+      "Carece de conexión directa con el tálamo",
+      "Sus receptores no son capaces de regenerarse",
+      "Su primera neurona se sitúa fuera del sistema nervioso",
+      "Proyecta exclusivamente al hemisferio contralateral"
+    ],
+    "correcta": 0,
+    "explicacion": "Las células mitrales y en penacho proyectan por el tracto olfatorio lateral al núcleo olfatorio anterior, tubérculo olfatorio, corteza piriforme, amígdala y corteza entorrinal, sin relevo talámico. Las células receptoras sí se regeneran, con un recambio cada 30-60 días.",
+    "fuente": "Cap. 14. Trastornos del gusto y del olfato"
+  },
+  {
+    "id": "sem-079",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "¿Cuál es la causa más frecuente de trastorno del olfato de instauración aguda y carácter permanente en nuestro medio?",
+    "opciones": [
+      "Las infecciones víricas de vías respiratorias altas",
+      "El traumatismo craneoencefálico",
+      "La rinosinusitis crónica con poliposis nasal y la rinitis alérgica",
+      "Las enfermedades neurodegenerativas"
+    ],
+    "correcta": 0,
+    "explicacion": "La hiposmia postvírica es la primera causa de déficit agudo y permanente; solo persiste en un 6-13 % de los casos tras el catarro, y de ellos apenas un tercio recupera el olfato por completo. El envejecimiento es la principal causa global de disminución del olfato, pero no de instauración aguda.",
+    "fuente": "Cap. 14. Trastornos del gusto y del olfato"
+  },
+  {
+    "id": "sem-080",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "Ante un paciente que consulta por alteración del sabor de los alimentos, ¿qué hay que descartar en primer lugar?",
+    "opciones": [
+      "Un trastorno olfatorio primario, a menudo inadvertido",
+      "Una neuropatía del nervio facial, por inervar más papilas gustativas",
+      "Un fármaco anticolinérgico que reduzca la producción de saliva",
+      "Una lesión de la ínsula anterior derecha con agnosia gustativa"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre el 80 y el 90 % de los trastornos del gusto son secundarios a una alteración olfatoria primaria, a menudo inadvertida por su curso lentamente progresivo. Solo tras descartarla tiene sentido buscar causas farmacológicas, locales, sistémicas o neurológicas.",
+    "fuente": "Cap. 14. Trastornos del gusto y del olfato"
+  },
+  {
+    "id": "sem-081",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "En una parálisis facial periférica, ¿qué indica la presencia de hiperacusia?",
+    "opciones": [
+      "Lesión distal al ganglio geniculado, que denerva el músculo estapedio",
+      "Lesión proximal al ganglio geniculado, antes del nervio petroso superficial mayor",
+      "Lesión en el agujero estilomastoideo, tras la salida de la cuerda del tímpano",
+      "Lesión intraparotídea de las ramas terminales del nervio"
+    ],
+    "correcta": 0,
+    "explicacion": "El estapedio amortigua las vibraciones de los huesecillos y su denervación hace que los sonidos se perciban anormalmente intensos; sus fibras salen distales al ganglio geniculado. La disminución del lagrimeo, en cambio, señala una lesión más proximal, a la altura del petroso superficial mayor.",
+    "fuente": "Cap. 16. Trastornos de otros pares craneales"
+  },
+  {
+    "id": "sem-082",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "Al pedir a un paciente que diga «aaah» se observa descenso velopalatino derecho con desviación de la úvula hacia la izquierda. ¿Qué indica?",
+    "opciones": [
+      "Lesión del vago derecho, con desviación de la úvula al lado sano",
+      "Lesión del vago izquierdo, con desviación de la úvula al lado parético",
+      "Lesión del glosofaríngeo izquierdo con pérdida del reflejo nauseoso",
+      "Lesión bilateral del núcleo ambiguo con insuficiencia velofaríngea"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el signo de la cortina de Vernet: el velo del lado parético desciende y la úvula se desplaza hacia el lado sano, que sigue tirando. La aferencia del reflejo nauseoso depende del glosofaríngeo y la eferencia motora del vago, y conviene recordar que más de un 30 % de personas sanas lo tienen abolido.",
+    "fuente": "Cap. 16. Trastornos de otros pares craneales"
+  },
+  {
+    "id": "sem-083",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "¿Qué triada define al síndrome de Gradenigo?",
+    "opciones": [
+      "Otitis media aguda, dolor facial trigeminal y parálisis del VI par ipsilateral",
+      "Hipoacusia, acúfenos e inestabilidad por tumor del ángulo pontocerebeloso",
+      "Parálisis facial periférica, vesículas óticas y vértigo",
+      "Oftalmoplejía dolorosa, hipoestesia de V1 y buena respuesta al tratamiento corticoideo"
+    ],
+    "correcta": 0,
+    "explicacion": "El síndrome de Gradenigo deriva de una petrositis apical aguda, que compromete el trigémino y el VI par en la punta del peñasco. Hoy es poco frecuente gracias a los antibióticos. La cuarta opción describe el síndrome de Tolosa-Hunt y la tercera el de Ramsay Hunt.",
+    "fuente": "Cap. 16. Trastornos de otros pares craneales"
+  },
+  {
+    "id": "sem-084",
+    "tema": "Semiología",
+    "subtema": "Otros pares craneales",
+    "enunciado": "En una parálisis unilateral del hipogloso, ¿cómo se comporta la lengua?",
+    "opciones": [
+      "En reposo se desvía al lado sano y, al protruir, hacia el lado parético",
+      "En reposo se desvía al lado parético y, al protruir, hacia el lado sano",
+      "Se desvía al lado parético tanto en reposo como al protruir",
+      "Permanece centrada y solo aparece atrofia de la hemilengua con el paso del tiempo"
+    ],
+    "correcta": 0,
+    "explicacion": "Dentro de la boca predomina la acción del estilogloso del lado enfermo y la lengua se desvía levemente al lado sano; al protruirla, el geniogloso sano empuja y la desvía hacia el lado parético. Con el tiempo aparece atrofia de la hemilengua, a veces precedida de fasciculaciones.",
+    "fuente": "Cap. 16. Trastornos de otros pares craneales"
+  },
+  {
+    "id": "sem-085",
+    "tema": "Semiología",
+    "subtema": "Mareo y vértigo",
+    "enunciado": "En un síndrome vestibular agudo, ¿qué significa que el test del impulso cefálico sea normal?",
+    "opciones": [
+      "Obliga a descartar una causa central del cuadro",
+      "Confirma que se trata de una neuritis vestibular",
+      "Indica afectación bilateral del reflejo vestíbulo-ocular",
+      "Descarta el infarto de la arteria cerebelosa anteroinferior"
+    ],
+    "correcta": 0,
+    "explicacion": "En el protocolo HINTS un impulso cefálico normal orienta a origen central, porque la neuritis vestibular lesiona el reflejo vestíbulo-ocular y lo hace patológico. Las excepciones a recordar son la encefalopatía de Wernicke, el infarto de la AICA y la neuritis limitada al ramo inferior.",
+    "fuente": "Cap. 17. Mareo y vértigo",
+    "teoria": "sva-hints"
+  },
+  {
+    "id": "sem-086",
+    "tema": "Semiología",
+    "subtema": "Mareo y vértigo",
+    "enunciado": "¿Qué vía está dañada cuando se detecta una desviación ocular oblicua (skew deviation)?",
+    "opciones": [
+      "La vía graviceptiva",
+      "El fascículo longitudinal medial",
+      "La vía vestíbulo-espinal lateral",
+      "La vía del seguimiento lento"
+    ],
+    "correcta": 0,
+    "explicacion": "La desviación ocular oblicua es una desconjugación vertical no atribuible a oftalmoparesia, debida al daño de la vía graviceptiva, que mantiene la verticalidad del eje visual al inclinarse. Se detecta con el test de oclusión ocular alternante y su presencia obliga a descartar causas centrales.",
+    "fuente": "Cap. 17. Mareo y vértigo",
+    "teoria": "sva-hints"
+  },
+  {
+    "id": "sem-087",
+    "tema": "Semiología",
+    "subtema": "Mareo y vértigo",
+    "enunciado": "En un VPPB del conducto semicircular posterior explorado con Dix-Hallpike, ¿qué duración del nistagmo indica conductolitiasis?",
+    "opciones": [
+      "Menos de un minuto",
+      "Más de un minuto",
+      "Más de cinco minutos",
+      "Menos de cinco segundos"
+    ],
+    "correcta": 0,
+    "explicacion": "Con las otoconias libres en la endolinfa (conductolitiasis) el nistagmo se agota en menos de un minuto; si están adheridas a la cúpula (cupulolitiasis) persiste más tiempo. El nistagmo es vertical hacia arriba con componente rotatorio y se invierte al incorporar al paciente; el tratamiento de elección es la maniobra de Epley.",
+    "fuente": "Cap. 17. Mareo y vértigo"
+  },
+  {
+    "id": "sem-088",
+    "tema": "Semiología",
+    "subtema": "Mareo y vértigo",
+    "enunciado": "¿Qué síntoma conviene interrogar de forma dirigida cuando se sospecha un CANVAS?",
+    "opciones": [
+      "La tos crónica",
+      "La cefalea occipital postural",
+      "La hipoacusia fluctuante",
+      "La diplopía intermitente"
+    ],
+    "correcta": 0,
+    "explicacion": "La tos crónica y los síntomas menores de disautonomía son hallazgos relativamente frecuentes en el CANVAS. Pese a ser autosómico recesivo suele manifestarse entre los 50 y los 60 años, y muchos pacientes no presentan la triada completa, por lo que conviene explorar el reflejo vestíbulo-ocular en todo adulto con ataxia cerebelosa o neuropatía sensitiva.",
+    "fuente": "Cap. 17. Mareo y vértigo"
+  },
+  {
+    "id": "sem-089",
+    "tema": "Semiología",
+    "subtema": "Mareo y vértigo",
+    "enunciado": "¿Qué entidad cursa con episodios estereotipados de vértigo de menos de un minuto que responden a la carbamazepina?",
+    "opciones": [
+      "Paroxismia vestibular",
+      "Vértigo posicional paroxístico benigno",
+      "Crisis de Tumarkin",
+      "Migraña vestibular"
+    ],
+    "correcta": 0,
+    "explicacion": "La paroxismia vestibular se atribuye en algunos casos al contacto de un vaso con el nervio vestibular en el ángulo pontocerebeloso y responde a bloqueadores del canal de sodio, igual que la neuralgia del trigémino o el espasmo hemifacial. El diagnóstico es clínico, pero exige RM para excluir patología estructural.",
+    "fuente": "Cap. 17. Mareo y vértigo"
+  },
+  {
+    "id": "sem-090",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "¿Dónde hace sinapsis la segunda neurona de la vía de la sensibilidad vibratoria y propioceptiva consciente?",
+    "opciones": [
+      "En los núcleos grácil y cuneiforme del bulbo raquídeo",
+      "En la cabeza del asta posterior medular",
+      "En el núcleo ventral posterolateral del tálamo contralateral",
+      "En el cuello del asta posterior medular"
+    ],
+    "correcta": 0,
+    "explicacion": "Estas fibras no hacen sinapsis en la médula: ascienden por los cordones posteriores hasta los núcleos grácil y cuneiforme, donde la segunda neurona se decusa formando el lemnisco medial. Las fibras termoalgésicas sí sinaptan en la cabeza del asta posterior y cruzan a nivel medular.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-091",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "¿Qué lesión medular produce una alteración termoalgésica con nivel suspendido?",
+    "opciones": [
+      "La lesión centromedular, que interrumpe las fibras en la comisura gris",
+      "La lesión de los cordones posteriores en un único segmento",
+      "La lesión del cordón lateral por encima del nivel explorado",
+      "La lesión de las astas anteriores en varios segmentos medulares contiguos"
+    ],
+    "correcta": 0,
+    "explicacion": "Las fibras termoalgésicas se decusan por la comisura gris anterior en el nivel de entrada, de modo que una lesión centromedular las interrumpe justo ahí y deja un déficit en banda, con sensibilidad conservada por encima y por debajo. Si se extiende a las astas anteriores añade paresia de segunda motoneurona en ese nivel.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-092",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "¿Qué cuadro define al infarto de la arteria espinal anterior?",
+    "opciones": [
+      "Déficit motor y termoalgésico bilaterales con retención urinaria",
+      "Déficit motor bilateral con pérdida vibratoria y propioceptiva y signo de Lhermitte",
+      "Déficit motor unilateral con pérdida termoalgésica contralateral en banda",
+      "Déficit sensitivo en silla de montar con dolor radicular asimétrico"
+    ],
+    "correcta": 0,
+    "explicacion": "La espinal anterior irriga los dos tercios anteriores de la médula, así que se afectan la vía corticoespinal, el haz espinotalámico y el control esfinteriano, y los cordones posteriores quedan indemnes. En fase crónica aparece amiotrofia por lesión de las astas anteriores. La segunda opción corresponde al infarto de las espinales posteriores.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-093",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "¿Qué rasgo orienta a síndrome del cono medular más que a síndrome de cauda equina?",
+    "opciones": [
+      "La disfunción esfinteriana precoz con déficit motor simétrico y leve",
+      "El dolor radicular intenso desde el inicio del cuadro",
+      "La hipoestesia en silla de montar claramente asimétrica y de predominio unilateral",
+      "La debilidad exclusivamente de segunda motoneurona"
+    ],
+    "correcta": 0,
+    "explicacion": "El cono medular da un cuadro simétrico, con anestesia en silla de montar, disfunción esfinteriana y sexual precoz y síntomas motores leves que pueden mezclar signos de primera y segunda motoneurona. La cauda equina es asimétrica, con dolor radicular prominente, déficit de segunda motoneurona y afectación esfinteriana más tardía.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-094",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "Tras un traumatismo, un paciente presenta mano en garra con debilidad de los músculos intrínsecos y un síndrome de Horner ipsilateral. ¿Qué lesión tiene?",
+    "opciones": [
+      "Parálisis del plexo braquial inferior (C8-T1)",
+      "Parálisis del plexo braquial superior (C5-C6)",
+      "Neuropatía cubital por compresión en el canal epitroclear",
+      "Radiculopatía C7 traumática"
+    ],
+    "correcta": 0,
+    "explicacion": "Es la parálisis de Klumpke. Las raíces C8 y T1 llevan las fibras simpáticas que emergen del centro cilioespinal de Budge-Waller, por lo que su lesión preganglionar añade el síndrome de Horner. La parálisis superior, o de Duchenne-Erb, deja el brazo en aducción y pronación.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-095",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "Un varón joven presenta braquialgia aguda intensa seguida de debilidad y atrofia con predominio en las raíces superiores. ¿Cuál es el diagnóstico más probable?",
+    "opciones": [
+      "Síndrome de Parsonage-Turner",
+      "Síndrome del opérculo torácico",
+      "Plexopatía braquial por radiación",
+      "Amiotrofia diabética"
+    ],
+    "correcta": 0,
+    "explicacion": "La plexopatía braquial inflamatoria aguda o síndrome de Parsonage-Turner es típica de varones jóvenes, de etiología desconocida, y en la mayoría de los casos se resuelve de forma espontánea y completa en meses. La amiotrofia diabética o síndrome de Bruns-Garland afecta al plexo lumbosacro.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-096",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "Ante una marcha en estepaje unilateral, ¿qué exploración distingue una radiculopatía L5 de una neuropatía peronea?",
+    "opciones": [
+      "La inversión del tobillo",
+      "La extensión del primer dedo",
+      "La flexión dorsal del pie",
+      "La eversión del tobillo"
+    ],
+    "correcta": 0,
+    "explicacion": "La flexión dorsal, la eversión y la extensión del primer dedo fallan en ambos cuadros. La inversión depende del tibial posterior, inervado por el nervio tibial pero dependiente de L5, de modo que está afectada en la radiculopatía y conservada en la lesión del peroneo en el cuello del peroné.",
+    "fuente": "Cap. 21. Trastornos de la marcha",
+    "teoria": "marcha-patrones"
+  },
+  {
+    "id": "sem-097",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "¿Qué rasgo diferencia mejor una marcha atáxica sensitiva de una cerebelosa?",
+    "opciones": [
+      "El empeoramiento marcado al cerrar los ojos o en la oscuridad",
+      "La ampliación de la base de sustentación al caminar y en bipedestación",
+      "El aumento de la inestabilidad en los giros",
+      "La dificultad para realizar la marcha en tándem"
+    ],
+    "correcta": 0,
+    "explicacion": "Ambas amplían la base y dificultan el tándem, pero el déficit propioceptivo puede compensarse parcialmente con la vista: por eso la ataxia sensitiva empeora claramente a oscuras y el Romberg es positivo. Además el paso es más corto y el paciente pisa dando un pisotón mientras mira sus pies.",
+    "fuente": "Cap. 21. Trastornos de la marcha",
+    "teoria": "marcha-patrones"
+  },
+  {
+    "id": "sem-098",
+    "tema": "Semiología",
+    "subtema": "Temblor y ataxia",
+    "enunciado": "Al pedir a un paciente que extienda los brazos, el temblor desaparece y reaparece a los 5-6 segundos. ¿Qué indica este comportamiento?",
+    "opciones": [
+      "Temblor de reposo hipodopaminérgico, que es reemergente",
+      "Temblor esencial, que se inicia sin latencia al adquirir la postura",
+      "Temblor fisiológico exacerbado por activación simpática",
+      "Temblor funcional, por el fenómeno de entrainment"
+    ],
+    "correcta": 0,
+    "explicacion": "La reemergencia tras una latencia de unos segundos es propia del temblor de reposo por disfunción nigroestriatal. El temblor esencial no tiene latencia: comienza en cuanto se adopta la nueva postura. Otro rasgo útil es que el temblor de reposo aumenta con la distracción mental o motora.",
+    "fuente": "Cap. 19. Semiología del temblor"
+  },
+  {
+    "id": "sem-099",
+    "tema": "Semiología",
+    "subtema": "Temblor y ataxia",
+    "enunciado": "¿Qué caracteriza al temblor de Holmes o rúbrico?",
+    "opciones": [
+      "Temblor unilateral de baja frecuencia y predominio intencional",
+      "Temblor bilateral y simétrico de alta frecuencia y predominio postural",
+      "Temblor axial que aparece en bipedestación y cede al caminar",
+      "Temblor proximal de gran amplitud en abducción-aducción escapular"
+    ],
+    "correcta": 0,
+    "explicacion": "El temblor de Holmes surge de una lesión focal que combina la disfunción cerebelo-rubro-tálamo-cortical con la de la vía nigroestriatal, por lo que es contralateral a la lesión, de menos de 4 Hz, y presenta componentes de reposo, postural e intencional, con predominio claro del intencional.",
+    "fuente": "Cap. 19. Semiología del temblor"
+  },
+  {
+    "id": "sem-100",
+    "tema": "Semiología",
+    "subtema": "Temblor y ataxia",
+    "enunciado": "¿Qué hallazgo se considera patognomónico de la enfermedad de Whipple del sistema nervioso central?",
+    "opciones": [
+      "La miorritmia oculomasticatoria",
+      "El temblor aleteante o wing-beating",
+      "La hiperintensidad del pedúnculo cerebeloso medio",
+      "La disartria escándida con nistagmo evocado por la mirada"
+    ],
+    "correcta": 0,
+    "explicacion": "La miorritmia oculomasticatoria combina movimientos oscilatorios repetidos de convergencia ocular con contracción rítmica del masetero y es patognomónica del Whipple del SNC. El temblor aleteante orienta a enfermedad de Wilson y la hiperintensidad del pedúnculo cerebeloso medio al FXTAS.",
+    "fuente": "Cap. 19. Semiología del temblor"
+  }
+]

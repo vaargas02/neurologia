@@ -1,0 +1,212 @@
+[
+  {
+    "id": "tvs-001",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "¿En qué consiste el signo de la pérdida de la inercia en la debilidad funcional?",
+    "opciones": [
+      "Al soltar sin aviso el miembro explorado, este queda suspendido en el aire por co-contracción",
+      "El miembro cae bruscamente en cuanto se deja de sostener",
+      "El paciente no consigue mantener la postura ni un segundo",
+      "El miembro se pronaciona lentamente antes de caer"
+    ],
+    "correcta": 0,
+    "explicacion": "Al soltar el miembro sin advertirlo, queda suspendido porque el paciente contrae agonistas y antagonistas; es típico que al percatarse lo baje de golpe. Los resoplidos y quejas durante la exploración de fuerza apuntan en el mismo sentido.",
+    "fuente": "Cap. 87. Patología funcional en neurología"
+  },
+  {
+    "id": "tvs-002",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "¿Qué distribución suele tener el trastorno sensitivo funcional?",
+    "opciones": [
+      "Hemicorporal o por regiones que no se corresponden con dermatomas ni territorios nerviosos",
+      "Ajustada a un dermatoma completo y reproducible",
+      "En guante y calcetín simétrica y progresiva",
+      "Limitada al territorio de un único tronco nervioso"
+    ],
+    "correcta": 0,
+    "explicacion": "Lo habitual son síndromes sensitivos hemicorporales o regiones corporales que no siguen dermatomas completos ni territorios de troncos nerviosos.",
+    "fuente": "Cap. 87. Patología funcional en neurología"
+  },
+  {
+    "id": "tvs-003",
+    "tema": "Temas transversales",
+    "subtema": "Neurointensivos y neurofisiología",
+    "enunciado": "¿Qué parámetros del ventilador se modifican para mejorar la oxigenación?",
+    "opciones": [
+      "La FiO2 y la PEEP",
+      "La frecuencia respiratoria y el volumen tidal",
+      "El tiempo inspiratorio y la relación I:E",
+      "La presión soporte y el trigger"
+    ],
+    "correcta": 0,
+    "explicacion": "La oxigenación se monitoriza con pulsioximetría y gasometría y se mejora subiendo la FiO2 y la PEEP (habitualmente 5-8 cmH2O). La ventilación se corrige con la frecuencia respiratoria (16-18 rpm) y el volumen tidal (6-8 ml/kg de peso ideal).",
+    "fuente": "Cap. 88. Neurointensivos"
+  },
+  {
+    "id": "tvs-004",
+    "tema": "Temas transversales",
+    "subtema": "Neurointensivos y neurofisiología",
+    "enunciado": "¿Qué aspectos deben valorarse antes de decidir la intubación en el paciente neurocrítico?",
+    "opciones": [
+      "Urgencia de la vía aérea, capacidad de protegerla, riesgo de aspiración, PIC, hemodinámica y necesidad de inmovilización",
+      "Únicamente la saturación de oxígeno y la frecuencia respiratoria",
+      "Solo la puntuación en la escala de coma de Glasgow",
+      "Solo la presencia de lesión cervical conocida"
+    ],
+    "correcta": 0,
+    "explicacion": "La decisión integra la urgencia del manejo de la vía aérea, la capacidad de protegerla, el riesgo de aspiración, la presión intracraneal, la situación hemodinámica y las necesidades de inmovilización, sobre todo si se sospecha lesión cervical.",
+    "fuente": "Cap. 88. Neurointensivos"
+  },
+  {
+    "id": "tvs-005",
+    "tema": "Temas transversales",
+    "subtema": "Neurointensivos y neurofisiología",
+    "enunciado": "¿Qué duración mínima establece el programa formativo para la rotación del residente de neurología por neurofisiología clínica?",
+    "opciones": [
+      "Tres meses",
+      "Un mes",
+      "Seis meses",
+      "Un año"
+    ],
+    "correcta": 0,
+    "explicacion": "Según el programa de formación vigente la rotación debe durar al menos 3 meses e incluir EEG, potenciales evocados y el resto de técnicas. En España la neurofisiología clínica es una especialidad distinta de la neurología.",
+    "fuente": "Cap. 89. Neurofisiología clínica"
+  },
+  {
+    "id": "tvs-006",
+    "tema": "Temas transversales",
+    "subtema": "Neuropediatría",
+    "enunciado": "¿Qué hitos motores corresponden a la etapa de 3 a 6 meses?",
+    "opciones": [
+      "Control de la musculatura axial, volteo e inicio de la sedestación",
+      "Sostén cefálico y apertura y cierre de las manos",
+      "Sedestación estable y pinza fina",
+      "Marcha autónoma y subida de escalones"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre los 3 y 6 meses se controla la musculatura axial, aparece el volteo y se inicia la sedestación, junto a balbuceo no imitativo y sonrisa selectiva. El sostén cefálico corresponde a los 1-3 meses.",
+    "fuente": "Cap. 90. Neuropediatría"
+  },
+  {
+    "id": "tvs-007",
+    "tema": "Temas transversales",
+    "subtema": "Neuropediatría",
+    "enunciado": "¿Cuál es la causa más frecuente de vértigo paroxístico en niños?",
+    "opciones": [
+      "El vértigo paroxístico benigno de la infancia",
+      "La neuritis vestibular",
+      "El vértigo posicional paroxístico benigno",
+      "La enfermedad de Ménière infantil"
+    ],
+    "correcta": 0,
+    "explicacion": "Se inicia entre el año y los 5 años, con episodios incapacitantes de vértigo que suelen durar minutos, a menudo con nistagmo o vómitos y a veces cefalea; obliga a descartar una etiología comicial.",
+    "fuente": "Cap. 90. Neuropediatría"
+  },
+  {
+    "id": "tvs-008",
+    "tema": "Temas transversales",
+    "subtema": "Neuropediatría",
+    "enunciado": "¿Qué duración define el dolor abdominal de la migraña abdominal?",
+    "opciones": [
+      "Entre 2 y 72 horas",
+      "Menos de 30 minutos",
+      "Entre 5 y 60 minutos",
+      "Más de una semana"
+    ],
+    "correcta": 0,
+    "explicacion": "La migraña abdominal cursa con dolor abdominal de intensidad moderada o severa que dura entre 2 y 72 horas.",
+    "fuente": "Cap. 90. Neuropediatría"
+  },
+  {
+    "id": "tvs-009",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "Según los datos que recoge FEDACE para 2022, ¿cuántas personas viven en España con daño cerebral adquirido?",
+    "opciones": [
+      "Más de 435 000",
+      "Unas 50 000",
+      "Unas 150 000",
+      "Más de un millón"
+    ],
+    "correcta": 0,
+    "explicacion": "FEDACE recoge en 2022 más de 435 400 personas con daño cerebral adquirido en España, definido como la lesión repentina del encéfalo que compromete la independencia funcional.",
+    "fuente": "Cap. 91. Neurorrehabilitación: daño cerebral adquirido"
+  },
+  {
+    "id": "tvs-010",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "¿De qué se ocupa la logopedia dentro del equipo de neurorrehabilitación?",
+    "opciones": [
+      "De la deglución y de la comunicación en sus modalidades de voz, habla y lenguaje oral y escrito",
+      "Del desempeño ocupacional en los ámbitos personal, laboral y de ocio",
+      "De la intervención sobre las alteraciones cognitivo-conductuales",
+      "Del entrenamiento de la fuerza y el equilibrio"
+    ],
+    "correcta": 0,
+    "explicacion": "La logopedia evalúa, previene y rehabilita las alteraciones de la deglución y de la comunicación —comprensión y expresión— y establece sistemas alternativos de comunicación si hacen falta. El desempeño ocupacional corresponde a terapia ocupacional.",
+    "fuente": "Cap. 91. Neurorrehabilitación: daño cerebral adquirido"
+  },
+  {
+    "id": "tvs-011",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "¿Qué dominios evalúa el ACE-III?",
+    "opciones": [
+      "Atención/orientación, memoria, fluencia, lenguaje y función visuoespacial",
+      "Solo memoria, como el Fototest y el MIS",
+      "Únicamente habilidad visuoespacial y praxia",
+      "Exclusivamente la capacidad lingüística"
+    ],
+    "correcta": 0,
+    "explicacion": "El Addenbrooke's Cognitive Examination III cubre atención y orientación, memoria, fluencia, lenguaje y función visuoespacial. El MIS y el Fototest exploran memoria, y el MLSE la capacidad lingüística.",
+    "fuente": "Cap. 92. Neuropsicología clínica"
+  },
+  {
+    "id": "tvs-012",
+    "tema": "Temas transversales",
+    "subtema": "Funcional y neuropsicología",
+    "enunciado": "¿Qué test de cribado está diseñado para minimizar la influencia del nivel cultural y del idioma?",
+    "opciones": [
+      "El RUDAS",
+      "El MoCA",
+      "El ACE-III",
+      "El Test del Reloj"
+    ],
+    "correcta": 0,
+    "explicacion": "La Rowland Universal Dementia Assessment Scale explora orientación visuoespacial, praxia, visuoconstrucción, juicio, memoria y fluencia semántica, y está pensada como instrumento universal.",
+    "fuente": "Cap. 92. Neuropsicología clínica"
+  },
+  {
+    "id": "tvs-013",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "En un documento de voluntades anticipadas, ¿a qué horizonte temporal corresponde la «enfermedad terminal»?",
+    "opciones": [
+      "En torno a 6 meses",
+      "En torno a 12 meses",
+      "Días u horas",
+      "Dos años"
+    ],
+    "correcta": 0,
+    "explicacion": "El documento suele situar la enfermedad avanzada e incurable en torno a 12 meses, la enfermedad terminal en 6 meses y la situación de agonía en días u horas, marcando cuándo debe tenerse en cuenta lo escrito.",
+    "fuente": "Cap. 94. Cuidados paliativos en neurología"
+  },
+  {
+    "id": "tvs-014",
+    "tema": "Temas transversales",
+    "subtema": "Rehabilitación y paliativos",
+    "enunciado": "¿Qué contenidos incluye el apartado de instrucciones sobre atención sanitaria de las voluntades anticipadas?",
+    "opciones": [
+      "Órdenes de no reanimación, rechazo de soporte ventilatorio o nutrición, sedación y preferencias sobre el lugar del fallecimiento",
+      "Únicamente la decisión sobre donación de órganos",
+      "Solo la designación del representante legal",
+      "Exclusivamente el rechazo a la reanimación cardiopulmonar"
+    ],
+    "correcta": 0,
+    "explicacion": "Ese apartado recoge las medidas que la persona quiere o rechaza —no reanimación, límites al soporte ventilatorio o a la nutrición, sedación— y otros deseos como el lugar preferido de fallecimiento o qué hacer con el cuerpo. La donación de órganos se recoge aparte.",
+    "fuente": "Cap. 94. Cuidados paliativos en neurología"
+  }
+]

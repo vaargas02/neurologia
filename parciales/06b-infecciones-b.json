@@ -1,0 +1,333 @@
+[
+  {
+    "id": "inf-018",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "¿Cuál es actualmente la tercera causa más frecuente de meningitis bacteriana comunitaria en el adulto?",
+    "opciones": [
+      "Listeria monocytogenes",
+      "Haemophilus influenzae",
+      "Staphylococcus aureus",
+      "Escherichia coli"
+    ],
+    "correcta": 0,
+    "explicacion": "Tras neumococo y meningococo, que suman el 80 % de los casos del adulto, Listeria ocupa el tercer lugar y su incidencia está aumentando por el envejecimiento poblacional y la mayor tasa de inmunosupresión. Haemophilus ha caído drásticamente con la vacunación pediátrica.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-019",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "¿Qué tratamiento antibiótico empírico corresponde a una meningitis aguda comunitaria en un paciente de 68 años?",
+    "opciones": [
+      "Cefalosporina de tercera generación, vancomicina y ampicilina",
+      "Cefalosporina de tercera generación en monoterapia",
+      "Ceftazidima más vancomicina",
+      "Ampicilina más gentamicina"
+    ],
+    "correcta": 0,
+    "explicacion": "Por encima de los 50 años, en inmunodeprimidos o en etílicos hay que cubrir neumococo resistente (vancomicina) y Listeria (ampicilina) además de la cefalosporina. La pauta con ceftazidima corresponde a las meningitis nosocomiales o posquirúrgicas.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-020",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "¿Cómo se pauta la dexametasona en la meningitis bacteriana aguda del adulto?",
+    "opciones": [
+      "10 mg antes o junto con la primera dosis de antibiótico y después 10 mg cada 6 h durante 4 días",
+      "8 mg cada 8 h durante 10 días, empezando al confirmarse la etiología",
+      "Un bolo único de 40 mg tras completar las primeras 24 h de antibiótico",
+      "1 mg/kg al día durante 2 semanas con descenso progresivo"
+    ],
+    "correcta": 0,
+    "explicacion": "La dexametasona reduce la mortalidad, sobre todo en la meningitis neumocócica grave, y debe darse antes o con la primera dosis de antibiótico; algunos autores amplían la ventana hasta 4 horas después. Se suspende si se confirma que el origen no es neumocócico ni por Haemophilus.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-021",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "En una meningitis bacteriana aguda, ¿qué recuento celular en el LCR se considera un factor de mal pronóstico?",
+    "opciones": [
+      "Menos de 100 células/μL",
+      "Entre 500 y 1000 células/μL",
+      "Más de 2000 células/μL",
+      "Más de 1180 polinucleares/μL"
+    ],
+    "correcta": 0,
+    "explicacion": "Una pleocitosis baja traduce una respuesta inflamatoria insuficiente frente a una infección masiva y se asocia a peor evolución. Las cifras altas (>2000 células o >1180 polinucleares) apoyan el diagnóstico de meningitis bacteriana, pero no empeoran el pronóstico.",
+    "teoria": "lcr-perfiles",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-022",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "¿Qué quimioprofilaxis es de elección en una conviviente embarazada de un paciente con meningitis meningocócica?",
+    "opciones": [
+      "Ceftriaxona 250 mg intramuscular en dosis única",
+      "Ciprofloxacino 500 mg oral en dosis única",
+      "Rifampicina 600 mg cada 12 h durante 2 días",
+      "Amoxicilina 1 g cada 8 h durante 5 días"
+    ],
+    "correcta": 0,
+    "explicacion": "La ceftriaxona intramuscular es la primera elección en el embarazo. El ciprofloxacino no se recomienda y la rifampicina solo puede usarse a partir del primer trimestre.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-023",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "¿Cuánto debe durar el tratamiento de una meningitis por Listeria monocytogenes o por bacilos gramnegativos?",
+    "opciones": [
+      "Al menos 3 semanas",
+      "7 días",
+      "10 días",
+      "14 días"
+    ],
+    "correcta": 0,
+    "explicacion": "Se prolonga a 3 semanas o más por la elevada tasa de recidivas con pautas cortas. Como referencia, 7 días bastan para el meningococo y se recomiendan 14 para el neumococo.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-024",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "En la fase meníngea de la meningitis tuberculosa, ¿qué par craneal se afecta con más frecuencia?",
+    "opciones": [
+      "El VI",
+      "El III",
+      "El VII",
+      "El VIII"
+    ],
+    "correcta": 0,
+    "explicacion": "El sexto par es el más afectado, seguido del III, IV, VII y VIII. La fase meníngea añade meningismo, vómitos, letargia y afectación de vías largas tras un pródromo de 1 a 3 semanas.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-025",
+    "tema": "Infecciones SNC",
+    "subtema": "Meningitis bacterianas",
+    "enunciado": "¿Qué tríada neurológica caracteriza la fase diseminada precoz de la enfermedad de Lyme?",
+    "opciones": [
+      "Meningitis linfocitaria, neuropatía craneal y radiculoneuropatía dolorosa",
+      "Meningitis purulenta, mielitis transversa y ataxia cerebelosa",
+      "Encefalopatía, mononeuritis múltiple y artritis persistente",
+      "Uveítis, neuropatía óptica y polirradiculopatía desmielinizante"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el síndrome de Bannwarth, con afectación preferente del VII par, uni o bilateral; cada componente puede darse de forma aislada. La encefalopatía subaguda, la mononeuritis múltiple y la artritis corresponden a la fase diseminada tardía.",
+    "fuente": "Cap. 40. Infecciones bacterianas"
+  },
+  {
+    "id": "inf-026",
+    "tema": "Infecciones SNC",
+    "subtema": "Absceso y empiemas",
+    "enunciado": "Un absceso cerebral originado en una otitis media o una mastoiditis, ¿dónde se localiza preferentemente?",
+    "opciones": [
+      "En el lóbulo temporal y el cerebelo",
+      "En los lóbulos frontales",
+      "En la unión de sustancia gris y blanca de forma múltiple",
+      "En los ganglios de la base"
+    ],
+    "correcta": 0,
+    "explicacion": "Los abscesos por contigüidad son únicos y se sitúan junto al foco: temporal y cerebelo en el origen otomastoideo, frontal en el sinusal. Las lesiones múltiples en la unión córtico-subcortical y en territorio de la cerebral media sugieren diseminación hematógena.",
+    "fuente": "Cap. 41. Absceso cerebral, empiemas epidural y subdural"
+  },
+  {
+    "id": "inf-027",
+    "tema": "Infecciones SNC",
+    "subtema": "Absceso y empiemas",
+    "enunciado": "¿Cuál es la vía de infección más frecuente del absceso epidural espinal?",
+    "opciones": [
+      "La diseminación hematógena",
+      "La extensión desde una osteomielitis vertebral",
+      "La inoculación yatrogénica por catéter epidural",
+      "La extensión desde un absceso de psoas"
+    ],
+    "correcta": 0,
+    "explicacion": "La vía hematógena supone casi la mitad de los casos, seguida de la extensión por contigüidad y de la inoculación yatrogénica; en un 20-50 % no se identifica el foco. Staphylococcus aureus es el germen más habitual y la localización dorsolumbar la más frecuente.",
+    "fuente": "Cap. 41. Absceso cerebral, empiemas epidural y subdural"
+  },
+  {
+    "id": "inf-028",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones víricas",
+    "enunciado": "¿Cuál es la principal causa de encefalitis vírica esporádica en el sujeto inmunocompetente?",
+    "opciones": [
+      "El virus herpes simple tipo 1",
+      "Los enterovirus no polio",
+      "El virus varicela-zóster",
+      "El virus del Nilo Occidental"
+    ],
+    "correcta": 0,
+    "explicacion": "El VHS-1 causa el 22-25 % de las encefalitis víricas, con una incidencia de 2-4 casos por 100 000 habitantes y año. Los enterovirus son sobre todo causa de meningitis aséptica y el virus del Nilo produce brotes epidémicos, no casos esporádicos.",
+    "fuente": "Cap. 42. Infecciones víricas"
+  },
+  {
+    "id": "inf-029",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones víricas",
+    "enunciado": "Ante una afectación temporal medial bilateral en la RM, ¿qué rasgo orienta a encefalitis herpética frente a una encefalitis autoinmune?",
+    "opciones": [
+      "La asimetría de las lesiones",
+      "La ausencia de captación de gadolinio",
+      "La restricción homogénea en difusión",
+      "La afectación simultánea de los ganglios de la base"
+    ],
+    "correcta": 0,
+    "explicacion": "La encefalitis por VHS-1 afecta la región medial e inferior del lóbulo temporal, la ínsula y la región orbitofrontal, de forma unilateral al inicio y asimétrica cuando es bilateral; las encefalitis autoinmunes suelen mostrar alteraciones simétricas. Los focos microhemorrágicos y la captación de gadolinio también apoyan el origen herpético.",
+    "fuente": "Cap. 42. Infecciones víricas"
+  },
+  {
+    "id": "inf-030",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones víricas",
+    "enunciado": "Ante una sospecha clínica firme de encefalitis herpética con PCR negativa en LCR en las primeras 24 horas, ¿cuál es la conducta adecuada?",
+    "opciones": [
+      "Mantener el aciclovir y repetir la punción lumbar a las 48 horas",
+      "Suspender el aciclovir y ampliar el estudio etiológico",
+      "Sustituir el aciclovir por ganciclovir más foscarnet",
+      "Solicitar serología de VHS en suero y esperar el resultado"
+    ],
+    "correcta": 0,
+    "explicacion": "La PCR puede dar falsos negativos en las primeras 24 horas, cuando la carga viral en el LCR aún es baja, por lo que un resultado negativo precoz no descarta el diagnóstico. En la fase aguda la PCR es más útil que la serología, que se reserva para fases avanzadas.",
+    "fuente": "Cap. 42. Infecciones víricas"
+  },
+  {
+    "id": "inf-031",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones víricas",
+    "enunciado": "¿Qué patrón de RM es característico de la leucoencefalopatía multifocal progresiva?",
+    "opciones": [
+      "Lesiones múltiples y asimétricas de sustancia blanca subcortical parieto-occipital, sin efecto masa ni captación",
+      "Lesiones periventriculares confluentes y simétricas con captación en anillo",
+      "Hiperintensidades T2 en ganglios de la base y tálamo con restricción difusa",
+      "Realce ependimario con alteración de la sustancia blanca periventricular"
+    ],
+    "correcta": 0,
+    "explicacion": "El virus JC invade los oligodendrocitos y produce lesiones asimétricas de sustancia blanca, a veces en el pedúnculo cerebeloso medio, que apenas captan contraste. La captación es más frecuente en la LMP por natalizumab, y el efecto masa con edema aparece si se desarrolla un síndrome de reconstitución inmune. El patrón con realce ependimario corresponde al CMV.",
+    "fuente": "Cap. 42. Infecciones víricas"
+  },
+  {
+    "id": "inf-032",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones víricas",
+    "enunciado": "¿Con qué cifra de linfocitos CD4 debe considerarse una encefalitis por citomegalovirus en un paciente con VIH?",
+    "opciones": [
+      "Por debajo de 50/mm³",
+      "Por debajo de 200/mm³",
+      "Por debajo de 350/mm³",
+      "Por debajo de 500/mm³"
+    ],
+    "correcta": 0,
+    "explicacion": "La encefalitis y la ventriculitis por CMV aparecen en inmunodepresión muy avanzada, con CD4 inferiores a 50. Como referencia, la reactivación del virus JC con LMP ocurre por debajo de 200 CD4, igual que la neurotoxoplasmosis, con mayor riesgo por debajo de 100.",
+    "fuente": "Cap. 42. Infecciones víricas"
+  },
+  {
+    "id": "inf-033",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones víricas",
+    "enunciado": "¿Qué hallazgo en el EEG es característico de la panencefalitis esclerosante subaguda?",
+    "opciones": [
+      "Los complejos periódicos de Radermecker",
+      "Las descargas periódicas lateralizadas",
+      "El cepillo delta extremo",
+      "La actividad delta rítmica frontal intermitente"
+    ],
+    "correcta": 0,
+    "explicacion": "Son ondas delta y agudas o polifásicas bilaterales y síncronas con las mioclonías. Esta variante crónica del sarampión surge en niños 2 a 10 años tras la primoinfección y cursa con deterioro cognitivo, ataxia, crisis y mioclonías subcorticales.",
+    "fuente": "Cap. 42. Infecciones víricas"
+  },
+  {
+    "id": "inf-034",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones fúngicas y parasitarias",
+    "enunciado": "En la meningitis criptocócica, ¿cómo se maneja la hipertensión intracraneal?",
+    "opciones": [
+      "Con punciones lumbares evacuadoras repetidas y, si es preciso, drenaje ventricular",
+      "Con corticoides a dosis altas durante la fase de inducción",
+      "Con acetazolamida oral hasta negativizar el antígeno capsular",
+      "Con manitol intravenoso y restricción hídrica estricta"
+    ],
+    "correcta": 0,
+    "explicacion": "La presión intracraneal está elevada hasta en el 75 % de los pacientes y se asocia a peor pronóstico, por lo que se maneja de forma agresiva con evacuaciones repetidas. Los corticoides no se recomiendan porque aumentan las complicaciones.",
+    "fuente": "Cap. 43. Infecciones fúngicas y parasitarias del SNC"
+  },
+  {
+    "id": "inf-035",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones fúngicas y parasitarias",
+    "enunciado": "¿Cuál es el tratamiento de la mucormicosis rinocerebral?",
+    "opciones": [
+      "Desbridamiento quirúrgico precoz más anfotericina B liposomal a dosis altas",
+      "Voriconazol intravenoso asociado a una equinocandina",
+      "Anfotericina B más flucitosina seguidas de fluconazol",
+      "Posaconazol en monoterapia hasta la resolución radiológica"
+    ],
+    "correcta": 0,
+    "explicacion": "Ante la sospecha hay que desbridar precozmente y añadir anfotericina B liposomal, además de corregir los factores predisponentes (hiperglucemia, acidosis, neutropenia). El posaconazol solo sirve de mantenimiento si hubo respuesta; el voriconazol es el tratamiento de la aspergilosis del SNC.",
+    "fuente": "Cap. 43. Infecciones fúngicas y parasitarias del SNC"
+  },
+  {
+    "id": "inf-036",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones fúngicas y parasitarias",
+    "enunciado": "¿Cuál es la prueba serológica de elección en la neurocisticercosis?",
+    "opciones": [
+      "El EITB en suero",
+      "El ELISA en LCR",
+      "La detección de antígeno en suero",
+      "La inmunofluorescencia indirecta en LCR"
+    ],
+    "correcta": 0,
+    "explicacion": "El EITB tiene especificidad del 100 % y es más sensible en suero que en LCR, de modo que la punción lumbar no es necesaria para el diagnóstico. Su sensibilidad baja al 60 % con un quiste único o calcificado, y en esos casos se recurre al ELISA en LCR; la detección de antígeno sirve sobre todo para monitorizar el tratamiento.",
+    "fuente": "Cap. 43. Infecciones fúngicas y parasitarias del SNC"
+  },
+  {
+    "id": "inf-037",
+    "tema": "Infecciones SNC",
+    "subtema": "Infecciones fúngicas y parasitarias",
+    "enunciado": "¿En qué consiste el signo de la diana excéntrica de la toxoplasmosis cerebral?",
+    "opciones": [
+      "En un realce en anillo con un nódulo periférico adyacente a la pared",
+      "En zonas alternantes de hiper e hipointensidad en secuencias T2",
+      "En un nódulo mural interior que corresponde al escólex",
+      "En un realce periférico irregular con restricción central en difusión"
+    ],
+    "correcta": 0,
+    "explicacion": "Aparece en menos del 30 % de los casos y es bastante específico. Las zonas alternantes en T2 corresponden al otro signo descrito, la diana concéntrica, y el nódulo interior que representa el escólex es propio del quiste viable de la neurocisticercosis.",
+    "fuente": "Cap. 43. Infecciones fúngicas y parasitarias del SNC"
+  },
+  {
+    "id": "inf-038",
+    "tema": "Infecciones SNC",
+    "subtema": "Prionopatías",
+    "enunciado": "¿Qué biomarcador detecta directamente la proteína priónica patológica y se incorporó a los criterios diagnósticos en 2018?",
+    "opciones": [
+      "El RT-QuIC",
+      "La proteína 14-3-3",
+      "El cociente t-tau/p-tau",
+      "Los neurofilamentos en plasma"
+    ],
+    "correcta": 0,
+    "explicacion": "El RT-QuIC es el único biomarcador ante mortem específico de la enfermedad, con sensibilidad y especificidad del 99 %, y puede hacerse en LCR o en mucosa nasal. La 14-3-3 y el cociente t-tau/p-tau son marcadores indirectos de daño neuronal que se usan en combinación con él.",
+    "fuente": "Cap. 44. Prionopatías"
+  },
+  {
+    "id": "inf-039",
+    "tema": "Infecciones SNC",
+    "subtema": "Prionopatías",
+    "enunciado": "¿Cuál es la mutación más frecuente en la enfermedad de Creutzfeldt-Jakob familiar?",
+    "opciones": [
+      "La E200K",
+      "La D178N",
+      "La P102L",
+      "La A117V"
+    ],
+    "correcta": 0,
+    "explicacion": "De las más de veinte mutaciones descritas, la E200K es la más habitual y es típica de orígenes judíos sefardíes. La D178N causa el insomnio familiar fatal, y P102L y A117V se asocian al síndrome de Gerstmann-Sträussler-Scheinker.",
+    "fuente": "Cap. 44. Prionopatías"
+  }
+]

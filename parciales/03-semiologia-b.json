@@ -1,0 +1,227 @@
+[
+  {
+    "id": "sem-035",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "En la lesión piramidal crónica, ¿qué grupos musculares predominan y qué postura generan?",
+    "opciones": [
+      "Flexores en el miembro superior y extensores en el inferior, con codo flexionado y pie equino varo",
+      "Extensores en el miembro superior y flexores en el inferior, con codo extendido y rodilla flexionada",
+      "Flexores en ambos miembros, con flexión de codo y de rodilla",
+      "Extensores en ambos miembros, con actitud en hiperextensión global"
+    ],
+    "correcta": 0,
+    "explicacion": "Predominan los músculos antigravitatorios: flexores en el brazo (flexión de codo, muñeca y dedos) y extensores en la pierna (extensión de rodilla y pie equino varo), que es la actitud típica del hemipléjico.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-036",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "¿Qué patrón de debilidad producen las lesiones profundas del brazo anterior de la cápsula interna o del tronco del encéfalo?",
+    "opciones": [
+      "Facio-braquio-crural",
+      "Facio-braquial con respeto de la pierna",
+      "Crural aislado",
+      "Braquial distal con respeto facial"
+    ],
+    "correcta": 0,
+    "explicacion": "Al condensarse las fibras, las lesiones profundas dan un patrón facio-braquio-crural. Las lesiones corticales o de corona radiada producen hemiparesias que pueden ser incompletas según la extensión del área afectada.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-037",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "¿Cómo se denomina la afectación simultánea de varios nervios periféricos, no de todos ellos?",
+    "opciones": ["Mononeuritis múltiple", "Polineuropatía", "Mononeuropatía", "Plexopatía"],
+    "correcta": 0,
+    "explicacion": "La mononeuropatía afecta a un solo nervio, la polineuropatía a todos de forma simultánea y la mononeuritis múltiple a varios nervios a la vez. En las mononeuropatías, cuanto más proximal es la lesión mayor es la afectación motora.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-038",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "¿Cuál es la causa más frecuente de plexopatía lumbosacra no traumática?",
+    "opciones": [
+      "La neoplásica, en torno al 50 % de los casos",
+      "La radioterapia previa",
+      "La amiotrofia diabética",
+      "La compresión por hematoma del psoas"
+    ],
+    "correcta": 0,
+    "explicacion": "La causa neoplásica —tumor primario o metastásico— supone alrededor del 50 % de los casos no traumáticos. La amiotrofia diabética o síndrome de Bruns-Garland, probablemente por microvasculitis, cursa con debilidad, hipoestesia y dolor en varias raíces lumbares.",
+    "fuente": "Cap. 18. Alteración de la sensibilidad y pérdida de fuerza"
+  },
+  {
+    "id": "sem-039",
+    "tema": "Semiología",
+    "subtema": "Temblor y ataxia",
+    "enunciado": "¿Qué tipos de temblor son los más comunes según el manual?",
+    "opciones": [
+      "El temblor esencial y el fisiológico exacerbado",
+      "El temblor parkinsoniano y el cerebeloso",
+      "El temblor ortostático y el de Holmes",
+      "El temblor distónico y el funcional"
+    ],
+    "correcta": 0,
+    "explicacion": "El temblor es el trastorno del movimiento más frecuente y el principal motivo de consulta en las unidades especializadas; dentro de sus tipos, el esencial y el fisiológico exacerbado son los más comunes.",
+    "fuente": "Cap. 19. Semiología del temblor"
+  },
+  {
+    "id": "sem-040",
+    "tema": "Semiología",
+    "subtema": "Temblor y ataxia",
+    "enunciado": "¿Qué rasgos neurofisiológicos caracterizan al temblor fisiológico exacerbado?",
+    "opciones": [
+      "Frecuencia de 7-12 Hz que baja más de 1 Hz al añadir peso",
+      "Frecuencia de 4-6 Hz que no cambia con el peso",
+      "Frecuencia de 13-18 Hz con reducción de amplitud al distraer",
+      "Frecuencia superior a 13 Hz con arrastre al cambiar el ritmo de la otra mano"
+    ],
+    "correcta": 0,
+    "explicacion": "El temblor fisiológico exacerbado late a 7-12 Hz y cambia más de 1 Hz con el weight load test, sin modificar su amplitud con la distracción. Puede ser secundario a hipertiroidismo, hipoglucemia, fallo hepático o renal o tóxicos.",
+    "fuente": "Cap. 19. Semiología del temblor"
+  },
+  {
+    "id": "sem-041",
+    "tema": "Semiología",
+    "subtema": "Temblor y ataxia",
+    "enunciado": "¿Qué temblor consiste en un movimiento proximal y bilateral de abducción-aducción de la cintura escapular?",
+    "opciones": [
+      "El temblor aleteante de la enfermedad de Wilson",
+      "El temblor de Holmes o rúbrico",
+      "El temblor ortostático primario",
+      "El temblor cerebeloso de los pedúnculos"
+    ],
+    "correcta": 0,
+    "explicacion": "El wing-beating tremor es proximal, bilateral y de gran amplitud, en forma de abducción-aducción escapular, y puede ser un síntoma de presentación de la enfermedad de Wilson.",
+    "fuente": "Cap. 19. Semiología del temblor"
+  },
+  {
+    "id": "sem-042",
+    "tema": "Semiología",
+    "subtema": "Temblor y ataxia",
+    "enunciado": "¿Cómo se distingue el temblor ortostático primario del temblor axial de origen cerebeloso?",
+    "opciones": [
+      "El primario es de alta frecuencia; el cerebeloso es de baja frecuencia, mayor amplitud y aparece también durante la marcha",
+      "El primario es de baja frecuencia y el cerebeloso de alta frecuencia",
+      "El primario solo afecta a la musculatura proximal y el cerebeloso solo a la distal",
+      "El primario desaparece al sentarse y el cerebeloso también"
+    ],
+    "correcta": 0,
+    "explicacion": "El temblor ortostático primario es de alta frecuencia; el axial cerebeloso es de baja frecuencia, mayor amplitud, más global y presente en reposo y en marcha. El funcional muestra frecuencia, amplitud y direccionalidad variables.",
+    "fuente": "Cap. 19. Semiología del temblor"
+  },
+  {
+    "id": "sem-043",
+    "tema": "Semiología",
+    "subtema": "Fuerza, sensibilidad y marcha",
+    "enunciado": "¿Qué caracteriza a la marcha frontal o magnética?",
+    "opciones": [
+      "Base ancha con pasos cortos y bajos y gran dificultad para iniciar la marcha",
+      "Base ancha con pasos largos e irregulares y caídas hacia atrás",
+      "Base estrecha con festinación y pérdida del braceo",
+      "Base ancha con estepaje bilateral y pies caídos"
+    ],
+    "correcta": 0,
+    "explicacion": "La marcha frontal es un trastorno de nivel superior por afectación del lóbulo frontal: aumenta la base como la atáxica, pero la longitud y la altura del paso están disminuidas y destaca la incapacidad para iniciar la marcha, con los pies como pegados al suelo.",
+    "fuente": "Cap. 21. Trastornos de la marcha"
+  },
+  {
+    "id": "sem-044",
+    "tema": "Semiología",
+    "subtema": "Sueño",
+    "enunciado": "¿Qué índice de apnea-hipopnea define una apnea obstructiva del sueño grave?",
+    "opciones": ["Mayor o igual a 30", "Entre 15 y 29,9", "Entre 5 y 14,9", "Mayor o igual a 50"],
+    "correcta": 0,
+    "explicacion": "Se considera leve un IAH de 5-14,9, moderado de 15-29,9 y grave a partir de 30. Además del IAH se recomienda valorar el tiempo con saturación por debajo del 90 %, la somnolencia diurna, el IMC y las comorbilidades.",
+    "fuente": "Cap. 22. El sueño y sus trastornos en adultos"
+  },
+  {
+    "id": "sem-045",
+    "tema": "Semiología",
+    "subtema": "Sueño",
+    "enunciado": "¿Qué proporción de pacientes con trastorno de conducta del sueño REM desarrolla una sinucleinopatía a los 15 años de seguimiento?",
+    "opciones": ["Más del 90 %", "Alrededor del 30 %", "Alrededor del 50 %", "Menos del 20 %"],
+    "correcta": 0,
+    "explicacion": "A los 15 años más del 90 % de los pacientes con TCSR desarrollan enfermedad de Parkinson, demencia con cuerpos de Lewy o atrofia multisistémica. El trastorno se debe a la pérdida de la inhibición motora durante el REM, de modo que el paciente actúa los sueños.",
+    "fuente": "Cap. 22. El sueño y sus trastornos en adultos"
+  },
+  {
+    "id": "sem-046",
+    "tema": "Semiología",
+    "subtema": "Sueño",
+    "enunciado": "Además de las sinucleinopatías, ¿en qué contextos puede aparecer un trastorno de conducta del sueño REM?",
+    "opciones": [
+      "En la narcolepsia, en lesiones troncoencefálicas y en encefalitis autoinmunes como la anti-IgLON5",
+      "En el síndrome de piernas inquietas y en el bruxismo",
+      "En la apnea obstructiva grave y en el insomnio crónico",
+      "En las epilepsias frontales nocturnas exclusivamente"
+    ],
+    "correcta": 0,
+    "explicacion": "El TCSR aparece en el 30 % de los pacientes con narcolepsia, en lesiones troncoencefálicas y en encefalitis autoinmunes (IgLON5, Ma2, LGI1 o DPPX), además de en las sinucleinopatías.",
+    "fuente": "Cap. 22. El sueño y sus trastornos en adultos"
+  },
+  {
+    "id": "sem-047",
+    "tema": "Semiología",
+    "subtema": "Sueño",
+    "enunciado": "¿Qué modelo explica la organización del ritmo vigilia-sueño?",
+    "opciones": [
+      "El modelo de los dos procesos de Borbély",
+      "El modelo de la puerta de control de Melzack",
+      "El modelo de los tres compartimentos de Moruzzi",
+      "El modelo de red por defecto de Raichle"
+    ],
+    "correcta": 0,
+    "explicacion": "El modelo de los dos procesos de Borbély combina el componente circadiano con el homeostático (presión de sueño); sobre ellos influyen además factores individuales como la edad y ambientales como la luz o el ejercicio.",
+    "fuente": "Cap. 22. El sueño y sus trastornos en adultos"
+  },
+  {
+    "id": "sem-048",
+    "tema": "Semiología",
+    "subtema": "Sistema nervioso autónomo",
+    "enunciado": "¿Qué tres componentes eferentes integran el sistema nervioso autónomo?",
+    "opciones": [
+      "Simpático, parasimpático y entérico",
+      "Simpático, parasimpático y somático",
+      "Simpático, entérico y neuroendocrino",
+      "Parasimpático, entérico y propioceptivo"
+    ],
+    "correcta": 0,
+    "explicacion": "El SNA inerva el músculo cardíaco, el músculo liso visceral y las glándulas a través de sus componentes simpático, parasimpático y entérico, y su función global es mantener la homeostasis.",
+    "fuente": "Cap. 23. Sistema nervioso autónomo"
+  },
+  {
+    "id": "sem-049",
+    "tema": "Semiología",
+    "subtema": "Sistema nervioso autónomo",
+    "enunciado": "¿Qué disfunción autonómica crónica cursa sin otras alteraciones neurológicas?",
+    "opciones": [
+      "El fallo autonómico puro",
+      "La atrofia multisistémica",
+      "El síndrome de Guillain-Barré",
+      "La demencia con cuerpos de Lewy"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre las disfunciones crónicas sin otras alteraciones neurológicas figuran el fallo autonómico puro y el déficit de dopamina beta-hidroxilasa; la AMS y la DLB se acompañan de parkinsonismo o demencia, y el Guillain-Barré es una forma aguda con neuropatía.",
+    "fuente": "Cap. 23. Sistema nervioso autónomo"
+  },
+  {
+    "id": "sem-050",
+    "tema": "Semiología",
+    "subtema": "Sistema nervioso autónomo",
+    "enunciado": "En pacientes con disautonomía generalizada por diabetes, alcoholismo o uremia, ¿cómo se comporta la pupila?",
+    "opciones": [
+      "Tiende a ser pequeña y se adapta mal a la oscuridad por descenso del tono simpático",
+      "Tiende a ser grande y arreactiva a la luz por fallo parasimpático",
+      "Muestra anisocoria fluctuante sin alteración del reflejo fotomotor",
+      "Conserva un comportamiento normal hasta fases muy avanzadas"
+    ],
+    "correcta": 0,
+    "explicacion": "En estas disautonomías generalizadas predomina el tono parasimpático por disminución del simpático, de modo que la pupila es menor y no se dilata bien en la oscuridad; pueden asociar fotofobia y dificultad de acomodación referida como visión borrosa.",
+    "fuente": "Cap. 23. Sistema nervioso autónomo"
+  }
+]

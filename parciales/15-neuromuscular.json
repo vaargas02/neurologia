@@ -1,0 +1,340 @@
+[
+ {
+  "id": "nms-001",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "¿Cómo se pauta habitualmente el inicio de la piridostigmina en la miastenia gravis?",
+  "opciones": [
+   "30 mg tres veces al día con las comidas, subiendo 30 mg cada 2-3 días",
+   "120 mg cada 4 horas desde el primer día",
+   "60 mg en dosis única nocturna",
+   "0,5 mg intravenosos ajustando según respuesta"
+  ],
+  "correcta": 0,
+  "explicacion": "Se empieza con 30 mg tres veces al día con las comidas y se sube 30 mg cada 2-3 días, hasta un máximo de 120 mg cada 4 horas; la mayoría mantiene el efecto con posología cada 6-8 horas. La neostigmina, a 0,5 mg iniciales, se reserva para cuando se pierde la vía oral.",
+  "teoria": "mg-manejo",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-002",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "¿Cuál es el tratamiento inmunosupresor de inicio en la miastenia gravis que sigue sintomática con piridostigmina?",
+  "opciones": [
+   "Los glucocorticoides, por su rápido inicio de acción",
+   "La azatioprina, por su mejor perfil de seguridad",
+   "El rituximab, por su efecto sobre linfocitos B",
+   "Las inmunoglobulinas intravenosas mensuales"
+  ],
+  "correcta": 0,
+  "explicacion": "La inmunoterapia crónica se indica cuando persisten síntomas pese a la piridostigmina y suele iniciarse con glucocorticoides por su rapidez de acción.",
+  "teoria": "mg-manejo",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-003",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "¿Qué factores aumentan la probabilidad de cáncer de pulmón subyacente en el síndrome de Eaton-Lambert?",
+  "opciones": [
+   "Inicio por encima de los 50 años, tabaquismo, síntomas cerebelosos, anti-SOX positivos y ausencia de HLA B8",
+   "Inicio juvenil, sexo femenino y presencia de HLA B8",
+   "Debilidad puramente ocular y anticuerpos anti-AChR positivos",
+   "Ausencia de disautonomía y respuesta completa a piridostigmina"
+  ],
+  "correcta": 0,
+  "explicacion": "Estos factores se recogen en el DELTA-P score, que predice el riesgo de neoplasia oculta. El cribado incluye TC torácica o PET-FDG y broncoscopia en fumadores, repitiéndolo periódicamente si resulta negativo.",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-004",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Qué prevalencia tienen las polineuropatías en la población mundial?",
+  "opciones": [
+   "Entre el 5 y el 10 %",
+   "Menos del 1 %",
+   "Entre el 20 y el 30 %",
+   "Alrededor del 15 % solo en mayores de 80 años"
+  ],
+  "correcta": 0,
+  "explicacion": "Se calcula que la polineuropatía afecta al 5-10 % de la población mundial, con prevalencia creciente con la edad y causas extraordinariamente variables.",
+  "fuente": "Cap. 81. Neuropatías adquiridas, hereditarias e idiopáticas"
+ },
+ {
+  "id": "nms-005",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿En qué fase de la enfermedad de Lyme aparece habitualmente la afectación del sistema nervioso periférico?",
+  "opciones": [
+   "En la segunda fase, semanas o meses tras la picadura",
+   "En la primera fase, en los días siguientes al eritema migrans",
+   "En la tercera fase, años después de la infección",
+   "Solo tras el tratamiento antibiótico, como reacción inmune"
+  ],
+  "correcta": 0,
+  "explicacion": "En la segunda fase pueden aparecer neuropatías craneales y radiculopatías, a veces con afectación meníngea (síndrome de Bannwarth), polineuropatía o mononeuritis múltiple. El diagnóstico se apoya en ELISA y Western blot.",
+  "fuente": "Cap. 81. Neuropatías adquiridas, hereditarias e idiopáticas"
+ },
+ {
+  "id": "nms-006",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Qué alteración genética causa la neuropatía hereditaria con predisposición a la parálisis por presión?",
+  "opciones": [
+   "Una deleción de 1,4 Mb en PMP22 en el cromosoma 17",
+   "Una duplicación de PMP22 en el cromosoma 17",
+   "Mutaciones en el gen de la conexina 32 ligadas al X",
+   "Una expansión de tripletes en el gen MFN2"
+  ],
+  "correcta": 0,
+  "explicacion": "La HNPP se debe a una deleción de 1,4 Mb en PMP22 —o menos veces a mutaciones puntuales— con herencia autosómica dominante, y cursa con episodios indoloros y recurrentes de neuropatía focal en los puntos de compresión.",
+  "teoria": "cmt-hereditarias",
+  "fuente": "Cap. 81. Neuropatías adquiridas, hereditarias e idiopáticas"
+ },
+ {
+  "id": "nms-007",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Qué nervios se afectan con más frecuencia en la neuropatía hereditaria por presión?",
+  "opciones": [
+   "Mediano, cubital, peroneal y radial, además del plexo braquial",
+   "Facial y trigémino de forma recurrente",
+   "Los nervios sensitivos puros de los pies exclusivamente",
+   "Los pares craneales bajos"
+  ],
+  "correcta": 0,
+  "explicacion": "Las parestesias aparecen al cruzar las piernas, apoyar los codos o cargar bolsas, afectando sobre todo a mediano, cubital, peroneal, radial y plexo braquial. Suele recuperarse espontáneamente, aunque la suma de déficits puede acabar en una neuropatía longitud-dependiente.",
+  "teoria": "cmt-hereditarias",
+  "fuente": "Cap. 81. Neuropatías adquiridas, hereditarias e idiopáticas"
+ },
+ {
+  "id": "nms-008",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿En qué pacientes con ELA está indicado el tofersen?",
+  "opciones": [
+   "En portadores de variantes patogénicas de SOD1 con ganancia de función",
+   "En todos los pacientes con ELA bulbar",
+   "En pacientes con expansión de C9orf72",
+   "En la atrofia muscular progresiva de inicio precoz"
+  ],
+  "correcta": 0,
+  "explicacion": "El tofersen es un oligonucleótido antisentido que bloquea la transcripción de SOD1 y se usa en portadores de variantes patogénicas o probablemente patogénicas con ganancia de función del gen.",
+  "teoria": "ela-diagnostico",
+  "fuente": "Cap. 82. Enfermedad de primera y segunda motoneuronas"
+ },
+ {
+  "id": "nms-009",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Qué proporción de pacientes con atrofia muscular espinal tipo I requiere nutrición enteral?",
+  "opciones": [
+   "Hasta un 85 %",
+   "Alrededor del 20 %",
+   "Menos del 5 %",
+   "Prácticamente ninguno"
+  ],
+  "correcta": 0,
+  "explicacion": "Hasta el 85 % de los pacientes con AME tipo I precisa nutrición enteral y un 6 % gastrostomía. Los de tipo III no suelen necesitar soporte ventilatorio, salvo algunos IIIa.",
+  "fuente": "Cap. 82. Enfermedad de primera y segunda motoneuronas"
+ },
+ {
+  "id": "nms-010",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Qué efecto han demostrado las terapias génicas sobre las necesidades respiratorias en la atrofia muscular espinal?",
+  "opciones": [
+   "Disminuyen el número de pacientes que requieren soporte ventilatorio cuando se aplican precozmente",
+   "Retiran la ventilación en la mayoría de los pacientes ya ventilados",
+   "No modifican las necesidades respiratorias en ningún escenario",
+   "Solo mejoran la función respiratoria en el tipo III"
+  ],
+  "correcta": 0,
+  "explicacion": "Pocos pacientes ya ventilados reducen sus horas de ventilación con los nuevos tratamientos, pero aplicados de forma precoz sí disminuyen el número de pacientes que llegan a necesitar soporte ventilatorio. El asistente de tos es frecuente en los que tienen afectación respiratoria.",
+  "fuente": "Cap. 82. Enfermedad de primera y segunda motoneuronas"
+ },
+ {
+  "id": "nms-011",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "¿Qué papel tiene el EMG cuando la imagen no aclara un síndrome de cauda equina?",
+  "opciones": [
+   "Confirmar el origen preganglionar del proceso y diferenciarlo de una CIDP",
+   "Determinar el nivel exacto de la compresión ósea",
+   "Descartar causas inflamatorias del LCR",
+   "Valorar la integridad de los cordones posteriores"
+  ],
+  "correcta": 0,
+  "explicacion": "Si la imagen no da el diagnóstico, se amplía con LCR —causas inflamatorias, infecciosas o neoplásicas— y con EMG, que confirma el origen preganglionar y ayuda a separarlo de procesos que simulan una cauda equina, como la CIDP.",
+  "fuente": "Cap. 83. Trastornos de raíces, plexos y nervios periféricos"
+ },
+ {
+  "id": "nms-012",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "¿Qué patrón de parestesias es frecuente en el síndrome del túnel carpiano pese a no ajustarse al territorio del mediano?",
+  "opciones": [
+   "Parestesias en toda la palma que se irradian al antebrazo o al brazo",
+   "Parestesias limitadas al quinto dedo",
+   "Parestesias en el dorso de la mano con dolor cervical",
+   "Parestesias bilaterales simétricas en guante largo"
+  ],
+  "correcta": 0,
+  "explicacion": "Es común que las parestesias excedan el territorio del mediano, afectando a toda la palma e irradiándose al antebrazo o brazo; en casos graves hay déficit sensitivo establecido y atrofia tenar.",
+  "fuente": "Cap. 83. Trastornos de raíces, plexos y nervios periféricos"
+ },
+ {
+  "id": "nms-013",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "¿Qué causas secundarias de síndrome del túnel carpiano recoge el manual?",
+  "opciones": [
+   "Tenosinovitis de los flexores, artritis reumatoide, sarcoidosis, embarazo, hipotiroidismo, diabetes y acromegalia",
+   "Únicamente los traumatismos de muñeca",
+   "Exclusivamente las enfermedades del tejido conectivo",
+   "Solo las causas endocrinológicas"
+  ],
+  "correcta": 0,
+  "explicacion": "La mayoría de los casos son idiopáticos, pero se describen tenosinovitis de los flexores, artritis reumatoide, sarcoidosis, traumatismos, embarazo, hipotiroidismo, diabetes y acromegalia. El riesgo es mayor en mujeres y en quienes repiten movimientos de muñeca.",
+  "fuente": "Cap. 83. Trastornos de raíces, plexos y nervios periféricos"
+ },
+ {
+  "id": "nms-014",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Qué mutación se asocia al riesgo de hipertermia maligna con determinados anestésicos?",
+  "opciones": [
+   "RYR1",
+   "TTN",
+   "MYH7",
+   "DMD"
+  ],
+  "correcta": 0,
+  "explicacion": "Las mutaciones en RYR1 conllevan riesgo de hipertermia maligna, fiebre e incluso rabdomiólisis tras la exposición a ciertos anestésicos. Las de titina (TTN) o MYH7 orientan más a miocardiopatía.",
+  "fuente": "Cap. 84. Duchenne y otras distrofias. Miopatías congénitas"
+ },
+ {
+  "id": "nms-015",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "En las miopatías congénitas, ¿cómo se comportan los niveles de CK y qué utilidad tiene ese dato?",
+  "opciones": [
+   "Son normales o ligeramente elevados, lo que ayuda a separarlas de las distrofias musculares congénitas",
+   "Están siempre muy elevados, como en las distrofias congénitas",
+   "Son indetectables, lo que confirma el diagnóstico",
+   "Fluctúan con el ejercicio sin valor diagnóstico"
+  ],
+  "correcta": 0,
+  "explicacion": "La CK normal o levemente elevada orienta a miopatía congénita frente a las distrofias musculares congénitas, que suelen cursar con cifras más altas.",
+  "fuente": "Cap. 84. Duchenne y otras distrofias. Miopatías congénitas"
+ },
+ {
+  "id": "nms-016",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Qué seguimiento cardiológico recomienda el manual en la distrofia miotónica?",
+  "opciones": [
+   "ECG anual y ecocardiograma cada 3-5 años, con Holter y estudio electrofisiológico si se precisa",
+   "Ecocardiograma mensual y Holter semestral",
+   "Solo ECG en caso de síntomas",
+   "Estudio electrofisiológico anual en todos los pacientes"
+  ],
+  "correcta": 0,
+  "explicacion": "El protocolo incluye ECG anual y ecocardiograma cada 3-5 años, añadiendo Holter y estudios electrofisiológicos cuando sea necesario, junto a revisión respiratoria anual y vacunación antineumocócica y antigripal.",
+  "fuente": "Cap. 84. Duchenne y otras distrofias. Miopatías congénitas"
+ },
+ {
+  "id": "nms-017",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías metabólicas y mitocondriales",
+  "enunciado": "¿En qué tres categorías se agrupan los procesos alterados en las miopatías metabólicas?",
+  "opciones": [
+   "Depósito de glucógeno, metabolismo lipídico y miopatías mitocondriales",
+   "Canalopatías, depósito de glucógeno y miopatías inflamatorias",
+   "Metabolismo lipídico, distrofias y miotonías",
+   "Depósito de glucógeno, amiloidosis y mitocondriopatías"
+  ],
+  "correcta": 0,
+  "explicacion": "Las miopatías metabólicas alteran la obtención de ATP a partir de los sustratos y se agrupan en glucogenosis, trastornos del metabolismo lipídico y miopatías mitocondriales.",
+  "fuente": "Cap. 85. Miopatías metabólicas y mitocondriales"
+ },
+ {
+  "id": "nms-018",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías metabólicas y mitocondriales",
+  "enunciado": "¿Qué enzima está deficitaria en la enfermedad de Pompe?",
+  "opciones": [
+   "La alfa-glucosidasa ácida lisosomal o maltasa ácida",
+   "La miofosforilasa muscular",
+   "La carnitina palmitoiltransferasa II",
+   "La fosfofructoquinasa"
+  ],
+  "correcta": 0,
+  "explicacion": "La glucogenosis tipo II se debe a mutaciones en GAA, que codifica la alfa-glucosidasa ácida lisosomal; el glucógeno se acumula en los lisosomas de todos los tejidos. Su herencia es autosómica recesiva.",
+  "fuente": "Cap. 85. Miopatías metabólicas y mitocondriales"
+ },
+ {
+  "id": "nms-019",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías metabólicas y mitocondriales",
+  "enunciado": "¿En qué consiste la anomalía de Jordans, útil en el diagnóstico de algunos trastornos lipídicos?",
+  "opciones": [
+   "En el acúmulo de lípidos en los leucocitos de sangre periférica",
+   "En vacuolas ribeteadas en la biopsia muscular",
+   "En fibras rojo-rasgadas en el tricrómico de Gomori",
+   "En cristales de glucógeno en los lisosomas"
+  ],
+  "correcta": 0,
+  "explicacion": "La anomalía de Jordans consiste en el acúmulo de lípidos en los leucocitos de sangre periférica; en estos pacientes la debilidad puede ser de predominio distal y la CK está elevada incluso en situación basal.",
+  "fuente": "Cap. 85. Miopatías metabólicas y mitocondriales"
+ },
+ {
+  "id": "nms-020",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías inflamatorias y tóxicas",
+  "enunciado": "¿Por qué son esenciales los estudios microbiológicos en la sospecha de miositis infecciosa?",
+  "opciones": [
+   "Porque la analítica, el EMG y la biopsia pueden ser indistinguibles de una miopatía inmunomediada",
+   "Porque la biopsia muscular está contraindicada en estos pacientes",
+   "Porque la CK permanece siempre normal en las formas infecciosas",
+   "Porque el EMG muestra un patrón neurógeno característico"
+  ],
+  "correcta": 0,
+  "explicacion": "La elevación de CK, LDH y transaminasas, los potenciales miopáticos y la biopsia pueden ser idénticos a los de una miopatía inmunomediada, así que la historia clínica y las serologías y técnicas moleculares resultan decisivas.",
+  "teoria": "miopatias-inflamatorias",
+  "fuente": "Cap. 86. Miopatías infecciosas, tóxicas, inmunomediadas y paraneoplásicas"
+ },
+ {
+  "id": "nms-021",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías inflamatorias y tóxicas",
+  "enunciado": "¿Qué hallazgo histológico caracteriza a la dermatomiositis?",
+  "opciones": [
+   "Atrofia perifascicular con infiltrado perimisial y sobreexpresión de MHC-I en el sarcolema",
+   "Invasión de fibras no necróticas por linfocitos T-CD8",
+   "Necrosis de fibras con escaso infiltrado inflamatorio",
+   "Vacuolas ribeteadas con inclusiones intranucleares"
+  ],
+  "correcta": 0,
+  "explicacion": "La biopsia muestra atrofia perifascicular con infiltrado perimisial de macrófagos, linfocitos T-CD4, linfocitos B y células dendríticas plasmocitoides, con sobreexpresión de MHC-I. Alrededor del 70 % tiene anticuerpos específicos ligados a fenotipos concretos.",
+  "teoria": "miopatias-inflamatorias",
+  "fuente": "Cap. 86. Miopatías infecciosas, tóxicas, inmunomediadas y paraneoplásicas"
+ },
+ {
+  "id": "nms-022",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías inflamatorias y tóxicas",
+  "enunciado": "¿Qué caracteriza analíticamente a la miopatía necrotizante inmunomediada?",
+  "opciones": [
+   "Debilidad proximal con elevación excepcional de enzimas musculares y manifestaciones extramusculares mínimas",
+   "Debilidad distal con CK normal y afectación cutánea marcada",
+   "Debilidad proximal con CK normal y artritis asociada",
+   "Debilidad asimétrica con eosinofilia periférica"
+  ],
+  "correcta": 0,
+  "explicacion": "La miopatía necrotizante inmunomediada cursa con debilidad proximal y cifras de enzimas musculares excepcionalmente altas, con escasas manifestaciones fuera del músculo.",
+  "teoria": "miopatias-inflamatorias",
+  "fuente": "Cap. 86. Miopatías infecciosas, tóxicas, inmunomediadas y paraneoplásicas"
+ }
+]

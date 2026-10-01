@@ -1,0 +1,327 @@
+[
+  {
+    "id": "mov-001",
+    "tema": "Movimiento",
+    "subtema": "Enfermedad de Parkinson",
+    "enunciado": "¿Cómo se define el síndrome parkinsoniano?",
+    "opciones": [
+      "Por la presencia de al menos dos entre bradicinesia, temblor de reposo, rigidez y trastorno postural o de la marcha",
+      "Por la presencia obligada de bradicinesia más temblor de reposo",
+      "Por la tríada de temblor, rigidez y demencia",
+      "Por cualquier combinación de signos que mejore con levodopa"
+    ],
+    "correcta": 0,
+    "explicacion": "El síndrome parkinsoniano requiere al menos dos de estos signos: bradicinesia, temblor de reposo, rigidez y trastorno postural o de la marcha. La enfermedad de Parkinson es su causa más frecuente.",
+    "fuente": "Cap. 74. Enfermedad de Parkinson esporádica",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-002",
+    "tema": "Movimiento",
+    "subtema": "Enfermedad de Parkinson",
+    "enunciado": "¿Qué certeza diagnóstica tiene el diagnóstico clínico de enfermedad de Parkinson según los estudios de correlación clínico-patológica?",
+    "opciones": [
+      "Entre el 75 y el 95 %",
+      "Entre el 40 y el 60 %",
+      "Superior al 99 %",
+      "Inferior al 50 %"
+    ],
+    "correcta": 0,
+    "explicacion": "El diagnóstico en vida es clínico y su certeza, comprobada en series clínico-patológicas, se sitúa entre el 75 y el 95 %. El diagnóstico definitivo sigue siendo el estudio anatomopatológico post mortem.",
+    "fuente": "Cap. 74. Enfermedad de Parkinson esporádica",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-003",
+    "tema": "Movimiento",
+    "subtema": "Enfermedad de Parkinson",
+    "enunciado": "¿Qué características tienen las discinesias de dosis baja en la enfermedad de Parkinson?",
+    "opciones": [
+      "Son predominantemente distónicas, afectan a piernas y pies y pueden ser dolorosas",
+      "Son coreicas, afectan al tronco y aparecen en el pico de dosis",
+      "Son mioclónicas y predominan en los miembros superiores",
+      "Son tics motores que aparecen al final del día"
+    ],
+    "correcta": 0,
+    "explicacion": "Las discinesias de dosis baja aparecen en el periodo off y en el wearing-off, son distónicas, afectan sobre todo a piernas y pies y pueden doler. La forma más frecuente es la distonía precoz matutina, antes de la primera dosis de levodopa.",
+    "fuente": "Cap. 74. Enfermedad de Parkinson esporádica",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-004",
+    "tema": "Movimiento",
+    "subtema": "Enfermedad de Parkinson",
+    "enunciado": "¿Qué síntoma motor puede no responder a la levodopa pese a ser el fármaco de mayor efecto sintomático?",
+    "opciones": [
+      "El temblor",
+      "La rigidez",
+      "La bradicinesia",
+      "La hipomimia"
+    ],
+    "correcta": 0,
+    "explicacion": "La levodopa es el fármaco con mayor efecto sobre los síntomas motores, salvo el temblor, que puede no responder. Se administra siempre con un inhibidor de la descarboxilasa y se inicia cuando hay afectación funcional.",
+    "fuente": "Cap. 74. Enfermedad de Parkinson esporádica",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-005",
+    "tema": "Movimiento",
+    "subtema": "Parkinsonismos atípicos",
+    "enunciado": "¿Qué entidades se incluyen clásicamente entre los parkinsonismos atípicos?",
+    "opciones": [
+      "Demencia con cuerpos de Lewy, atrofia multisistémica, parálisis supranuclear progresiva y degeneración corticobasal",
+      "Parkinsonismo vascular, farmacológico, postencefalítico y tóxico",
+      "Enfermedad de Wilson, NBIA, corea de Huntington y distonía DYT5",
+      "Temblor esencial, distonía cervical y síndrome de piernas inquietas"
+    ],
+    "correcta": 0,
+    "explicacion": "Los llamados antes parkinsonismos plus son la DCLw, la AMS, la PSP y la DCB: parkinsonismos neurodegenerativos con rasgos que los separan de la enfermedad de Parkinson.",
+    "fuente": "Cap. 75. Parkinsonismos atípicos",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-006",
+    "tema": "Movimiento",
+    "subtema": "Parkinsonismos atípicos",
+    "enunciado": "¿Qué proporción de pacientes con atrofia multisistémica responde al tratamiento dopaminérgico?",
+    "opciones": [
+      "Entre el 30 y el 70 %",
+      "Menos del 5 %",
+      "Prácticamente todos",
+      "Solo los que tienen predominio cerebeloso"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre el 30 y el 70 % de los pacientes con AMS responde a levodopa, e incluso pueden aparecer fluctuaciones y discinesias como en la EP. Los agonistas pueden ser eficaces pero empeoran la hipotensión ortostática.",
+    "fuente": "Cap. 75. Parkinsonismos atípicos",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-007",
+    "tema": "Movimiento",
+    "subtema": "Parkinsonismos atípicos",
+    "enunciado": "En la atrofia multisistémica, ¿qué relación tiene la disautonomía con el pronóstico?",
+    "opciones": [
+      "Su aparición precoz empeora el pronóstico y su aparición tardía se asocia a mayor supervivencia",
+      "No influye en la supervivencia, solo en la calidad de vida",
+      "Su aparición precoz se asocia paradójicamente a mayor supervivencia",
+      "Solo empeora el pronóstico si se acompaña de estridor"
+    ],
+    "correcta": 0,
+    "explicacion": "La disautonomía es uno de los condicionantes de peor pronóstico en la AMS, mientras que su aparición tardía se asocia a mayor supervivencia.",
+    "fuente": "Cap. 75. Parkinsonismos atípicos",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-008",
+    "tema": "Movimiento",
+    "subtema": "Parkinsonismos atípicos",
+    "enunciado": "¿Qué biomarcador pronóstico despierta más interés en la parálisis supranuclear progresiva, medible en LCR y en sangre?",
+    "opciones": [
+      "El neurofilamento de cadena ligera",
+      "La proteína tau total en plasma",
+      "La alfa-sinucleína por RT-QuIC",
+      "La enolasa neuronal específica"
+    ],
+    "correcta": 0,
+    "explicacion": "El neurofilamento de cadena ligera, medido por ELISA en LCR o por SIMOA en sangre periférica, está elevado en PSP, otros parkinsonismos atípicos y la ELA. Se usa como variable exploratoria en ensayos, pero aún no en la práctica clínica.",
+    "fuente": "Cap. 75. Parkinsonismos atípicos",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-009",
+    "tema": "Movimiento",
+    "subtema": "Hipercinéticos y urgencias",
+    "enunciado": "¿Cuáles son las distonías focales del adulto más comunes?",
+    "opciones": [
+      "El blefaroespasmo y la distonía del escribiente",
+      "La distonía cervical y la distonía laríngea",
+      "La distonía de inicio rápido y la Lubag",
+      "La distonía mioclónica y la distonía con respuesta a levodopa"
+    ],
+    "correcta": 0,
+    "explicacion": "El blefaroespasmo y la distonía del escribiente son las formas focales más comunes; suelen comenzar después de los 50 años y ser esporádicas, sin causa identificable.",
+    "fuente": "Cap. 76. Trastornos del movimiento hipercinéticos"
+  },
+  {
+    "id": "mov-010",
+    "tema": "Movimiento",
+    "subtema": "Hipercinéticos y urgencias",
+    "enunciado": "¿Qué entidad combina distonía y parkinsonismo con respuesta a levodopa?",
+    "opciones": [
+      "La distonía DYT5 o distonía con respuesta a levodopa",
+      "La distonía DYT3 o Lubag",
+      "La DYT12 o distonía-parkinsonismo de inicio rápido",
+      "La neuroferritinopatía"
+    ],
+    "correcta": 0,
+    "explicacion": "La DRD o DYT5 es el prototipo de distonía-parkinsonismo que responde a levodopa. Otras combinaciones son la enfermedad de Wilson, el parkinsonismo por parkina, PINK1 y DJ-1, el Lubag (DYT3), la DYT12 y las NBIA.",
+    "fuente": "Cap. 76. Trastornos del movimiento hipercinéticos"
+  },
+  {
+    "id": "mov-011",
+    "tema": "Movimiento",
+    "subtema": "Hipercinéticos y urgencias",
+    "enunciado": "¿Qué alteración metabólica es causa clásica de corea?",
+    "opciones": [
+      "La hiperglucemia no cetósica",
+      "La hipercalcemia tumoral",
+      "La hiperpotasemia aguda",
+      "La hipofosfatemia por realimentación"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre las coreas metabólicas figuran la hiperglucemia no cetósica, el hipertiroidismo, la hiponatremia y la degeneración hepatocerebral adquirida, además de hipoglucemia, insuficiencia renal, dieta cetogénica y acidosis.",
+    "fuente": "Cap. 76. Trastornos del movimiento hipercinéticos"
+  },
+  {
+    "id": "mov-012",
+    "tema": "Movimiento",
+    "subtema": "Hipercinéticos y urgencias",
+    "enunciado": "¿Qué antiepilépticos se citan como causa de corea farmacológica?",
+    "opciones": [
+      "Lamotrigina y ácido valproico",
+      "Levetiracetam y brivaracetam",
+      "Topiramato y zonisamida",
+      "Perampanel y lacosamida"
+    ],
+    "correcta": 0,
+    "explicacion": "Dentro del corea farmacológico se incluyen levodopa y agonistas, neurolépticos, litio, lamotrigina y valproico, captopril, estimulantes, anticonceptivos orales, algunos antidepresivos, alcohol y anticolinérgicos.",
+    "fuente": "Cap. 76. Trastornos del movimiento hipercinéticos"
+  },
+  {
+    "id": "mov-013",
+    "tema": "Movimiento",
+    "subtema": "Trastornos funcionales",
+    "enunciado": "¿Cuál es el principal criterio diagnóstico de la mioclonía funcional?",
+    "opciones": [
+      "La variabilidad en la duración, distribución o latencia del movimiento",
+      "La ausencia de correlato en el EEG previo al movimiento",
+      "La aparición exclusiva en situaciones de estrés",
+      "La respuesta completa al clonazepam"
+    ],
+    "correcta": 0,
+    "explicacion": "El criterio central es la variabilidad en duración, distribución o latencia, junto a los fenómenos de acoplamiento, supresión y distractibilidad. Frente a las mioclonías reflejas orgánicas, la latencia estímulo-mioclonía es más prolongada.",
+    "fuente": "Cap. 77. Trastornos del movimiento funcionales"
+  },
+  {
+    "id": "mov-014",
+    "tema": "Movimiento",
+    "subtema": "Trastornos funcionales",
+    "enunciado": "En la maniobra de Barré invertido, ¿qué hallazgo sugiere una paresia funcional?",
+    "opciones": [
+      "La caída del miembro sin pronación",
+      "La caída del miembro con pronación marcada",
+      "La ausencia de caída con temblor asociado",
+      "La caída simétrica de ambos miembros"
+    ],
+    "correcta": 0,
+    "explicacion": "En el daño de la vía piramidal la caída se acompaña de pronación; en la paresia funcional el brazo cae sin pronar. Otro signo útil es la co-contracción del antagonista durante la exploración de fuerza.",
+    "fuente": "Cap. 77. Trastornos del movimiento funcionales"
+  },
+  {
+    "id": "mov-015",
+    "tema": "Movimiento",
+    "subtema": "Trastornos funcionales",
+    "enunciado": "¿Qué signo ayuda a distinguir un espasmo hemifacial funcional de uno orgánico?",
+    "opciones": [
+      "La ausencia del «otro signo de Babinski», es decir de la elevación de la ceja ipsilateral",
+      "La presencia de contracciones clónicas rápidas",
+      "La afectación exclusiva del orbicular de los párpados",
+      "La persistencia del espasmo durante el sueño"
+    ],
+    "correcta": 0,
+    "explicacion": "En el espasmo hemifacial orgánico se eleva la ceja del lado del espasmo —el llamado otro signo de Babinski—; en el funcional ese signo falta o la elevación es contralateral, y el espasmo suele ser tónico prolongado o bilateral.",
+    "fuente": "Cap. 77. Trastornos del movimiento funcionales"
+  },
+  {
+    "id": "mov-016",
+    "tema": "Movimiento",
+    "subtema": "Hipercinéticos y urgencias",
+    "enunciado": "¿Cómo se maneja el trastorno del control de impulsos en la enfermedad de Parkinson?",
+    "opciones": [
+      "Reduciendo o suspendiendo lentamente el agonista dopaminérgico",
+      "Suspendiendo bruscamente el agonista dopaminérgico",
+      "Aumentando la dosis de levodopa",
+      "Iniciando de entrada un antipsicótico típico"
+    ],
+    "correcta": 0,
+    "explicacion": "La retirada del agonista debe ser lenta, porque una suspensión brusca se asocia al síndrome de deprivación dopaminérgica. Las conductas impulsivas —compras, juego, hipersexualidad, hiperfagia— pueden ser peligrosas física y económicamente.",
+    "fuente": "Cap. 78. Trastornos del movimiento en urgencias",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-017",
+    "tema": "Movimiento",
+    "subtema": "Hipercinéticos y urgencias",
+    "enunciado": "¿Qué complicaciones sistémicas puede provocar un estatus distónico o tormenta distónica?",
+    "opciones": [
+      "Hiperpirexia, deshidratación, rabdomiólisis, fracaso renal y neumonía aspirativa",
+      "Hipotermia, bradicardia e íleo paralítico",
+      "Hipoglucemia refractaria y coma hiperosmolar",
+      "Edema agudo de pulmón y crisis hipertensiva aislada"
+    ],
+    "correcta": 0,
+    "explicacion": "El estatus distónico consiste en un gran empeoramiento con contracciones continuas y graves, desencadenado por infecciones, cambios de medicación o trauma; puede llevar a fracaso multiorgánico y suele requerir UCI.",
+    "fuente": "Cap. 78. Trastornos del movimiento en urgencias",
+    "teoria": "parkinsonismos"
+  },
+  {
+    "id": "mov-018",
+    "tema": "Movimiento",
+    "subtema": "Ataxias",
+    "enunciado": "¿Qué prueba es esencial para el diagnóstico de la ataxia de Friedreich?",
+    "opciones": [
+      "La detección de la mutación dinámica GAA en el gen FXN",
+      "La detección de la expansión AAGGG en RFC-1",
+      "El estudio de la vía motora central con estimulación magnética",
+      "La determinación de vitamina E y alfa-fetoproteína"
+    ],
+    "correcta": 0,
+    "explicacion": "El diagnóstico se confirma con la expansión GAA del gen FXN. La omaveloxolona es el primer fármaco aprobado capaz de modificar la progresión, junto a rehabilitación y tratamiento de la miocardiopatía y la diabetes.",
+    "fuente": "Cap. 79. Trastornos cerebelosos y ataxias degenerativas"
+  },
+  {
+    "id": "mov-019",
+    "tema": "Movimiento",
+    "subtema": "Ataxias",
+    "enunciado": "¿Qué alteración genética causa el síndrome CANVAS?",
+    "opciones": [
+      "Una doble expansión intrónica del pentanucleótido AAGGG en RFC-1",
+      "Una expansión GAA en el gen FXN",
+      "Una expansión de tripletes en CACNA1A",
+      "Una premutación en el gen FMR1"
+    ],
+    "correcta": 0,
+    "explicacion": "El CANVAS —ataxia cerebelosa, neuropatía y arreflexia vestibular— se debe a una doble expansión intrónica del pentanucleótido AAGGG en RFC-1.",
+    "fuente": "Cap. 79. Trastornos cerebelosos y ataxias degenerativas"
+  },
+  {
+    "id": "mov-020",
+    "tema": "Movimiento",
+    "subtema": "Ataxias",
+    "enunciado": "¿Qué caracteriza a la ataxia episódica tipo 2?",
+    "opciones": [
+      "Episodios de horas o días por mutaciones o expansiones en CACNA1A, desencadenados por café, alcohol o fatiga",
+      "Episodios de segundos a minutos desencadenados por el movimiento",
+      "Episodios de meses a años sin desencadenante identificable",
+      "Episodios diarios que responden a la retirada del gluten"
+    ],
+    "correcta": 0,
+    "explicacion": "La AE2 se debe a mutaciones puntuales o expansiones en CACNA1A y cursa con episodios prolongados, de horas o días, precipitados por café, alcohol o fatiga. La tipo 1 da episodios de segundos a minutos desencadenados por el movimiento.",
+    "fuente": "Cap. 79. Trastornos cerebelosos y ataxias degenerativas"
+  },
+  {
+    "id": "mov-021",
+    "tema": "Movimiento",
+    "subtema": "Ataxias",
+    "enunciado": "¿Qué rango de repeticiones define la premutación responsable del síndrome FXTAS?",
+    "opciones": [
+      "55-200 repeticiones",
+      "Más de 200 repeticiones",
+      "10-40 repeticiones",
+      "300-1000 repeticiones"
+    ],
+    "correcta": 0,
+    "explicacion": "El síndrome de temblor y ataxia asociado al X frágil es la ataxia ligada al X más frecuente, aparece de forma tardía y afecta habitualmente a varones portadores de expansiones en rango de premutación (55-200 repeticiones).",
+    "fuente": "Cap. 79. Trastornos cerebelosos y ataxias degenerativas"
+  }
+]

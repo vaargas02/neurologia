@@ -1,0 +1,257 @@
+[
+  {
+    "id": "cef-001",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "¿Qué fenómeno se correlaciona con los síntomas del aura migrañosa?",
+    "opciones": [
+      "La depresión cortical propagada",
+      "La vasoconstricción de la arteria cerebral posterior",
+      "La activación aislada del ganglio trigeminal",
+      "La liberación de CGRP en la duramadre"
+    ],
+    "correcta": 0,
+    "explicacion": "El aura se correlaciona con la depresión cortical propagada, una onda de despolarización neuronal y glial detectable con electrocorticografía, magnetoencefalografía y neuroimagen funcional, con cambios de señal BOLD en la RM funcional.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-002",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "¿Qué rasgo del aura migrañosa ayuda a diferenciarla de un ataque isquémico transitorio?",
+    "opciones": [
+      "La instauración progresiva con fenómenos positivos, como luces brillantes y hormigueos",
+      "La aparición brusca de hemianopsia e hipoalgesia",
+      "La duración superior a 24 horas de cada síntoma",
+      "La ausencia de cefalea acompañante"
+    ],
+    "correcta": 0,
+    "explicacion": "El aura se instaura progresivamente y cursa con fenómenos positivos —luces brillantes, hormigueos— en lugar de hemianopsia o hipoalgesia; los síntomas migran de un área a otra y cada uno se resuelve en 60 minutos o menos.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-003",
+    "tema": "Cefalea y dolor",
+    "subtema": "Migraña",
+    "enunciado": "Cuando el aura tiene varios componentes, ¿en qué secuencia suelen aparecer?",
+    "opciones": [
+      "Visual, después sensitivo y finalmente afasia",
+      "Afasia, después visual y finalmente sensitivo",
+      "Sensitivo, después afasia y finalmente visual",
+      "Todos los síntomas comienzan simultáneamente"
+    ],
+    "correcta": 0,
+    "explicacion": "Los síntomas de aura se suceden en secuencia: primero los trastornos visuales, luego los sensitivos y por último la afasia, resolviéndose cada uno en 60 minutos o menos.",
+    "fuente": "Cap. 57. Migraña"
+  },
+  {
+    "id": "cef-004",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefaleas trigémino-autonómicas y tensional",
+    "enunciado": "¿Qué estructuras integran el complejo trigémino-cervical implicado en las cefaleas trigémino-autonómicas?",
+    "opciones": [
+      "El núcleo caudal del trigémino junto con las aferencias C1-C2",
+      "El ganglio esfenopalatino y el núcleo salivatorio superior",
+      "El hipotálamo posterior y el locus coeruleus",
+      "El tálamo ventroposteromedial y la corteza insular"
+    ],
+    "correcta": 0,
+    "explicacion": "La rama oftálmica conduce la información nociceptiva al ganglio trigeminal y de ahí al núcleo caudal del trigémino, que con las aferencias C1-C2 forma el complejo trigémino-cervical; desde ahí asciende al tálamo y a la corteza sensorial.",
+    "fuente": "Cap. 58. Cefaleas trigémino-autonómicas y otras cefaleas primarias"
+  },
+  {
+    "id": "cef-005",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefaleas trigémino-autonómicas y tensional",
+    "enunciado": "¿Qué niveles plasmáticos de litio se recomiendan en la prevención de la cefalea en racimos?",
+    "opciones": ["0,4-0,8 mEq/l", "1,2-1,5 mEq/l", "0,1-0,2 mEq/l", "2-3 mEq/l"],
+    "correcta": 0,
+    "explicacion": "Con litio se monitorizan función tiroidea y litemia, manteniendo niveles entre 0,4 y 0,8 mEq/l. Otras alternativas preventivas son melatonina 9-10 mg/día, gabapentina 900-3200 mg/día o galcanezumab 300 mg subcutáneos cada 4 semanas.",
+    "fuente": "Cap. 58. Cefaleas trigémino-autonómicas y otras cefaleas primarias"
+  },
+  {
+    "id": "cef-006",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefaleas trigémino-autonómicas y tensional",
+    "enunciado": "¿Cuál es el tratamiento preventivo de primera elección en la cefalea tipo tensión?",
+    "opciones": [
+      "Amitriptilina, empezando con 10-25 mg nocturnos",
+      "Topiramato, empezando con 25 mg nocturnos",
+      "Propranolol a dosis bajas",
+      "Toxina botulínica con el protocolo de migraña crónica"
+    ],
+    "correcta": 0,
+    "explicacion": "Los antidepresivos tricíclicos son de primera elección y el más usado es la amitriptilina: se inicia con 10-25 mg por la noche y se sube 10-25 mg por semana hasta 25-75 mg/día. Debe evitarse en glaucoma, hepatopatía grave o hipertrofia prostática.",
+    "fuente": "Cap. 58. Cefaleas trigémino-autonómicas y otras cefaleas primarias"
+  },
+  {
+    "id": "cef-007",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "¿Por qué mecanismo reduce el topiramato la presión intracraneal en la hipertensión intracraneal idiopática?",
+    "opciones": [
+      "Por inhibición de la anhidrasa carbónica",
+      "Por bloqueo de los canales de sodio",
+      "Por antagonismo del receptor de CGRP",
+      "Por efecto diurético osmótico"
+    ],
+    "correcta": 0,
+    "explicacion": "El topiramato inhibe la anhidrasa carbónica y con ello baja la presión intracraneal; además favorece la pérdida de peso y previene la migraña, lo que explica su uso creciente en esta indicación.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-008",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "Entre las técnicas de derivación de LCR en la hipertensión intracraneal, ¿cuál se prefiere y por qué?",
+    "opciones": [
+      "La ventriculoperitoneal, por su menor tasa de complicaciones",
+      "La lumboperitoneal, por ser menos invasiva",
+      "La fenestración del nervio óptico, por su efecto más duradero",
+      "El stent de senos transversos, por su menor coste"
+    ],
+    "correcta": 0,
+    "explicacion": "Las derivaciones bajan la PIC muy rápido y se prefiere la ventriculoperitoneal sobre la lumboperitoneal por tener menos complicaciones. La fenestración del nervio óptico se reserva para la amenaza grave de la visión.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-009",
+    "tema": "Cefalea y dolor",
+    "subtema": "Presión intracraneal y cefaleas secundarias",
+    "enunciado": "¿Cómo se explica el alivio inmediato del dolor tras un parche hemático epidural en el síndrome de hipotensión intracraneal?",
+    "opciones": [
+      "Por expansión del espacio epidural, ya que el LCR no se repone de inmediato",
+      "Por reposición instantánea del volumen de LCR perdido",
+      "Por vasoconstricción de los senos venosos durales",
+      "Por bloqueo anestésico de las raíces lumbares"
+    ],
+    "correcta": 0,
+    "explicacion": "El alivio rápido se debe a la expansión del espacio epidural; la restauración de presión y volumen llega después por el efecto tapón sobre la fuga y por la reacción inflamatoria que cierra el defecto. La sangre epidural se reabsorbe en 18-24 horas.",
+    "fuente": "Cap. 59. Alteración de la presión intracraneal y otras cefaleas secundarias"
+  },
+  {
+    "id": "cef-010",
+    "tema": "Cefalea y dolor",
+    "subtema": "Neuralgias y algias faciales",
+    "enunciado": "¿Qué rasgos definen la neuralgia del trigémino con dolor continuo concomitante?",
+    "opciones": [
+      "Dolor quemante u opresivo casi continuo con paroxismos superpuestos que no son el dolor predominante",
+      "Dolor exclusivamente paroxístico de segundos de duración",
+      "Dolor continuo sin ningún componente paroxístico",
+      "Dolor desencadenado solo por la deglución"
+    ],
+    "correcta": 0,
+    "explicacion": "Esta forma combina un dolor continuo o casi continuo, quemante u opresivo, con paroxismos breves superpuestos que no predominan; suele asociar déficits sensoriales, alteración del reflejo corneal, alodinia mecánica e hiperalgesia al frío.",
+    "fuente": "Cap. 60. Neuralgias, neuropatías y algias faciales"
+  },
+  {
+    "id": "cef-011",
+    "tema": "Cefalea y dolor",
+    "subtema": "Neuralgias y algias faciales",
+    "enunciado": "¿Qué maniobras desencadenan típicamente la neuralgia del glosofaríngeo?",
+    "opciones": [
+      "Tragar, comer, toser o hablar",
+      "Tocar la pared posterior del conducto auditivo externo",
+      "Masticar alimentos fríos con la boca abierta",
+      "Girar bruscamente el cuello"
+    ],
+    "correcta": 0,
+    "explicacion": "Los paroxismos duran de 2 segundos a 2 minutos en el territorio del glosofaríngeo y de las ramas auricular y faríngea del vago —oído, base de lengua, fosa amigdalina, ángulo mandibular— y se desencadenan al tragar, comer, toser o hablar.",
+    "fuente": "Cap. 60. Neuralgias, neuropatías y algias faciales"
+  },
+  {
+    "id": "cef-012",
+    "tema": "Cefalea y dolor",
+    "subtema": "Neuralgias y algias faciales",
+    "enunciado": "¿Cuál es la etiología secundaria más frecuente de la neuralgia del nervio intermediario?",
+    "opciones": ["El herpes zóster", "El schwannoma vestibular", "La esclerosis múltiple", "La compresión vascular"],
+    "correcta": 0,
+    "explicacion": "El dolor asienta en el pabellón auricular, la mastoides y a veces el paladar blando, y se desencadena al tocar la pared posterior del conducto auditivo. Es lo bastante rara como para obligar a buscar causas secundarias, siendo el herpes zóster la más frecuente.",
+    "fuente": "Cap. 60. Neuralgias, neuropatías y algias faciales"
+  },
+  {
+    "id": "cef-013",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefalea en urgencias",
+    "enunciado": "¿Qué lugar ocupa la cefalea entre los motivos de consulta en urgencias?",
+    "opciones": [
+      "Es el cuarto motivo global y el primero de causa neurológica",
+      "Es el primer motivo global de consulta",
+      "Es el segundo motivo neurológico, tras el ictus",
+      "Es un motivo infrecuente, por debajo del 1 % de las consultas"
+    ],
+    "correcta": 0,
+    "explicacion": "La cefalea es el cuarto motivo de consulta global en urgencias y el motivo neurológico más frecuente, por la alta prevalencia de la cefalea tensional y la migraña y porque puede ser síntoma de procesos secundarios graves.",
+    "fuente": "Cap. 61. Cefalea en el servicio de urgencias"
+  },
+  {
+    "id": "cef-014",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefalea en urgencias",
+    "enunciado": "¿Qué grupo farmacológico debe evitarse en el tratamiento de la migraña en urgencias?",
+    "opciones": ["Los opiáceos", "Los antagonistas dopaminérgicos", "Los AINE intravenosos", "Los corticoides"],
+    "correcta": 0,
+    "explicacion": "Las recomendaciones incluyen tratar precozmente, hidratar, combinar fármacos y evitar los opiáceos. La metoclopramida 10-20 mg i.v. o la clorpromazina 12,5-25 mg son antagonistas dopaminérgicos útiles en este contexto.",
+    "fuente": "Cap. 61. Cefalea en el servicio de urgencias"
+  },
+  {
+    "id": "cef-015",
+    "tema": "Cefalea y dolor",
+    "subtema": "Cefalea en urgencias",
+    "enunciado": "En el bloqueo de puntos gatillo de ramas terminales del trigémino, ¿qué anestésico y volumen se emplean?",
+    "opciones": [
+      "Lidocaína al 2 %, 0,5-1 ml por punto",
+      "Bupivacaína al 0,5 %, 5 ml por punto",
+      "Lidocaína al 10 %, 3 ml por punto",
+      "Suero salino hipertónico, 2 ml por punto"
+    ],
+    "correcta": 0,
+    "explicacion": "Se infiltran 0,5-1 ml de lidocaína al 2 % en cada punto referido por el paciente, habitualmente en el punto de emergencia del nervio. Es una técnica segura y sencilla, aunque de duración variable.",
+    "fuente": "Cap. 61. Cefalea en el servicio de urgencias"
+  },
+  {
+    "id": "cef-016",
+    "tema": "Cefalea y dolor",
+    "subtema": "Dolor neuropático",
+    "enunciado": "¿Cómo define la IASP el dolor?",
+    "opciones": [
+      "Experiencia sensorial y emocional desagradable asociada, o similar a la asociada, con daño tisular real o potencial",
+      "Sensación desagradable producida siempre por una lesión tisular objetivable",
+      "Respuesta refleja a un estímulo nociceptivo de intensidad suficiente",
+      "Percepción consciente de la activación de las fibras A-delta y C"
+    ],
+    "correcta": 0,
+    "explicacion": "La definición de consenso subraya que el dolor es una experiencia sensorial y emocional y que puede existir sin daño tisular demostrable, asociada o similar a la asociada con daño real o potencial.",
+    "fuente": "Cap. 62. Dolor neuropático y nociceptivo"
+  },
+  {
+    "id": "cef-017",
+    "tema": "Cefalea y dolor",
+    "subtema": "Dolor neuropático",
+    "enunciado": "¿Qué instrumento se emplea para explorar la alodinia mecánica dinámica?",
+    "opciones": [
+      "Un estímulo táctil en movimiento, como un pincel",
+      "Una aguja de seguridad aplicada a intervalos regulares",
+      "Un objeto a 10 °C aplicado sobre la piel",
+      "Un diapasón sobre las prominencias óseas"
+    ],
+    "correcta": 0,
+    "explicacion": "La alodinia mecánica dinámica se explora con un estímulo táctil en movimiento; la hiperalgesia punctata con aguja o filamento, y la hiperpatía aplicando el estímulo a intervalos de 3 segundos durante 30 segundos.",
+    "fuente": "Cap. 62. Dolor neuropático y nociceptivo"
+  },
+  {
+    "id": "cef-018",
+    "tema": "Cefalea y dolor",
+    "subtema": "Dolor neuropático",
+    "enunciado": "¿Cómo evoluciona característicamente el dolor neuropático?",
+    "opciones": [
+      "No tiende a la curación, se modifica con el tiempo y añade dolor nociceptivo por degeneración articular en la zona hipoestésica",
+      "Se resuelve espontáneamente en pocas semanas en la mayoría de los casos",
+      "Permanece invariable en calidad e intensidad durante años",
+      "Desaparece por completo al tratar la lesión causal"
+    ],
+    "correcta": 0,
+    "explicacion": "El dolor neuropático suele tener varias cualidades, con paroxismos superpuestos y exacerbaciones con el movimiento, la fatiga o el ánimo; no tiende a curar y con el tiempo se le suman dolores nociceptivos por degeneración precoz de las articulaciones en la zona hipoestésica.",
+    "fuente": "Cap. 62. Dolor neuropático y nociceptivo"
+  }
+]

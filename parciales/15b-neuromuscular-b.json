@@ -1,0 +1,775 @@
+[
+ {
+  "id": "nms-023",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "¿Cuál es la prueba complementaria más sensible para el diagnóstico de miastenia gravis?",
+  "opciones": [
+   "La electromiografía de fibra única",
+   "La estimulación repetitiva a baja frecuencia",
+   "La determinación de anticuerpos antiRACh",
+   "El test del hielo sobre el párpado"
+  ],
+  "correcta": 0,
+  "explicacion": "La fibra única alcanza sensibilidades del 92-99 % en la forma generalizada y del 80-95 % en la ocular, por encima de los antiRACh (80-90 % y 40-55 %) y de la estimulación repetitiva (75 % y <50 %). Mide el jitter entre dos fibras del mismo axón; se considera anormal cuando más del 10 % de los pares estudiados lo tienen aumentado o hay bloqueo.",
+  "teoria": "mg-manejo",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-024",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "¿Qué hallazgo se considera positivo en la estimulación repetitiva de un paciente con sospecha de miastenia gravis?",
+  "opciones": [
+   "Un decremento mayor del 10 % a partir del cuarto o quinto estímulo",
+   "Un incremento mayor del 100 % tras estimulación a alta frecuencia",
+   "Un decremento mayor del 50 % ya en el segundo estímulo",
+   "Una caída progresiva de la latencia distal con los estímulos sucesivos"
+  ],
+  "correcta": 0,
+  "explicacion": "Se aplican 10 estímulos supramáximos a 2-3 Hz y la respuesta decremental típica aparece a partir del cuarto o quinto, siendo positiva por encima del 10 %. El incremento superior al 100 % tras alta frecuencia es lo propio del síndrome de Eaton-Lambert, no de la miastenia. Conviene suspender los anticolinesterásicos al menos 12 horas antes.",
+  "teoria": "mg-manejo",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-025",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "¿Qué relación existe entre la miastenia gravis y el timoma?",
+  "opciones": [
+   "El 15 % de los pacientes con miastenia tiene timoma y cerca del 40 % de los timomas asocia miastenia",
+   "El 40 % de los pacientes con miastenia tiene timoma y cerca del 15 % de los timomas asocia miastenia",
+   "Prácticamente todos los pacientes con miastenia tienen alguna alteración tumoral del timo",
+   "El timoma solo aparece en pacientes con miastenia seronegativa"
+  ],
+  "correcta": 0,
+  "explicacion": "El timoma se detecta en el 15 % de las miastenias, mientras que hasta el 40 % de los pacientes con timoma desarrolla miastenia. El hallazgo tímico más frecuente en la propia miastenia no es el timoma sino la hiperplasia (85 %), y por eso hay que descartar patología tímica en todos los pacientes.",
+  "teoria": "mg-manejo",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-026",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "En la miastenia con anticuerpos antiMuSK que no responde a corticoides, ¿cuál es el tratamiento de elección?",
+  "opciones": [
+   "Rituximab",
+   "Azatioprina",
+   "Aumentar la dosis de piridostigmina",
+   "Micofenolato de mofetilo"
+  ],
+  "correcta": 0,
+  "explicacion": "En las formas antiMuSK el efecto de los anticolinesterásicos es escaso y, aunque responden a corticoides a dosis altas, suele ser imposible descenderlos y los ahorradores clásicos funcionan mal; rituximab es el tratamiento de elección ante el fallo de la corticoterapia y debe considerarse de forma temprana.",
+  "teoria": "mg-manejo",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-027",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "Además de en todo timoma resecable, ¿en qué perfil de paciente con miastenia recomienda el manual la timectomía?",
+  "opciones": [
+   "Miastenia generalizada u ocular discapacitante, antiRACh positivos y edad ≤50 años",
+   "Miastenia seronegativa de cualquier edad con buena respuesta a piridostigmina",
+   "Miastenia antiMuSK con crisis miasténica previa",
+   "Cualquier miastenia ocular pura en el primer año tras el diagnóstico"
+  ],
+  "correcta": 0,
+  "explicacion": "La indicación se apoya en la seropositividad antiRACh, la enfermedad generalizada o la ocular discapacitante pese al tratamiento, y una edad igual o inferior a 50 años, individualizando entre los 50 y los 65. Su efecto es lento: el beneficio puede tardar de 1 a 10 años en aparecer.",
+  "teoria": "mg-manejo",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-028",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "¿Por qué se inicia la prednisona a dosis bajas y con escalada lenta en la miastenia gravis?",
+  "opciones": [
+   "Porque hasta el 50 % de los pacientes empeora transitoriamente a los 5-10 días si se inicia a dosis altas",
+   "Porque a dosis altas el fármaco tarda más de un año en hacer efecto",
+   "Porque las dosis altas inducen la aparición de anticuerpos antiMuSK",
+   "Porque la escalada rápida impide alcanzar después la remisión farmacológica"
+  ],
+  "correcta": 0,
+  "explicacion": "Se describe un empeoramiento transitorio en hasta la mitad de los pacientes a los 5-10 días de empezar con dosis altas, por lo que se parte de unos 20 mg/día con incrementos de 5 mg cada 3-5 días. Las dosis de mg/kg/día se reservan para el paciente ingresado y junto a plasmaféresis o inmunoglobulinas.",
+  "teoria": "mg-manejo",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-029",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "¿Qué patrón neurofisiológico distingue al síndrome de Eaton-Lambert de la miastenia gravis?",
+  "opciones": [
+   "Un incremento de la amplitud del PAMC superior al 100 % tras estimulación a alta frecuencia",
+   "Un decremento del PAMC superior al 10 % con estimulación a 2-3 Hz",
+   "Un jitter normal en el estudio de fibra única",
+   "Una neurografía sensitiva con amplitudes muy reducidas"
+  ],
+  "correcta": 0,
+  "explicacion": "Ambos comparten el decremento a baja frecuencia, pero solo el Eaton-Lambert muestra facilitación con incremento superior al 100 % a alta frecuencia (o tras esfuerzo mantenido, mejor tolerado). En el botulismo también hay facilitación, pero mucho menor, del 30-100 %.",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-030",
+  "tema": "Neuromuscular",
+  "subtema": "Unión neuromuscular",
+  "enunciado": "¿Qué tratamiento específico se emplea en el botulismo del lactante?",
+  "opciones": [
+   "Inmunoglobulina botulínica humana intravenosa",
+   "Antitoxina equina trivalente A, B y E",
+   "Piridostigmina a dosis altas por sonda nasogástrica",
+   "3,4-diaminopiridina intravenosa"
+  ],
+  "correcta": 0,
+  "explicacion": "En niños se evita la antitoxina equina por sus efectos adversos y el riesgo de sensibilización futura frente a proteínas equinas, y se prefiere la inmunoglobulina botulínica humana. En el adulto sí se usa la antitoxina trivalente, eficaz si es precoz, con un 20 % de reacciones de hipersensibilidad.",
+  "fuente": "Cap. 80. Miastenia gravis y síndromes miasteniformes"
+ },
+ {
+  "id": "nms-031",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "En el estudio de una polineuropatía, ¿cómo debe buscarse una gammapatía monoclonal?",
+  "opciones": [
+   "Mediante inmunofijación, porque la electroforesis no es suficientemente sensible",
+   "Mediante electroforesis, porque la inmunofijación da muchos falsos positivos",
+   "Mediante biopsia de médula ósea desde el inicio",
+   "Mediante cuantificación de inmunoglobulinas totales en suero"
+  ],
+  "correcta": 0,
+  "explicacion": "El estudio básico de toda neuropatía incluye inmunofijación sérica; la electroforesis se queda corta en sensibilidad y puede dejar pasar una proteína monoclonal. Detectarla importa porque obliga a descartar mieloma o macroglobulinemia y cambia el enfoque terapéutico.",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-032",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "Un paciente con síndrome de Guillain-Barré no mejora tras un ciclo de inmunoglobulinas. ¿Qué conducta recoge el manual?",
+  "opciones": [
+   "No administrar un segundo ciclo, porque no es beneficioso y se asocia a complicaciones graves",
+   "Administrar un segundo ciclo de inmunoglobulinas a la misma dosis",
+   "Añadir corticoides orales en pauta descendente",
+   "Secuenciar plasmaféresis inmediatamente tras las inmunoglobulinas"
+  ],
+  "correcta": 0,
+  "explicacion": "El segundo ciclo de inmunoglobulinas en no respondedores está contraindicado: no aporta beneficio y suma riesgo de complicaciones graves. Tampoco hay evidencia de que secuenciar tratamientos ayude, y los corticoides están contraindicados en el Guillain-Barré.",
+  "teoria": "nai-espectro",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-033",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Qué pacientes con síndrome de Guillain-Barré deben recibir tratamiento inmunomodulador?",
+  "opciones": [
+   "Los que no caminan 10 metros de forma independiente, los de progresión rápida y los que tienen compromiso respiratorio, bulbar o autonómico",
+   "Todos los pacientes, desde el momento del diagnóstico y con independencia de la gravedad",
+   "Solo los que ya requieren ventilación mecánica invasiva",
+   "Solo los que presentan disociación albúmino-citológica en el LCR"
+  ],
+  "correcta": 0,
+  "explicacion": "Al ser una enfermedad autolimitada, no todos los pacientes se benefician del tratamiento; se reserva para los que pierden la marcha independiente en 10 metros, progresan rápido o tienen afectación respiratoria, bulbar o disautonómica. Lo prioritario en todos es la monitorización de la capacidad vital forzada.",
+  "teoria": "nai-espectro",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-034",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Qué anticuerpo se detecta con más frecuencia en el síndrome de Miller Fisher?",
+  "opciones": [
+   "IgG anti-GQ1b",
+   "IgG anti-GM1",
+   "IgM anti-MAG",
+   "IgG4 anti-neurofascina 155"
+  ],
+  "correcta": 0,
+  "explicacion": "El anti-GQ1b (con frecuencia junto a GT1a) acompaña a la tríada de oftalmoparesia, ataxia y arreflexia, y también a la encefalitis de Bickerstaff, que se considera dentro del mismo espectro. El anti-GM1 se asocia a las variantes motoras puras como la AMAN.",
+  "teoria": "nai-espectro",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-035",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Cuál es el tratamiento de la neuropatía motora multifocal?",
+  "opciones": [
+   "Inmunoglobulinas endovenosas, buscando después la dosis mínima eficaz de mantenimiento",
+   "Corticoides orales en pauta descendente prolongada",
+   "Plasmaféresis en ciclos mensuales",
+   "Rituximab como primera línea en todos los casos"
+  ],
+  "correcta": 0,
+  "explicacion": "La neuropatía motora multifocal se trata casi exclusivamente con inmunoglobulinas, con un paradigma similar al de la CIDP: dosis de inducción y búsqueda de la mínima eficaz. Es una neuropatía crónica asimétrica, de predominio en extremidades superiores y con bloqueos de conducción motora, cuyo principal diagnóstico diferencial es la ELA.",
+  "teoria": "nai-espectro",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-036",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Qué respuesta terapéutica caracteriza a las nodopatías autoinmunes frente a la CIDP?",
+  "opciones": [
+   "Responden mal a las inmunoglobulinas y bien a rituximab",
+   "Responden mejor a las inmunoglobulinas que la propia CIDP",
+   "Responden solo a la plasmaféresis de forma mantenida",
+   "No responden a ningún tratamiento inmunomodulador"
+  ],
+  "correcta": 0,
+  "explicacion": "Las nodopatías, definidas por anticuerpos habitualmente IgG4 contra proteínas del nodo y paranodo (contactina-1, NF155, CASPR1), responden mal a las inmunoglobulinas y peor a corticoides que la CIDP, mientras que las series publicadas sugieren buena respuesta a rituximab. Su neurografía puede ser indistinguible de la CIDP, de ahí la importancia de los anticuerpos.",
+  "teoria": "nai-espectro",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-037",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Qué alteración genética explica el subtipo de Charcot-Marie-Tooth más frecuente?",
+  "opciones": [
+   "Una duplicación de 1,4 Mb que incluye el gen PMP22",
+   "Una deleción de 1,4 Mb que incluye el gen PMP22",
+   "Una mutación puntual en el gen de la conexina 32 (GJB1)",
+   "Una mutación en el gen de la mitofusina 2 (MFN2)"
+  ],
+  "correcta": 0,
+  "explicacion": "El CMT1A supone alrededor del 50 % de todos los CMT y el 70-80 % de las formas desmielinizantes, y se debe a la duplicación de 1,4 Mb en 17p12. La deleción de ese mismo fragmento da la neuropatía por vulnerabilidad a la presión, con un fenotipo completamente distinto.",
+  "teoria": "cmt-hereditarias",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-038",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Qué cuatro genes concentran más del 90 % de los CMT con diagnóstico molecular?",
+  "opciones": [
+   "PMP22, GJB1, MFN2 y MPZ",
+   "PMP22, SEPT9, TTR y GDAP1",
+   "GJB1, SH3TC2, RAB7 y NEFL",
+   "MFN2, SOD1, GARS y HSPB1"
+  ],
+  "correcta": 0,
+  "explicacion": "Pese a haberse descrito mutaciones en más de 120 genes y más de 105 subtipos, cuatro genes explican más del 90 % de los casos resueltos. Por eso, en un CMT desmielinizante se criba primero la duplicación o deleción de PMP22 y solo después se pasa a secuenciación masiva.",
+  "teoria": "cmt-hereditarias",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-039",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "En la amiloidosis hereditaria por transtirretina, ¿a qué corresponde el estadio II de Coutinho?",
+  "opciones": [
+   "Precisa ayuda para deambular y los déficits afectan ya a los miembros superiores",
+   "Deambula sin ayuda, con déficits leves limitados a los miembros inferiores",
+   "Está en silla de ruedas o encamado, con afectación multiorgánica",
+   "Es portador asintomático con estudio genético positivo"
+  ],
+  "correcta": 0,
+  "explicacion": "Coutinho gradúa la progresión por la marcha: el estadio I camina solo con déficits leves en miembros inferiores, el II necesita ayuda y ya afecta a los superiores, y el III está en silla o encamado. Las terapias aprobadas actúan en los estadios I y II, lo que hace clave detectar pronto a los portadores.",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-040",
+  "tema": "Neuromuscular",
+  "subtema": "Neuropatías",
+  "enunciado": "¿Cuál es la forma de presentación clásica de una neuropatía vasculítica?",
+  "opciones": [
+   "Mononeuropatía múltiple, presente en dos tercios de los casos",
+   "Polineuropatía desmielinizante simétrica de predominio motor",
+   "Neuronopatía sensitiva pura de instauración indolora",
+   "Plexopatía braquial bilateral simultánea"
+  ],
+  "correcta": 0,
+  "explicacion": "Dos tercios debutan como mononeuropatía múltiple, con afectación secuencial, aguda, dolorosa y sensitivomotora de distintos troncos; el tercio restante lo hace como polineuropatía distal dependiente de longitud. La suma de troncos puede simular una polineuropatía simétrica (mononeuropatía múltiple solapada). La biopsia de nervio afectado con músculo vecino debe preceder al tratamiento.",
+  "fuente": "Cap. 81. Polineuropatías"
+ },
+ {
+  "id": "nms-041",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Qué simplificación introducen los criterios de Gold Coast respecto a El Escorial revisados?",
+  "opciones": [
+   "Reducen el diagnóstico a dos categorías, ELA y no-ELA, e incluyen las formas de segunda motoneurona pura con al menos dos regiones afectas",
+   "Eliminan el EMG de los criterios y vuelven a un diagnóstico exclusivamente clínico",
+   "Exigen afectación de primera y segunda motoneurona en tres regiones para diagnosticar ELA",
+   "Añaden la resonancia magnética como criterio obligatorio de afectación de primera motoneurona"
+  ],
+  "correcta": 0,
+  "explicacion": "Gold Coast (2020) sustituye las cuatro categorías de El Escorial por ELA o no-ELA, equipara los hallazgos EMG a los clínicos para valorar la segunda motoneurona y admite como ELA la afectación de segunda motoneurona pura en dos regiones. La valoración de la primera motoneurona sigue siendo solo clínica.",
+  "teoria": "ela-diagnostico",
+  "fuente": "Cap. 82. Enfermedades de la motoneurona"
+ },
+ {
+  "id": "nms-042",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Qué control analítico se recomienda tras iniciar riluzol en un paciente con ELA?",
+  "opciones": [
+   "Función hepática a las 4-8 semanas",
+   "Hemograma semanal durante el primer mes",
+   "Niveles plasmáticos del fármaco a los 3 meses",
+   "Función renal y electrolitos cada 15 días"
+  ],
+  "correcta": 0,
+  "explicacion": "El riluzol puede elevar las enzimas hepáticas y, en casos graves, provocar fallo hepático, por lo que se controla la función hepática a las 4-8 semanas. Otro efecto adverso grave que conviene conocer es la enfermedad pulmonar intersticial, sospechable ante un deterioro respiratorio rápido en los primeros 2-6 meses.",
+  "teoria": "ela-diagnostico",
+  "fuente": "Cap. 82. Enfermedades de la motoneurona"
+ },
+ {
+  "id": "nms-043",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Qué variante de ELA tiene la progresión más lenta y mayor supervivencia?",
+  "opciones": [
+   "La esclerosis lateral primaria, con una supervivencia media de 7 a 14 años",
+   "La forma flail arm, con una supervivencia media de unos 30 meses",
+   "La atrofia muscular progresiva, con una supervivencia media de unos 20 meses",
+   "La ELA bulbar, con una supervivencia media de unos 60 meses"
+  ],
+  "correcta": 0,
+  "explicacion": "La esclerosis lateral primaria, de afectación exclusiva de primera motoneurona, es la de curso más lento (7-14 años). Le siguen flail leg (71 meses) y flail arm (66 meses); la ELA clásica es la de peor pronóstico (31-36 meses), y el inicio bulbar acorta aún más la supervivencia (27 meses).",
+  "teoria": "ela-diagnostico",
+  "fuente": "Cap. 82. Enfermedades de la motoneurona"
+ },
+ {
+  "id": "nms-044",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Cuál es la causa genética más frecuente de ELA en Europa y Norteamérica?",
+  "opciones": [
+   "La expansión del hexanucleótido GGGGCC en C9orf72",
+   "Las mutaciones puntuales en SOD1",
+   "Las mutaciones en TARDBP",
+   "Las mutaciones en FUS"
+  ],
+  "correcta": 0,
+  "explicacion": "C9orf72 explica cerca del 39 % de los casos familiares europeos y en torno al 5-7 % de los esporádicos, con herencia autosómica dominante y penetrancia incompleta, y se asocia también a ELA-DFT. SOD1 es el segundo gen en población caucásica, aunque en población asiática pasa a ser el primero.",
+  "teoria": "ela-diagnostico",
+  "fuente": "Cap. 82. Enfermedades de la motoneurona"
+ },
+ {
+  "id": "nms-045",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Qué intervención ha demostrado el mayor aumento de supervivencia en la ELA?",
+  "opciones": [
+   "La ventilación mecánica no invasiva, con hasta 13 meses",
+   "El riluzol en el ensayo pivotal, con hasta 13 meses",
+   "La edaravona intravenosa, con hasta 12 meses",
+   "La gastrostomía en pacientes con capacidad vital menor del 50 %"
+  ],
+  "correcta": 0,
+  "explicacion": "La VMNI es la medida que más prolonga la supervivencia, hasta 13 meses, y el tiempo hasta su colocación es determinante. El riluzol aportó 2-3 meses en el ensayo pivotal. La gastrostomía también parece aumentar la supervivencia, pero el beneficio es mayor cuanto mejor es la función respiratoria, y por debajo del 50 % de CVF aumenta el riesgo del procedimiento.",
+  "teoria": "ela-diagnostico",
+  "fuente": "Cap. 82. Enfermedades de la motoneurona"
+ },
+ {
+  "id": "nms-046",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Cuál es el tratamiento de elección del ánimo pseudobulbar en la ELA?",
+  "opciones": [
+   "La combinación de quinidina 10 mg con dextrometorfano 20 mg",
+   "Amitriptilina a dosis bajas en toma nocturna",
+   "Baclofeno con escalada lenta de dosis",
+   "Toxina botulínica en glándulas salivales"
+  ],
+  "correcta": 0,
+  "explicacion": "Quinidina más dextrometorfano reduce el número y la intensidad de los episodios de risa o llanto descontrolados, habitualmente un comprimido cada 12 horas. Hay que hacer un ECG de control por el riesgo de alargamiento del QT con la quinidina y evitar otros inhibidores del CYP2D6 por el riesgo de síndrome serotoninérgico.",
+  "fuente": "Cap. 82. Enfermedades de la motoneurona"
+ },
+ {
+  "id": "nms-047",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "En la atrofia muscular espinal, ¿qué determina la gravedad del fenotipo?",
+  "opciones": [
+   "El número de copias del gen SMN2",
+   "El tamaño de la deleción en el gen SMN1",
+   "El número de copias del gen SMN1 conservadas",
+   "La edad materna en el momento del parto"
+  ],
+  "correcta": 0,
+  "explicacion": "La pérdida de función de SMN1 causa la enfermedad, pero es SMN2, que produce en torno a un 10 % de proteína completa por copia, el que modula la gravedad: a más copias, más proteína y fenotipo más leve. El diagnóstico se hace detectando por MLPA la deleción homocigota del exón 7 de SMN1, presente en el 90-95 % de los casos.",
+  "fuente": "Cap. 82. Enfermedades de la motoneurona"
+ },
+ {
+  "id": "nms-048",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Qué combinación clínica orienta a una enfermedad de Kennedy?",
+  "opciones": [
+   "Debilidad proximal, atrofia lingual, temblor postural y ginecomastia en un varón a partir de la cuarta década",
+   "Debilidad distal asimétrica de una mano en un varón joven, sin progresión más allá de dos miotomas",
+   "Alteración sensitiva peribucal seguida años después de disfagia y cabeza caída",
+   "Paraparesia espástica lentamente progresiva con atrofia del cordón medular"
+  ],
+  "correcta": 0,
+  "explicacion": "La atrofia bulboespinal se debe a una expansión CAG en el receptor androgénico, con herencia recesiva ligada al X y penetrancia completa a partir de 38 repeticiones; añade signos endocrinos (ginecomastia, hipogonadismo, disfunción eréctil), CK elevada y fasciculaciones de la borla del mentón. Las otras descripciones corresponden a Hirayama, FOSMN y paraparesia espástica.",
+  "fuente": "Cap. 82. Enfermedades de la motoneurona"
+ },
+ {
+  "id": "nms-049",
+  "tema": "Neuromuscular",
+  "subtema": "Enfermedad de motoneurona",
+  "enunciado": "¿Cómo se confirma el diagnóstico de la enfermedad de Hirayama?",
+  "opciones": [
+   "Con una resonancia magnética cervical en flexión, que muestra el desplazamiento anterior de la duramadre",
+   "Con un estudio genético de expansiones en el receptor androgénico",
+   "Con una electromiografía de músculos paraespinales dorsales",
+   "Con una punción lumbar que muestre hiperproteinorraquia"
+  ],
+  "correcta": 0,
+  "explicacion": "El mecanismo es el desplazamiento anterior de la duramadre al flexionar el cuello, que comprime la arteria espinal anterior y daña el asta anterior cervical, por lo que la resonancia debe hacerse en flexión. Cursa con debilidad y atrofia de una mano que no difunde más allá de 1-2 miotomas y progresa durante 3-5 años.",
+  "fuente": "Cap. 82. Enfermedades de la motoneurona"
+ },
+ {
+  "id": "nms-050",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "En una hernia discal posterolateral L4-L5, ¿qué raíz se comprime habitualmente?",
+  "opciones": [
+   "La raíz L5, es decir, la que sale por el agujero inferior",
+   "La raíz L4, que es la que sale por ese espacio",
+   "Ambas raíces por igual, L4 y L5",
+   "La raíz S1, por la oblicuidad de la cauda equina"
+  ],
+  "correcta": 0,
+  "explicacion": "El ligamento longitudinal posterior es más débil lateralmente, así que la mayoría de las hernias lumbares son posterolaterales y no comprimen la raíz que sale por ese espacio, sino la inmediatamente inferior. Solo en torno al 10 %, las francamente laterales, atrapan la raíz que emerge por ese agujero. En la columna cervical, en cambio, la raíz afectada es la que sale del espacio comprometido.",
+  "fuente": "Cap. 83. Radiculopatías, plexopatías y mononeuropatías"
+ },
+ {
+  "id": "nms-051",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "Ante un pie caído, ¿qué dato distingue una radiculopatía L5 de una neuropatía peroneal compresiva?",
+  "opciones": [
+   "En la lesión del peroneo se respetan la extensión del primer dedo y la eversión, y en la L5 no",
+   "La radiculopatía L5 respeta la extensión del primer dedo y la eversión, que sí fallan en la lesión del peroneo",
+   "El potencial sensitivo está abolido en la radiculopatía L5 y conservado en la lesión del peroneo",
+   "Solo la lesión del peroneo produce alteración sensitiva en el dorso del pie"
+  ],
+  "correcta": 1,
+  "explicacion": "En la radiculopatía L5 la debilidad del extensor propio del primer dedo es desproporcionadamente mayor que la del tibial anterior, mientras que en la compresión del peroneo se afectan conjuntamente los extensores del tobillo y los peroneos, con pérdida de la eversión. El potencial sensitivo es justo al revés: se conserva en la lesión radicular, que es preganglionar.",
+  "fuente": "Cap. 83. Radiculopatías, plexopatías y mononeuropatías"
+ },
+ {
+  "id": "nms-052",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "¿Qué raíz se afecta con más frecuencia en las hernias discales cervicales?",
+  "opciones": [
+   "C7, en torno al 70 % de los casos",
+   "C5, en torno al 70 % de los casos",
+   "C8, en torno al 50 % de los casos",
+   "C6, en torno al 70 % de los casos"
+  ],
+  "correcta": 0,
+  "explicacion": "Las hernias cervicales asientan en los espacios de mayor movilidad, C5-C6 y C6-C7, y la raíz más afectada es C7 (70 %), seguida de C6 (25 %), C8 (10 %) y C5 (2 %). En la radiculopatía C7 las parestesias se refieren al dorso del tercer dedo y se pierde el reflejo tricipital.",
+  "fuente": "Cap. 83. Radiculopatías, plexopatías y mononeuropatías"
+ },
+ {
+  "id": "nms-053",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "¿Qué nervios se afectan preferentemente en la forma clásica de la neuralgia amiotrófica?",
+  "opciones": [
+   "Torácico largo, supraescapular, radial superficial e interóseo anterior",
+   "Mediano, cubital y radial a la altura del codo",
+   "Axilar, musculocutáneo y toracodorsal",
+   "Frénico, laríngeo recurrente y accesorio espinal"
+  ],
+  "correcta": 0,
+  "explicacion": "En cerca del 70 % de los casos la neuralgia amiotrófica afecta a esos cuatro nervios, con dolor intenso proximal que no cede con analgesia seguido en 1-2 semanas de paresia y atrofia multifocal, a menudo con escápula alada. Existen formas distales, lumbosacras, frénicas o puramente sensitivas.",
+  "fuente": "Cap. 83. Radiculopatías, plexopatías y mononeuropatías"
+ },
+ {
+  "id": "nms-054",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "¿Qué hallazgo electromiográfico ayuda a diferenciar la plexopatía braquial postrádica de la neoplásica?",
+  "opciones": [
+   "Las descargas mioquímicas, frecuentes en la postrádica",
+   "El decremento a baja frecuencia, frecuente en la postrádica",
+   "La ausencia de denervación activa en la neoplásica",
+   "La conservación de los potenciales sensitivos en la neoplásica"
+  ],
+  "correcta": 0,
+  "explicacion": "Las descargas mioquímicas son un hallazgo frecuente en la plexopatía postradiación, que además suele afectar más al tronco superior y cursa con menos dolor. La neoplásica afecta sobre todo a C8-T1 y al tronco inferior, con dolor y alteración sensitiva en la cara medial del brazo, atrofia de la musculatura intrínseca y síndrome de Horner frecuente.",
+  "fuente": "Cap. 83. Radiculopatías, plexopatías y mononeuropatías"
+ },
+ {
+  "id": "nms-055",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "En la sospecha de síndrome de cauda equina, ¿qué dato precoz tiene una sensibilidad cercana al 94 %?",
+  "opciones": [
+   "Un residuo postmiccional superior a 200 ml",
+   "Un test de Laségue positivo por debajo de 60 grados",
+   "La abolición del reflejo aquíleo bilateral",
+   "La presencia de dolor lumbar que empeora en decúbito"
+  ],
+  "correcta": 0,
+  "explicacion": "En fases iniciales, un residuo postmiccional mayor de 200 ml predice el síndrome con una sensibilidad del 94 %, y la exploración debe buscar además hipoestesia perineal en silla de montar (hasta el 93 % de los casos) y disminución del tono rectal. La prueba de elección es la resonancia lumbosacra, con gadolinio si la causa no parece discogénica.",
+  "fuente": "Cap. 83. Radiculopatías, plexopatías y mononeuropatías"
+ },
+ {
+  "id": "nms-056",
+  "tema": "Neuromuscular",
+  "subtema": "Raíces, plexos y nervios",
+  "enunciado": "Un paciente no puede hacer el signo del «OK» con la mano y no tiene déficit sensitivo. ¿Qué cuadro debe plantearse?",
+  "opciones": [
+   "Un síndrome del nervio interóseo anterior",
+   "Un síndrome del túnel del carpo avanzado",
+   "Una compresión cubital en el canal de Guyon",
+   "Un síndrome del pronador redondo"
+  ],
+  "correcta": 0,
+  "explicacion": "El interóseo anterior es un nervio exclusivamente motor: su lesión debilita el flexor largo del pulgar y el flexor profundo de los dedos segundo y tercero, impidiendo flexionar las falanges distales para formar la «O». En la mayoría de los casos no hay causa compresiva clara y orienta a un Parsonage-Turner incompleto.",
+  "fuente": "Cap. 83. Radiculopatías, plexopatías y mononeuropatías"
+ },
+ {
+  "id": "nms-057",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Qué regla genética explica que una mutación del gen DMD produzca fenotipo de Duchenne o de Becker?",
+  "opciones": [
+   "Las mutaciones que alteran el marco de lectura dan Duchenne y las que lo respetan, Becker",
+   "Las deleciones dan Duchenne y las duplicaciones, Becker",
+   "Las mutaciones en el extremo 5’ dan Duchenne y las del extremo 3’, Becker",
+   "Las mutaciones heredadas dan Duchenne y las de novo, Becker"
+  ],
+  "correcta": 0,
+  "explicacion": "Las mutaciones que rompen el marco de lectura generan una distrofina truncada y el fenotipo grave de Duchenne, que supone el 93 % de los casos; las que lo respetan producen una proteína parcialmente funcional y el fenotipo más leve de Becker. Existen además factores modificadores que explican variabilidad dentro de un mismo genotipo.",
+  "fuente": "Cap. 84. Distrofias musculares y miopatías congénitas"
+ },
+ {
+  "id": "nms-058",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Qué aportan los corticoides orales en la distrofia muscular de Duchenne?",
+  "opciones": [
+   "Prolongan la deambulación 1,5-2 años y reducen el riesgo de escoliosis",
+   "Solo son útiles en los pacientes con mutaciones sin sentido",
+   "Normalizan los niveles de CK sin cambiar la evolución motora",
+   "Sustituyen a la vigilancia cardiológica y respiratoria"
+  ],
+  "correcta": 0,
+  "explicacion": "Iniciados hacia los 4-7 años (prednisona 0,75 mg/kg/d o deflazacort 0,9 mg/kg/d), prolongan la deambulación, preservan fuerza en extremidades superiores, reducen la escoliosis y aportan beneficio cardiopulmonar, y se emplean en todos los pacientes con independencia de la mutación. Lo que sí depende de la mutación son las terapias dirigidas, como ataluren o el salto de exón.",
+  "fuente": "Cap. 84. Distrofias musculares y miopatías congénitas"
+ },
+ {
+  "id": "nms-059",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Qué diferencia genética separa a la distrofia miotónica tipo 2 de la tipo 1?",
+  "opciones": [
+   "Una expansión CCTG en CNBP, sin forma congénita ni anticipación",
+   "Una expansión CTG en DMPK, con anticipación por rama paterna",
+   "Una deleción del macrosatélite D4Z4 en el cromosoma 4",
+   "Una expansión GCN en PABPN1, de herencia recesiva"
+  ],
+  "correcta": 0,
+  "explicacion": "La DM2 se debe al cuatriplete CCTG en el intrón 1 de CNBP (ZNF9, cromosoma 3), no tiene forma congénita y no muestra anticipación, a diferencia de la DM1, causada por la expansión CTG en DMPK con anticipación por rama materna. La DM2 debuta unos 10 años más tarde, con debilidad proximal leve, mialgias frecuentes y esperanza de vida normal.",
+  "fuente": "Cap. 84. Distrofias musculares y miopatías congénitas"
+ },
+ {
+  "id": "nms-060",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Cuál es la causa de muerte más frecuente en la distrofia miotónica tipo 1?",
+  "opciones": [
+   "El fallo respiratorio, seguido de los trastornos del ritmo cardíaco",
+   "Los trastornos del ritmo cardíaco, seguidos del fallo respiratorio",
+   "Las neoplasias, sobre todo melanoma y cáncer de tiroides",
+   "Las complicaciones de la disfagia y la broncoaspiración"
+  ],
+  "correcta": 0,
+  "explicacion": "El orden importa: primero el fallo respiratorio y después las arritmias, aunque muchos pacientes acaban precisando marcapasos por bloqueos de conducción. El seguimiento incluye ECG anual, ecocardiograma cada 3-5 años y vigilancia respiratoria, y para la miotonía sintomática se usa mexiletina si no hay contraindicación cardiológica.",
+  "fuente": "Cap. 84. Distrofias musculares y miopatías congénitas"
+ },
+ {
+  "id": "nms-061",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Qué mecanismo comparten las dos formas genéticas de distrofia facioescapulohumeral?",
+  "opciones": [
+   "La pérdida de la represión epigenética del gen DUX4 y su consecuente expresión",
+   "La producción de un mRNA tóxico que secuestra proteínas del splicing",
+   "El déficit de una proteína del complejo distrofina-glicoproteínas",
+   "La acumulación intranuclear de inclusiones tubulofilamentosas"
+  ],
+  "correcta": 0,
+  "explicacion": "La FSH1 (95 %) reduce las repeticiones D4Z4 por debajo de 10 y abre la cromatina; la FSH2 combina un número intermedio de repeticiones (11-30) con una variante en un modificador de la cromatina como SMCHD1. Ambas convergen en la expresión de DUX4, normalmente silenciado y tóxico para el músculo.",
+  "fuente": "Cap. 84. Distrofias musculares y miopatías congénitas"
+ },
+ {
+  "id": "nms-062",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Qué distrofia debuta en la quinta o sexta década con ptosis y disfagia lentamente progresivas?",
+  "opciones": [
+   "La distrofia oculofaríngea, por expansión GCN en PABPN1",
+   "La distrofia de Emery-Dreifuss, por mutaciones en emerina",
+   "La distrofia facioescapulohumeral de inicio tardío",
+   "La distrofia miotónica tipo 2 en su forma oligosintomática"
+  ],
+  "correcta": 0,
+  "explicacion": "La oculofaríngea cursa con ptosis y disfagia progresivas y, más tarde, debilidad proximal de miembros inferiores; su biopsia muestra vacuolas ribeteadas e inclusiones tubulofilamentosas intranucleares. Es habitualmente autosómica dominante y a veces requiere gastrostomía por riesgo de aspiración.",
+  "fuente": "Cap. 84. Distrofias musculares y miopatías congénitas"
+ },
+ {
+  "id": "nms-063",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Qué rasgo diferencia la paramiotonía congénita de la miotonía congénita?",
+  "opciones": [
+   "La miotonía empeora con el ejercicio, en lugar de mejorar con él",
+   "La miotonía predomina en las piernas en lugar de en la cara",
+   "Se debe a una pérdida de función del canal de cloro",
+   "Nunca se acompaña de episodios de debilidad transitoria"
+  ],
+  "correcta": 0,
+  "explicacion": "La paramiotonía (SCN4A, ganancia de función) muestra miotonía paradójica que empeora con el ejercicio y predomina en la cara, con episodios de debilidad de horas tras el esfuerzo. La miotonía congénita (CLCN1, pérdida de función) predomina en piernas y mejora con el ejercicio repetido, el fenómeno de warm-up.",
+  "teoria": "miotonias-paralisis",
+  "fuente": "Cap. 84. Distrofias musculares y miopatías congénitas"
+ },
+ {
+  "id": "nms-064",
+  "tema": "Neuromuscular",
+  "subtema": "Distrofias y miopatías congénitas",
+  "enunciado": "¿Qué caracteriza a la parálisis periódica hipopotasémica frente a la hiperpotasémica?",
+  "opciones": [
+   "Se debe sobre todo a mutaciones en CACNA1S y se desencadena con comidas ricas en carbohidratos",
+   "Se debe a mutaciones en KCNJ2 y asocia dismorfismos y arritmias ventriculares",
+   "Los episodios duran 1-4 horas y se desencadenan con dietas ricas en potasio",
+   "Debuta antes de los 10 años y se acompaña siempre de miotonía o paramiotonía"
+  ],
+  "correcta": 0,
+  "explicacion": "La hipoPP es la más frecuente, se debe en el 80 % a CACNA1S (canal de calcio) y en el 10 % a SCN4A, debuta entre los 5 y 35 años, cursa con potasio ictal inferior a 2,5 mEq/L y se desencadena con carbohidratos, alcohol o el reposo tras el ejercicio. El perfil de KCNJ2 con dismorfismos y cardiopatía corresponde al síndrome de Andersen-Tawil.",
+  "teoria": "miotonias-paralisis",
+  "fuente": "Cap. 84. Distrofias musculares y miopatías congénitas"
+ },
+ {
+  "id": "nms-065",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías metabólicas y mitocondriales",
+  "enunciado": "¿En qué consiste el fenómeno de second wind de la enfermedad de McArdle?",
+  "opciones": [
+   "En la mejoría de los síntomas tras reposar o bajar la intensidad, que permite reanudar la actividad a los pocos minutos",
+   "En el empeoramiento progresivo de los calambres conforme se prolonga el ejercicio aeróbico",
+   "En la aparición de pigmenturia varias horas después de terminar el ejercicio",
+   "En la desaparición de los síntomas cuando el paciente hace ejercicio en ayunas"
+  ],
+  "correcta": 0,
+  "explicacion": "Al reposar o aflojar el ritmo, el músculo pasa a usar otros sustratos (glucosa circulante y ácidos grasos) y el paciente puede seguir. No ocurre en la enfermedad de Tauri, porque el bloqueo está en la glucólisis y aportar glucosa no lo salva; en esa enfermedad, además, los carbohidratos antes del ejercicio empeoran los síntomas.",
+  "fuente": "Cap. 85. Miopatías metabólicas y mitocondriales"
+ },
+ {
+  "id": "nms-066",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías metabólicas y mitocondriales",
+  "enunciado": "¿Qué resultado del test de esfuerzo no isquémico en antebrazo sugiere una glucogenosis?",
+  "opciones": [
+   "Elevación del amonio sin elevación del lactato",
+   "Elevación del lactato sin elevación del amonio",
+   "Elevación de ambos por encima del triple de los niveles basales",
+   "Ausencia de elevación tanto del lactato como del amonio"
+  ],
+  "correcta": 0,
+  "explicacion": "El bloqueo de la glucogenólisis impide el pico de lactato, mientras que el amonio sí sube; en una persona sana ambos se triplican. Se prefiere la versión no isquémica porque reduce el riesgo de rabdomiólisis y de síndrome compartimental. En el déficit de CPT2 este test suele ser normal.",
+  "fuente": "Cap. 85. Miopatías metabólicas y mitocondriales"
+ },
+ {
+  "id": "nms-067",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías metabólicas y mitocondriales",
+  "enunciado": "¿Cuál es la causa más frecuente de rabdomiólisis y mioglobinuria de repetición en la edad adulta?",
+  "opciones": [
+   "El déficit de carnitina palmitoiltransferasa 2",
+   "La enfermedad de McArdle",
+   "La enfermedad de Pompe de inicio tardío",
+   "El déficit primario de carnitina"
+  ],
+  "correcta": 0,
+  "explicacion": "El déficit de CPT2, autosómico recesivo y con prevalencia aproximada de 1/250 000, produce mialgias y rabdomiólisis tras ejercicio de baja intensidad pero prolongado, sobre todo con ayuno o fiebre; a diferencia de las glucogenosis, estos pacientes toleran bien los esfuerzos cortos e intensos. Las acilcarnitinas acumuladas son de cadena larga.",
+  "fuente": "Cap. 85. Miopatías metabólicas y mitocondriales"
+ },
+ {
+  "id": "nms-068",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías metabólicas y mitocondriales",
+  "enunciado": "¿Qué fármaco está contraindicado en pacientes con mutaciones en POLG?",
+  "opciones": [
+   "El ácido valproico",
+   "La riboflavina",
+   "El coenzima Q10",
+   "La creatina"
+  ],
+  "correcta": 0,
+  "explicacion": "El valproico está contraindicado en las mutaciones de POLG por su hepatotoxicidad en este contexto. Coenzima Q10, creatina o riboflavina se usan en algunos centros como tratamiento sintomático de las miopatías mitocondriales, aunque su eficacia no está demostrada; la riboflavina sí ha mostrado beneficio en el déficit de MADD por mutaciones en ETFDH.",
+  "fuente": "Cap. 85. Miopatías metabólicas y mitocondriales"
+ },
+ {
+  "id": "nms-069",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías inflamatorias y tóxicas",
+  "enunciado": "¿Qué patrón de debilidad es característico de la miopatía por cuerpos de inclusión esporádica?",
+  "opciones": [
+   "Debilidad asimétrica de flexores profundos de los dedos, cuádriceps y dorsiflexores del tobillo",
+   "Debilidad simétrica de cinturas con exantema heliotropo asociado",
+   "Debilidad proximal con elevación excepcional de enzimas musculares y biopsia necrotizante",
+   "Debilidad facial y periescapular asimétrica con escápula alada"
+  ],
+  "correcta": 0,
+  "explicacion": "Es la única de las miopatías inflamatorias con predominio distal y asimétrico, más frecuente en varones y por encima de los 50 años, con disfagia frecuente y curso lento. En la resonancia es típica la afectación de vastos lateral y medial con respeto del recto femoral, y las terapias inmunitarias no han demostrado beneficio.",
+  "teoria": "miopatias-inflamatorias",
+  "fuente": "Cap. 86. Miopatías infecciosas, tóxicas, inmunomediadas y paraneoplásicas"
+ },
+ {
+  "id": "nms-070",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías inflamatorias y tóxicas",
+  "enunciado": "¿En qué miopatías inflamatorias debe hacerse cribado de neoplasia en mayores de 40 años?",
+  "opciones": [
+   "En la dermatomiositis y en la miopatía necrotizante inmunomediada seronegativa o con anti-HMGCR",
+   "Solo en la miopatía por cuerpos de inclusión, por su edad de presentación",
+   "En la dermatomiositis amiopática, pero no en la que cursa con debilidad",
+   "En el síndrome antisintetasa con anti-Jo-1, por su afectación pulmonar"
+  ],
+  "correcta": 0,
+  "explicacion": "El cribado se recomienda en la dermatomiositis, sobre todo con anti-TIF-1-γ y anti-NXP-2, y en la miopatía necrotizante seronegativa o con anti-HMGCR, con independencia de que haya habido exposición a estatinas. La mayoría de las neoplasias aparecen en los tres primeros años, que es el periodo de seguimiento propuesto.",
+  "teoria": "miopatias-inflamatorias",
+  "fuente": "Cap. 86. Miopatías infecciosas, tóxicas, inmunomediadas y paraneoplásicas"
+ },
+ {
+  "id": "nms-071",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías inflamatorias y tóxicas",
+  "enunciado": "¿Qué perfil analítico y electromiográfico tiene la miopatía esteroidea?",
+  "opciones": [
+   "CK normal y EMG normal, con atrofia de fibras tipo 2 si se biopsia",
+   "CK muy elevada y EMG irritativo, con fibras necróticas en la biopsia",
+   "CK normal y EMG con descargas miotónicas difusas",
+   "CK levemente elevada y EMG con patrón neurógeno crónico"
+  ],
+  "correcta": 0,
+  "explicacion": "Es una de las claves para distinguirla de una miopatía inflamatoria: la CK no suele elevarse y el EMG es normal, y la biopsia, raramente necesaria, mostraría atrofia de fibras tipo 2. Aparece sobre todo con uso prolongado por encima del equivalente a 30 mg/día de prednisona y mejora al bajar la dosis.",
+  "fuente": "Cap. 86. Miopatías infecciosas, tóxicas, inmunomediadas y paraneoplásicas"
+ },
+ {
+  "id": "nms-072",
+  "tema": "Neuromuscular",
+  "subtema": "Miopatías inflamatorias y tóxicas",
+  "enunciado": "¿Qué inmunosupresor debe evitarse en el síndrome antisintetasa?",
+  "opciones": [
+   "El metotrexato, porque puede exacerbar la enfermedad pulmonar intersticial",
+   "El tacrolimus, por su nefrotoxicidad en pacientes con Raynaud",
+   "La ciclofosfamida, por empeorar las lesiones cutáneas",
+   "El micofenolato de mofetilo, por su interacción con los corticoides"
+  ],
+  "correcta": 0,
+  "explicacion": "En estos pacientes se prefiere combinar corticoides con tacrolimus o ciclofosfamida, precisamente por el riesgo de que el metotrexato agrave la afectación pulmonar. El síndrome antisintetasa es la forma más representativa de miositis overlap, con miopatía proximal, artritis, Raynaud, fiebre y manos de mecánico.",
+  "teoria": "miopatias-inflamatorias",
+  "fuente": "Cap. 86. Miopatías infecciosas, tóxicas, inmunomediadas y paraneoplásicas"
+ }
+]

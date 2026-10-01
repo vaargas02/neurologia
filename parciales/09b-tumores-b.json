@@ -1,0 +1,262 @@
+[
+  {
+    "id": "tum-013",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "¿Qué tres tumores sistémicos originan alrededor del 75 % de las metástasis cerebrales?",
+    "opciones": [
+      "Pulmón, mama y melanoma",
+      "Pulmón, colon y próstata",
+      "Mama, riñón y tiroides",
+      "Melanoma, linfoma y sarcoma"
+    ],
+    "correcta": 0,
+    "explicacion": "Las metástasis son el tumor cerebral más frecuente y aparecen en el 10-30 % de los pacientes con cáncer. En hasta un 15 % de los casos el primario permanece desconocido; el carcinoma renal metastatiza con frecuencia, pero no entra en ese 75 %.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-014",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "Un glioma difuso sin mutación de IDH1 ni IDH2 y con amplificación de EGFR, pero sin necrosis ni proliferación microvascular, ¿cómo se clasifica?",
+    "opciones": [
+      "Como glioblastoma",
+      "Como astrocitoma grado 3",
+      "Como oligodendroglioma grado 3",
+      "Como glioma difuso de línea media"
+    ],
+    "correcta": 0,
+    "explicacion": "Desde la clasificación histo-molecular, un glioma difuso IDH-nativo con mutación del promotor de TERT, amplificación de EGFR o ganancia del 7 con pérdida del 10 se diagnostica como glioblastoma aunque falten los rasgos histológicos de grado 4. El oligodendroglioma exige mutación de IDH y codeleción 1p19q.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-015",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "En un astrocitoma con mutación de IDH, ¿qué alteración permite reclasificarlo como grado 4 sin criterios histológicos de malignidad?",
+    "opciones": [
+      "La pérdida homocigótica de CDKN2A o CDKN2B",
+      "La mutación de ATRX",
+      "La metilación del promotor de MGMT",
+      "La codeleción 1p19q"
+    ],
+    "correcta": 0,
+    "explicacion": "La pérdida homocigótica de CDKN2A/B basta para asignar grado 4 aunque no haya necrosis ni neoangiogénesis. La mutación de ATRX distingue al astrocitoma del oligodendroglioma, y la metilación de MGMT carece de valor diagnóstico.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-016",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "¿Qué implica la metilación del promotor del gen MGMT en un glioblastoma?",
+    "opciones": [
+      "Mayor sensibilidad a la temozolomida y mejor pronóstico",
+      "Resistencia a los agentes alquilantes y peor pronóstico",
+      "Indicación de tratamiento con bevacizumab de inicio",
+      "Reclasificación del tumor como astrocitoma IDH-mutado"
+    ],
+    "correcta": 0,
+    "explicacion": "MGMT codifica una enzima reparadora del ADN: al silenciarse su transcripción, la célula tumoral repara peor el daño de los alquilantes. Está presente en torno al 45 % de los glioblastomas y también se asocia a mayor frecuencia de pseudoprogresión.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-017",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "Tras la resección de un glioblastoma IDH-nativo en un paciente con buen estado funcional, ¿cuál es el esquema estándar?",
+    "opciones": [
+      "60 Gy en 30 fracciones con temozolomida concomitante y después 6 ciclos adyuvantes",
+      "40 Gy en 15 fracciones seguidos de temozolomida en monoterapia",
+      "Radioterapia de 54 Gy seguida de 6 ciclos de PCV",
+      "Metotrexato a dosis altas seguido de trasplante autólogo"
+    ],
+    "correcta": 0,
+    "explicacion": "La radioterapia se inicia 3-6 semanas tras la cirugía, con temozolomida 75 mg/m² al día concomitante y 150-200 mg/m² durante 5 días cada 28 en la fase adyuvante. El esquema abreviado de 40 Gy se reserva a pacientes frágiles o muy ancianos, y el PCV al oligodendroglioma.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-018",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "¿Por qué conviene evitar los corticoides antes de biopsiar una lesión sospechosa de linfoma cerebral primario?",
+    "opciones": [
+      "Porque su efecto oncolítico puede hacer desaparecer transitoriamente el tumor",
+      "Porque aumentan el riesgo hemorrágico del procedimiento",
+      "Porque interfieren con la detección de MYD88 en el LCR",
+      "Porque reducen la captación de contraste y dificultan la planificación estereotáxica"
+    ],
+    "correcta": 0,
+    "explicacion": "Los corticoides pueden borrar la lesión y dejar la biopsia sin rentabilidad diagnóstica, impidiendo la confirmación histopatológica. El linfoma cerebral primario es potencialmente curable con metotrexato a dosis altas, por lo que confirmar el diagnóstico es prioritario.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-019",
+    "tema": "Tumores",
+    "subtema": "Tumores del SNC",
+    "enunciado": "En la espectroscopia por RM de un tumor cerebral, ¿qué refleja el índice colina/NAA?",
+    "opciones": [
+      "La agresividad del tumor",
+      "El grado de necrosis intratumoral",
+      "La densidad vascular y la angiogénesis",
+      "La extensión del componente infiltrante no captante"
+    ],
+    "correcta": 0,
+    "explicacion": "El descenso del N-acetilaspartato traduce daño neuronal y el aumento de colina, proliferación celular, de modo que el índice es tanto mayor cuanto más agresivo es el tumor. La necrosis o hipoxia se reconocen por el pico de lípidos o lactato, y la angiogénesis por las secuencias de perfusión.",
+    "fuente": "Cap. 54. Tumores del SNC"
+  },
+  {
+    "id": "tum-020",
+    "tema": "Tumores",
+    "subtema": "Síndromes paraneoplásicos",
+    "enunciado": "Según los criterios de 2021, ¿qué combinación permite un diagnóstico de síndrome neurológico paraneoplásico definitivo?",
+    "opciones": [
+      "Síndrome de riesgo alto o intermedio, anticuerpo de riesgo alto o intermedio y cáncer",
+      "Cualquier síndrome neurológico con anticuerpos onconeurales, aunque no se halle el tumor",
+      "Un síndrome clásico con cáncer diagnosticado en los cinco años siguientes",
+      "Un síndrome de cualquier tipo que mejore tras tratar el tumor"
+    ],
+    "correcta": 0,
+    "explicacion": "Los criterios actuales puntúan el síndrome, el anticuerpo, la consistencia con el tumor hallado y la exclusión de otras causas: con 8 o más puntos el diagnóstico es definitivo. Las otras opciones corresponden a los criterios antiguos de 2004, que se sustituyeron por sus limitaciones.",
+    "fuente": "Cap. 55. Síndromes neurológicos paraneoplásicos"
+  },
+  {
+    "id": "tum-021",
+    "tema": "Tumores",
+    "subtema": "Síndromes paraneoplásicos",
+    "enunciado": "¿Qué síndrome se considera paraneoplásico definitivo aun sin anticuerpo neuronal identificado?",
+    "opciones": [
+      "El opsoclono-mioclono con neuroblastoma o carcinoma microcítico de pulmón",
+      "La encefalitis límbica con RM temporal medial bilateral",
+      "La neuronopatía sensitiva con neurografía compatible",
+      "La degeneración cerebelosa subaguda con atrofia en la RM"
+    ],
+    "correcta": 0,
+    "explicacion": "Es la excepción reconocida en los criterios, porque en el opsoclono-mioclono no se han identificado anticuerpos asociados salvo el anti-Ri en mujeres con cáncer de mama. En el resto de síndromes la puntuación exige un anticuerpo de riesgo alto o intermedio para alcanzar el diagnóstico definitivo.",
+    "fuente": "Cap. 55. Síndromes neurológicos paraneoplásicos"
+  },
+  {
+    "id": "tum-022",
+    "tema": "Tumores",
+    "subtema": "Síndromes paraneoplásicos",
+    "enunciado": "¿Con qué tumor se asocia el anticuerpo anti-Tr (DNER)?",
+    "opciones": [
+      "Con el linfoma de Hodgkin",
+      "Con el carcinoma microcítico de pulmón",
+      "Con el cáncer de ovario",
+      "Con el seminoma testicular"
+    ],
+    "correcta": 0,
+    "explicacion": "El anti-Tr se asocia al linfoma de Hodgkin en el 100 % de los casos y produce degeneración cerebelosa paraneoplásica. Es además una excepción entre los anticuerpos onconeurales por reconocer un antígeno de superficie, lo que explica que responda mejor a la inmunoterapia que el anti-Yo o el anti-Hu.",
+    "teoria": "encefalitis-autoinmune",
+    "fuente": "Cap. 55. Síndromes neurológicos paraneoplásicos"
+  },
+  {
+    "id": "tum-023",
+    "tema": "Tumores",
+    "subtema": "Síndromes paraneoplásicos",
+    "enunciado": "Un anti-Yo positivo únicamente por inmunoblot comercial, ¿cómo debe interpretarse?",
+    "opciones": [
+      "Requiere confirmación por inmunohistoquímica antes de asumir el diagnóstico",
+      "Es suficiente para iniciar la búsqueda dirigida de un tumor ginecológico",
+      "Debe descartarse siempre, porque el anti-Yo no se asocia a síndromes paraneoplásicos",
+      "Solo es válido si se acompaña de positividad en el LCR"
+    ],
+    "correcta": 0,
+    "explicacion": "El anti-Yo y el anti-SOX1 son los que más resultados discordantes dan: un positivo solo por inmunoblot no se asocia ni a cáncer ni a síndrome paraneoplásico. El anti-ZIC4 y el anti-recoverina positivos no deben tenerse en cuenta, y para el resto de anticuerpos una sola técnica se considera válida.",
+    "fuente": "Cap. 55. Síndromes neurológicos paraneoplásicos"
+  },
+  {
+    "id": "tum-024",
+    "tema": "Tumores",
+    "subtema": "Síndromes paraneoplásicos",
+    "enunciado": "Si el cribado tumoral inicial resulta negativo en un paciente con sospecha de síndrome paraneoplásico, ¿cómo debe seguirse?",
+    "opciones": [
+      "Reevaluando cada 4-6 meses durante al menos 2 años",
+      "Repitiendo el estudio una única vez al año",
+      "Repitiendo el cribado cada 6 meses durante 4 años",
+      "Dando el estudio por concluido si la PET/TC fue normal"
+    ],
+    "correcta": 0,
+    "explicacion": "La PET/TC tiene un 19 % de falsos negativos y no detecta tumores muy pequeños. El consenso actual acorta a 2 años el periodo que la EFNS fijaba en 4, porque la gran mayoría de los tumores se diagnostican dentro de los dos primeros años.",
+    "fuente": "Cap. 55. Síndromes neurológicos paraneoplásicos"
+  },
+  {
+    "id": "tum-025",
+    "tema": "Tumores",
+    "subtema": "Encefalitis autoinmunes",
+    "enunciado": "¿Qué exigen los criterios de encefalitis anti-NMDAR probable?",
+    "opciones": [
+      "Al menos 4 de los 6 grupos de síntomas cardinales más EEG anormal o LCR con pleocitosis o bandas oligoclonales",
+      "Al menos 2 de los 6 grupos de síntomas junto con una RM temporal medial bilateral",
+      "Anticuerpos anti-GluN1 en suero confirmados por dos técnicas",
+      "Un cuadro psiquiátrico subagudo con teratoma ovárico demostrado"
+    ],
+    "correcta": 0,
+    "explicacion": "Los seis grupos son alteración conductual o cognitiva, del lenguaje, crisis, trastorno del movimiento, disminución del nivel de conciencia y disautonomía o hipoventilación central, y hay que excluir razonablemente otras causas. Este nivel probable basta para iniciar inmunoterapia empírica sin esperar los anticuerpos; el diagnóstico definitivo exige anti-GluN1, preferentemente en LCR.",
+    "teoria": "encefalitis-autoinmune",
+    "fuente": "Cap. 56. Encefalitis autoinmunes"
+  },
+  {
+    "id": "tum-026",
+    "tema": "Tumores",
+    "subtema": "Encefalitis autoinmunes",
+    "enunciado": "¿Qué dos rasgos precoces son característicos de la encefalitis por anticuerpos anti-LGI1?",
+    "opciones": [
+      "Las crisis distónicas faciobraquiales y la hiponatremia",
+      "Las discinesias orofaciales y la hipoventilación central",
+      "La neuromiotonía y la agrypnia excitata",
+      "El estridor nocturno y las apneas del sueño"
+    ],
+    "correcta": 0,
+    "explicacion": "Las crisis faciobraquiales aparecen en el 40 % y la hiponatremia en el 60 % al inicio de la enfermedad, que afecta a una media de 60 años y con ligero predominio masculino. La neuromiotonía con agrypnia excitata define el síndrome de Morvan (CASPR2) y el estridor con apneas, la enfermedad anti-IgLON5.",
+    "teoria": "encefalitis-autoinmune",
+    "fuente": "Cap. 56. Encefalitis autoinmunes"
+  },
+  {
+    "id": "tum-027",
+    "tema": "Tumores",
+    "subtema": "Encefalitis autoinmunes",
+    "enunciado": "¿En qué consiste el patrón de EEG denominado extreme delta brush?",
+    "opciones": [
+      "En actividad delta rítmica difusa con actividad beta superpuesta, persistente y no modulable",
+      "En complejos periódicos de ondas agudas de alto voltaje a 1-2 Hz",
+      "En descargas periódicas lateralizadas de predominio temporal",
+      "En brotes de puntas generalizadas seguidos de atenuación del trazado"
+    ],
+    "correcta": 0,
+    "explicacion": "Se observa en menos de un tercio de los pacientes con encefalitis anti-NMDAR, pero es muy característico y no se modifica con los cambios de alerta. Los complejos periódicos a 1-2 Hz orientan a enfermedad de Creutzfeldt-Jakob y las descargas lateralizadas temporales, a encefalitis herpética.",
+    "teoria": "encefalitis-autoinmune",
+    "fuente": "Cap. 56. Encefalitis autoinmunes"
+  },
+  {
+    "id": "tum-028",
+    "tema": "Tumores",
+    "subtema": "Encefalitis autoinmunes",
+    "enunciado": "Tras una encefalitis por virus herpes simple, ¿en qué proporción de pacientes y en qué plazo se desarrolla una encefalitis autoinmune?",
+    "opciones": [
+      "En torno al 25 %, habitualmente a las 3-4 semanas",
+      "En torno al 60 %, en los primeros 7 días",
+      "En menos del 5 %, pasados varios meses",
+      "En torno al 40 %, coincidiendo con la fase aguda"
+    ],
+    "correcta": 0,
+    "explicacion": "La infección vírica actúa como desencadenante inmunológico y el cuadro aparece cuando la encefalitis herpética ya se ha resuelto, lo que obliga a distinguirlo de una recidiva infecciosa. Suele asociarse a anticuerpos anti-NMDAR.",
+    "teoria": "encefalitis-autoinmune",
+    "fuente": "Cap. 56. Encefalitis autoinmunes"
+  },
+  {
+    "id": "tum-029",
+    "tema": "Tumores",
+    "subtema": "Encefalitis autoinmunes",
+    "enunciado": "¿Qué dato es criterio obligatorio para el diagnóstico de encefalomielitis aguda diseminada?",
+    "opciones": [
+      "La encefalopatía no explicada por fiebre",
+      "La positividad de los anticuerpos anti-MOG",
+      "La presencia de bandas oligoclonales en el LCR",
+      "La afectación simultánea de tálamo y ganglios basales"
+    ],
+    "correcta": 0,
+    "explicacion": "La ADEM exige un primer episodio multifocal con encefalopatía, RM con lesiones difusas y voluminosas, ausencia de nuevos hallazgos a los 3 meses y exclusión de otras causas. Los anti-MOG aparecen en el 60 % de los niños pero no son imprescindibles, y las bandas oligoclonales son infrecuentes, en menos del 7 % de los casos.",
+    "fuente": "Cap. 56. Encefalitis autoinmunes"
+  }
+]
